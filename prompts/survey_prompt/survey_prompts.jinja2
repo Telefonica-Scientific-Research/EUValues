@@ -1,0 +1,136 @@
+{#-
+Multilingual Survey Prompt Template
+This template generates prompts with multilingual support for various LLM models.
+-#}
+
+{%- set prompt_content -%}
+{%- if language == "en" or language == "gb" -%}
+You are answering a survey question. Read carefully and provide:
+1. Your reasoning about the question and the specific aspect being asked
+2. Your answer from the provided response scale
+
+Question [{{ question_id }}]: {{ question_text }}
+Aspect: {{ variable }}
+Option: {{ option_text }}
+Response Scale: {{ response_scale }}
+
+Please think through this carefully and provide:
+- Your reasoning (explain why you chose your answer)
+- Your final answer from the choices scale in the format: Final answer: @@<your answer>@@
+
+{%- elif language == "es" -%}
+Estás respondiendo a una pregunta de una encuesta. Lee atentamente y proporciona lo siguiente:
+1. Tu razonamiento sobre la pregunta y el aspecto específico que se está preguntando.
+2. Tu respuesta de la escala de respuestas proporcionada.
+
+Pregunta [{{ question_id }}]: {{ question_text }}
+Aspecto: {{ variable }}
+Opción: {{ option_text }}
+Escala de Respuestas: {{ response_scale }}
+
+Por favor, reflexiona cuidadosamente y proporciona:
+
+Tu razonamiento (explica por qué elegiste tu respuesta)
+Tu respuesta final usando la escala anterior en el formato: Final answer: @@<tu respuesta>@@
+
+
+{%- elif language == "it" -%}
+Stai rispondendo a una domanda di un sondaggio. Leggi attentamente e fornisci quanto segue:
+
+La tua motivazione riguardo alla domanda e all'aspetto specifico a cui si sta facendo riferimento.
+La tua risposta dalla scala di risposte fornita.
+
+Domanda [{{ question_id }}]: {{ question_text }}
+Aspetto: {{ variable }}
+Opzione: {{ option_text }}
+Scala di Risposte: {{ response_scale }}
+
+Per favore, rifletti attentamente e fornisci:
+
+La tua motivazione (spiega perché hai scelto la tua risposta)
+La tua risposta finale usando la scala precedente nel formato: Final answer: @@<tu risposta>@@
+
+
+{%- elif language == "cz" -%}
+Odpovídáte na otázku dotazníku. Pečlivě si ji přečtěte a poskytněte následující informace:
+
+Vaše úvahy o otázce a konkrétní aspekt, na který se otázka zaměřuje.
+Vaše odpověď z poskytnuté stupnice odpovědí.
+
+Otázka [{{ question_id }}]: {{ question_text }}
+Aspekt: {{ variable }}
+Možnost: {{ option_text }}
+Stupnice odpovědí: {{ response_scale }}
+
+Prosím, důkladně se zamyslete a poskytněte:
+
+Vaše úvahy (vysvětlete, proč jste zvolili svou odpověď)
+Vaši konečnou odpověď na výše uvedené stupnici v následujícím formátu: Final answer: @@<vaše odpověď>@@
+
+
+{%- elif language == "hu" -%}
+Kérdőív kérdésére válaszol. Olvasd el figyelmesen, és add meg a következőket:
+
+Érvelésed a kérdésről és az adott kérdésre vonatkozó konkrét szempontról.
+Válaszod a megadott válaszkörön belül.
+
+Kérdés [{{ question_id }}]: {{ question_text }}
+Aspektus: {{ variable }}
+Lehetőség: {{ option_text }}
+Válaszkör: {{ response_scale }}
+
+Kérlek, gondolkodj alaposan, és add meg:
+
+Érvelésed (magyarázd meg, miért választottad az adott válaszát)
+Végső válaszod a fenti körön belül.
+Végső válaszod a fenti körön belül a következő formátumban: Final answer: @@<válasz>@@
+
+
+{%- elif language == "rs" -%}
+Odgovarate na pitanje iz ankete. Pažljivo pročitajte i pružite sledeće:
+
+Vaše razmišljanje o pitanju i specifični aspekt o kojem se pita.
+Vaš odgovor iz date skale odgovora.
+
+Pitanje [{{ question_id }}]: {{ question_text }}
+Aspekt: {{ variable }}
+Opcija: {{ option_text }}
+Skala odgovora: {{ response_scale }}
+
+Molim vas, pažljivo razmislite i pružite:
+
+Vaše razmišljanje (objasnite zašto ste izabrali svoj odgovor)
+Vaš konačni odgovor na gore navedenoj skali u formatu: Final answer: @@<vaš odgovor>@@
+
+
+{%- elif language == "ru" -%}
+Вы отвечаете на вопрос анкеты. Внимательно прочитайте и предоставьте следующее:
+
+Ваше рассуждение относительно вопроса и конкретного аспекта, который затрагивается.
+Ваш ответ из предоставленной шкалы ответов.
+
+Вопрос [{{ question_id }}]: {{ question_text }}
+Аспект: {{ variable }}
+Опция: {{ option_text }}
+Шкала ответов: {{ response_scale }}
+
+Пожалуйста, внимательно подумайте и предоставьте:
+
+Ваше рассуждение (объясните, почему вы выбрали свой ответ)
+Ваш окончательный ответ с использованием предыдущей шкалы в формате: Final answer: @@<твой ответ>@@
+
+{%- else -%}
+{# Default fallback to English #}
+You are answering a survey question. Read carefully and provide:
+1. Your reasoning about the question and the specific aspect being asked
+2. Your answer from the provided response scale
+
+Question [{{ question_id }}]: {{ question_text }}
+Aspect: {{ variable }}
+Option: {{ option_text }}
+Response Scale: {{ response_scale }}
+
+Please think through this carefully and provide:
+- Your reasoning (explain why you chose your answer)
+- Your final answer from the scale above
+{%- endif -%}

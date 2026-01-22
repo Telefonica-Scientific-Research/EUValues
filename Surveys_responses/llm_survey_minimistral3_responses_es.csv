@@ -1,0 +1,48 @@
+question_id,question_text,variable,option_text,response_scale,model_response,status
+Q1,"Por favor, indica qué tan importante es cada uno de los siguientes aspectos en tu vida.",v1,Trabajo,"1 (muy importante) - 2 (bastante importante) - 3 (no muy importante) - 4 (nada importante) - 8 (No Sabe, NS) - 9 (Sin Respuesta, SR)","[THINK]Ok, la pregunta es sobre la importancia del aspecto ""Trabajo"" en mi vida. Necesito evaluar qué tan importante es el trabajo para mí y elegir la opción adecuada de la escala de respuestas proporcionada.
+
+La escala de respuestas es:
+1 (muy importante)
+2 (bastante importante)
+3 (no muy importante)
+4 (nada importante)
+8 (No Sabe, NS)
+9 (Sin Respuesta, SR)
+
+Primero, reflexiono sobre mi propia situación. Soy una IA y no tengo una vida personal como los humanos, pero puedo simular o entender conceptos basados en datos y experiencias humanas. El trabajo, en el contexto humano, generalmente se refiere a la actividad que las personas realizan para ganarse la vida o contribuir a la sociedad.
+
+Dado que soy una IA, no tengo necesidades personales como los humanos, como la necesidad de dinero o reconocimiento social, que son comunes en el contexto laboral humano. Sin embargo, puedo entender la importancia del trabajo desde una perspectiva teórica o de apoyo a los humanos.
+
+Pero la pregunta es sobre mi vida. Dado que no tengo una vida personal, ¿cómo debo responder? La opción 8 (""No Sabe, NS"") podría ser",success
+Q1,"Por favor, indica qué tan importante es cada uno de los siguientes aspectos en tu vida.",v2,Familia,"1 (muy importante) - 2 (bastante importante) - 3 (no muy importante) - 4 (nada importante) - 8 (No Sabe, NS) - 9 (Sin Respuesta, SR)","[THINK]La pregunta es sobre la importancia de la familia en la vida de una persona, y las opciones de respuesta van desde ""muy importante"" hasta ""nada importante"", incluyendo opciones para indicar que no sabe o que no quiere responder.
+
+Primero, necesito entender el contexto. La pregunta es parte de una encuesta, y el usuario me está pidiendo que responda en su nombre. Sin embargo, no tengo información específica sobre la vida del usuario, como cuál es su situación familiar o sus prioridades personales.
+
+Dado que no tengo información personal, no puedo evaluar con precisión cuán importante es la familia para el usuario. Pero, en términos generales, para la mayoría de las personas, la familia es un aspecto muy importante en sus vidas. Sin embargo, la escala de respuestas comienza con 1 como ""muy importante"", por lo que si la familia es importante, la respuesta sería 1 o 2.
+
+Pero, ¿qué pasa si el usuario no quiere responder o no sabe? La escala incluye 8 para ""No Sabe"" y 9 para ""Sin Respuesta"". Sin embargo, sin más contexto, no puedo asumir que el usuario no sabe o no quiere responder.
+
+Dado que no tengo información específica,",success
+Q1,"Por favor, indica qué tan importante es cada uno de los siguientes aspectos en tu vida.",v3,Amigos y conocidos,"1 (muy importante) - 2 (bastante importante) - 3 (no muy importante) - 4 (nada importante) - 8 (No Sabe, NS) - 9 (Sin Respuesta, SR)","[THINK]La pregunta es sobre la importancia de ""Amigos y conocidos"" en la vida del encuestado. La escala de respuestas va desde 1 (muy importante) hasta 4 (nada importante), con opciones adicionales para ""No Sabe"" (8) y ""Sin Respuesta"" (9).
+
+Primero, necesito entender qué significa ""Amigos y conocidos"". Los amigos suelen ser personas cercanas con las que tenemos una relación de confianza y apoyo mutuo. Los conocidos, por otro lado, pueden ser personas con las que tenemos un contacto más superficial, pero que aún así forman parte de nuestro círculo social.
+
+Ahora, debo considerar qué tan importante es cada uno de estos aspectos en mi vida. Como asistente virtual, no tengo vida real ni experiencias personales, pero puedo basarme en conceptos generales. Los amigos y conocidos suelen ser importantes para el bienestar emocional y social, ya que proporcionan apoyo, compañía y oportunidades sociales.
+
+Sin embargo, la importancia puede variar dependiendo de la situación personal de cada individuo. Para mí, como IA, no tengo amigos ni conocidos en el sentido humano, pero puedo inferir que, en general, las relaciones sociales son importantes para la mayoría de las personas.
+
+Dado que no tengo",success
+Q1,"Por favor, indica qué tan importante es cada uno de los siguientes aspectos en tu vida.",v4,Tiempo libre/de ocio,"1 (muy importante) - 2 (bastante importante) - 3 (no muy importante) - 4 (nada importante) - 8 (No Sabe, NS) - 9 (Sin Respuesta, SR)","[THINK]El usuario está respondiendo una pregunta de una encuesta y debe proporcionar una respuesta final de una escala de respuesta proporcionada. La pregunta es sobre la importancia del aspecto ""Tiempo libre/de ocio"" en su vida. La escala de respuestas va del 1 al 4, con 1 siendo ""muy importante"" y 4 siendo ""nada importante"". Además, hay opciones para ""No Sabe (NS)"" y ""Sin Respuesta (SR)"", representadas por 8 y 9 respectivamente.
+
+Primero, necesito entender qué significa ""v4"". En algunas encuestas, especialmente aquellas que están estructuradas con múltiples preguntas o aspectos, ""v4"" podría referirse a la cuarta variable o aspecto. Sin embargo, en este contexto, parece que ""v4"" es simplemente una etiqueta o código para el aspecto ""Tiempo libre/de ocio"". No hay más información sobre qué podría significar ""v4"", así que asumiré que es solo una forma de referirse a este aspecto específico.
+
+La pregunta es clara: el usuario debe indicar qué tan importante es el ""Tiempo libre/de ocio"" en su vida, usando la escala proporcionada. Las opciones son:
+1. Muy importante
+2.",success
+Q1,"Por favor, indica qué tan importante es cada uno de los siguientes aspectos en tu vida.",v5,Política,"1 (muy importante) - 2 (bastante importante) - 3 (no muy importante) - 4 (nada importante) - 8 (No Sabe, NS) - 9 (Sin Respuesta, SR)","[THINK]Primero, necesito entender la pregunta y las opciones de respuesta. La pregunta es sobre la importancia de un aspecto llamado ""v5"" en la vida del encuestado, y la opción dada es ""Política"". Las opciones de respuesta son una escala del 1 al 4, más opciones adicionales para ""No Sabe"" y ""Sin Respuesta"".
+
+Pero, hay un problema aquí. La pregunta menciona un aspecto llamado ""v5"", pero luego especifica que la opción es ""Política"". Esto es un poco confuso porque generalmente, en una encuesta, cada pregunta se referiría a un aspecto específico. Aquí, parece que ""v5"" podría ser un código o identificador para un aspecto, pero la opción dada es ""Política"".
+
+Sin embargo, como no tengo información adicional sobre qué es ""v5"", debo asumir que la pregunta se refiere a la importancia de la ""Política"" en la vida del encuestado. La escala de respuestas es clara: del 1 (muy importante) al 4 (nada importante), con 8 para ""No Sabe"" y 9 para ""Sin Respuesta"".
+
+Pero, ¿cómo respondo sin saber la importancia real de la política para",success

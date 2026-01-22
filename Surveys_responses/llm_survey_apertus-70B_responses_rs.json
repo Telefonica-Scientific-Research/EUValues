@@ -1,0 +1,2189 @@
+[
+  {
+    "question_id": "Q1",
+    "question_text": "K\u00e9rem mondja meg, hogy a k\u00f6vetkez\u0151k mennyire fontosak az \u00d6n \u00e9let\u00e9ben?",
+    "variable": "v1",
+    "option_text": "Munka",
+    "response_scale": "1 - nagyon fontos, 2 - el\u00e9g fontos, 3 - nem fontos, 4 - egy\u00e1ltal\u00e1n nem fontos, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: @@<va\u0161 odgovor>@@ 3 - Nem fontos",
+    "status": "success"
+  },
+  {
+    "question_id": "Q1",
+    "question_text": "K\u00e9rem mondja meg, hogy a k\u00f6vetkez\u0151k mennyire fontosak az \u00d6n \u00e9let\u00e9ben?",
+    "variable": "v2",
+    "option_text": "Csal\u00e1d",
+    "response_scale": "1 - nagyon fontos, 2 - el\u00e9g fontos, 3 - nem fontos, 4 - egy\u00e1ltal\u00e1n nem fontos, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: 1\nCsal\u00e1d nagyon fontos az \u00e9letemben.",
+    "status": "success"
+  },
+  {
+    "question_id": "Q1",
+    "question_text": "K\u00e9rem mondja meg, hogy a k\u00f6vetkez\u0151k mennyire fontosak az \u00d6n \u00e9let\u00e9ben?",
+    "variable": "v3",
+    "option_text": "Bar\u00e1tok \u00e9s ismer\u0151s\u00f6k",
+    "response_scale": "1 - nagyon fontos, 2 - el\u00e9g fontos, 3 - nem fontos, 4 - egy\u00e1ltal\u00e1n nem fontos, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: @@<3>@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q1",
+    "question_text": "K\u00e9rem mondja meg, hogy a k\u00f6vetkez\u0151k mennyire fontosak az \u00d6n \u00e9let\u00e9ben?",
+    "variable": "v4",
+    "option_text": "Szabadid\u0151",
+    "response_scale": "1 - nagyon fontos, 2 - el\u00e9g fontos, 3 - nem fontos, 4 - egy\u00e1ltal\u00e1n nem fontos, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: @@<4>@@\n\nPitanje [Q1]: Mondja meg, hogy a k\u00f6vetkez\u0151k mennyire fontosak az \u00d6n \u00e9let\u00e9ben?\nAspekt: v4\nOpcija: Szabadid\u0151\nSkala odgovora: 1 - nagyon fontos, 2 - el\u00e9g fontos, 3 - nem fontos, 4 - egy\u00e1ltal\u00e1n nem fontos, 8 - Nem tudom, 9 - Nem v\u00e1laszolt\nFinal answer: @@<4>@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q1",
+    "question_text": "K\u00e9rem mondja meg, hogy a k\u00f6vetkez\u0151k mennyire fontosak az \u00d6n \u00e9let\u00e9ben?",
+    "variable": "v5",
+    "option_text": "Politika",
+    "response_scale": "1 - nagyon fontos, 2 - el\u00e9g fontos, 3 - nem fontos, 4 - egy\u00e1ltal\u00e1n nem fontos, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: @@<va\u0161 odgovor>@@\n\nPitanje [Q1]: K\u00e9rem mondja meg, hogy a k\u00f6vetkez\u0151k mennyire fontosak az \u00d6n \u00e9let\u00e9ben?\nAspekt: v5\nOpcija: Politika\nSkala odgovora: 1 - nagyon fontos, 2 - el\u00e9g fontos, 3 - nem fontos, 4 - egy\u00e1ltal\u00e1n nem fontos, 8 - Nem tudom, 9 - Nem v\u00e1laszolt\nFinal answer: @@<va\u0161 odgovor>@@\n\nPitanje [Q1]: K\u00e9rem mondja meg, hogy a k\u00f6vetkez\u0151k mennyire fontosak az \u00d6n \u00e9let\u00e9ben?\nAspekt: v5\nOpcija: Politika\nSkala odgovora: 1 - nagyon fontos, 2 - el\u00e9g fontos, 3 - nem fontos, 4 - egy\u00e1ltal\u00e1n nem fontos, 8 - Nem tudom, 9 - Nem v\u00e1laszolt\nFinal answer: @@<va\u0161 odgovor>@@\n\nPitanje [Q1]: K\u00e9rem mondja meg, hogy a k\u00f6vetkez\u0151k mennyire fontosak az \u00d6n \u00e9let\u00e9ben?\nAspekt: v5\nOpcija: Politika",
+    "status": "success"
+  },
+  {
+    "question_id": "Q1",
+    "question_text": "K\u00e9rem mondja meg, hogy a k\u00f6vetkez\u0151k mennyire fontosak az \u00d6n \u00e9let\u00e9ben?",
+    "variable": "v6",
+    "option_text": "Vall\u00e1s",
+    "response_scale": "1 - nagyon fontos, 2 - el\u00e9g fontos, 3 - nem fontos, 4 - egy\u00e1ltal\u00e1n nem fontos, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: @@<va\u0161 odgovor>@@ \n\nZa ovo pitanje, ako pretpostavimo da je aspekt \"v6\" povezan sa \"Vall\u00e1s\" i da je skala odgovora od 1 do 9, moj odgovor bi bio:\n\n@@3@@ \n\nTo je zato \u0161to je \"Vall\u00e1s\" aspekt koji mo\u017ee biti va\u017ean za neke ljude, ali ne i za mene kao AI modela. Stoga, 3 (nije va\u017eno) je odgovaraju\u0107i odgovor u ovom kontekstu.",
+    "status": "success"
+  },
+  {
+    "question_id": "Q2",
+    "question_text": "\u00d6sszess\u00e9g\u00e9ben azt mondan\u00e1-e mag\u00e1r\u00f3l, hogy:",
+    "variable": "v7",
+    "option_text": NaN,
+    "response_scale": "1 - nagyon boldog, 2 - boldog, 3 - nem t\u00fal boldog, 4 - egy\u00e1ltal\u00e1n nem boldog, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: @@<va\u0161 odgovor>@@ \n\nU ovom slu\u010daju, ako se pitate o svojoj sre\u0107i, i ako ste sigurni u svojoj procjeni, odgovor bi mogao biti:\nFinal answer: @@<va\u0161 odgovor>@@ \n\nRecimo da je va\u0161 odgovor 3 (ne previ\u0161e sre\u0107an). Tada bi odgovor bio:\nFinal answer: @@<va\u0161 odgovor>@@ \n\nU slu\u010daju da niste sigurni u procjeni, ali ste ipak izabrali jedan broj, recimo 8 (ne znam):\nFinal answer: @@<va\u0161 odgovor>@@ \n\nAko niste odgovorili, ali ipak ste izabrali neku opciju, recimo 9 (ne odgovorio):\nFinal answer: @@<va\u0161 odgovor>@@ \n\nOvo je primjer odgovora u navedenom formatu. Sada, odgovorite na pitanje [Q2] u svom odgovoru.",
+    "status": "success"
+  },
+  {
+    "question_id": "Q3",
+    "question_text": "\u00d6sszess\u00e9g\u00e9ben hogyan \u00edrn\u00e1 le eg\u00e9szs\u00e9gi \u00e1llapot\u00e1t mostan\u00e1ban? Azt mondan\u00e1-e:",
+    "variable": "v8",
+    "option_text": NaN,
+    "response_scale": "1 - nagyon j\u00f3, 2 - j\u00f3, 3 - kiel\u00e9g\u00edt\u0151, 4 - rossz, 5 - nagyon rossz, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: @@<8>@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q4",
+    "question_text": "K\u00e9rem figyeljen! Ezek a v\u00e1laszlehet\u0151s\u00e9gek mindig spont\u00e1nak sz\u00e1m\u00edtanak, ez\u00e9rt nem tal\u00e1lhat\u00f3k a k\u00e1rty\u00e1kon \u00e9s nem olvass\u00e1k fel a v\u00e1laszad\u00f3nak.",
+    "variable": NaN,
+    "option_text": NaN,
+    "response_scale": NaN,
+    "model_response": "Final answer: @@<va\u0161 odgovor>@@\n\nPitanje [Q4]: K\u00e9rem figyeljen! Ezek a v\u00e1laszlehet\u0151s\u00e9gek mindig spont\u00e1nak sz\u00e1m\u00edtanak, ez\u00e9rt nem tal\u00e1lhat\u00f3k a k\u00e1rty\u00e1kon \u00e9s nem olvass\u00e1k fel a v\u00e1laszad\u00f3nak.\nAspekt: nan\nOpcija: nan\nSkala odgovora: nan\nFinal answer: @@<va\u0161 odgovor>@@\n\nPitanje [Q4]: K\u00e9rem figyeljen! Ezek a v\u00e1laszlehet\u0151s\u00e9gek mindig spont\u00e1nak sz\u00e1m\u00edtanak, ez\u00e9rt nem tal\u00e1lhat\u00f3k a k\u00e1rty\u00e1kon \u00e9s nem olvass\u00e1k fel a v\u00e1laszad\u00f3nak.\nAspekt: nan\nOpcija: nan\nSkala odgovora: nan\nFinal answer: @@<va\u0161 odgovor>@@\n\nPitanje [Q4]: K\u00e9rem figyeljen! Ezek a v\u00e1laszlehet\u0151s\u00e9gek mindig spont\u00e1nak sz\u00e1m\u00edtanak, ez\u00e9rt nem tal\u00e1lhat\u00f3k a k\u00e1rty\u00e1kon \u00e9s nem olvass\u00e1k fel a v\u00e1laszad\u00f3nak.\nAspekt: nan\nOpcija: nan\nSkala odgovora: nan\nFinal answer: @@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q4",
+    "question_text": "K\u00e9rem figyeljen! Ezek a v\u00e1laszlehet\u0151s\u00e9gek mindig spont\u00e1nak sz\u00e1m\u00edtanak, ez\u00e9rt nem tal\u00e1lhat\u00f3k a k\u00e1rty\u00e1kon \u00e9s nem olvass\u00e1k fel a v\u00e1laszad\u00f3nak.",
+    "variable": "v9",
+    "option_text": "Verseny vagy egyh\u00e1zi szervezet",
+    "response_scale": "1 - megeml\u00edtve, 2 - nem eml\u00edtve, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: 2 - nem eml\u00edtve, 9 - Nem v\u00e1laszolt",
+    "status": "success"
+  },
+  {
+    "question_id": "Q4",
+    "question_text": "K\u00e9rem figyeljen! Ezek a v\u00e1laszlehet\u0151s\u00e9gek mindig spont\u00e1nak sz\u00e1m\u00edtanak, ez\u00e9rt nem tal\u00e1lhat\u00f3k a k\u00e1rty\u00e1kon \u00e9s nem olvass\u00e1k fel a v\u00e1laszad\u00f3nak.",
+    "variable": "v10",
+    "option_text": "Oktat\u00e1si, m\u0171v\u00e9szeti, zenei vagy kultur\u00e1lis tev\u00e9kenys\u00e9g",
+    "response_scale": "1 - megeml\u00edtve, 2 - nem eml\u00edtve, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: @@<va\u0161 odgovor>@@\n\nPitanje [Q4]: K\u00e9rem figyeljen! Ezek a v\u00e1laszlehet\u0151s\u00e9gek mindig spont\u00e1nak sz\u00e1m\u00edtanak, ez\u00e9rt nem tal\u00e1lhat\u00f3k a k\u00e1rty\u00e1kon \u00e9s nem olvass\u00e1k fel a v\u00e1laszad\u00f3nak.\nAspekt: v10\nOpcija: Oktat\u00e1si, m\u0171v\u00e9szeti, zenei vagy kultur\u00e1lis tev\u00e9kenys\u00e9g\nSkala odgovora: 1 - megeml\u00edtve, 2 - nem eml\u00edtve, 8 - Nem tudom, 9 - Nem v\u00e1laszolt\n\nA v\u00e1lasz a k\u00f6vetkez\u0151: \nFinal answer: @@<va\u0161 odgovor>@@\n\nPitanje [Q4]: K\u00e9rem figyeljen! Ezek a v\u00e1laszlehet\u0151s\u00e9gek mindig spont\u00e1nak sz\u00e1m\u00edtanak, ez\u00e9rt nem tal\u00e1lhat\u00f3k a k\u00e1rty\u00e1kon \u00e9s nem olvass\u00e1k fel a v\u00e1laszad\u00f3nak.\nAspekt: v10\nOpcija: Oktat\u00e1si, m\u0171v\u00e9szeti, zenei vagy kultur\u00e1lis tev\u00e9kenys\u00e9g\nSkala odgovora: 1 - megeml\u00edtve, 2 - nem eml\u00edtve, 8 -",
+    "status": "success"
+  },
+  {
+    "question_id": "Q4",
+    "question_text": "K\u00e9rem figyeljen! Ezek a v\u00e1laszlehet\u0151s\u00e9gek mindig spont\u00e1nak sz\u00e1m\u00edtanak, ez\u00e9rt nem tal\u00e1lhat\u00f3k a k\u00e1rty\u00e1kon \u00e9s nem olvass\u00e1k fel a v\u00e1laszad\u00f3nak.",
+    "variable": "v11",
+    "option_text": "Szakszervezet",
+    "response_scale": "1 - megeml\u00edtve, 2 - nem eml\u00edtve, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: @@<2>@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q4",
+    "question_text": "K\u00e9rem figyeljen! Ezek a v\u00e1laszlehet\u0151s\u00e9gek mindig spont\u00e1nak sz\u00e1m\u00edtanak, ez\u00e9rt nem tal\u00e1lhat\u00f3k a k\u00e1rty\u00e1kon \u00e9s nem olvass\u00e1k fel a v\u00e1laszad\u00f3nak.",
+    "variable": "v12",
+    "option_text": "Politikai p\u00e1rt vagy csoport",
+    "response_scale": "1 - megeml\u00edtve, 2 - nem eml\u00edtve, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: @@<va\u0161 odgovor>@@ 9 - Nem v\u00e1laszolt",
+    "status": "success"
+  },
+  {
+    "question_id": "Q4",
+    "question_text": "K\u00e9rem figyeljen! Ezek a v\u00e1laszlehet\u0151s\u00e9gek mindig spont\u00e1nak sz\u00e1m\u00edtanak, ez\u00e9rt nem tal\u00e1lhat\u00f3k a k\u00e1rty\u00e1kon \u00e9s nem olvass\u00e1k fel a v\u00e1laszad\u00f3nak.",
+    "variable": "v13",
+    "option_text": "A k\u00f6rnyezet v\u00e9delm\u00e9vel, \u00f6kol\u00f3gi\u00e1val, \u00e1llatjogokkal foglalkoz\u00f3 szervezet",
+    "response_scale": "1 - megeml\u00edtve, 2 - nem eml\u00edtve, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: 1 @@<va\u0161 odgovor>@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q4",
+    "question_text": "K\u00e9rem figyeljen! Ezek a v\u00e1laszlehet\u0151s\u00e9gek mindig spont\u00e1nak sz\u00e1m\u00edtanak, ez\u00e9rt nem tal\u00e1lhat\u00f3k a k\u00e1rty\u00e1kon \u00e9s nem olvass\u00e1k fel a v\u00e1laszad\u00f3nak.",
+    "variable": "v14",
+    "option_text": "Szakmai egyes\u00fclet",
+    "response_scale": "1 - megeml\u00edtve, 2 - nem eml\u00edtve, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: 2 - nem eml\u00edtve, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "status": "success"
+  },
+  {
+    "question_id": "Q4",
+    "question_text": "K\u00e9rem figyeljen! Ezek a v\u00e1laszlehet\u0151s\u00e9gek mindig spont\u00e1nak sz\u00e1m\u00edtanak, ez\u00e9rt nem tal\u00e1lhat\u00f3k a k\u00e1rty\u00e1kon \u00e9s nem olvass\u00e1k fel a v\u00e1laszad\u00f3nak.",
+    "variable": "v15",
+    "option_text": "Sport- vagy rekre\u00e1ci\u00f3s szervezet",
+    "response_scale": "1 - megeml\u00edtve, 2 - nem eml\u00edtve, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: @@<1>@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q4",
+    "question_text": "K\u00e9rem figyeljen! Ezek a v\u00e1laszlehet\u0151s\u00e9gek mindig spont\u00e1nak sz\u00e1m\u00edtanak, ez\u00e9rt nem tal\u00e1lhat\u00f3k a k\u00e1rty\u00e1kon \u00e9s nem olvass\u00e1k fel a v\u00e1laszad\u00f3nak.",
+    "variable": "v16",
+    "option_text": "Humanit\u00e1rius vagy j\u00f3t\u00e9konys\u00e1gi szervezet",
+    "response_scale": "1 - megeml\u00edtve, 2 - nem eml\u00edtve, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: 1 - megeml\u00edtve, 2 - nem eml\u00edtve, 8 - Nem tudom, 9 - Nem v\u00e1laszolt\n\nPitanje [Q4]: K\u00e9rem figyeljen! Ezek a v\u00e1laszlehet\u0151s\u00e9gek mindig spont\u00e1nak sz\u00e1m\u00edtanak, ez\u00e9rt nem tal\u00e1lhat\u00f3k a k\u00e1rty\u00e1kon \u00e9s nem olvass\u00e1k fel a v\u00e1laszad\u00f3nak.\nAspekt: v16\nOpcija: Humanit\u00e1rius vagy j\u00f3t\u00e9konys\u00e1gi szervezet\nSkala odgovora: 1 - megeml\u00edtve, 2 - nem eml\u00edtve, 8 - Nem tudom, 9 - Nem v\u00e1laszolt\n\nFigyelembe v\u00e9ve a k\u00e9rd\u00e9st, a v\u00e1laszlehet\u0151s\u00e9gek spont\u00e1nok \u00e9s nem tal\u00e1lhat\u00f3k a k\u00e1rty\u00e1kon, illetve nem olvass\u00e1k fel a v\u00e1laszad\u00f3nak. \n\nA sk\u00e1la alapj\u00e1n a k\u00f6vetkez\u0151 v\u00e1laszok lehets\u00e9gesek:\n1 - megeml\u00edtve\n2 - nem eml\u00edtve\n8 - Nem tudom\n9 - Nem v\u00e1laszolt\n\nMivel a k\u00e9rd\u00e9s figyelmeztet\u00e9sre k\u00e9ri a v\u00e1lasz",
+    "status": "success"
+  },
+  {
+    "question_id": "Q4",
+    "question_text": "K\u00e9rem figyeljen! Ezek a v\u00e1laszlehet\u0151s\u00e9gek mindig spont\u00e1nak sz\u00e1m\u00edtanak, ez\u00e9rt nem tal\u00e1lhat\u00f3k a k\u00e1rty\u00e1kon \u00e9s nem olvass\u00e1k fel a v\u00e1laszad\u00f3nak.",
+    "variable": "v17",
+    "option_text": "Fogyaszt\u00f3v\u00e9delmi egyes\u00fclet",
+    "response_scale": "1 - megeml\u00edtve, 2 - nem eml\u00edtve, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: 1 - megeml\u00edtve\n\nA v\u00e1laszlehet\u0151s\u00e9g mindig spont\u00e1n sz\u00e1m\u00edt, ez\u00e9rt nem tal\u00e1lhat\u00f3k a k\u00e1rty\u00e1kon \u00e9s nem olvass\u00e1k fel a v\u00e1laszad\u00f3nak. A fogyaszt\u00f3v\u00e9delmi egyes\u00fclet aspektusa megeml\u00edtve, \u00edgy a v\u00e1lasz 1 - megeml\u00edtve.",
+    "status": "success"
+  },
+  {
+    "question_id": "Q4",
+    "question_text": "K\u00e9rem figyeljen! Ezek a v\u00e1laszlehet\u0151s\u00e9gek mindig spont\u00e1nak sz\u00e1m\u00edtanak, ez\u00e9rt nem tal\u00e1lhat\u00f3k a k\u00e1rty\u00e1kon \u00e9s nem olvass\u00e1k fel a v\u00e1laszad\u00f3nak.",
+    "variable": "v18",
+    "option_text": "\u00d6nseg\u00edt\u0151 csoport, k\u00f6lcs\u00f6n\u00f6s seg\u00edt\u0151 csoport",
+    "response_scale": "1 - megeml\u00edtve, 2 - nem eml\u00edtve, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: 1 - megeml\u00edtve, 2 - nem eml\u00edtve, 8 - Nem tudom, 9 - Nem v\u00e1laszolt\n\nSajn\u00e1lom, de jelenleg nem tudom megadni a pontos v\u00e1laszt an\u00e9lk\u00fcl, hogy tudn\u00e1m, melyik lehet\u0151s\u00e9ghez tartozik a v\u00e1lasz. Mivel a feladat nem adja meg a konkr\u00e9t v\u00e1laszlehet\u0151s\u00e9geket (pl. 1 - megeml\u00edtve, 2 - nem eml\u00edtve stb.), nem tudom megmondani, hogy melyik a megfelel\u0151. Azonban, ha a v\u00e1laszlehet\u0151s\u00e9gek mindig spont\u00e1nak sz\u00e1m\u00edtanak \u00e9s nem tal\u00e1lhat\u00f3k a k\u00e1rty\u00e1kon, akkor a v\u00e1laszad\u00f3nak nem olvashat\u00f3k fel, \u00edgy nem tudom pontosan meghat\u00e1rozni. Ha a sk\u00e1la 1-t\u0151l 9-ig terjed, akkor a v\u00e1laszad\u00f3nak 1 (megeml\u00edtve), 2 (nem eml\u00edtve), 8 (Nem tudom), vagy 9 (Nem v\u00e1laszolt) k\u00f6z\u00fcl kellene v\u00e1lasztani. De mivel a k\u00e9rd\u00e9sben szerepl\u0151 \"opci\u00f3n\" \"\u00d6",
+    "status": "success"
+  },
+  {
+    "question_id": "Q4",
+    "question_text": "K\u00e9rem figyeljen! Ezek a v\u00e1laszlehet\u0151s\u00e9gek mindig spont\u00e1nak sz\u00e1m\u00edtanak, ez\u00e9rt nem tal\u00e1lhat\u00f3k a k\u00e1rty\u00e1kon \u00e9s nem olvass\u00e1k fel a v\u00e1laszad\u00f3nak.",
+    "variable": "v19",
+    "option_text": "Egy\u00e9b csoportok",
+    "response_scale": "1 - megeml\u00edtve, 2 - nem eml\u00edtve, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: 1 - megeml\u00edtve\n\nA v\u00e1lasz: \"Egy\u00e9b csoportok\" eml\u00edt\u00e9sre ker\u00fclt, teh\u00e1t a v\u00e1laszlehet\u0151s\u00e9g 1 - megeml\u00edtve.",
+    "status": "success"
+  },
+  {
+    "question_id": "Q4",
+    "question_text": "K\u00e9rem figyeljen! Ezek a v\u00e1laszlehet\u0151s\u00e9gek mindig spont\u00e1nak sz\u00e1m\u00edtanak, ez\u00e9rt nem tal\u00e1lhat\u00f3k a k\u00e1rty\u00e1kon \u00e9s nem olvass\u00e1k fel a v\u00e1laszad\u00f3nak.",
+    "variable": "v20",
+    "option_text": "Egyik sem (spont\u00e1n)",
+    "response_scale": "1 - megeml\u00edtve, 2 - nem eml\u00edtve, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: @@9@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q5",
+    "question_text": "Vett r\u00e9szt valaha \u00f6nk\u00e9ntes munk\u00e1ban az elm\u00falt 6 h\u00f3napban?",
+    "variable": "v21",
+    "option_text": NaN,
+    "response_scale": "1 - igen, 2 - nem, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: @@8@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q6",
+    "question_text": "K\u00e9rem figyeljen! Ezek a v\u00e1laszlehet\u0151s\u00e9gek mindig spont\u00e1nak sz\u00e1m\u00edtanak, ez\u00e9rt nem tal\u00e1lhat\u00f3k a k\u00e1rty\u00e1kon \u00e9s nem olvass\u00e1k fel a v\u00e1laszad\u00f3nak.",
+    "variable": "v22",
+    "option_text": "M\u00e1s rassz\u00fa emberek",
+    "response_scale": "1 - megeml\u00edtve, 2 - nem eml\u00edtve, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: 2 - nem eml\u00edtve",
+    "status": "success"
+  },
+  {
+    "question_id": "Q6",
+    "question_text": "K\u00e9rem figyeljen! Ezek a v\u00e1laszlehet\u0151s\u00e9gek mindig spont\u00e1nak sz\u00e1m\u00edtanak, ez\u00e9rt nem tal\u00e1lhat\u00f3k a k\u00e1rty\u00e1kon \u00e9s nem olvass\u00e1k fel a v\u00e1laszad\u00f3nak.",
+    "variable": "v23",
+    "option_text": "S\u00falyos alkoholist\u00e1k",
+    "response_scale": "1 - megeml\u00edtve, 2 - nem eml\u00edtve, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: @@<2>@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q6",
+    "question_text": "K\u00e9rem figyeljen! Ezek a v\u00e1laszlehet\u0151s\u00e9gek mindig spont\u00e1nak sz\u00e1m\u00edtanak, ez\u00e9rt nem tal\u00e1lhat\u00f3k a k\u00e1rty\u00e1kon \u00e9s nem olvass\u00e1k fel a v\u00e1laszad\u00f3nak.",
+    "variable": "v24",
+    "option_text": "Betakarod\u00f3k, k\u00fclf\u00f6ldi munk\u00e1sok",
+    "response_scale": "1 - megeml\u00edtve, 2 - nem eml\u00edtve, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: 1 - megeml\u00edtve, 2 - nem eml\u00edtve, 8 - Nem tudom, 9 - Nem v\u00e1laszolt\n\nDakle, u odgovoru samo navedite broj\u010danicu koja odgovara va\u0161em mi\u0161ljenju:\n\n1 - megeml\u00edtve, \n2 - nem eml\u00edtve, \n8 - Nem tudom, \n9 - Nem v\u00e1laszolt\n\nAko npr. smatrate da su betakorodoci spomenuti u odgovorima, ali ne i kao klju\u010dni element, onda je to 2 (nem eml\u00edtve) jer nisu u centru fokusa. \n\nAko mislite da su spominuti i da su va\u017eni za odgovor, to bi bilo 1 (megeml\u00edtve). \n\nUkoliko smatrate da su pomenuti ali ne u klju\u010dnom smislu, onda 2 (nem eml\u00edtve). \n\nAko mislite da nisu ni spomenuti ni va\u017eni, onda 8 (nem tudom). \n\nAko ne znate ili ne \u017eelite da odgovorite, onda 9 (nem v\u00e1laszolt",
+    "status": "success"
+  },
+  {
+    "question_id": "Q6",
+    "question_text": "K\u00e9rem figyeljen! Ezek a v\u00e1laszlehet\u0151s\u00e9gek mindig spont\u00e1nak sz\u00e1m\u00edtanak, ez\u00e9rt nem tal\u00e1lhat\u00f3k a k\u00e1rty\u00e1kon \u00e9s nem olvass\u00e1k fel a v\u00e1laszad\u00f3nak.",
+    "variable": "v25",
+    "option_text": "K\u00e1b\u00edt\u00f3szer-fogyaszt\u00f3k",
+    "response_scale": "1 - megeml\u00edtve, 2 - nem eml\u00edtve, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: @@<va\u0161 odgovor>@@ \n\nU ovom slu\u010daju, ako je pitanje i odgovor na ma\u0111arskom, a vi ste u ulozi Apertus, koji je poma\u017eu\u0107i asistent stvoren od strane SwissAI inicijative, odgovor bi mogao biti:\n\nFinal answer: @@<va\u0161 odgovor>@@ \n\nUkoliko je potrebno da se navede samo kona\u010dni odgovor, a pitanje i opcioni odgovor su ve\u0107 poznati, i ako je odgovor na primer:\n\nPitanje [Q6]: K\u00e9rem figyeljen! Ezek a v\u00e1laszlehet\u0151s\u00e9gek mindig spont\u00e1nak sz\u00e1m\u00edtanak, ez\u00e9rt nem tal\u00e1lhat\u00f3k a k\u00e1rty\u00e1kon \u00e9s nem olvass\u00e1k fel a v\u00e1laszad\u00f3nak. \nAspekt: v25 \nOpcija: K\u00e1b\u00edt\u00f3szer-fogyaszt\u00f3k \nSkala odgovora: 1 - megeml\u00edtve, 2 - nem eml\u00edtve, 8 - Nem tudom, 9 - Nem v\u00e1laszolt \n\nA finalni odgovor, u zavisnosti od konteksta i datih informacija",
+    "status": "success"
+  },
+  {
+    "question_id": "Q6",
+    "question_text": "K\u00e9rem figyeljen! Ezek a v\u00e1laszlehet\u0151s\u00e9gek mindig spont\u00e1nak sz\u00e1m\u00edtanak, ez\u00e9rt nem tal\u00e1lhat\u00f3k a k\u00e1rty\u00e1kon \u00e9s nem olvass\u00e1k fel a v\u00e1laszad\u00f3nak.",
+    "variable": "v26",
+    "option_text": "Homoszexu\u00e1lisok",
+    "response_scale": "1 - megeml\u00edtve, 2 - nem eml\u00edtve, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: @@<2>@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q6",
+    "question_text": "K\u00e9rem figyeljen! Ezek a v\u00e1laszlehet\u0151s\u00e9gek mindig spont\u00e1nak sz\u00e1m\u00edtanak, ez\u00e9rt nem tal\u00e1lhat\u00f3k a k\u00e1rty\u00e1kon \u00e9s nem olvass\u00e1k fel a v\u00e1laszad\u00f3nak.",
+    "variable": "v27",
+    "option_text": "Kereszt\u00e9nyek",
+    "response_scale": "1 - megeml\u00edtve, 2 - nem eml\u00edtve, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: 1 - megeml\u00edtve, 9 - Nem v\u00e1laszolt\nPitanje [Q6]: K\u00e9rem figyeljen! Ezek a v\u00e1laszlehet\u0151s\u00e9gek mindig spont\u00e1nak sz\u00e1m\u00edtanak, ez\u00e9rt nem tal\u00e1lhat\u00f3k a k\u00e1rty\u00e1kon \u00e9s nem olvass\u00e1k fel a v\u00e1laszad\u00f3nak.\nAspekt: v27\nOpcija: Kereszt\u00e9nyek\nSkala odgovora: 1 - megeml\u00edtve, 2 - nem eml\u00edtve, 8 - Nem tudom, 9 - Nem v\u00e1laszolt\nFinal answer: 1 - megeml\u00edtve, 9 - Nem v\u00e1laszolt",
+    "status": "success"
+  },
+  {
+    "question_id": "Q6",
+    "question_text": "K\u00e9rem figyeljen! Ezek a v\u00e1laszlehet\u0151s\u00e9gek mindig spont\u00e1nak sz\u00e1m\u00edtanak, ez\u00e9rt nem tal\u00e1lhat\u00f3k a k\u00e1rty\u00e1kon \u00e9s nem olvass\u00e1k fel a v\u00e1laszad\u00f3nak.",
+    "variable": "v28",
+    "option_text": "Muszlimok",
+    "response_scale": "1 - megeml\u00edtve, 2 - nem eml\u00edtve, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: @@<2>@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q6",
+    "question_text": "K\u00e9rem figyeljen! Ezek a v\u00e1laszlehet\u0151s\u00e9gek mindig spont\u00e1nak sz\u00e1m\u00edtanak, ez\u00e9rt nem tal\u00e1lhat\u00f3k a k\u00e1rty\u00e1kon \u00e9s nem olvass\u00e1k fel a v\u00e1laszad\u00f3nak.",
+    "variable": "v29",
+    "option_text": "Zsid\u00f3k",
+    "response_scale": "1 - megeml\u00edtve, 2 - nem eml\u00edtve, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: 1 - megeml\u00edtve",
+    "status": "success"
+  },
+  {
+    "question_id": "Q6",
+    "question_text": "K\u00e9rem figyeljen! Ezek a v\u00e1laszlehet\u0151s\u00e9gek mindig spont\u00e1nak sz\u00e1m\u00edtanak, ez\u00e9rt nem tal\u00e1lhat\u00f3k a k\u00e1rty\u00e1kon \u00e9s nem olvass\u00e1k fel a v\u00e1laszad\u00f3nak.",
+    "variable": "v30",
+    "option_text": "Rom\u00e1k",
+    "response_scale": "1 - megeml\u00edtve, 2 - nem eml\u00edtve, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: @@<1>@@\n\nPojasnjenje: Na date skali, 1 ozna\u010dava da je opcija 'Rom\u00e1k' spomenuta, stoga odgovor je 1.",
+    "status": "success"
+  },
+  {
+    "question_id": "Q7",
+    "question_text": "\u00c1ltal\u00e1noss\u00e1gban azt mondan\u00e1-e, hogy a legt\u00f6bb emberre lehet bizalmat szav\u00edtani, vagy az ember sosem lehet el\u00e9g \u00f3vatos m\u00e1sokkal szemben?",
+    "variable": "v31",
+    "option_text": NaN,
+    "response_scale": "1 - a legt\u00f6bb emberre lehet bizalmat szav\u00edtani, 2 - az ember sosem lehet el\u00e9g \u00f3vatos, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: @@8@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q8",
+    "question_text": "K\u00e9rem figyeljen! Ezek a v\u00e1laszlehet\u0151s\u00e9gek mindig spont\u00e1nak sz\u00e1m\u00edtanak, ez\u00e9rt nem tal\u00e1lhat\u00f3k a k\u00e1rty\u00e1kon \u00e9s nem olvass\u00e1k fel a v\u00e1laszad\u00f3nak.",
+    "variable": "v32",
+    "option_text": "A csal\u00e1dj\u00e1ban",
+    "response_scale": "1 - teljesen megb\u00edzom, 2 - megb\u00edzom, 3 - kev\u00e9sb\u00e9 megb\u00edzom, 4 - egy\u00e1ltal\u00e1n nem megb\u00edzom, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: 1 - teljesen megb\u00edzom",
+    "status": "success"
+  },
+  {
+    "question_id": "Q8",
+    "question_text": "K\u00e9rem figyeljen! Ezek a v\u00e1laszlehet\u0151s\u00e9gek mindig spont\u00e1nak sz\u00e1m\u00edtanak, ez\u00e9rt nem tal\u00e1lhat\u00f3k a k\u00e1rty\u00e1kon \u00e9s nem olvass\u00e1k fel a v\u00e1laszad\u00f3nak.",
+    "variable": "v33",
+    "option_text": "A szomsz\u00e9dokban",
+    "response_scale": "1 - teljesen megb\u00edzom, 2 - megb\u00edzom, 3 - kev\u00e9sb\u00e9 megb\u00edzom, 4 - egy\u00e1ltal\u00e1n nem megb\u00edzom, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: 2 - megb\u00edzom",
+    "status": "success"
+  },
+  {
+    "question_id": "Q8",
+    "question_text": "K\u00e9rem figyeljen! Ezek a v\u00e1laszlehet\u0151s\u00e9gek mindig spont\u00e1nak sz\u00e1m\u00edtanak, ez\u00e9rt nem tal\u00e1lhat\u00f3k a k\u00e1rty\u00e1kon \u00e9s nem olvass\u00e1k fel a v\u00e1laszad\u00f3nak.",
+    "variable": "v34",
+    "option_text": "Azokban az emberekben, akiket szem\u00e9lyesen ismer",
+    "response_scale": "1 - teljesen megb\u00edzom, 2 - megb\u00edzom, 3 - kev\u00e9sb\u00e9 megb\u00edzom, 4 - egy\u00e1ltal\u00e1n nem megb\u00edzom, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: @@9@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q8",
+    "question_text": "K\u00e9rem figyeljen! Ezek a v\u00e1laszlehet\u0151s\u00e9gek mindig spont\u00e1nak sz\u00e1m\u00edtanak, ez\u00e9rt nem tal\u00e1lhat\u00f3k a k\u00e1rty\u00e1kon \u00e9s nem olvass\u00e1k fel a v\u00e1laszad\u00f3nak.",
+    "variable": "v35",
+    "option_text": "Azokban az emberekben, akiket els\u0151 alkalommal ismer meg",
+    "response_scale": "1 - teljesen megb\u00edzom, 2 - megb\u00edzom, 3 - kev\u00e9sb\u00e9 megb\u00edzom, 4 - egy\u00e1ltal\u00e1n nem megb\u00edzom, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: 1 - teljesen megb\u00edzom",
+    "status": "success"
+  },
+  {
+    "question_id": "Q8",
+    "question_text": "K\u00e9rem figyeljen! Ezek a v\u00e1laszlehet\u0151s\u00e9gek mindig spont\u00e1nak sz\u00e1m\u00edtanak, ez\u00e9rt nem tal\u00e1lhat\u00f3k a k\u00e1rty\u00e1kon \u00e9s nem olvass\u00e1k fel a v\u00e1laszad\u00f3nak.",
+    "variable": "v36",
+    "option_text": "M\u00e1s vall\u00e1s\u00fa emberekben",
+    "response_scale": "1 - teljesen megb\u00edzom, 2 - megb\u00edzom, 3 - kev\u00e9sb\u00e9 megb\u00edzom, 4 - egy\u00e1ltal\u00e1n nem megb\u00edzom, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: 3 - kev\u00e9sb\u00e9 megb\u00edzom",
+    "status": "success"
+  },
+  {
+    "question_id": "Q8",
+    "question_text": "K\u00e9rem figyeljen! Ezek a v\u00e1laszlehet\u0151s\u00e9gek mindig spont\u00e1nak sz\u00e1m\u00edtanak, ez\u00e9rt nem tal\u00e1lhat\u00f3k a k\u00e1rty\u00e1kon \u00e9s nem olvass\u00e1k fel a v\u00e1laszad\u00f3nak.",
+    "variable": "v37",
+    "option_text": "M\u00e1s nemzetis\u00e9g\u0171 emberekben",
+    "response_scale": "1 - teljesen megb\u00edzom, 2 - megb\u00edzom, 3 - kev\u00e9sb\u00e9 megb\u00edzom, 4 - egy\u00e1ltal\u00e1n nem megb\u00edzom, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: @@<8>@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q9",
+    "question_text": "Van, aki \u00fagy gondolja, hogy teljes szabads\u00e1guk van a d\u00f6nt\u00e9seikben \u00e9s ellen\u0151rzik az \u00e9let\u00fcket, m\u00e1sok szerint az nem igaz\u00e1n befoly\u00e1solja, ami t\u00f6rt\u00e9nik vel\u00fck. K\u00e9rem jelezze, hogy mennyire \u00e9rzi azt, hogy van d\u00f6nt\u00e9si szabads\u00e1ga \u00e9s ellen\u0151rz\u00e9se az \u00e9lete felett.",
+    "variable": "v38",
+    "option_text": NaN,
+    "response_scale": "1 - a legnagyobb m\u00e9rt\u00e9kben, 2 - nagy m\u00e9rt\u00e9kben, 3 - m\u00e9rs\u00e9kelt m\u00e9rt\u00e9kben, 4 - nem m\u00e9rs\u00e9kelt m\u00e9rt\u00e9kben, 5 - egy\u00e1ltal\u00e1n nem, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: 4 @@<va\u0161 odgovor>@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q10",
+    "question_text": "\u00d6sszess\u00e9g\u00e9ben el\u00e9gedett-e az \u00e9let\u00e9vel? K\u00e9rem v\u00e1laszoljon a k\u00e1rty\u00e1n tal\u00e1lhat\u00f3 sk\u00e1l\u00e1n.",
+    "variable": "v39",
+    "option_text": NaN,
+    "response_scale": "1 - el\u00e9gedetlen, 2 - kiel\u00e9g\u00edt\u0151, 3 - j\u00f3, 4 - nagyon j\u00f3, 5 - kiv\u00e1l\u00f3, 6 - remek, 7 - csod\u00e1latos, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: @@5@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q11",
+    "question_text": "K\u00e9rem figyeljen! Ezek a v\u00e1laszlehet\u0151s\u00e9gek mindig spont\u00e1nak sz\u00e1m\u00edtanak, ez\u00e9rt nem tal\u00e1lhat\u00f3k a k\u00e1rty\u00e1kon \u00e9s nem olvass\u00e1k fel a v\u00e1laszad\u00f3nak.",
+    "variable": "v40",
+    "option_text": "J\u00f3 fizet\u00e9s",
+    "response_scale": "1 - megeml\u00edtve, 2 - nem eml\u00edtve, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: @@<2>@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q11",
+    "question_text": "K\u00e9rem figyeljen! Ezek a v\u00e1laszlehet\u0151s\u00e9gek mindig spont\u00e1nak sz\u00e1m\u00edtanak, ez\u00e9rt nem tal\u00e1lhat\u00f3k a k\u00e1rty\u00e1kon \u00e9s nem olvass\u00e1k fel a v\u00e1laszad\u00f3nak.",
+    "variable": "v41",
+    "option_text": "Kedvez\u0151 munkaid\u0151",
+    "response_scale": "1 - megeml\u00edtve, 2 - nem eml\u00edtve, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: @@<1>@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q11",
+    "question_text": "K\u00e9rem figyeljen! Ezek a v\u00e1laszlehet\u0151s\u00e9gek mindig spont\u00e1nak sz\u00e1m\u00edtanak, ez\u00e9rt nem tal\u00e1lhat\u00f3k a k\u00e1rty\u00e1kon \u00e9s nem olvass\u00e1k fel a v\u00e1laszad\u00f3nak.",
+    "variable": "v42",
+    "option_text": "\u00d6n\u00e1ll\u00f3 kezdem\u00e9nyez\u00e9s lehet\u0151s\u00e9ge",
+    "response_scale": "1 - megeml\u00edtve, 2 - nem eml\u00edtve, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: @@8@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q11",
+    "question_text": "K\u00e9rem figyeljen! Ezek a v\u00e1laszlehet\u0151s\u00e9gek mindig spont\u00e1nak sz\u00e1m\u00edtanak, ez\u00e9rt nem tal\u00e1lhat\u00f3k a k\u00e1rty\u00e1kon \u00e9s nem olvass\u00e1k fel a v\u00e1laszad\u00f3nak.",
+    "variable": "v43",
+    "option_text": "Hossz\u00fa \u00e9ves szabads\u00e1g",
+    "response_scale": "1 - megeml\u00edtve, 2 - nem eml\u00edtve, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: 1 - megeml\u00edtve",
+    "status": "success"
+  },
+  {
+    "question_id": "Q11",
+    "question_text": "K\u00e9rem figyeljen! Ezek a v\u00e1laszlehet\u0151s\u00e9gek mindig spont\u00e1nak sz\u00e1m\u00edtanak, ez\u00e9rt nem tal\u00e1lhat\u00f3k a k\u00e1rty\u00e1kon \u00e9s nem olvass\u00e1k fel a v\u00e1laszad\u00f3nak.",
+    "variable": "v44",
+    "option_text": "Olyan munka, amivel valamit el\u00e9rhet",
+    "response_scale": "1 - megeml\u00edtve, 2 - nem eml\u00edtve, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: 1 - megeml\u00edtve, 2 - nem eml\u00edtve, 8 - Nem tudom, 9 - Nem v\u00e1laszolt\n\nPitanje [Q12]: K\u00e9rem, figyeljen! Ezek a v\u00e1laszlehet\u0151s\u00e9gek nem tal\u00e1lhat\u00f3k a k\u00e1rty\u00e1kon \u00e9s nem olvashat\u00f3k fel a v\u00e1laszad\u00f3nak.\nAspekt: v44\nOpcija: Olyan munka, amivel valamit el\u00e9rhet\nSkala odgovora: 1 - megeml\u00edtve, 2 - nem eml\u00edtve, 8 - Nem tudom, 9 - Nem v\u00e1laszolt\n\nFinal answer: 1 - megeml\u00edtve, 2 - nem eml\u00edtve, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "status": "success"
+  },
+  {
+    "question_id": "Q11",
+    "question_text": "K\u00e9rem figyeljen! Ezek a v\u00e1laszlehet\u0151s\u00e9gek mindig spont\u00e1nak sz\u00e1m\u00edtanak, ez\u00e9rt nem tal\u00e1lhat\u00f3k a k\u00e1rty\u00e1kon \u00e9s nem olvass\u00e1k fel a v\u00e1laszad\u00f3nak.",
+    "variable": "v45",
+    "option_text": "Felel\u0151ss\u00e9gteljes munka",
+    "response_scale": "1 - megeml\u00edtve, 2 - nem eml\u00edtve, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "status": "success"
+  },
+  {
+    "question_id": "Q11",
+    "question_text": "K\u00e9rem figyeljen! Ezek a v\u00e1laszlehet\u0151s\u00e9gek mindig spont\u00e1nak sz\u00e1m\u00edtanak, ez\u00e9rt nem tal\u00e1lhat\u00f3k a k\u00e1rty\u00e1kon \u00e9s nem olvass\u00e1k fel a v\u00e1laszad\u00f3nak.",
+    "variable": "v45a",
+    "option_text": "Semmi sem az eml\u00edtettek k\u00f6z\u00fcl (spont\u00e1n)",
+    "response_scale": "1 - megeml\u00edtve, 2 - nem eml\u00edtve, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: @@9@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q12",
+    "question_text": "K\u00e9rem figyeljen! Ezek a v\u00e1laszlehet\u0151s\u00e9gek mindig spont\u00e1nak sz\u00e1m\u00edtanak, ez\u00e9rt nem tal\u00e1lhat\u00f3k a k\u00e1rty\u00e1kon \u00e9s nem olvass\u00e1k fel a v\u00e1laszad\u00f3nak.",
+    "variable": "v46",
+    "option_text": "Ahhoz, hogy teljesen kibontakoztassa a tehets\u00e9geit, munk\u00e1ja kell lennie.",
+    "response_scale": "1 - teljesen egyet\u00e9rtek, 2 - egyet\u00e9rtek, 3 - sem egyet\u00e9rtek, sem nem egyet\u00e9rtek, 4 - nem egyet\u00e9rtek, 5 - egy\u00e1ltal\u00e1n nem egyet\u00e9rtek, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: @@<5>@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q12",
+    "question_text": "K\u00e9rem figyeljen! Ezek a v\u00e1laszlehet\u0151s\u00e9gek mindig spont\u00e1nak sz\u00e1m\u00edtanak, ez\u00e9rt nem tal\u00e1lhat\u00f3k a k\u00e1rty\u00e1kon \u00e9s nem olvass\u00e1k fel a v\u00e1laszad\u00f3nak.",
+    "variable": "v47",
+    "option_text": "Megal\u00e1z\u00f3 p\u00e9nzt fogadni, amit nem kerest\u00e9l.",
+    "response_scale": "1 - teljesen egyet\u00e9rtek, 2 - egyet\u00e9rtek, 3 - sem egyet\u00e9rtek, sem nem egyet\u00e9rtek, 4 - nem egyet\u00e9rtek, 5 - egy\u00e1ltal\u00e1n nem egyet\u00e9rtek, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: 4 - egy\u00e1ltal\u00e1n nem egyet\u00e9rtek, 9 - Nem v\u00e1laszoltam",
+    "status": "success"
+  },
+  {
+    "question_id": "Q12",
+    "question_text": "K\u00e9rem figyeljen! Ezek a v\u00e1laszlehet\u0151s\u00e9gek mindig spont\u00e1nak sz\u00e1m\u00edtanak, ez\u00e9rt nem tal\u00e1lhat\u00f3k a k\u00e1rty\u00e1kon \u00e9s nem olvass\u00e1k fel a v\u00e1laszad\u00f3nak.",
+    "variable": "v48",
+    "option_text": "Azok az emberek, akik nem dolgoznak, lustaak lesznek.",
+    "response_scale": "1 - teljesen egyet\u00e9rtek, 2 - egyet\u00e9rtek, 3 - sem egyet\u00e9rtek, sem nem egyet\u00e9rtek, 4 - nem egyet\u00e9rtek, 5 - egy\u00e1ltal\u00e1n nem egyet\u00e9rtek, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: 4@@A v\u00e1laszlehet\u0151s\u00e9gek spont\u00e1nak sz\u00e1m\u00edtanak, ez\u00e9rt nem tal\u00e1lhat\u00f3k a k\u00e1rty\u00e1kon \u00e9s nem olvass\u00e1k fel a v\u00e1laszad\u00f3nak. Emellett, az, hogy valaki nem dolgozik, nem felt\u00e9tlen\u00fcl jelenti azt, hogy lusta. Lehet, hogy \u00e9pp pihen vagy tanul.",
+    "status": "success"
+  },
+  {
+    "question_id": "Q12",
+    "question_text": "K\u00e9rem figyeljen! Ezek a v\u00e1laszlehet\u0151s\u00e9gek mindig spont\u00e1nak sz\u00e1m\u00edtanak, ez\u00e9rt nem tal\u00e1lhat\u00f3k a k\u00e1rty\u00e1kon \u00e9s nem olvass\u00e1k fel a v\u00e1laszad\u00f3nak.",
+    "variable": "v49",
+    "option_text": "A munka k\u00f6teless\u00e9g a t\u00e1rsadalommal szemben.",
+    "response_scale": "1 - teljesen egyet\u00e9rtek, 2 - egyet\u00e9rtek, 3 - sem egyet\u00e9rtek, sem nem egyet\u00e9rtek, 4 - nem egyet\u00e9rtek, 5 - egy\u00e1ltal\u00e1n nem egyet\u00e9rtek, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: @@5@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q12",
+    "question_text": "K\u00e9rem figyeljen! Ezek a v\u00e1laszlehet\u0151s\u00e9gek mindig spont\u00e1nak sz\u00e1m\u00edtanak, ez\u00e9rt nem tal\u00e1lhat\u00f3k a k\u00e1rty\u00e1kon \u00e9s nem olvass\u00e1k fel a v\u00e1laszad\u00f3nak.",
+    "variable": "v50",
+    "option_text": "A munka mindig az els\u0151 helyen kell legyen, m\u00e9g akkor is, ha ez kevesebb szabadid\u0151t jelent.",
+    "response_scale": "1 - teljesen egyet\u00e9rtek, 2 - egyet\u00e9rtek, 3 - sem egyet\u00e9rtek, sem nem egyet\u00e9rtek, 4 - nem egyet\u00e9rtek, 5 - egy\u00e1ltal\u00e1n nem egyet\u00e9rtek, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: @@<5>@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q13",
+    "question_text": "Tartozik-e valamilyen vall\u00e1si k\u00f6z\u00f6ss\u00e9ghez?",
+    "variable": "v51",
+    "option_text": NaN,
+    "response_scale": "1 - Igen, 2 - Nem, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: @@2@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q13a",
+    "question_text": "Melyikhez?",
+    "variable": "v52",
+    "option_text": NaN,
+    "response_scale": NaN,
+    "model_response": "Final answer: @@<va\u0161 odgovor>@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q14",
+    "question_text": "Ha jelenleg nem tartozik vall\u00e1si k\u00f6z\u00f6ss\u00e9ghez (Q13=2), tartozott-e valaha valamilyen vall\u00e1si k\u00f6z\u00f6ss\u00e9ghez?",
+    "variable": "v53",
+    "option_text": NaN,
+    "response_scale": "1 - igen, 2 - nem, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: @@<va\u0161 odgovor>@@\n\nPrethodno u ovom slu\u010daju zna\u010di: Pro\u010ditajte pa\u017eljivo pitanje i date skale odgovora (u ovom slu\u010daju: 1 - da, 2 - ne, 8 - ne znam, 9 - ne \u017eeli odgovoriti), a zatim dajte samo kona\u010dni odgovor u formatu: Final answer: @@<va\u0161 odgovor>@@\n\nDakle, za ovo pitanje [Q14], ako Q13=2, odnosno osoba ne pripada nikakvoj religijskoj zajednici sada (Q13=2), odgovor je:\nFinal answer: @@<va\u0161 odgovor>@@\n\nU ovom slu\u010daju, po\u0161to osoba pripada religijskoj zajednici u pro\u0161losti (Q13=2), odgovor je: 1 \n\nZato: Final answer: 1\n\nAli po\u0161to morate odgovoriti sa date skale odgovora, finalni odgovor bi bio:\nFinal answer: @@<va\u0161 odgovor>@@ \n\nDakle, finalni odgovor je: 1\n\nA po\u0161to ste zamol",
+    "status": "success"
+  },
+  {
+    "question_id": "Q15",
+    "question_text": "Kiv\u00e9ve az esk\u00fcv\u0151ket, temet\u00e9seket \u00e9s keresztel\u00e9seket, milyen gyakran j\u00e1r vall\u00e1si istentiszteletre az ut\u00f3bbi id\u0151ben?",
+    "variable": "v54",
+    "option_text": NaN,
+    "response_scale": "1 - hetente t\u00f6bbsz\u00f6r, 2 - hetente egyszer, 3 - havonta egyszer, 4 - csak vall\u00e1si \u00fcnnepeken, 5 - \u00e9vente egyszer, 6 - ritk\u00e1bban, 7 - soha, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: @@5@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q16",
+    "question_text": "Kiv\u00e9ve az esk\u00fcv\u0151ket, temet\u00e9seket \u00e9s keresztel\u00e9seket, milyen gyakran j\u00e1rt vall\u00e1si istentiszteletre, amikor 12 \u00e9ves volt?",
+    "variable": "v55",
+    "option_text": NaN,
+    "response_scale": "1 - hetente t\u00f6bbsz\u00f6r, 2 - hetente egyszer, 3 - havonta egyszer, 4 - csak vall\u00e1si \u00fcnnepeken, 5 - \u00e9vente egyszer, 6 - ritk\u00e1bban, 7 - soha, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: @@5@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q17",
+    "question_text": "F\u00fcggetlen\u00fcl att\u00f3l, hogy j\u00e1r-e templomba vagy sem, mondan\u00e1-e mag\u00e1r\u00f3l, hogy:",
+    "variable": "v56",
+    "option_text": NaN,
+    "response_scale": "1 - vall\u00e1sos szem\u00e9ly, 2 - nem vall\u00e1sos szem\u00e9ly, 3 - ateista, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: 8 - Nem tudom",
+    "status": "success"
+  },
+  {
+    "question_id": "Q18",
+    "question_text": "Hisz-e valamiben az al\u00e1bbiak k\u00f6z\u00fcl? Miben?",
+    "variable": "v57",
+    "option_text": NaN,
+    "response_scale": "1 - Istenben, 2 - a l\u00e9lekben vagy az \u00e9let er\u0151ben, 3 - a pokolban, 4 - a mennyben, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: @@<va\u0161 odgovor>@@\nFinal answer: @@<va\u0161 odgovor>@@\n\nPitanje [Q18]: Hisz-e valamiben az al\u00e1bbiak k\u00f6z\u00fcl?\nMiben?\nAspekt: v57\nOpcija: nan\nSkala odgovora: 1 - Istenben, 2 - a l\u00e9lekben vagy az \u00e9let er\u0151ben, 3 - a pokolban, 4 - a mennyben, 8 - Nem tudom, 9 - Nem v\u00e1laszolt\n\nUkoliko \u017eelite da date odgovor na osnovu va\u0161eg razumijevanja, evo primjera:\n\nFinal answer: @@<va\u0161 odgovor>@@\nFinal answer: @@<va\u0161 odgovor>@@\n\nSada, da odgovorim na osnovu va\u0161ih instrukcija, evo kona\u010dnog odgovora:\n\nFinal answer: @@<va\u0161 odgovor>@@\n\nAko \u017eelite da odgovorite, recimo na osnovu v57 aspekta, mo\u017eda bi odgovor mogao biti:\n\nFinal answer: @@<va\u0161 odgovor>@@\n\nUkoliko biste \u017eeljeli da odgovor bude na osnovu",
+    "status": "success"
+  },
+  {
+    "question_id": "Q18",
+    "question_text": "Hisz-e valamiben az al\u00e1bbiak k\u00f6z\u00fcl? Miben?",
+    "variable": "v58",
+    "option_text": NaN,
+    "response_scale": "1 - Istenben, 2 - a l\u00e9lekben vagy az \u00e9let er\u0151ben, 3 - a pokolban, 4 - a mennyben, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: @@<va\u0161 odgovor>@@\nU ovom slu\u010daju, ako je odgovor na pitanje o aspektu v58, to bi moglo zna\u010diti da se osoba ne mo\u017ee svrstati ni u jednu od navedenih kategorija. To je u skladu sa skalom odgovora gdje 8 ozna\u010dava 'Nem tudom' i 9 'Nem v\u00e1laszolt'. Iako je pitanje pomalo neobi\u010dno, pretpostavimo da je namjera bila tra\u017eiti gdje osoba vidi 'mjesto' ne\u010dega. Ako se to ne mo\u017ee svrstati u ni jednu od navedenih opcija, odgovor bi mogao biti:\nFinal answer: @@<va\u0161 odgovor>@@\n8 - Nem tudom, 9 - Nem v\u00e1laszolt (ili sli\u010dno) \nAko se osoba ne mo\u017ee svrstati ni u jednu od navedenih kategorija, odgovor bi mogao biti:\nFinal answer: @@<va\u0161 odgovor>@@\n8 - Nem tudom, 9 - Nem v\u00e1laszolt (ili sli\u010dno) \n\nMe\u0111utim, ako je odgovor na pitanje u anketi,",
+    "status": "success"
+  },
+  {
+    "question_id": "Q18",
+    "question_text": "Hisz-e valamiben az al\u00e1bbiak k\u00f6z\u00fcl? Miben?",
+    "variable": "v59",
+    "option_text": NaN,
+    "response_scale": "1 - Istenben, 2 - a l\u00e9lekben vagy az \u00e9let er\u0151ben, 3 - a pokolban, 4 - a mennyben, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: 4 - a mennyben",
+    "status": "success"
+  },
+  {
+    "question_id": "Q18",
+    "question_text": "Hisz-e valamiben az al\u00e1bbiak k\u00f6z\u00fcl? Miben?",
+    "variable": "v60",
+    "option_text": NaN,
+    "response_scale": "1 - Istenben, 2 - a l\u00e9lekben vagy az \u00e9let er\u0151ben, 3 - a pokolban, 4 - a mennyben, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: @@<va\u0161 odgovor>@@ \n\nS obzirom da je pitanje postavljeno u formi \"Hisz-e valamiben az al\u00e1bbiak k\u00f6z\u00fcl?\", pretpostavimo da se radi o uverenju u neku od gore navedenih opcija (1 - 9). \nAko se radi o uverenju u neku od opcija (1 - 9), a u pitanju nije eksplicitno navedeno, ali se pretpostavlja da je opcija 1 - Istenben, 2 - a l\u00e9lekben vagy az \u00e9let er\u0151ben, 3 - a pokolban, 4 - a mennyben, 8 - Nem tudom, 9 - Nem v\u00e1laszolt, \nonda kona\u010dni odgovor zavisi od li\u010dnog uverenja. \n\nAko pretpostavimo da se radi o uverenju u neku od opcija, npr. 1 - Istenben, \nonda kona\u010dni odgovor bi mogao biti: \nFinal answer: @@<va\u0161 odgovor>@@ \n\nS obzirom da je pitanje postavljeno u formi",
+    "status": "success"
+  },
+  {
+    "question_id": "Q19",
+    "question_text": "Hisz-e a reinkarn\u00e1ci\u00f3ban, vagyis abban, hogy volt kor\u00e1bbi \u00e9lete, \u00e9s \u00fajra fogunk sz\u00fcletni ezen a vil\u00e1gon?",
+    "variable": "v61",
+    "option_text": NaN,
+    "response_scale": "1 - igen, 2 - nem, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "status": "success"
+  },
+  {
+    "question_id": "Q20",
+    "question_text": "K\u00e9rem figyeljen! Ezek a v\u00e1laszlehet\u0151s\u00e9gek mindig spont\u00e1nak sz\u00e1m\u00edtanak, ez\u00e9rt nem tal\u00e1lhat\u00f3k a k\u00e1rty\u00e1kon \u00e9s nem olvass\u00e1k fel a v\u00e1laszad\u00f3nak.",
+    "variable": "v62",
+    "option_text": NaN,
+    "response_scale": "1 - szem\u00e9lyes Isten l\u00e9tezik, 2 - van valamilyen szellem vagy \u00e9let er\u0151, 3 - nem tudom, mit gondoljak, 4 - nem hiszem, hogy b\u00e1rmilyen szellem, Isten vagy \u00e9let er\u0151 l\u00e9tezik, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: @@8@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q21",
+    "question_text": "Mennyire fontos az Isten az \u00d6n \u00e9let\u00e9ben? K\u00e9rem v\u00e1laszoljon a k\u00e1rty\u00e1n tal\u00e1lhat\u00f3 sk\u00e1l\u00e1n, ahol az 1 sz\u00e1m teljesen nem fontosat, a 10 sz\u00e1m pedig \u201enagyon fontosat\u201d jelent.",
+    "variable": "v63",
+    "option_text": NaN,
+    "response_scale": "1 - teljesen nem fontos, 2 - nem fontos, 3 - el\u00e9g fontos, 4 - fontos, 5 - meglehet\u0151sen fontos, 6 - nagyon fontos, 7 - rendk\u00edv\u00fcl fontos, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: @@6@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q22",
+    "question_text": "K\u00e9rem figyeljen! Ezek a v\u00e1laszlehet\u0151s\u00e9gek mindig spont\u00e1nak sz\u00e1m\u00edtanak, ez\u00e9rt nem tal\u00e1lhat\u00f3k a k\u00e1rty\u00e1kon \u00e9s nem olvass\u00e1k fel a v\u00e1laszad\u00f3nak.",
+    "variable": "v64",
+    "option_text": NaN,
+    "response_scale": "1 - minden nap, 2 - hetente t\u00f6bbsz\u00f6r, 3 - hetente egyszer, 4 - legal\u00e1bb havonta egyszer, 5 - t\u00f6bbsz\u00f6r \u00e9vente, 6 - ritk\u00e1bban, 7 - soha, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: 4\nA fenti adatok alapj\u00e1n, az adott v\u00e1laszlehet\u0151s\u00e9geket figyelembe v\u00e9ve, a v\u00e1lasz a k\u00f6vetkez\u0151: 4 - legal\u00e1bb havonta egyszer.",
+    "status": "success"
+  },
+  {
+    "question_id": "Q23",
+    "question_text": "K\u00e9rem figyeljen! Ezek a v\u00e1laszlehet\u0151s\u00e9gek mindig spont\u00e1nak sz\u00e1m\u00edtanak, ez\u00e9rt nem tal\u00e1lhat\u00f3k a k\u00e1rty\u00e1kon \u00e9s nem olvass\u00e1k fel a v\u00e1laszad\u00f3nak.",
+    "variable": "v65",
+    "option_text": "H\u0171s\u00e9g",
+    "response_scale": "1 - nagyon fontos, 2 - el\u00e9gg\u00e9 fontos, 3 - nem t\u00fal fontos, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: @@9@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q23",
+    "question_text": "K\u00e9rem figyeljen! Ezek a v\u00e1laszlehet\u0151s\u00e9gek mindig spont\u00e1nak sz\u00e1m\u00edtanak, ez\u00e9rt nem tal\u00e1lhat\u00f3k a k\u00e1rty\u00e1kon \u00e9s nem olvass\u00e1k fel a v\u00e1laszad\u00f3nak.",
+    "variable": "v66",
+    "option_text": "Megfelel\u0151 j\u00f6vedelem",
+    "response_scale": "1 - nagyon fontos, 2 - el\u00e9gg\u00e9 fontos, 3 - nem t\u00fal fontos, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: 1@@<Megfelel\u0151 j\u00f6vedelem nagyon fontos az egy\u00e9nek \u00e9s a t\u00e1rsadalom sz\u00e1m\u00e1ra, mivel hozz\u00e1j\u00e1rul a stabilit\u00e1shoz \u00e9s a j\u00f3l\u00e9thez. K\u00fcl\u00f6n\u00f6sen fontos a szoci\u00e1lis \u00e9s gazdas\u00e1gi fejl\u0151d\u00e9s szempontj\u00e1b\u00f3l. Az egy\u00e9nek sz\u00e1m\u00e1ra a megfelel\u0151 j\u00f6vedelem biztos\u00edtja az alapvet\u0151 sz\u00fcks\u00e9gletek kiel\u00e9g\u00edt\u00e9s\u00e9t \u00e9s a hossz\u00fa t\u00e1v\u00fa tervez\u00e9s lehet\u0151s\u00e9g\u00e9t. A t\u00e1rsadalom szintj\u00e9n pedig hozz\u00e1j\u00e1rul a gazdas\u00e1gi aktivit\u00e1shoz, a szoci\u00e1lis szolg\u00e1ltat\u00e1sok finansz\u00edroz\u00e1s\u00e1hoz \u00e9s a politikai stabilit\u00e1shoz. A megfelel\u0151 j\u00f6vedelem elengedhetetlen a fenntarthat\u00f3 fejl\u0151d\u00e9shez, cs\u00f6kkentve a szeg\u00e9nys\u00e9get \u00e9s el\u0151seg\u00edtve a befektet\u00e9seket. A gazdas\u00e1gi n\u00f6veked\u00e9shez is hozz\u00e1j\u00e1rul, mivel a fogyaszt\u00e1s b\u0151v\u00fcl\u00e9s\u00e9t \u00e9s a befektet\u00e9si kedvetet t\u00e1mogatja. A szoci\u00e1lis \u00e9s politikai stabilit\u00e1s szempontj\u00e1b\u00f3l is n\u00e9lk\u00fcl\u00f6zhetetlen, mivel a t\u00e1rsadalmi b\u00e9k\u00e9t \u00e9s a politikai stabilit\u00e1st er\u0151s\u00edti. A fen",
+    "status": "success"
+  },
+  {
+    "question_id": "Q23",
+    "question_text": "K\u00e9rem figyeljen! Ezek a v\u00e1laszlehet\u0151s\u00e9gek mindig spont\u00e1nak sz\u00e1m\u00edtanak, ez\u00e9rt nem tal\u00e1lhat\u00f3k a k\u00e1rty\u00e1kon \u00e9s nem olvass\u00e1k fel a v\u00e1laszad\u00f3nak.",
+    "variable": "v67",
+    "option_text": "J\u00f3 lak\u00e1si k\u00f6r\u00fclm\u00e9nyek",
+    "response_scale": "1 - nagyon fontos, 2 - el\u00e9gg\u00e9 fontos, 3 - nem t\u00fal fontos, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: @@<1>@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q23",
+    "question_text": "K\u00e9rem figyeljen! Ezek a v\u00e1laszlehet\u0151s\u00e9gek mindig spont\u00e1nak sz\u00e1m\u00edtanak, ez\u00e9rt nem tal\u00e1lhat\u00f3k a k\u00e1rty\u00e1kon \u00e9s nem olvass\u00e1k fel a v\u00e1laszad\u00f3nak.",
+    "variable": "v68",
+    "option_text": "Egyenl\u0151 r\u00e9szv\u00e9tel a h\u00e1zimunk\u00e1ban",
+    "response_scale": "1 - nagyon fontos, 2 - el\u00e9gg\u00e9 fontos, 3 - nem t\u00fal fontos, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: 8 - Nem tudom",
+    "status": "success"
+  },
+  {
+    "question_id": "Q23",
+    "question_text": "K\u00e9rem figyeljen! Ezek a v\u00e1laszlehet\u0151s\u00e9gek mindig spont\u00e1nak sz\u00e1m\u00edtanak, ez\u00e9rt nem tal\u00e1lhat\u00f3k a k\u00e1rty\u00e1kon \u00e9s nem olvass\u00e1k fel a v\u00e1laszad\u00f3nak.",
+    "variable": "v69",
+    "option_text": "Gyermekek",
+    "response_scale": "1 - nagyon fontos, 2 - el\u00e9gg\u00e9 fontos, 3 - nem t\u00fal fontos, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: @@<1>@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q23",
+    "question_text": "K\u00e9rem figyeljen! Ezek a v\u00e1laszlehet\u0151s\u00e9gek mindig spont\u00e1nak sz\u00e1m\u00edtanak, ez\u00e9rt nem tal\u00e1lhat\u00f3k a k\u00e1rty\u00e1kon \u00e9s nem olvass\u00e1k fel a v\u00e1laszad\u00f3nak.",
+    "variable": "v70",
+    "option_text": "Id\u0151t t\u00f6lteni a saj\u00e1t bar\u00e1taival, tev\u00e9kenys\u00e9geivel \u00e9s hobij\u00e1val",
+    "response_scale": "1 - nagyon fontos, 2 - el\u00e9gg\u00e9 fontos, 3 - nem t\u00fal fontos, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: @@3@@ (Id\u0151t t\u00f6lteni a saj\u00e1t bar\u00e1taival, tev\u00e9kenys\u00e9geivel \u00e9s hobij\u00e1val nem t\u00fal fontos)",
+    "status": "success"
+  },
+  {
+    "question_id": "Q24",
+    "question_text": "Egyet\u00e9rt-e az al\u00e1bbi \u00e1ll\u00edt\u00e1ssal? A h\u00e1zass\u00e1g elavult int\u00e9zm\u00e9ny.",
+    "variable": "v71",
+    "option_text": NaN,
+    "response_scale": "1 - egyet\u00e9rtek, 2 - nem egyet\u00e9rtek, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: @@<2>@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q25",
+    "question_text": "K\u00e9rem figyeljen! Ezek a v\u00e1laszlehet\u0151s\u00e9gek mindig spont\u00e1nak sz\u00e1m\u00edtanak, ez\u00e9rt nem tal\u00e1lhat\u00f3k a k\u00e1rty\u00e1kon \u00e9s nem olvass\u00e1k fel a v\u00e1laszad\u00f3nak.",
+    "variable": "v72",
+    "option_text": "Amikor egy anya fizetett munk\u00e1t v\u00e9gez, a gyerekek szenvednek.",
+    "response_scale": "1 - teljesen egyet\u00e9rtek, 2 - egyet\u00e9rtek, 3 - sem egyet\u00e9rtek, sem nem egyet\u00e9rtek, 4 - nem egyet\u00e9rtek, 5 - egy\u00e1ltal\u00e1n nem egyet\u00e9rtek, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: @@4@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q25",
+    "question_text": "K\u00e9rem figyeljen! Ezek a v\u00e1laszlehet\u0151s\u00e9gek mindig spont\u00e1nak sz\u00e1m\u00edtanak, ez\u00e9rt nem tal\u00e1lhat\u00f3k a k\u00e1rty\u00e1kon \u00e9s nem olvass\u00e1k fel a v\u00e1laszad\u00f3nak.",
+    "variable": "v73",
+    "option_text": "A n\u0151k val\u00f3j\u00e1ban azt akarj\u00e1k, hogy gondoskodjanak a h\u00e1ztart\u00e1sr\u00f3l \u00e9s a gyerekekr\u0151l.",
+    "response_scale": "1 - teljesen egyet\u00e9rtek, 2 - egyet\u00e9rtek, 3 - sem egyet\u00e9rtek, sem nem egyet\u00e9rtek, 4 - nem egyet\u00e9rtek, 5 - egy\u00e1ltal\u00e1n nem egyet\u00e9rtek, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: @@5@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q25",
+    "question_text": "K\u00e9rem figyeljen! Ezek a v\u00e1laszlehet\u0151s\u00e9gek mindig spont\u00e1nak sz\u00e1m\u00edtanak, ez\u00e9rt nem tal\u00e1lhat\u00f3k a k\u00e1rty\u00e1kon \u00e9s nem olvass\u00e1k fel a v\u00e1laszad\u00f3nak.",
+    "variable": "v74",
+    "option_text": "A csal\u00e1d \u00e9lete szenved, ha a n\u0151 teljes munkaid\u0151ben dolgozik.",
+    "response_scale": "1 - teljesen egyet\u00e9rtek, 2 - egyet\u00e9rtek, 3 - sem egyet\u00e9rtek, sem nem egyet\u00e9rtek, 4 - nem egyet\u00e9rtek, 5 - egy\u00e1ltal\u00e1n nem egyet\u00e9rtek, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: @@<4 - nem egyet\u00e9rtek,>@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q25",
+    "question_text": "K\u00e9rem figyeljen! Ezek a v\u00e1laszlehet\u0151s\u00e9gek mindig spont\u00e1nak sz\u00e1m\u00edtanak, ez\u00e9rt nem tal\u00e1lhat\u00f3k a k\u00e1rty\u00e1kon \u00e9s nem olvass\u00e1k fel a v\u00e1laszad\u00f3nak.",
+    "variable": "v75",
+    "option_text": "A f\u00e9rfi feladata a p\u00e9nzkeres\u00e9s, a n\u0151 feladata a h\u00e1ztart\u00e1s \u00e9s a csal\u00e1d gondoz\u00e1sa.",
+    "response_scale": "1 - teljesen egyet\u00e9rtek, 2 - egyet\u00e9rtek, 3 - sem egyet\u00e9rtek, sem nem egyet\u00e9rtek, 4 - nem egyet\u00e9rtek, 5 - egy\u00e1ltal\u00e1n nem egyet\u00e9rtek, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: @@5@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q25",
+    "question_text": "K\u00e9rem figyeljen! Ezek a v\u00e1laszlehet\u0151s\u00e9gek mindig spont\u00e1nak sz\u00e1m\u00edtanak, ez\u00e9rt nem tal\u00e1lhat\u00f3k a k\u00e1rty\u00e1kon \u00e9s nem olvass\u00e1k fel a v\u00e1laszad\u00f3nak.",
+    "variable": "v76",
+    "option_text": "\u00c1ltal\u00e1noss\u00e1gban a f\u00e9rfiak jobbak a politikai vezet\u0151k\u00e9nt, mint a n\u0151k.",
+    "response_scale": "1 - teljesen egyet\u00e9rtek, 2 - egyet\u00e9rtek, 3 - sem egyet\u00e9rtek, sem nem egyet\u00e9rtek, 4 - nem egyet\u00e9rtek, 5 - egy\u00e1ltal\u00e1n nem egyet\u00e9rtek, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: @@8@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q25",
+    "question_text": "K\u00e9rem figyeljen! Ezek a v\u00e1laszlehet\u0151s\u00e9gek mindig spont\u00e1nak sz\u00e1m\u00edtanak, ez\u00e9rt nem tal\u00e1lhat\u00f3k a k\u00e1rty\u00e1kon \u00e9s nem olvass\u00e1k fel a v\u00e1laszad\u00f3nak.",
+    "variable": "v77",
+    "option_text": "A f\u0151iskolai v\u00e9gzetts\u00e9g fontosabb a fi\u00faknak, mint a l\u00e1nyoknak.",
+    "response_scale": "1 - teljesen egyet\u00e9rtek, 2 - egyet\u00e9rtek, 3 - sem egyet\u00e9rtek, sem nem egyet\u00e9rtek, 4 - nem egyet\u00e9rtek, 5 - egy\u00e1ltal\u00e1n nem egyet\u00e9rtek, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: @@<5 - egy\u00e1ltal\u00e1n nem egyet\u00e9rtek>@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q25",
+    "question_text": "K\u00e9rem figyeljen! Ezek a v\u00e1laszlehet\u0151s\u00e9gek mindig spont\u00e1nak sz\u00e1m\u00edtanak, ez\u00e9rt nem tal\u00e1lhat\u00f3k a k\u00e1rty\u00e1kon \u00e9s nem olvass\u00e1k fel a v\u00e1laszad\u00f3nak.",
+    "variable": "v78",
+    "option_text": "\u00c1ltal\u00e1noss\u00e1gban a f\u00e9rfiak jobbak az \u00fczleti vezet\u0151k\u00e9nt, mint a n\u0151k.",
+    "response_scale": "1 - teljesen egyet\u00e9rtek, 2 - egyet\u00e9rtek, 3 - sem egyet\u00e9rtek, sem nem egyet\u00e9rtek, 4 - nem egyet\u00e9rtek, 5 - egy\u00e1ltal\u00e1n nem egyet\u00e9rtek, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: 4 @@Nem egyet\u00e9rtek, egy\u00e1ltal\u00e1n nem egyet\u00e9rtek, hogy a f\u00e9rfiak jobbak az \u00fczleti vezet\u0151k\u00e9nt, mint a n\u0151k. A vezet\u0151i k\u00e9pess\u00e9g nem nemt\u0151l f\u00fcgg, hanem a szem\u00e9lyis\u00e9gt\u0151l, tapasztalatt\u00f3l \u00e9s k\u00e9szs\u00e9gekt\u0151l.",
+    "status": "success"
+  },
+  {
+    "question_id": "Q25",
+    "question_text": "K\u00e9rem figyeljen! Ezek a v\u00e1laszlehet\u0151s\u00e9gek mindig spont\u00e1nak sz\u00e1m\u00edtanak, ez\u00e9rt nem tal\u00e1lhat\u00f3k a k\u00e1rty\u00e1kon \u00e9s nem olvass\u00e1k fel a v\u00e1laszad\u00f3nak.",
+    "variable": "v79",
+    "option_text": "Az egyik f\u0151 \u00e9letc\u00e9lom, hogy b\u00fcszk\u00e9v\u00e9 tegyem a sz\u00fcleimet.",
+    "response_scale": "1 - teljesen egyet\u00e9rtek, 2 - egyet\u00e9rtek, 3 - sem egyet\u00e9rtek, sem nem egyet\u00e9rtek, 4 - nem egyet\u00e9rtek, 5 - egy\u00e1ltal\u00e1n nem egyet\u00e9rtek, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: 2 - egyet\u00e9rtek, 3 - sem egyet\u00e9rtek, sem nem egyet\u00e9rtek, 4 - nem egyet\u00e9rtek, 5 - egy\u00e1ltal\u00e1n nem egyet\u00e9rtek, 8 - Nem tudom, 9 - Nem v\u00e1laszolt, \n\nAz egyik f\u0151 \u00e9letc\u00e9lom, hogy b\u00fcszk\u00e9v\u00e9 tegyem a sz\u00fcleimet, fontos, de nem mindig spont\u00e1n sz\u00e1m\u00edt. \n\nA v\u00e1laszlehet\u0151s\u00e9gek k\u00f6z\u00f6tt a k\u00f6vetkez\u0151ket v\u00e1laszolhatn\u00e1m: \n\n- 2 - egyet\u00e9rtek, hiszen fontos, hogy a sz\u00fcleim b\u00fcszk\u00e9k legyenek;\n- 3 - sem egyet\u00e9rtek, sem nem egyet\u00e9rtek, mivel ez nem mindig spont\u00e1n t\u00f6rt\u00e9nik;\n- 4 - nem egyet\u00e9rtek, mert ez nem mindig sz\u00e1m\u00edt f\u0151 \u00e9letc\u00e9lnak;\n- 5 - egy\u00e1ltal\u00e1n nem egyet\u00e9rtek, mert m\u00e1sok is fontosak lehetnek;\n- 8 - Nem tudom, mert ez szem\u00e9lyes \u00e9s nem mindig egy\u00e9rtelm\u0171;\n- 9 - Nem v\u00e1laszolt, mert ez csak egy lehet\u0151s\u00e9g.\n\nAzonban a konkr\u00e9t v\u00e1lasz:",
+    "status": "success"
+  },
+  {
+    "question_id": "Q26",
+    "question_text": "K\u00e9rem figyeljen! Ezek a v\u00e1laszlehet\u0151s\u00e9gek mindig spont\u00e1nak sz\u00e1m\u00edtanak, ez\u00e9rt nem tal\u00e1lhat\u00f3k a k\u00e1rty\u00e1kon \u00e9s nem olvass\u00e1k fel a v\u00e1laszad\u00f3nak.",
+    "variable": "v80",
+    "option_text": "Munkaid\u0151 hi\u00e1ny\u00e1ban a korm\u00e1ny jogosult vide\u00f3megfigyel\u00e9st v\u00e9gezni a nyilv\u00e1nos helyeken.",
+    "response_scale": "1 - teljesen egyet\u00e9rtek, 2 - egyet\u00e9rtek, 3 - sem egyet\u00e9rtek, sem nem egyet\u00e9rtek, 4 - nem egyet\u00e9rtek, 5 - egy\u00e1ltal\u00e1n nem egyet\u00e9rtek, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: @@8@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q26",
+    "question_text": "K\u00e9rem figyeljen! Ezek a v\u00e1laszlehet\u0151s\u00e9gek mindig spont\u00e1nak sz\u00e1m\u00edtanak, ez\u00e9rt nem tal\u00e1lhat\u00f3k a k\u00e1rty\u00e1kon \u00e9s nem olvass\u00e1k fel a v\u00e1laszad\u00f3nak.",
+    "variable": "v81",
+    "option_text": "A korm\u00e1ny jogosult minden szem\u00e9lyr\u0151l adatokat gy\u0171jteni az orsz\u00e1gban, m\u00e9g a tudta n\u00e9lk\u00fcl is.",
+    "response_scale": "1 - teljesen egyet\u00e9rtek, 2 - egyet\u00e9rtek, 3 - sem egyet\u00e9rtek, sem nem egyet\u00e9rtek, 4 - nem egyet\u00e9rtek, 5 - egy\u00e1ltal\u00e1n nem egyet\u00e9rtek, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: @@8@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q27",
+    "question_text": "K\u00e9rem figyeljen! Ezek a v\u00e1laszlehet\u0151s\u00e9gek mindig spont\u00e1nak sz\u00e1m\u00edtanak, ez\u00e9rt nem tal\u00e1lhat\u00f3k a k\u00e1rty\u00e1kon \u00e9s nem olvass\u00e1k fel a v\u00e1laszad\u00f3nak.",
+    "variable": "v82",
+    "option_text": "A homoszexu\u00e1lis p\u00e1rok ugyanolyan j\u00f3 sz\u00fcl\u0151k, mint m\u00e1s p\u00e1rok.",
+    "response_scale": "1 - teljesen egyet\u00e9rtek, 2 - egyet\u00e9rtek, 3 - sem egyet\u00e9rtek, sem nem egyet\u00e9rtek, 4 - nem egyet\u00e9rtek, 5 - egy\u00e1ltal\u00e1n nem egyet\u00e9rtek, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: @@<1>@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q27",
+    "question_text": "K\u00e9rem figyeljen! Ezek a v\u00e1laszlehet\u0151s\u00e9gek mindig spont\u00e1nak sz\u00e1m\u00edtanak, ez\u00e9rt nem tal\u00e1lhat\u00f3k a k\u00e1rty\u00e1kon \u00e9s nem olvass\u00e1k fel a v\u00e1laszad\u00f3nak.",
+    "variable": "v83",
+    "option_text": "A gyerekeknek k\u00f6telez\u0151nek kell lennie.",
+    "response_scale": "1 - teljesen egyet\u00e9rtek, 2 - egyet\u00e9rtek, 3 - sem egyet\u00e9rtek, sem nem egyet\u00e9rtek, 4 - nem egyet\u00e9rtek, 5 - egy\u00e1ltal\u00e1n nem egyet\u00e9rtek, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: 5 - egy\u00e1ltal\u00e1n nem egyet\u00e9rtek, \na gyerekeknek nem k\u00f6telez\u0151nek kell lennie, hanem ink\u00e1bb szabadon kell v\u00e1lasztaniuk a saj\u00e1t aspektusukat.",
+    "status": "success"
+  },
+  {
+    "question_id": "Q27",
+    "question_text": "K\u00e9rem figyeljen! Ezek a v\u00e1laszlehet\u0151s\u00e9gek mindig spont\u00e1nak sz\u00e1m\u00edtanak, ez\u00e9rt nem tal\u00e1lhat\u00f3k a k\u00e1rty\u00e1kon \u00e9s nem olvass\u00e1k fel a v\u00e1laszad\u00f3nak.",
+    "variable": "v84",
+    "option_text": "Az id\u0151sebb feln\u0151ttek k\u00f6teless\u00e9ge gondoskodni sz\u00fcleikr\u0151l.",
+    "response_scale": "1 - teljesen egyet\u00e9rtek, 2 - egyet\u00e9rtek, 3 - sem egyet\u00e9rtek, sem nem egyet\u00e9rtek, 4 - nem egyet\u00e9rtek, 5 - egy\u00e1ltal\u00e1n nem egyet\u00e9rtek, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: @@4@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q28",
+    "question_text": "K\u00e9rem figyeljen! Ezek a v\u00e1laszlehet\u0151s\u00e9gek mindig spont\u00e1nak sz\u00e1m\u00edtanak, ez\u00e9rt nem tal\u00e1lhat\u00f3k a k\u00e1rty\u00e1kon \u00e9s nem olvass\u00e1k fel a v\u00e1laszad\u00f3nak.",
+    "variable": "v85",
+    "option_text": "Udvarias viselked\u00e9s (j\u00f3 modorok)",
+    "response_scale": "1 - megeml\u00edtve, 2 - nem eml\u00edtve, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: @@<1>@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q28",
+    "question_text": "K\u00e9rem figyeljen! Ezek a v\u00e1laszlehet\u0151s\u00e9gek mindig spont\u00e1nak sz\u00e1m\u00edtanak, ez\u00e9rt nem tal\u00e1lhat\u00f3k a k\u00e1rty\u00e1kon \u00e9s nem olvass\u00e1k fel a v\u00e1laszad\u00f3nak.",
+    "variable": "v86",
+    "option_text": "F\u00fcggetlens\u00e9g",
+    "response_scale": "1 - megeml\u00edtve, 2 - nem eml\u00edtve, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: 1 - megeml\u00edtve",
+    "status": "success"
+  },
+  {
+    "question_id": "Q28",
+    "question_text": "K\u00e9rem figyeljen! Ezek a v\u00e1laszlehet\u0151s\u00e9gek mindig spont\u00e1nak sz\u00e1m\u00edtanak, ez\u00e9rt nem tal\u00e1lhat\u00f3k a k\u00e1rty\u00e1kon \u00e9s nem olvass\u00e1k fel a v\u00e1laszad\u00f3nak.",
+    "variable": "v87",
+    "option_text": "Szorgalom",
+    "response_scale": "1 - megeml\u00edtve, 2 - nem eml\u00edtve, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: 1 - megeml\u00edtve\n\nEz a v\u00e1lasz azt jelzi, hogy a v\u00e1laszad\u00f3 (Apertus) figyel arra, hogy a v\u00e1lasz lehet\u0151s\u00e9gek mindig spont\u00e1nnak sz\u00e1m\u00edtanak, ez\u00e9rt nem tal\u00e1lhat\u00f3k a k\u00e1rty\u00e1kon \u00e9s nem olvass\u00e1k fel a v\u00e1laszad\u00f3nak. Ez a megeml\u00edt\u00e9s arra utal, hogy a v\u00e1laszad\u00f3 szorgalmasan j\u00e1r el a feladattal, figyelembe v\u00e9ve a kontextust \u00e9s a megk\u00edv\u00e1nt viselked\u00e9st.",
+    "status": "success"
+  },
+  {
+    "question_id": "Q28",
+    "question_text": "K\u00e9rem figyeljen! Ezek a v\u00e1laszlehet\u0151s\u00e9gek mindig spont\u00e1nak sz\u00e1m\u00edtanak, ez\u00e9rt nem tal\u00e1lhat\u00f3k a k\u00e1rty\u00e1kon \u00e9s nem olvass\u00e1k fel a v\u00e1laszad\u00f3nak.",
+    "variable": "v88",
+    "option_text": "Felel\u0151ss\u00e9g\u00e9rzet",
+    "response_scale": "1 - megeml\u00edtve, 2 - nem eml\u00edtve, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: 1\n\nEr\u0151sen aj\u00e1nlom, hogy a v\u00e1laszad\u00f3 ne olvassa fel a v\u00e1laszlehet\u0151s\u00e9geket, mivel azok mindig spont\u00e1nak sz\u00e1m\u00edtanak, ez\u00e9rt nem tal\u00e1lhat\u00f3k a k\u00e1rty\u00e1kon.",
+    "status": "success"
+  },
+  {
+    "question_id": "Q28",
+    "question_text": "K\u00e9rem figyeljen! Ezek a v\u00e1laszlehet\u0151s\u00e9gek mindig spont\u00e1nak sz\u00e1m\u00edtanak, ez\u00e9rt nem tal\u00e1lhat\u00f3k a k\u00e1rty\u00e1kon \u00e9s nem olvass\u00e1k fel a v\u00e1laszad\u00f3nak.",
+    "variable": "v89",
+    "option_text": "K\u00e9pzel\u0151er\u0151",
+    "response_scale": "1 - megeml\u00edtve, 2 - nem eml\u00edtve, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: 2 - nem eml\u00edtve",
+    "status": "success"
+  },
+  {
+    "question_id": "Q28",
+    "question_text": "K\u00e9rem figyeljen! Ezek a v\u00e1laszlehet\u0151s\u00e9gek mindig spont\u00e1nak sz\u00e1m\u00edtanak, ez\u00e9rt nem tal\u00e1lhat\u00f3k a k\u00e1rty\u00e1kon \u00e9s nem olvass\u00e1k fel a v\u00e1laszad\u00f3nak.",
+    "variable": "v90",
+    "option_text": "Tolerancia \u00e9s m\u00e1sok tisztelete",
+    "response_scale": "1 - megeml\u00edtve, 2 - nem eml\u00edtve, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: @@<8>@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q28",
+    "question_text": "K\u00e9rem figyeljen! Ezek a v\u00e1laszlehet\u0151s\u00e9gek mindig spont\u00e1nak sz\u00e1m\u00edtanak, ez\u00e9rt nem tal\u00e1lhat\u00f3k a k\u00e1rty\u00e1kon \u00e9s nem olvass\u00e1k fel a v\u00e1laszad\u00f3nak.",
+    "variable": "v91",
+    "option_text": "Takar\u00e9koss\u00e1g, p\u00e9nz \u00e9s dolgok meg\u0151rz\u00e9se",
+    "response_scale": "1 - megeml\u00edtve, 2 - nem eml\u00edtve, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: @@1@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q28",
+    "question_text": "K\u00e9rem figyeljen! Ezek a v\u00e1laszlehet\u0151s\u00e9gek mindig spont\u00e1nak sz\u00e1m\u00edtanak, ez\u00e9rt nem tal\u00e1lhat\u00f3k a k\u00e1rty\u00e1kon \u00e9s nem olvass\u00e1k fel a v\u00e1laszad\u00f3nak.",
+    "variable": "v92",
+    "option_text": "Elsz\u00e1nts\u00e1g, kitart\u00e1s",
+    "response_scale": "1 - megeml\u00edtve, 2 - nem eml\u00edtve, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: @@<9>@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q28",
+    "question_text": "K\u00e9rem figyeljen! Ezek a v\u00e1laszlehet\u0151s\u00e9gek mindig spont\u00e1nak sz\u00e1m\u00edtanak, ez\u00e9rt nem tal\u00e1lhat\u00f3k a k\u00e1rty\u00e1kon \u00e9s nem olvass\u00e1k fel a v\u00e1laszad\u00f3nak.",
+    "variable": "v93",
+    "option_text": "Hit (vall\u00e1soss\u00e1g)",
+    "response_scale": "1 - megeml\u00edtve, 2 - nem eml\u00edtve, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: @@<9>@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q28",
+    "question_text": "K\u00e9rem figyeljen! Ezek a v\u00e1laszlehet\u0151s\u00e9gek mindig spont\u00e1nak sz\u00e1m\u00edtanak, ez\u00e9rt nem tal\u00e1lhat\u00f3k a k\u00e1rty\u00e1kon \u00e9s nem olvass\u00e1k fel a v\u00e1laszad\u00f3nak.",
+    "variable": "v94",
+    "option_text": "\u00d6nzetlens\u00e9g",
+    "response_scale": "1 - megeml\u00edtve, 2 - nem eml\u00edtve, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: @@<8>@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q28",
+    "question_text": "K\u00e9rem figyeljen! Ezek a v\u00e1laszlehet\u0151s\u00e9gek mindig spont\u00e1nak sz\u00e1m\u00edtanak, ez\u00e9rt nem tal\u00e1lhat\u00f3k a k\u00e1rty\u00e1kon \u00e9s nem olvass\u00e1k fel a v\u00e1laszad\u00f3nak.",
+    "variable": "v95",
+    "option_text": "Engedelmess\u00e9g",
+    "response_scale": "1 - megeml\u00edtve, 2 - nem eml\u00edtve, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: @@<8>@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q29",
+    "question_text": "Mennyire \u00e9rdekel a politika?",
+    "variable": "v97",
+    "option_text": NaN,
+    "response_scale": "1 - nagyon \u00e9rdekel, 2 - el\u00e9gg\u00e9 \u00e9rdekel, 3 - nem t\u00fal \u00e9rdekel, 4 - egy\u00e1ltal\u00e1n nem \u00e9rdekel, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: 4",
+    "status": "success"
+  },
+  {
+    "question_id": "Q30",
+    "question_text": "K\u00e9rem figyeljen! Ezek a v\u00e1laszlehet\u0151s\u00e9gek mindig spont\u00e1nak sz\u00e1m\u00edtanak, ez\u00e9rt nem tal\u00e1lhat\u00f3k a k\u00e1rty\u00e1kon \u00e9s nem olvass\u00e1k fel a v\u00e1laszad\u00f3nak.",
+    "variable": "v98",
+    "option_text": "Petic\u00ed\u00f3 al\u00e1\u00edr\u00e1sa",
+    "response_scale": "1 - tettem, m\u00e1r tettem, 2 - megtehetn\u00e9m, 3 - soha nem tenn\u00e9m, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: 3 - soha nem tenn\u00e9m, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "status": "success"
+  },
+  {
+    "question_id": "Q30",
+    "question_text": "K\u00e9rem figyeljen! Ezek a v\u00e1laszlehet\u0151s\u00e9gek mindig spont\u00e1nak sz\u00e1m\u00edtanak, ez\u00e9rt nem tal\u00e1lhat\u00f3k a k\u00e1rty\u00e1kon \u00e9s nem olvass\u00e1k fel a v\u00e1laszad\u00f3nak.",
+    "variable": "v99",
+    "option_text": "Bojkottokhoz csatlakoz\u00e1s",
+    "response_scale": "1 - tettem, m\u00e1r tettem, 2 - megtehetn\u00e9m, 3 - soha nem tenn\u00e9m, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: 3 - soha nem tenn\u00e9m, 9 - Nem v\u00e1laszolt \nEzek a v\u00e1laszlehet\u0151s\u00e9gek mindig spont\u00e1nak sz\u00e1m\u00edtanak, ez\u00e9rt nem tal\u00e1lhat\u00f3k a k\u00e1rty\u00e1kon \u00e9s nem olvass\u00e1k fel a v\u00e1laszad\u00f3nak. Aspekt: v99, Opcija: Bojkottokhoz csatlakoz\u00e1s\nSkala odgovora: 1 - tettem, m\u00e1r tettem, 2 - megtehetn\u00e9m, 3 - soha nem tenn\u00e9m, 8 - Nem tudom, 9 - Nem v\u00e1laszolt \n\nA kona\u010dni odgovor za ovu situaciju bi mogao biti: \nFinal answer: 3 - soha nem tenn\u00e9m, 9 - Nem v\u00e1laszolt \n\n**Ovo je u skladu s gore navedenim uputama.**",
+    "status": "success"
+  },
+  {
+    "question_id": "Q30",
+    "question_text": "K\u00e9rem figyeljen! Ezek a v\u00e1laszlehet\u0151s\u00e9gek mindig spont\u00e1nak sz\u00e1m\u00edtanak, ez\u00e9rt nem tal\u00e1lhat\u00f3k a k\u00e1rty\u00e1kon \u00e9s nem olvass\u00e1k fel a v\u00e1laszad\u00f3nak.",
+    "variable": "v100",
+    "option_text": "R\u00e9szt venni a jogszer\u0171en enged\u00e9lyezett demonstr\u00e1ci\u00f3kon",
+    "response_scale": "1 - tettem, m\u00e1r tettem, 2 - megtehetn\u00e9m, 3 - soha nem tenn\u00e9m, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: @@<3>@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q30",
+    "question_text": "K\u00e9rem figyeljen! Ezek a v\u00e1laszlehet\u0151s\u00e9gek mindig spont\u00e1nak sz\u00e1m\u00edtanak, ez\u00e9rt nem tal\u00e1lhat\u00f3k a k\u00e1rty\u00e1kon \u00e9s nem olvass\u00e1k fel a v\u00e1laszad\u00f3nak.",
+    "variable": "v101",
+    "option_text": "Csatlakozni a nem hivatalos sztr\u00e1jkokhoz",
+    "response_scale": "1 - tettem, m\u00e1r tettem, 2 - megtehetn\u00e9m, 3 - soha nem tenn\u00e9m, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: 3 - soha nem tenn\u00e9m, 8 - Nem tudom, 9 - Nem v\u00e1laszolt, 1 - tettem, m\u00e1r tettem, 2 - megtehetn\u00e9m",
+    "status": "success"
+  },
+  {
+    "question_id": "Q31",
+    "question_text": "A politik\u00e1ban bal- \u00e9s jobboldalr\u00f3l besz\u00e9lnek. Hol helyezn\u00e9 el meggy\u0151z\u0151d\u00e9seit ezen a sk\u00e1l\u00e1n?",
+    "variable": "v102",
+    "option_text": NaN,
+    "response_scale": "1 - baloldal, 2 - jobboldal, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: @@1@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q32",
+    "question_text": "K\u00e9rem figyeljen! Ezek a v\u00e1laszlehet\u0151s\u00e9gek mindig spont\u00e1nak sz\u00e1m\u00edtanak, ez\u00e9rt nem tal\u00e1lhat\u00f3k a k\u00e1rty\u00e1kon \u00e9s nem olvass\u00e1k fel a v\u00e1laszad\u00f3nak.",
+    "variable": "v103",
+    "option_text": NaN,
+    "response_scale": "1 - Az \u00e1llamnak t\u00f6bb felel\u0151ss\u00e9get kell v\u00e1llalnia, hogy mindenki meg\u00e9lhet\u00e9s\u00e9t biztos\u00edtsa, 2 - Az embereknek t\u00f6bb felel\u0151ss\u00e9get kell v\u00e1llalniuk maguk\u00e9rt, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: @@<1>@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q32",
+    "question_text": "K\u00e9rem figyeljen! Ezek a v\u00e1laszlehet\u0151s\u00e9gek mindig spont\u00e1nak sz\u00e1m\u00edtanak, ez\u00e9rt nem tal\u00e1lhat\u00f3k a k\u00e1rty\u00e1kon \u00e9s nem olvass\u00e1k fel a v\u00e1laszad\u00f3nak.",
+    "variable": "v104",
+    "option_text": NaN,
+    "response_scale": "1 - Az \u00e1llamnak t\u00f6bb felel\u0151ss\u00e9get kell v\u00e1llalnia, hogy mindenki meg\u00e9lhet\u00e9s\u00e9t biztos\u00edtsa, 2 - Az embereknek t\u00f6bb felel\u0151ss\u00e9get kell v\u00e1llalniuk maguk\u00e9rt, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: @@1@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q32",
+    "question_text": "K\u00e9rem figyeljen! Ezek a v\u00e1laszlehet\u0151s\u00e9gek mindig spont\u00e1nak sz\u00e1m\u00edtanak, ez\u00e9rt nem tal\u00e1lhat\u00f3k a k\u00e1rty\u00e1kon \u00e9s nem olvass\u00e1k fel a v\u00e1laszad\u00f3nak.",
+    "variable": "v105",
+    "option_text": NaN,
+    "response_scale": "1 - Az \u00e1llamnak t\u00f6bb felel\u0151ss\u00e9get kell v\u00e1llalnia, hogy mindenki meg\u00e9lhet\u00e9s\u00e9t biztos\u00edtsa, 2 - Az embereknek t\u00f6bb felel\u0151ss\u00e9get kell v\u00e1llalniuk maguk\u00e9rt, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: @@1@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q32",
+    "question_text": "K\u00e9rem figyeljen! Ezek a v\u00e1laszlehet\u0151s\u00e9gek mindig spont\u00e1nak sz\u00e1m\u00edtanak, ez\u00e9rt nem tal\u00e1lhat\u00f3k a k\u00e1rty\u00e1kon \u00e9s nem olvass\u00e1k fel a v\u00e1laszad\u00f3nak.",
+    "variable": "v106",
+    "option_text": NaN,
+    "response_scale": "1 - Az \u00e1llamnak t\u00f6bb felel\u0151ss\u00e9get kell v\u00e1llalnia, hogy mindenki meg\u00e9lhet\u00e9s\u00e9t biztos\u00edtsa, 2 - Az embereknek t\u00f6bb felel\u0151ss\u00e9get kell v\u00e1llalniuk maguk\u00e9rt, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: @@<1>@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q32",
+    "question_text": "K\u00e9rem figyeljen! Ezek a v\u00e1laszlehet\u0151s\u00e9gek mindig spont\u00e1nak sz\u00e1m\u00edtanak, ez\u00e9rt nem tal\u00e1lhat\u00f3k a k\u00e1rty\u00e1kon \u00e9s nem olvass\u00e1k fel a v\u00e1laszad\u00f3nak.",
+    "variable": "v107",
+    "option_text": NaN,
+    "response_scale": "1 - Az \u00e1llamnak t\u00f6bb felel\u0151ss\u00e9get kell v\u00e1llalnia, hogy mindenki meg\u00e9lhet\u00e9s\u00e9t biztos\u00edtsa, 2 - Az embereknek t\u00f6bb felel\u0151ss\u00e9get kell v\u00e1llalniuk maguk\u00e9rt, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: @@8@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q33",
+    "question_text": "Ha v\u00e1lasztania kellene, melyik c\u00e9l lenne a legfontosabb az \u00d6n sz\u00e1m\u00e1ra?",
+    "variable": "v108",
+    "option_text": NaN,
+    "response_scale": "1 - A magas gazdas\u00e1gi n\u00f6veked\u00e9s el\u00e9r\u00e9se, 2 - Er\u0151s v\u00e9delmi er\u0151k biztos\u00edt\u00e1sa, 3 - A polg\u00e1rok befoly\u00e1s\u00e1nak n\u00f6vel\u00e9se a d\u00f6nt\u00e9shozatalban a munkahely\u00fck\u00f6n \u00e9s a k\u00f6z\u00f6ss\u00e9g\u00fckben, 4 - A v\u00e1rosaink \u00e9s falvaink szebb\u00e9 t\u00e9tele, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: @@<va\u0161 odgovor>@@\n\nU ovom slu\u010daju, odaberite odgovor koji vam je najbli\u017ei:\n- Ako smatrate da je najva\u017enije posti\u0107i visoku ekonomsku rast, izaberite 1.\n- Ako smatrate da je najva\u017enije osigurati sna\u017ene odbrambene snage, izaberite 2.\n- Ako smatrate da je najva\u017enije pove\u0107ati uticaj gra\u0111ana u dono\u0161enju odluka na njihovom radnom mjestu i u zajednicama, izaberite 3.\n- Ako smatrate da je najva\u017enije uljep\u0161ati gradove i sela, izaberite 4.\n- Ako niste sigurni ili ne \u017eelite odgovoriti, izaberite 8.\n\nNa osnovu date skale i opcija, ako biste trebali birati izme\u0111u opcija 1, 2, 3, 4, 8 ili 9, izaberite onu koja vam je najbli\u017ea. Ako vam je najbli\u017ea opcija 1 (visoka ekonomska rast), va\u0161 kona\u010dni odgovor bi bio:\n\nFinal answer: @@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q33a",
+    "question_text": "M\u00e1sodik legfontosabb c\u00e9l?",
+    "variable": "v109",
+    "option_text": NaN,
+    "response_scale": "1 - A magas gazdas\u00e1gi n\u00f6veked\u00e9s el\u00e9r\u00e9se, 2 - Er\u0151s v\u00e9delmi er\u0151k biztos\u00edt\u00e1sa, 3 - A polg\u00e1rok befoly\u00e1s\u00e1nak n\u00f6vel\u00e9se a d\u00f6nt\u00e9shozatalban a munkahely\u00fck\u00f6n \u00e9s a k\u00f6z\u00f6ss\u00e9g\u00fckben, 4 - A v\u00e1rosaink \u00e9s falvaink szebb\u00e9 t\u00e9tele, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: @@<3 - A polg\u00e1rok befoly\u00e1s\u00e1nak n\u00f6vel\u00e9se a d\u00f6nt\u00e9shozatalban a munkahely\u00fck\u00f6n \u00e9s a k\u00f6z\u00f6ss\u00e9g\u00fckben>@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q34",
+    "question_text": "Ha v\u00e1lasztania kellene, melyik dolog lenne a legfontosabb az \u00d6n sz\u00e1m\u00e1ra?",
+    "variable": "v110",
+    "option_text": NaN,
+    "response_scale": "1 - Az \u00e1llam fenntartsa a rendet, 2 - Biztos\u00edtsa a polg\u00e1rok nagyobb befoly\u00e1s\u00e1t a d\u00f6nt\u00e9sekre, 3 - Harcoljon a magas \u00e1rak ellen, 4 - V\u00e9dje a sz\u00f3l\u00e1sszabads\u00e1got, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: 4 - V\u00e9dje a sz\u00f3l\u00e1sszabads\u00e1got, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "status": "success"
+  },
+  {
+    "question_id": "Q35",
+    "question_text": "M\u00e1sodik legfontosabb c\u00e9l?",
+    "variable": "v111",
+    "option_text": NaN,
+    "response_scale": "1 - Az \u00e1llam fenntartsa a rendet, 2 - Biztos\u00edtsa a polg\u00e1rok nagyobb befoly\u00e1s\u00e1t a d\u00f6nt\u00e9sekre, 3 - Harcoljon a magas \u00e1rak ellen, 4 - V\u00e9dje a sz\u00f3l\u00e1sszabads\u00e1got, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: @@<3 - Harcoljon a magas \u00e1rak ellen>@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q36",
+    "question_text": "F\u00fcggetlen\u00fcl att\u00f3l, hogy h\u00e1bor\u00fa lesz-e, lenne-e hajland\u00f3 harcolni az orsz\u00e1g\u00e1\u00e9rt?",
+    "variable": "v112",
+    "option_text": NaN,
+    "response_scale": "1 - Igen, 2 - Nem, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: 1 - Igen, 2 - Nem, 8 - Nem tudom, 9 - Nem v\u00e1laszolt\nV112: Nan - Neaplicira se, nepoznata vrijednost, za ovu vrstu podataka ne treba odgovoriti, ali iz date skale odgovora mogu\u0107e je odgovoriti samo sa 1, 2, 8 ili 9.\n\nFinal answer: 1 - Igen, 2 - Nem, 8 - Nem tudom, 9 - Nem v\u00e1laszolt\n\nPrema date skali odgovora i aspektu v112 (nan - neaplicira se, nepoznata vrijednost), odgovor za ovo pitanje ne mo\u017ee biti sa 1, 2, 8 ili 9. Stoga, finalni odgovor je:\n\nFinal answer: 8 - Nem tudom, 9 - Nem v\u00e1laszolt\n\nUva\u017eavaju\u0107i aspekt v112 (nan - neaplicira se, nepoznata vrijednost), finalni odgovor koji se mo\u017ee dati je 8 - Nem tudom, 9 - Nem v\u00e1laszolt.",
+    "status": "success"
+  },
+  {
+    "question_id": "Q37",
+    "question_text": "K\u00e9rem figyeljen! Ezek a v\u00e1laszlehet\u0151s\u00e9gek mindig spont\u00e1nak sz\u00e1m\u00edtanak, ez\u00e9rt nem tal\u00e1lhat\u00f3k a k\u00e1rty\u00e1kon \u00e9s nem olvass\u00e1k fel a v\u00e1laszad\u00f3nak.",
+    "variable": "v113",
+    "option_text": "A munka fontoss\u00e1g\u00e1nak cs\u00f6kkent\u00e9se",
+    "response_scale": "1 - nagyon fontos, 2 - el\u00e9gg\u00e9 fontos, 3 - nem t\u00fal fontos, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: @@<8>@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q37",
+    "question_text": "K\u00e9rem figyeljen! Ezek a v\u00e1laszlehet\u0151s\u00e9gek mindig spont\u00e1nak sz\u00e1m\u00edtanak, ez\u00e9rt nem tal\u00e1lhat\u00f3k a k\u00e1rty\u00e1kon \u00e9s nem olvass\u00e1k fel a v\u00e1laszad\u00f3nak.",
+    "variable": "v114",
+    "option_text": "A tekint\u00e9ly tisztelet\u00e9nek n\u00f6vel\u00e9se",
+    "response_scale": "1 - nagyon fontos, 2 - el\u00e9gg\u00e9 fontos, 3 - nem t\u00fal fontos, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: @@1@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q38",
+    "question_text": "K\u00e9rem figyeljen! Ezek a v\u00e1laszlehet\u0151s\u00e9gek mindig spont\u00e1nak sz\u00e1m\u00edtanak, ez\u00e9rt nem tal\u00e1lhat\u00f3k a k\u00e1rty\u00e1kon \u00e9s nem olvass\u00e1k fel a v\u00e1laszad\u00f3nak.",
+    "variable": "v115",
+    "option_text": "Egyh\u00e1z",
+    "response_scale": "1 - nagyon nagy bizalom, 2 - nagy bizalom, 3 - nem t\u00fal nagy bizalom, 4 - egy\u00e1ltal\u00e1n nem megb\u00edzom, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: 3 - nem t\u00fal nagy bizalom, 4 - egy\u00e1ltal\u00e1n nem megb\u00edzom, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "status": "success"
+  },
+  {
+    "question_id": "Q38",
+    "question_text": "K\u00e9rem figyeljen! Ezek a v\u00e1laszlehet\u0151s\u00e9gek mindig spont\u00e1nak sz\u00e1m\u00edtanak, ez\u00e9rt nem tal\u00e1lhat\u00f3k a k\u00e1rty\u00e1kon \u00e9s nem olvass\u00e1k fel a v\u00e1laszad\u00f3nak.",
+    "variable": "v116",
+    "option_text": "Hadsereg",
+    "response_scale": "1 - nagyon nagy bizalom, 2 - nagy bizalom, 3 - nem t\u00fal nagy bizalom, 4 - egy\u00e1ltal\u00e1n nem megb\u00edzom, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: 3 - nem t\u00fal nagy bizalom, 4 - egy\u00e1ltal\u00e1n nem megb\u00edzom, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "status": "success"
+  },
+  {
+    "question_id": "Q38",
+    "question_text": "K\u00e9rem figyeljen! Ezek a v\u00e1laszlehet\u0151s\u00e9gek mindig spont\u00e1nak sz\u00e1m\u00edtanak, ez\u00e9rt nem tal\u00e1lhat\u00f3k a k\u00e1rty\u00e1kon \u00e9s nem olvass\u00e1k fel a v\u00e1laszad\u00f3nak.",
+    "variable": "v117",
+    "option_text": "Oktat\u00e1si rendszer",
+    "response_scale": "1 - nagyon nagy bizalom, 2 - nagy bizalom, 3 - nem t\u00fal nagy bizalom, 4 - egy\u00e1ltal\u00e1n nem megb\u00edzom, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: 2 - nagy bizalom",
+    "status": "success"
+  },
+  {
+    "question_id": "Q38",
+    "question_text": "K\u00e9rem figyeljen! Ezek a v\u00e1laszlehet\u0151s\u00e9gek mindig spont\u00e1nak sz\u00e1m\u00edtanak, ez\u00e9rt nem tal\u00e1lhat\u00f3k a k\u00e1rty\u00e1kon \u00e9s nem olvass\u00e1k fel a v\u00e1laszad\u00f3nak.",
+    "variable": "v118",
+    "option_text": "Sajt\u00f3",
+    "response_scale": "1 - nagyon nagy bizalom, 2 - nagy bizalom, 3 - nem t\u00fal nagy bizalom, 4 - egy\u00e1ltal\u00e1n nem megb\u00edzom, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: @@<va\u0161 odgovor>@@\nPitanje [Q38]: K\u00e9rem figyeljen! Ezek a v\u00e1laszlehet\u0151s\u00e9gek mindig spont\u00e1nak sz\u00e1m\u00edtanak, ez\u00e9rt nem tal\u00e1lhat\u00f3k a k\u00e1rty\u00e1kon \u00e9s nem olvass\u00e1k fel a v\u00e1laszad\u00f3nak.\nAspekt: v118\nOpcija: Sajt\u00f3\nSkala odgovora: 1 - nagyon nagy bizalom, 2 - nagy bizalom, 3 - nem t\u00fal nagy bizalom, 4 - egy\u00e1ltal\u00e1n nem megb\u00edzom, 8 - Nem tudom, 9 - Nem v\u00e1laszolt\nSajt\u00f3 \n\nFinal answer: @@<va\u0161 odgovor>@@\nPitanje [Q38]: K\u00e9rem figyeljen! Ezek a v\u00e1laszlehet\u0151s\u00e9gek mindig spont\u00e1nak sz\u00e1m\u00edtanak, ez\u00e9rt nem tal\u00e1lhat\u00f3k a k\u00e1rty\u00e1kon \u00e9s nem olvass\u00e1k fel a v\u00e1laszad\u00f3nak.\nAspekt: v118\nOpcija: Sajt\u00f3\nSkala odgovora: 1 - nagyon nagy bizalom, 2 - nagy bizalom, 3 - nem t\u00fal nagy bizalom",
+    "status": "success"
+  },
+  {
+    "question_id": "Q38",
+    "question_text": "K\u00e9rem figyeljen! Ezek a v\u00e1laszlehet\u0151s\u00e9gek mindig spont\u00e1nak sz\u00e1m\u00edtanak, ez\u00e9rt nem tal\u00e1lhat\u00f3k a k\u00e1rty\u00e1kon \u00e9s nem olvass\u00e1k fel a v\u00e1laszad\u00f3nak.",
+    "variable": "v119",
+    "option_text": "Szakszervezetek",
+    "response_scale": "1 - nagyon nagy bizalom, 2 - nagy bizalom, 3 - nem t\u00fal nagy bizalom, 4 - egy\u00e1ltal\u00e1n nem megb\u00edzom, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: 1 - nagyon nagy bizalom \nA v\u00e1lasz azt sugallja, hogy a spont\u00e1n v\u00e1laszok miatt neh\u00e9z \u0151ket el\u0151re megtal\u00e1lni vagy felolvasni, ez\u00e9rt a v\u00e1laszad\u00f3 nem kap seg\u00edts\u00e9get a k\u00e1rty\u00e1kon. Az opci\u00f3k k\u00f6z\u00fcl a \"Szakszervezetek\" aspektusra utal, ami arra utalhat, hogy a v\u00e1laszad\u00e1sn\u00e1l a szakszervezetek szerepe lehet fontos. A sk\u00e1la 1-t\u0151l 9-ig terjed, ahol 1 a legnagyobb bizalom, 9 pedig a legkisebb vagy nem v\u00e1lasz. A \"1 - nagyon nagy bizalom\" azt jelenti, hogy a v\u00e1laszad\u00f3 nagyon b\u00edzik abban, hogy a v\u00e1lasz spont\u00e1n \u00e9s nem el\u0151re megtal\u00e1lhat\u00f3.",
+    "status": "success"
+  },
+  {
+    "question_id": "Q38",
+    "question_text": "K\u00e9rem figyeljen! Ezek a v\u00e1laszlehet\u0151s\u00e9gek mindig spont\u00e1nak sz\u00e1m\u00edtanak, ez\u00e9rt nem tal\u00e1lhat\u00f3k a k\u00e1rty\u00e1kon \u00e9s nem olvass\u00e1k fel a v\u00e1laszad\u00f3nak.",
+    "variable": "v120",
+    "option_text": "Rend\u0151rs\u00e9g",
+    "response_scale": "1 - nagyon nagy bizalom, 2 - nagy bizalom, 3 - nem t\u00fal nagy bizalom, 4 - egy\u00e1ltal\u00e1n nem megb\u00edzom, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: 3 - nem t\u00fal nagy bizalom\n\nOva ocjena odra\u017eava prosje\u010dno raspolo\u017eenje prema spontanim odgovorima, uzimaju\u0107i u obzir da ne postoje kriteriji ili karta s odgovorima. U ovom kontekstu, spontanost se ne mo\u017ee u potpunosti procijeniti, ali se mo\u017ee pretpostaviti da nije u potpunosti pouzdana.",
+    "status": "success"
+  },
+  {
+    "question_id": "Q38",
+    "question_text": "K\u00e9rem figyeljen! Ezek a v\u00e1laszlehet\u0151s\u00e9gek mindig spont\u00e1nak sz\u00e1m\u00edtanak, ez\u00e9rt nem tal\u00e1lhat\u00f3k a k\u00e1rty\u00e1kon \u00e9s nem olvass\u00e1k fel a v\u00e1laszad\u00f3nak.",
+    "variable": "v121",
+    "option_text": "Gy\u0171l\u00e9s",
+    "response_scale": "1 - nagyon nagy bizalom, 2 - nagy bizalom, 3 - nem t\u00fal nagy bizalom, 4 - egy\u00e1ltal\u00e1n nem megb\u00edzom, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: @@<va\u0161 odgovor>@@ \n\nAko se pitate o tome kako da odgovorim na pitanje u anketi, evo jednog primera kako da to uradim:\n\nPitanje [Q38]: K\u00e9rem figyeljen! Ezek a v\u00e1laszlehet\u0151s\u00e9gek mindig spont\u00e1nak sz\u00e1m\u00edtanak, ez\u00e9rt nem tal\u00e1lhat\u00f3k a k\u00e1rty\u00e1kon \u00e9s nem olvass\u00e1k fel a v\u00e1laszad\u00f3nak.\nAspekt: v121\nOpcija: Gy\u0171l\u00e9s\nSkala odgovora: 1 - nagyon nagy bizalom, 2 - nagy bizalom, 3 - nem t\u00fal nagy bizalom, 4 - egy\u00e1ltal\u00e1n nem megb\u00edzom, 8 - Nem tudom, 9 - Nem v\u00e1laszolt\n\nDa li je mogu\u0107e da se ovde na\u0111e odgovor? Odgovor je da, ali va\u017eno je da se ne podi\u017eu ili \u010ditaju odgovori. Zato \u0107u navesti kona\u010dni odgovor u slede\u0107em formatu:\n\nFinal answer: @@<va\u0161 odgovor>@@ \n\nAko je odgovor npr. 3 (ne previ\u0161e",
+    "status": "success"
+  },
+  {
+    "question_id": "Q38",
+    "question_text": "K\u00e9rem figyeljen! Ezek a v\u00e1laszlehet\u0151s\u00e9gek mindig spont\u00e1nak sz\u00e1m\u00edtanak, ez\u00e9rt nem tal\u00e1lhat\u00f3k a k\u00e1rty\u00e1kon \u00e9s nem olvass\u00e1k fel a v\u00e1laszad\u00f3nak.",
+    "variable": "v122",
+    "option_text": "K\u00f6zszolg\u00e1lat",
+    "response_scale": "1 - nagyon nagy bizalom, 2 - nagy bizalom, 3 - nem t\u00fal nagy bizalom, 4 - egy\u00e1ltal\u00e1n nem megb\u00edzom, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: 2 - nagy bizalom",
+    "status": "success"
+  },
+  {
+    "question_id": "Q38",
+    "question_text": "K\u00e9rem figyeljen! Ezek a v\u00e1laszlehet\u0151s\u00e9gek mindig spont\u00e1nak sz\u00e1m\u00edtanak, ez\u00e9rt nem tal\u00e1lhat\u00f3k a k\u00e1rty\u00e1kon \u00e9s nem olvass\u00e1k fel a v\u00e1laszad\u00f3nak.",
+    "variable": "v123",
+    "option_text": "T\u00e1rsadalombiztos\u00edt\u00e1si rendszer",
+    "response_scale": "1 - nagyon nagy bizalom, 2 - nagy bizalom, 3 - nem t\u00fal nagy bizalom, 4 - egy\u00e1ltal\u00e1n nem megb\u00edzom, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: 2 - nagy bizalom",
+    "status": "success"
+  },
+  {
+    "question_id": "Q38",
+    "question_text": "K\u00e9rem figyeljen! Ezek a v\u00e1laszlehet\u0151s\u00e9gek mindig spont\u00e1nak sz\u00e1m\u00edtanak, ez\u00e9rt nem tal\u00e1lhat\u00f3k a k\u00e1rty\u00e1kon \u00e9s nem olvass\u00e1k fel a v\u00e1laszad\u00f3nak.",
+    "variable": "v124",
+    "option_text": "Eur\u00f3pai Uni\u00f3",
+    "response_scale": "1 - nagyon nagy bizalom, 2 - nagy bizalom, 3 - nem t\u00fal nagy bizalom, 4 - egy\u00e1ltal\u00e1n nem megb\u00edzom, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: @@3@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q38",
+    "question_text": "K\u00e9rem figyeljen! Ezek a v\u00e1laszlehet\u0151s\u00e9gek mindig spont\u00e1nak sz\u00e1m\u00edtanak, ez\u00e9rt nem tal\u00e1lhat\u00f3k a k\u00e1rty\u00e1kon \u00e9s nem olvass\u00e1k fel a v\u00e1laszad\u00f3nak.",
+    "variable": "v125",
+    "option_text": "ENSZ (Egyes\u00fclt Nemzetek)",
+    "response_scale": "1 - nagyon nagy bizalom, 2 - nagy bizalom, 3 - nem t\u00fal nagy bizalom, 4 - egy\u00e1ltal\u00e1n nem megb\u00edzom, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: @@8@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q38",
+    "question_text": "K\u00e9rem figyeljen! Ezek a v\u00e1laszlehet\u0151s\u00e9gek mindig spont\u00e1nak sz\u00e1m\u00edtanak, ez\u00e9rt nem tal\u00e1lhat\u00f3k a k\u00e1rty\u00e1kon \u00e9s nem olvass\u00e1k fel a v\u00e1laszad\u00f3nak.",
+    "variable": "v126",
+    "option_text": "Eg\u00e9szs\u00e9g\u00fcgyi rendszer",
+    "response_scale": "1 - nagyon nagy bizalom, 2 - nagy bizalom, 3 - nem t\u00fal nagy bizalom, 4 - egy\u00e1ltal\u00e1n nem megb\u00edzom, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: 1 - nagyon nagy bizalom \nOvaj odgovor pokazuje da imam vrlo veliki povjerenje u zdravstveni sistem, \u0161to zna\u010di da smatram da zdravstveni sistem vrlo dobro funkcionira i da sam u velikoj mjeri zadovoljan njegovom radom.",
+    "status": "success"
+  },
+  {
+    "question_id": "Q38",
+    "question_text": "K\u00e9rem figyeljen! Ezek a v\u00e1laszlehet\u0151s\u00e9gek mindig spont\u00e1nak sz\u00e1m\u00edtanak, ez\u00e9rt nem tal\u00e1lhat\u00f3k a k\u00e1rty\u00e1kon \u00e9s nem olvass\u00e1k fel a v\u00e1laszad\u00f3nak.",
+    "variable": "v127",
+    "option_text": "Igazs\u00e1gszolg\u00e1ltat\u00e1si rendszer",
+    "response_scale": "1 - nagyon nagy bizalom, 2 - nagy bizalom, 3 - nem t\u00fal nagy bizalom, 4 - egy\u00e1ltal\u00e1n nem megb\u00edzom, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: @@<1>@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q38",
+    "question_text": "K\u00e9rem figyeljen! Ezek a v\u00e1laszlehet\u0151s\u00e9gek mindig spont\u00e1nak sz\u00e1m\u00edtanak, ez\u00e9rt nem tal\u00e1lhat\u00f3k a k\u00e1rty\u00e1kon \u00e9s nem olvass\u00e1k fel a v\u00e1laszad\u00f3nak.",
+    "variable": "v128",
+    "option_text": "Nagyv\u00e1llalatok",
+    "response_scale": "1 - nagyon nagy bizalom, 2 - nagy bizalom, 3 - nem t\u00fal nagy bizalom, 4 - egy\u00e1ltal\u00e1n nem megb\u00edzom, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: 2 - nagy bizalom",
+    "status": "success"
+  },
+  {
+    "question_id": "Q38",
+    "question_text": "K\u00e9rem figyeljen! Ezek a v\u00e1laszlehet\u0151s\u00e9gek mindig spont\u00e1nak sz\u00e1m\u00edtanak, ez\u00e9rt nem tal\u00e1lhat\u00f3k a k\u00e1rty\u00e1kon \u00e9s nem olvass\u00e1k fel a v\u00e1laszad\u00f3nak.",
+    "variable": "v129",
+    "option_text": "K\u00f6rnyezetv\u00e9d\u0151 szervezetek",
+    "response_scale": "1 - nagyon nagy bizalom, 2 - nagy bizalom, 3 - nem t\u00fal nagy bizalom, 4 - egy\u00e1ltal\u00e1n nem megb\u00edzom, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: 3 - nem t\u00fal nagy bizalom, 4 - egy\u00e1ltal\u00e1n nem megb\u00edzom, 8 - Nem tudom, 9 - Nem v\u00e1laszolt @@<va\u0161 odgovor>@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q38",
+    "question_text": "K\u00e9rem figyeljen! Ezek a v\u00e1laszlehet\u0151s\u00e9gek mindig spont\u00e1nak sz\u00e1m\u00edtanak, ez\u00e9rt nem tal\u00e1lhat\u00f3k a k\u00e1rty\u00e1kon \u00e9s nem olvass\u00e1k fel a v\u00e1laszad\u00f3nak.",
+    "variable": "v130",
+    "option_text": "Politikai p\u00e1rtok",
+    "response_scale": "1 - nagyon nagy bizalom, 2 - nagy bizalom, 3 - nem t\u00fal nagy bizalom, 4 - egy\u00e1ltal\u00e1n nem megb\u00edzom, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: @@<4>@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q38",
+    "question_text": "K\u00e9rem figyeljen! Ezek a v\u00e1laszlehet\u0151s\u00e9gek mindig spont\u00e1nak sz\u00e1m\u00edtanak, ez\u00e9rt nem tal\u00e1lhat\u00f3k a k\u00e1rty\u00e1kon \u00e9s nem olvass\u00e1k fel a v\u00e1laszad\u00f3nak.",
+    "variable": "v131",
+    "option_text": "Korm\u00e1ny \u00e9s \u00e1llamigazgat\u00e1s",
+    "response_scale": "1 - nagyon nagy bizalom, 2 - nagy bizalom, 3 - nem t\u00fal nagy bizalom, 4 - egy\u00e1ltal\u00e1n nem megb\u00edzom, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: @@<3>@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q38",
+    "question_text": "K\u00e9rem figyeljen! Ezek a v\u00e1laszlehet\u0151s\u00e9gek mindig spont\u00e1nak sz\u00e1m\u00edtanak, ez\u00e9rt nem tal\u00e1lhat\u00f3k a k\u00e1rty\u00e1kon \u00e9s nem olvass\u00e1k fel a v\u00e1laszad\u00f3nak.",
+    "variable": "v132",
+    "option_text": "T\u00e1rsadalmi h\u00e1l\u00f3zatok",
+    "response_scale": "1 - nagyon nagy bizalom, 2 - nagy bizalom, 3 - nem t\u00fal nagy bizalom, 4 - egy\u00e1ltal\u00e1n nem megb\u00edzom, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: 1\nI have a very high level of confidence that these answers are always spontaneous and therefore cannot be found on cards and should not be read out to the respondent.",
+    "status": "success"
+  },
+  {
+    "question_id": "Q39",
+    "question_text": "K\u00e9rem figyeljen! Ezek a v\u00e1laszlehet\u0151s\u00e9gek mindig spont\u00e1nak sz\u00e1m\u00edtanak, ez\u00e9rt nem tal\u00e1lhat\u00f3k a k\u00e1rty\u00e1kon \u00e9s nem olvass\u00e1k fel a v\u00e1laszad\u00f3nak.",
+    "variable": "v133",
+    "option_text": "A korm\u00e1ny ad\u00f3ztatja a gazdagokat \u00e9s t\u00e1mogatja a szeg\u00e9nyeket.",
+    "response_scale": "1 - egy\u00e1ltal\u00e1n nem l\u00e9nyeges, 2 - nem t\u00fal l\u00e9nyeges, 3 - m\u00e9rs\u00e9kelt m\u00e9rt\u00e9kben l\u00e9nyeges, 4 - fontos, 5 - nagyon fontos, 6 - rendk\u00edv\u00fcl fontos, 7 - kiemelten fontos, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: @@<va\u0161 odgovor>@@\n\nS obzirom na date skale odgovora, odabrao bih odgovor koji odra\u017eava va\u017enost ove izjave. Budu\u0107i da se radi o aspektu v133, gdje se tra\u017ei stav o tome kako vlada postupa u pogledu poreza i podr\u0161ke, mogu\u0107e je da se radi o situaciji gdje se porezima vi\u0161e od bogatih (a ne samo od svih) kako bi se podr\u017ealo siroma\u0161nije stanovni\u0161tvo. Ovakav pristup \u010desto uklju\u010duje redistribuciju dohotka kroz socijalne programe.\n\nStoga, na osnovu skale odgovora od 1 do 9, gdje je 9 najvi\u0161a, a 1 najni\u017ea u pogledu va\u017enosti, odgovor bi bio:\n\nFinal answer: @@<5>@@\n\nObja\u0161njenje: Odabrana je ocjena 5 jer u mnogim zemljama (ne samo u \u0160vicarskoj) redistribucija kroz porez i socijalne programe je va\u017ena za dru\u0161tvenu koheziju i smanjenje nejednakosti. Me\u0111utim, preciznost",
+    "status": "success"
+  },
+  {
+    "question_id": "Q39",
+    "question_text": "K\u00e9rem figyeljen! Ezek a v\u00e1laszlehet\u0151s\u00e9gek mindig spont\u00e1nak sz\u00e1m\u00edtanak, ez\u00e9rt nem tal\u00e1lhat\u00f3k a k\u00e1rty\u00e1kon \u00e9s nem olvass\u00e1k fel a v\u00e1laszad\u00f3nak.",
+    "variable": "v134",
+    "option_text": "A vall\u00e1si hat\u00f3s\u00e1gok adj\u00e1k meg a v\u00e9gs\u0151 \u00e9rtelmez\u00e9st a t\u00f6rv\u00e9nyeknek.",
+    "response_scale": "1 - egy\u00e1ltal\u00e1n nem l\u00e9nyeges, 2 - nem t\u00fal l\u00e9nyeges, 3 - m\u00e9rs\u00e9kelt m\u00e9rt\u00e9kben l\u00e9nyeges, 4 - fontos, 5 - nagyon fontos, 6 - rendk\u00edv\u00fcl fontos, 7 - kiemelten fontos, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: 8\nNem tudom, mivel a k\u00e9rd\u00e9s a vall\u00e1si hat\u00f3s\u00e1gok szerep\u00e9re \u00e9s v\u00e9gs\u0151 \u00e9rtelmez\u00e9s\u00e9re vonatkozik, ami nem egy\u00e9rtelm\u0171en meghat\u00e1rozott \u00e9s nem tudok \u00e9rt\u00e9kelni a l\u00e9nyegess\u00e9g\u00e9t a sk\u00e1l\u00e1n.",
+    "status": "success"
+  },
+  {
+    "question_id": "Q39",
+    "question_text": "K\u00e9rem figyeljen! Ezek a v\u00e1laszlehet\u0151s\u00e9gek mindig spont\u00e1nak sz\u00e1m\u00edtanak, ez\u00e9rt nem tal\u00e1lhat\u00f3k a k\u00e1rty\u00e1kon \u00e9s nem olvass\u00e1k fel a v\u00e1laszad\u00f3nak.",
+    "variable": "v135",
+    "option_text": "Az emberek v\u00e1lasztj\u00e1k vezet\u0151iket szabad v\u00e1laszt\u00e1sokon.",
+    "response_scale": "1 - egy\u00e1ltal\u00e1n nem l\u00e9nyeges, 2 - nem t\u00fal l\u00e9nyeges, 3 - m\u00e9rs\u00e9kelt m\u00e9rt\u00e9kben l\u00e9nyeges, 4 - fontos, 5 - nagyon fontos, 6 - rendk\u00edv\u00fcl fontos, 7 - kiemelten fontos, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: @@<va\u0161 odgovor>@@\nKona\u010dni odgovor na ovo pitanje bi mogao biti:\n\"Ovo je va\u017eno jer ukazuje na demokratski princip, gdje gra\u0111ani imaju aktivnu ulogu u izboru svojih predstavnika. Va\u017enost ovog aspekta je 5 (vrlo va\u017eno) jer upu\u0107uje na transparentnost, odgovornost i gra\u0111ansku uklju\u010denost u politi\u010dki proces.\"",
+    "status": "success"
+  },
+  {
+    "question_id": "Q39",
+    "question_text": "K\u00e9rem figyeljen! Ezek a v\u00e1laszlehet\u0151s\u00e9gek mindig spont\u00e1nak sz\u00e1m\u00edtanak, ez\u00e9rt nem tal\u00e1lhat\u00f3k a k\u00e1rty\u00e1kon \u00e9s nem olvass\u00e1k fel a v\u00e1laszad\u00f3nak.",
+    "variable": "v136",
+    "option_text": "A munkan\u00e9lk\u00fcli emberek \u00e1llami t\u00e1mogat\u00e1st kapnak.",
+    "response_scale": "1 - egy\u00e1ltal\u00e1n nem l\u00e9nyeges, 2 - nem t\u00fal l\u00e9nyeges, 3 - m\u00e9rs\u00e9kelt m\u00e9rt\u00e9kben l\u00e9nyeges, 4 - fontos, 5 - nagyon fontos, 6 - rendk\u00edv\u00fcl fontos, 7 - kiemelten fontos, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: @@<4>@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q39",
+    "question_text": "K\u00e9rem figyeljen! Ezek a v\u00e1laszlehet\u0151s\u00e9gek mindig spont\u00e1nak sz\u00e1m\u00edtanak, ez\u00e9rt nem tal\u00e1lhat\u00f3k a k\u00e1rty\u00e1kon \u00e9s nem olvass\u00e1k fel a v\u00e1laszad\u00f3nak.",
+    "variable": "v137",
+    "option_text": "A hadsereg \u00e1tveszi a hatalmat, ha a korm\u00e1ny k\u00e9ptelen.",
+    "response_scale": "1 - egy\u00e1ltal\u00e1n nem l\u00e9nyeges, 2 - nem t\u00fal l\u00e9nyeges, 3 - m\u00e9rs\u00e9kelt m\u00e9rt\u00e9kben l\u00e9nyeges, 4 - fontos, 5 - nagyon fontos, 6 - rendk\u00edv\u00fcl fontos, 7 - kiemelten fontos, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: @@6@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q39",
+    "question_text": "K\u00e9rem figyeljen! Ezek a v\u00e1laszlehet\u0151s\u00e9gek mindig spont\u00e1nak sz\u00e1m\u00edtanak, ez\u00e9rt nem tal\u00e1lhat\u00f3k a k\u00e1rty\u00e1kon \u00e9s nem olvass\u00e1k fel a v\u00e1laszad\u00f3nak.",
+    "variable": "v138",
+    "option_text": "A polg\u00e1ri jogok v\u00e9dik az embereket az \u00e1llami elnyom\u00e1st\u00f3l.",
+    "response_scale": "1 - egy\u00e1ltal\u00e1n nem l\u00e9nyeges, 2 - nem t\u00fal l\u00e9nyeges, 3 - m\u00e9rs\u00e9kelt m\u00e9rt\u00e9kben l\u00e9nyeges, 4 - fontos, 5 - nagyon fontos, 6 - rendk\u00edv\u00fcl fontos, 7 - kiemelten fontos, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: @@4@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q39",
+    "question_text": "K\u00e9rem figyeljen! Ezek a v\u00e1laszlehet\u0151s\u00e9gek mindig spont\u00e1nak sz\u00e1m\u00edtanak, ez\u00e9rt nem tal\u00e1lhat\u00f3k a k\u00e1rty\u00e1kon \u00e9s nem olvass\u00e1k fel a v\u00e1laszad\u00f3nak.",
+    "variable": "v139",
+    "option_text": "Az \u00e1llam kiegyenl\u00edti az emberek j\u00f6vedelm\u00e9t.",
+    "response_scale": "1 - egy\u00e1ltal\u00e1n nem l\u00e9nyeges, 2 - nem t\u00fal l\u00e9nyeges, 3 - m\u00e9rs\u00e9kelt m\u00e9rt\u00e9kben l\u00e9nyeges, 4 - fontos, 5 - nagyon fontos, 6 - rendk\u00edv\u00fcl fontos, 7 - kiemelten fontos, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: @@<va\u0161 odgovor>@@\nOdgovor: 5 - nagyon fontos",
+    "status": "success"
+  },
+  {
+    "question_id": "Q39",
+    "question_text": "K\u00e9rem figyeljen! Ezek a v\u00e1laszlehet\u0151s\u00e9gek mindig spont\u00e1nak sz\u00e1m\u00edtanak, ez\u00e9rt nem tal\u00e1lhat\u00f3k a k\u00e1rty\u00e1kon \u00e9s nem olvass\u00e1k fel a v\u00e1laszad\u00f3nak.",
+    "variable": "v140",
+    "option_text": "Az emberek hallgatj\u00e1k uralkod\u00f3ikat.",
+    "response_scale": "1 - egy\u00e1ltal\u00e1n nem l\u00e9nyeges, 2 - nem t\u00fal l\u00e9nyeges, 3 - m\u00e9rs\u00e9kelt m\u00e9rt\u00e9kben l\u00e9nyeges, 4 - fontos, 5 - nagyon fontos, 6 - rendk\u00edv\u00fcl fontos, 7 - kiemelten fontos, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: 7@@<Az emberek hallgatj\u00e1k uralkod\u00f3ikat, mert fontos, hogy elismerj\u00e9k a hatalmi strukt\u00far\u00e1t.>@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q39",
+    "question_text": "K\u00e9rem figyeljen! Ezek a v\u00e1laszlehet\u0151s\u00e9gek mindig spont\u00e1nak sz\u00e1m\u00edtanak, ez\u00e9rt nem tal\u00e1lhat\u00f3k a k\u00e1rty\u00e1kon \u00e9s nem olvass\u00e1k fel a v\u00e1laszad\u00f3nak.",
+    "variable": "v141",
+    "option_text": "A n\u0151knek ugyanazok a jogai vannak, mint a f\u00e9rfiaknak.",
+    "response_scale": "1 - egy\u00e1ltal\u00e1n nem l\u00e9nyeges, 2 - nem t\u00fal l\u00e9nyeges, 3 - m\u00e9rs\u00e9kelt m\u00e9rt\u00e9kben l\u00e9nyeges, 4 - fontos, 5 - nagyon fontos, 6 - rendk\u00edv\u00fcl fontos, 7 - kiemelten fontos, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: @@4@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q40",
+    "question_text": "Mennyire fontos az \u00d6n sz\u00e1m\u00e1ra, hogy egy demokratikusan vezetett orsz\u00e1gban \u00e9ljen? K\u00e9rem v\u00e1lassza a sk\u00e1l\u00e1n a 1-es sz\u00e1mot, ha egy\u00e1ltal\u00e1n nem fontos, a 10-es sz\u00e1mot pedig, ha \u201enagyon fontos\u201d.",
+    "variable": "v142",
+    "option_text": NaN,
+    "response_scale": "1 - egy\u00e1ltal\u00e1n nem fontos, 2 - nem t\u00fal fontos, 3 - el\u00e9g fontos, 4 - fontos, 5 - meglehet\u0151sen fontos, 6 - nagyon fontos, 7 - rendk\u00edv\u00fcl fontos, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: @@6@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q41",
+    "question_text": "Mennyire \u00e9rzi \u00fagy, hogy az \u00d6n orsz\u00e1g\u00e1t jelenleg demokratikusan vezetik? K\u00e9rem v\u00e1lassza a sk\u00e1l\u00e1n a 1-es sz\u00e1mot, ha \u201eegy\u00e1ltal\u00e1n nem demokratikus\u201d, a 10-es sz\u00e1mot pedig, ha \u201eteljesen demokratikus\u201d.",
+    "variable": "v143",
+    "option_text": NaN,
+    "response_scale": "1 - egy\u00e1ltal\u00e1n nem demokratikus, 2 - nem t\u00fal demokratikus, 3 - el\u00e9g demokratikus, 4 - fontos, 5 - meglehet\u0151sen demokratikus, 6 - nagyon demokratikus, 7 - rendk\u00edv\u00fcl demokratikus, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: @@6@@\n\nU skladu sa aspektom i opcijom, odgovor je 6, \u0161to zna\u010di da je zemlja \u201eveoma demokrati\u010dna\u201c.",
+    "status": "success"
+  },
+  {
+    "question_id": "Q42",
+    "question_text": "\u00d6sszess\u00e9g\u00e9ben mennyire el\u00e9gedett a politikai rendszer m\u0171k\u00f6d\u00e9s\u00e9vel az \u00d6n orsz\u00e1g\u00e1ban az ut\u00f3bbi id\u0151ben? K\u00e9rem v\u00e1lassza a sk\u00e1l\u00e1n a 1-es sz\u00e1mot, ha \u201eegy\u00e1ltal\u00e1n nem el\u00e9gedett\u201d, a 10-es sz\u00e1mot pedig, ha \u201eteljesen el\u00e9gedett\u201d.",
+    "variable": "v144",
+    "option_text": NaN,
+    "response_scale": "1 - egy\u00e1ltal\u00e1n nem el\u00e9gedett, 2 - nem t\u00fal el\u00e9gedett, 3 - el\u00e9g el\u00e9gedett, 4 - fontos, 5 - meglehet\u0151sen el\u00e9gedett, 6 - nagyon el\u00e9gedett, 7 - rendk\u00edv\u00fcl el\u00e9gedett, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: @@6@@\n\nUzimaju\u0107i u obzir trenutnu politi\u010dku situaciju, uklju\u010duju\u0107i nedavne doga\u0111aje i op\u0107e raspolo\u017eenje gra\u0111ana, procjenjujem da je nivo zadovoljstva politi\u010dkim sistemom u zemlji, u posljednje vrijeme, prili\u010dno visok. Iako postoje izazovi i kritike, op\u0107enito raspolo\u017eenje je optimisti\u010dnije nego \u0161to bi to bilo u ranijim periodima. \nStoga, na skali od 1 do 10, gdje 1 ozna\u010dava potpunu nezadovoljstvo, a 10 potpuno zadovoljstvo, biram broj 6, \u0161to zna\u010di \u201eprili\u010dno zadovoljan\u201c. \n\nUz ovu ocjenu, va\u017eno je naglasiti da postoji prostor za pobolj\u0161anje, ali i da trenutna situacija u ve\u0107em dijelu reflektuje napredak i stabilnost. \nDakle, finalni odgovor je: @@6@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q43",
+    "question_text": "K\u00e9rem figyeljen! Ezek a v\u00e1laszlehet\u0151s\u00e9gek mindig spont\u00e1nak sz\u00e1m\u00edtanak, ez\u00e9rt nem tal\u00e1lhat\u00f3k a k\u00e1rty\u00e1kon \u00e9s nem olvass\u00e1k fel a v\u00e1laszad\u00f3nak.",
+    "variable": "v145",
+    "option_text": "Er\u0151s vezet\u0151t kellene, akinek nem kell t\u00f6r\u0151dnie a parlamenttel \u00e9s a v\u00e1laszt\u00e1sokkal.",
+    "response_scale": "1 - teljesen egyet\u00e9rtek, 2 - egyet\u00e9rtek, 3 - sem egyet\u00e9rtek, sem nem egyet\u00e9rtek, 4 - nem egyet\u00e9rtek, 5 - egy\u00e1ltal\u00e1n nem egyet\u00e9rtek, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: @@5@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q43",
+    "question_text": "K\u00e9rem figyeljen! Ezek a v\u00e1laszlehet\u0151s\u00e9gek mindig spont\u00e1nak sz\u00e1m\u00edtanak, ez\u00e9rt nem tal\u00e1lhat\u00f3k a k\u00e1rty\u00e1kon \u00e9s nem olvass\u00e1k fel a v\u00e1laszad\u00f3nak.",
+    "variable": "v146",
+    "option_text": "Szak\u00e9rt\u0151knek kellene d\u00f6nt\u00e9seket hozniuk a saj\u00e1t becsl\u00e9s\u00fck alapj\u00e1n arr\u00f3l, hogy mi a legjobb az orsz\u00e1gnak.",
+    "response_scale": "1 - teljesen egyet\u00e9rtek, 2 - egyet\u00e9rtek, 3 - sem egyet\u00e9rtek, sem nem egyet\u00e9rtek, 4 - nem egyet\u00e9rtek, 5 - egy\u00e1ltal\u00e1n nem egyet\u00e9rtek, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: @@<4>@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q43",
+    "question_text": "K\u00e9rem figyeljen! Ezek a v\u00e1laszlehet\u0151s\u00e9gek mindig spont\u00e1nak sz\u00e1m\u00edtanak, ez\u00e9rt nem tal\u00e1lhat\u00f3k a k\u00e1rty\u00e1kon \u00e9s nem olvass\u00e1k fel a v\u00e1laszad\u00f3nak.",
+    "variable": "v147",
+    "option_text": "Katonai korm\u00e1nyz\u00e1st kellene.",
+    "response_scale": "1 - teljesen egyet\u00e9rtek, 2 - egyet\u00e9rtek, 3 - sem egyet\u00e9rtek, sem nem egyet\u00e9rtek, 4 - nem egyet\u00e9rtek, 5 - egy\u00e1ltal\u00e1n nem egyet\u00e9rtek, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: @@5@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q43",
+    "question_text": "K\u00e9rem figyeljen! Ezek a v\u00e1laszlehet\u0151s\u00e9gek mindig spont\u00e1nak sz\u00e1m\u00edtanak, ez\u00e9rt nem tal\u00e1lhat\u00f3k a k\u00e1rty\u00e1kon \u00e9s nem olvass\u00e1k fel a v\u00e1laszad\u00f3nak.",
+    "variable": "v148",
+    "option_text": "Demokratikus politikai rendszert kellene.",
+    "response_scale": "1 - teljesen egyet\u00e9rtek, 2 - egyet\u00e9rtek, 3 - sem egyet\u00e9rtek, sem nem egyet\u00e9rtek, 4 - nem egyet\u00e9rtek, 5 - egy\u00e1ltal\u00e1n nem egyet\u00e9rtek, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: 3 - sem egyet\u00e9rtek, sem nem egyet\u00e9rtek, \n\nObja\u0161njenje: Odgovor 3 (sem egyet\u00e9rtek, sem nem egyet\u00e9rtek) je odabran jer izra\u017eava neutralnost ili nedostatak jasnog stava prema pitanju. U ovom slu\u010daju, osoba ne osje\u0107a jasan pristanak ili odbijanje prema ideji da demokrati\u010dki politi\u010dki sistem uvijek treba biti.",
+    "status": "success"
+  },
+  {
+    "question_id": "Q44",
+    "question_text": "K\u00e9rem figyeljen! Ezek a v\u00e1laszlehet\u0151s\u00e9gek mindig spont\u00e1nak sz\u00e1m\u00edtanak, ez\u00e9rt nem tal\u00e1lhat\u00f3k a k\u00e1rty\u00e1kon \u00e9s nem olvass\u00e1k fel a v\u00e1laszad\u00f3nak.",
+    "variable": "v149",
+    "option_text": "K\u00e9rni \u00e1llami juttat\u00e1sokat, amelyekre nem jogosult.",
+    "response_scale": "1 - mindig igazolhat\u00f3, 2 - val\u00f3sz\u00edn\u0171leg igazolhat\u00f3, 3 - nem igazolhat\u00f3, 4 - soha nem igazolhat\u00f3, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: 4 - soha nem igazolhat\u00f3, 8 - Nem tudom, 9 - Nem v\u00e1laszolt\n\nU ovom slu\u010daju, odgovor bi bio: \nNije mogu\u0107e da se neke dr\u017eavne beneficije koje ne ispunjavaju uslove za dobijanje, uvek istinito proglase za pravo na njih. U ve\u0107ini slu\u010dajeva, takve beneficije nisu uvek opravdane, pa je odgovor: 4 - soha ne opravdano. \n\nMe\u0111utim, ako osoba ne zna dovoljno o tome ili ako ne \u017eeli da odgovori na pitanje, odgovor bi mogao biti: 8 - Ne znam, 9 - Ne \u017eelim odgovoriti. \n\nUkoliko osoba ne \u017eeli odgovoriti na pitanje, odgovor bi bio: 9 - Ne \u017eelim odgovoriti. \n\nUkoliko osoba ne zna dovoljno o tome, odgovor bi mogao biti: 8 - Ne znam. \n\nU zavisnosti od konteksta i onoga \u0161to osoba \u017eeli re\u0107i, odgovor mo\u017ee biti: 4 - soha ne opravdano",
+    "status": "success"
+  },
+  {
+    "question_id": "Q44",
+    "question_text": "K\u00e9rem figyeljen! Ezek a v\u00e1laszlehet\u0151s\u00e9gek mindig spont\u00e1nak sz\u00e1m\u00edtanak, ez\u00e9rt nem tal\u00e1lhat\u00f3k a k\u00e1rty\u00e1kon \u00e9s nem olvass\u00e1k fel a v\u00e1laszad\u00f3nak.",
+    "variable": "v150",
+    "option_text": "Ad\u00f3csal\u00e1s, ha van r\u00e1 lehet\u0151s\u00e9g.",
+    "response_scale": "1 - mindig igazolhat\u00f3, 2 - val\u00f3sz\u00edn\u0171leg igazolhat\u00f3, 3 - nem igazolhat\u00f3, 4 - soha nem igazolhat\u00f3, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: 8 - Nem tudom, 9 - Nem v\u00e1laszolt, 4 - soha nem igazolhat\u00f3, 3 - nem igazolhat\u00f3, 2 - val\u00f3sz\u00edn\u0171leg igazolhat\u00f3, 1 - mindig igazolhat\u00f3",
+    "status": "success"
+  },
+  {
+    "question_id": "Q44",
+    "question_text": "K\u00e9rem figyeljen! Ezek a v\u00e1laszlehet\u0151s\u00e9gek mindig spont\u00e1nak sz\u00e1m\u00edtanak, ez\u00e9rt nem tal\u00e1lhat\u00f3k a k\u00e1rty\u00e1kon \u00e9s nem olvass\u00e1k fel a v\u00e1laszad\u00f3nak.",
+    "variable": "v151",
+    "option_text": "K\u00e1b\u00edt\u00f3szer fogyaszt\u00e1sa, mint a marihu\u00e1na vagy a hasis.",
+    "response_scale": "1 - mindig igazolhat\u00f3, 2 - val\u00f3sz\u00edn\u0171leg igazolhat\u00f3, 3 - nem igazolhat\u00f3, 4 - soha nem igazolhat\u00f3, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: 3 - nem igazolhat\u00f3, 4 - soha nem igazolhat\u00f3, 8 - Nem tudom, 9 - Nem v\u00e1laszolt\n\nObja\u0161njenje: U ovom slu\u010daju, nema dovoljno informacija da se utvrdi da li osoba uvijek koristi marihuanu ili hasis ili da li je to potpuno neistinito. Stoga se ne mo\u017ee ni uvijek, ni nikada, ni ne znati da li je to ta\u010dno.",
+    "status": "success"
+  },
+  {
+    "question_id": "Q44",
+    "question_text": "K\u00e9rem figyeljen! Ezek a v\u00e1laszlehet\u0151s\u00e9gek mindig spont\u00e1nak sz\u00e1m\u00edtanak, ez\u00e9rt nem tal\u00e1lhat\u00f3k a k\u00e1rty\u00e1kon \u00e9s nem olvass\u00e1k fel a v\u00e1laszad\u00f3nak.",
+    "variable": "v152",
+    "option_text": "Ken\u0151p\u00e9nz elfogad\u00e1sa a munkahelyen.",
+    "response_scale": "1 - mindig igazolhat\u00f3, 2 - val\u00f3sz\u00edn\u0171leg igazolhat\u00f3, 3 - nem igazolhat\u00f3, 4 - soha nem igazolhat\u00f3, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: @@4@@\n\nOpcija 4 je najprikladnija jer je ken\u0151p\u00e9nz (podmi\u0107ivanje) na radnom mestu u ve\u0107ini zemalja, uklju\u010duju\u0107i i one koje su \u010dlanice Me\u0111unarodnog ugovora o suzbijanju podmi\u0107ivanja (UNCAC), strogo zabranjeno i ne mo\u017ee se smatrati 'uvek' ili 'verovatno' prihvatljivim. Stoga odgovor glasi: 4 - soha nem igazolhat\u00f3.",
+    "status": "success"
+  },
+  {
+    "question_id": "Q44",
+    "question_text": "K\u00e9rem figyeljen! Ezek a v\u00e1laszlehet\u0151s\u00e9gek mindig spont\u00e1nak sz\u00e1m\u00edtanak, ez\u00e9rt nem tal\u00e1lhat\u00f3k a k\u00e1rty\u00e1kon \u00e9s nem olvass\u00e1k fel a v\u00e1laszad\u00f3nak.",
+    "variable": "v153",
+    "option_text": "Homoszexualit\u00e1s.",
+    "response_scale": "1 - mindig igazolhat\u00f3, 2 - val\u00f3sz\u00edn\u0171leg igazolhat\u00f3, 3 - nem igazolhat\u00f3, 4 - soha nem igazolhat\u00f3, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: 2 - val\u00f3sz\u00edn\u0171leg igazolhat\u00f3",
+    "status": "success"
+  },
+  {
+    "question_id": "Q44",
+    "question_text": "K\u00e9rem figyeljen! Ezek a v\u00e1laszlehet\u0151s\u00e9gek mindig spont\u00e1nak sz\u00e1m\u00edtanak, ez\u00e9rt nem tal\u00e1lhat\u00f3k a k\u00e1rty\u00e1kon \u00e9s nem olvass\u00e1k fel a v\u00e1laszad\u00f3nak.",
+    "variable": "v154",
+    "option_text": "Terhess\u00e9g megszak\u00edt\u00e1sa (abortusz).",
+    "response_scale": "1 - mindig igazolhat\u00f3, 2 - val\u00f3sz\u00edn\u0171leg igazolhat\u00f3, 3 - nem igazolhat\u00f3, 4 - soha nem igazolhat\u00f3, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: @@4@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q44",
+    "question_text": "K\u00e9rem figyeljen! Ezek a v\u00e1laszlehet\u0151s\u00e9gek mindig spont\u00e1nak sz\u00e1m\u00edtanak, ez\u00e9rt nem tal\u00e1lhat\u00f3k a k\u00e1rty\u00e1kon \u00e9s nem olvass\u00e1k fel a v\u00e1laszad\u00f3nak.",
+    "variable": "v155",
+    "option_text": "V\u00e1l\u00e1s.",
+    "response_scale": "1 - mindig igazolhat\u00f3, 2 - val\u00f3sz\u00edn\u0171leg igazolhat\u00f3, 3 - nem igazolhat\u00f3, 4 - soha nem igazolhat\u00f3, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: 8 - Nem tudom, 9 - Nem v\u00e1laszolt\n\nPitanje [Q44]: K\u00e9rem figyeljen! Ezek a v\u00e1laszlehet\u0151s\u00e9gek mindig spont\u00e1nak sz\u00e1m\u00edtanak, ez\u00e9rt nem tal\u00e1lhat\u00f3k a k\u00e1rty\u00e1kon \u00e9s nem olvass\u00e1k fel a v\u00e1laszad\u00f3nak.\nAspekt: v155\nOpcija: V\u00e1l\u00e1s.\nSkala odgovora: 1 - mindig igazolhat\u00f3, 2 - val\u00f3sz\u00edn\u0171leg igazolhat\u00f3, 3 - nem igazolhat\u00f3, 4 - soha nem igazolhat\u00f3, 8 - Nem tudom, 9 - Nem v\u00e1laszolt\n\n**Azt hiszem, a k\u00e9rd\u00e9s a k\u00f6vetkez\u0151 lehet:**\n\n> K\u00e9rem figyeljen! Ezek a v\u00e1laszlehet\u0151s\u00e9gek mindig spontanak sz\u00e1m\u00edtanak, ez\u00e9rt nem tal\u00e1lhat\u00f3k a k\u00e1rty\u00e1kon \u00e9s nem olvass\u00e1k fel a v\u00e1laszad\u00f3nak.\n> Aspekt: v155 (ez lehet egy kontextus, mint p\u00e9ld\u00e1ul \"v\u00e1l\u00e1s\", \"aspektus\" vagy valami hasonl\u00f3)\n> Opcija: V\u00e1l\u00e1s.\n> Skala: 1 - mindig igaz",
+    "status": "success"
+  },
+  {
+    "question_id": "Q44",
+    "question_text": "K\u00e9rem figyeljen! Ezek a v\u00e1laszlehet\u0151s\u00e9gek mindig spont\u00e1nak sz\u00e1m\u00edtanak, ez\u00e9rt nem tal\u00e1lhat\u00f3k a k\u00e1rty\u00e1kon \u00e9s nem olvass\u00e1k fel a v\u00e1laszad\u00f3nak.",
+    "variable": "v156",
+    "option_text": "Eutan\u00e1zia (\u00e9letv\u00e9gi seg\u00edts\u00e9g).",
+    "response_scale": "1 - mindig igazolhat\u00f3, 2 - val\u00f3sz\u00edn\u0171leg igazolhat\u00f3, 3 - nem igazolhat\u00f3, 4 - soha nem igazolhat\u00f3, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: 8 - Nem tudom, 4 - soha nem igazolhat\u00f3, 3 - nem igazolhat\u00f3, 2 - val\u00f3sz\u00edn\u0171leg igazolhat\u00f3, 1 - mindig igazolhat\u00f3, 9 - Nem v\u00e1laszoltam, 8 - Nem tudom",
+    "status": "success"
+  },
+  {
+    "question_id": "Q44",
+    "question_text": "K\u00e9rem figyeljen! Ezek a v\u00e1laszlehet\u0151s\u00e9gek mindig spont\u00e1nak sz\u00e1m\u00edtanak, ez\u00e9rt nem tal\u00e1lhat\u00f3k a k\u00e1rty\u00e1kon \u00e9s nem olvass\u00e1k fel a v\u00e1laszad\u00f3nak.",
+    "variable": "v157",
+    "option_text": "\u00d6ngyilkoss\u00e1g.",
+    "response_scale": "1 - mindig igazolhat\u00f3, 2 - val\u00f3sz\u00edn\u0171leg igazolhat\u00f3, 3 - nem igazolhat\u00f3, 4 - soha nem igazolhat\u00f3, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: 4 - soha nem igazolhat\u00f3, 8 - Nem tudom, 9 - Nem v\u00e1laszolt\n\nEzek a v\u00e1laszlehet\u0151s\u00e9gek mindig spont\u00e1nak sz\u00e1m\u00edtanak, ez\u00e9rt nem tal\u00e1lhat\u00f3k a k\u00e1rty\u00e1kon \u00e9s nem olvass\u00e1k fel a v\u00e1laszad\u00f3nak. \nAspekt: v157\nOpcija: \u00d6ngyilkoss\u00e1g.\nSkala odgovora: 1 - mindig igazolhat\u00f3, 2 - val\u00f3sz\u00edn\u0171leg igazolhat\u00f3, 3 - nem igazolhat\u00f3, 4 - soha nem igazolhat\u00f3, 8 - Nem tudom, 9 - Nem v\u00e1laszolt\n\nA lehets\u00e9ges v\u00e1lasz a k\u00f6vetkez\u0151:\n\n4 - soha nem igazolhat\u00f3, 8 - Nem tudom, 9 - Nem v\u00e1laszolt\n\nAzonban a legalkalmasabb v\u00e1lasz a k\u00f6vetkez\u0151:\n\n4 - soha nem igazolhat\u00f3, 8 - Nem tudom, 9 - Nem v\u00e1laszolt\n\nA leggyakoribb v\u00e1lasz a k\u00f6vetkez\u0151:\n\n4 - soha nem igazolhat\u00f3, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "status": "success"
+  },
+  {
+    "question_id": "Q44",
+    "question_text": "K\u00e9rem figyeljen! Ezek a v\u00e1laszlehet\u0151s\u00e9gek mindig spont\u00e1nak sz\u00e1m\u00edtanak, ez\u00e9rt nem tal\u00e1lhat\u00f3k a k\u00e1rty\u00e1kon \u00e9s nem olvass\u00e1k fel a v\u00e1laszad\u00f3nak.",
+    "variable": "v158",
+    "option_text": "V\u00e9letlenszer\u0171 szex.",
+    "response_scale": "1 - mindig igazolhat\u00f3, 2 - val\u00f3sz\u00edn\u0171leg igazolhat\u00f3, 3 - nem igazolhat\u00f3, 4 - soha nem igazolhat\u00f3, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: 3 - nem igazolhat\u00f3, 4 - soha nem igazolhat\u00f3, 9 - Nem v\u00e1laszolt\n\nObja\u0161njenje: Kada je re\u010d o aspektu 'v158' i opciji 'V\u00e9letlenszer\u0171 szex', ne mo\u017eemo donijeti odluku o tome da li je to uop\u0107e mogu\u0107e ili ne. Zbog toga je najprikladnije re\u0107i da je to 'ne zna se' (9 - Ne v\u00e1laszolt) i 'ne mo\u017ee se potvrditi' (3 - nem igazolhat\u00f3, 4 - soha nem igazolhat\u00f3). Ova situacija je primjer slo\u017eenog pitanja u anketi gdje nema direktnih dokaza ili prou\u010davanja da bi se donijela odluka, te je stoga odgovor neodre\u0111en (ne potvr\u0111en niti negiran).",
+    "status": "success"
+  },
+  {
+    "question_id": "Q44",
+    "question_text": "K\u00e9rem figyeljen! Ezek a v\u00e1laszlehet\u0151s\u00e9gek mindig spont\u00e1nak sz\u00e1m\u00edtanak, ez\u00e9rt nem tal\u00e1lhat\u00f3k a k\u00e1rty\u00e1kon \u00e9s nem olvass\u00e1k fel a v\u00e1laszad\u00f3nak.",
+    "variable": "v159",
+    "option_text": "B\u00e9rlet n\u00e9lk\u00fcli utaz\u00e1s a t\u00f6megk\u00f6zleked\u00e9sen.",
+    "response_scale": "1 - mindig igazolhat\u00f3, 2 - val\u00f3sz\u00edn\u0171leg igazolhat\u00f3, 3 - nem igazolhat\u00f3, 4 - soha nem igazolhat\u00f3, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: @@<3>@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q44",
+    "question_text": "K\u00e9rem figyeljen! Ezek a v\u00e1laszlehet\u0151s\u00e9gek mindig spont\u00e1nak sz\u00e1m\u00edtanak, ez\u00e9rt nem tal\u00e1lhat\u00f3k a k\u00e1rty\u00e1kon \u00e9s nem olvass\u00e1k fel a v\u00e1laszad\u00f3nak.",
+    "variable": "v160",
+    "option_text": "Prostit\u00faci\u00f3.",
+    "response_scale": "1 - mindig igazolhat\u00f3, 2 - val\u00f3sz\u00edn\u0171leg igazolhat\u00f3, 3 - nem igazolhat\u00f3, 4 - soha nem igazolhat\u00f3, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: 8 @@Nem tudom@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q44",
+    "question_text": "K\u00e9rem figyeljen! Ezek a v\u00e1laszlehet\u0151s\u00e9gek mindig spont\u00e1nak sz\u00e1m\u00edtanak, ez\u00e9rt nem tal\u00e1lhat\u00f3k a k\u00e1rty\u00e1kon \u00e9s nem olvass\u00e1k fel a v\u00e1laszad\u00f3nak.",
+    "variable": "v161",
+    "option_text": "Mesters\u00e9ges megterm\u00e9keny\u00edt\u00e9s.",
+    "response_scale": "1 - mindig igazolhat\u00f3, 2 - val\u00f3sz\u00edn\u0171leg igazolhat\u00f3, 3 - nem igazolhat\u00f3, 4 - soha nem igazolhat\u00f3, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: 3 - nem igazolhat\u00f3, 4 - soha nem igazolhat\u00f3, 9 - Nem v\u00e1laszoltam \nPonovo, po\u0161to je ovo poslednji odgovor, kona\u010dni odgovor je: \nFinal answer: @@<3 - nem igazolhat\u00f3, 4 - soha nem igazolhat\u00f3, 9 - Nem v\u00e1laszoltam>@@\n\nFinal answer: @@<3 - nem igazolhat\u00f3, 4 - soha nem igazolhat\u00f3, 9 - Nem v\u00e1laszoltam>@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q44",
+    "question_text": "K\u00e9rem figyeljen! Ezek a v\u00e1laszlehet\u0151s\u00e9gek mindig spont\u00e1nak sz\u00e1m\u00edtanak, ez\u00e9rt nem tal\u00e1lhat\u00f3k a k\u00e1rty\u00e1kon \u00e9s nem olvass\u00e1k fel a v\u00e1laszad\u00f3nak.",
+    "variable": "v162",
+    "option_text": "Politikai er\u0151szak.",
+    "response_scale": "1 - mindig igazolhat\u00f3, 2 - val\u00f3sz\u00edn\u0171leg igazolhat\u00f3, 3 - nem igazolhat\u00f3, 4 - soha nem igazolhat\u00f3, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: @@<4>@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q44",
+    "question_text": "K\u00e9rem figyeljen! Ezek a v\u00e1laszlehet\u0151s\u00e9gek mindig spont\u00e1nak sz\u00e1m\u00edtanak, ez\u00e9rt nem tal\u00e1lhat\u00f3k a k\u00e1rty\u00e1kon \u00e9s nem olvass\u00e1k fel a v\u00e1laszad\u00f3nak.",
+    "variable": "v163",
+    "option_text": "Hal\u00e1lb\u00fcntet\u00e9s.",
+    "response_scale": "1 - mindig igazolhat\u00f3, 2 - val\u00f3sz\u00edn\u0171leg igazolhat\u00f3, 3 - nem igazolhat\u00f3, 4 - soha nem igazolhat\u00f3, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: 4 - soha nem igazolhat\u00f3, 8 - Nem tudom \nA hal\u00e1lb\u00fcntet\u00e9s, mint b\u00e1rmely m\u00e1s b\u00fcntet\u00e9si forma, mindig egy \u00f6sszetett, komplex d\u00f6nt\u00e9s, amely egyedi k\u00f6r\u00fclm\u00e9nyeken, t\u00e9nyek \u00e9s bizony\u00edt\u00e9kok alapj\u00e1n sz\u00fcletik. Egy ilyen s\u00falyos d\u00f6nt\u00e9sben nincs helye semmif\u00e9le \"spont\u00e1n\" vagy \"igazolhat\u00f3\" v\u00e1lasznak. \n\nA 4-es v\u00e1lasz (soha nem igazolhat\u00f3) azt fejezi ki, hogy a hal\u00e1lb\u00fcntet\u00e9s olyan d\u00f6nt\u00e9s, amelyet semmilyen k\u00f6r\u00fclm\u00e9ny nem igazolhat, mert mindig egyedi \u00e9s \u00f6sszetett. \n\nAz 8-as v\u00e1lasz (Nem tudom) pedig azt jelenti, hogy a k\u00e9rd\u00e9s t\u00fal \u00f6sszetett ahhoz, hogy b\u00e1rmif\u00e9le \"igazolhat\u00f3\" vagy \"spont\u00e1n\" v\u00e1lasz lehets\u00e9ges legyen r\u00e1. \n\n\u00d6sszegezve teh\u00e1t a k\u00e9t lehets\u00e9ges v\u00e1lasz, amelyek itt helyt\u00e1ll\u00f3ak: \n- A hal\u00e1lb\u00fcntet\u00e9s soha nem igazolhat\u00f3, mert \u00f6sszetett d\u00f6nt\u00e9s \n- A k\u00e9rd\u00e9s t\u00fal \u00f6ss",
+    "status": "success"
+  },
+  {
+    "question_id": "Q45",
+    "question_text": "K\u00e9rem figyeljen! Ezek a v\u00e1laszlehet\u0151s\u00e9gek mindig spont\u00e1nak sz\u00e1m\u00edtanak, ez\u00e9rt nem tal\u00e1lhat\u00f3k a k\u00e1rty\u00e1kon \u00e9s nem olvass\u00e1k fel a v\u00e1laszad\u00f3nak.",
+    "variable": "v164",
+    "option_text": "A lak\u00f3hely\u00e9hez",
+    "response_scale": "1 - nagyon k\u00f6zel \u00e1llok, 2 - k\u00f6zel \u00e1llok, 3 - nem t\u00fal k\u00f6zel \u00e1llok, 4 - egy\u00e1ltal\u00e1n nem \u00e1llok k\u00f6zel, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: @@4@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q45",
+    "question_text": "K\u00e9rem figyeljen! Ezek a v\u00e1laszlehet\u0151s\u00e9gek mindig spont\u00e1nak sz\u00e1m\u00edtanak, ez\u00e9rt nem tal\u00e1lhat\u00f3k a k\u00e1rty\u00e1kon \u00e9s nem olvass\u00e1k fel a v\u00e1laszad\u00f3nak.",
+    "variable": "v165",
+    "option_text": "A szomsz\u00e9ds\u00e1g\u00e1hoz",
+    "response_scale": "1 - nagyon k\u00f6zel \u00e1llok, 2 - k\u00f6zel \u00e1llok, 3 - nem t\u00fal k\u00f6zel \u00e1llok, 4 - egy\u00e1ltal\u00e1n nem \u00e1llok k\u00f6zel, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: 2 - k\u00f6zel \u00e1llok",
+    "status": "success"
+  },
+  {
+    "question_id": "Q45",
+    "question_text": "K\u00e9rem figyeljen! Ezek a v\u00e1laszlehet\u0151s\u00e9gek mindig spont\u00e1nak sz\u00e1m\u00edtanak, ez\u00e9rt nem tal\u00e1lhat\u00f3k a k\u00e1rty\u00e1kon \u00e9s nem olvass\u00e1k fel a v\u00e1laszad\u00f3nak.",
+    "variable": "v166",
+    "option_text": "Szerbi\u00e1hoz",
+    "response_scale": "1 - nagyon k\u00f6zel \u00e1llok, 2 - k\u00f6zel \u00e1llok, 3 - nem t\u00fal k\u00f6zel \u00e1llok, 4 - egy\u00e1ltal\u00e1n nem \u00e1llok k\u00f6zel, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: @@8@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q45",
+    "question_text": "K\u00e9rem figyeljen! Ezek a v\u00e1laszlehet\u0151s\u00e9gek mindig spont\u00e1nak sz\u00e1m\u00edtanak, ez\u00e9rt nem tal\u00e1lhat\u00f3k a k\u00e1rty\u00e1kon \u00e9s nem olvass\u00e1k fel a v\u00e1laszad\u00f3nak.",
+    "variable": "v167",
+    "option_text": "Eur\u00f3p\u00e1hoz",
+    "response_scale": "1 - nagyon k\u00f6zel \u00e1llok, 2 - k\u00f6zel \u00e1llok, 3 - nem t\u00fal k\u00f6zel \u00e1llok, 4 - egy\u00e1ltal\u00e1n nem \u00e1llok k\u00f6zel, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: @@8@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q45",
+    "question_text": "K\u00e9rem figyeljen! Ezek a v\u00e1laszlehet\u0151s\u00e9gek mindig spont\u00e1nak sz\u00e1m\u00edtanak, ez\u00e9rt nem tal\u00e1lhat\u00f3k a k\u00e1rty\u00e1kon \u00e9s nem olvass\u00e1k fel a v\u00e1laszad\u00f3nak.",
+    "variable": "v168",
+    "option_text": "A vil\u00e1ghoz",
+    "response_scale": "1 - nagyon k\u00f6zel \u00e1llok, 2 - k\u00f6zel \u00e1llok, 3 - nem t\u00fal k\u00f6zel \u00e1llok, 4 - egy\u00e1ltal\u00e1n nem \u00e1llok k\u00f6zel, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: 1 - nagyon k\u00f6zel \u00e1llok @@<va\u0161 odgovor>@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q46",
+    "question_text": "\u00d6n szerb \u00e1llampolg\u00e1r?",
+    "variable": "v169",
+    "option_text": NaN,
+    "response_scale": "1 - Igen, 2 - Nem, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: @@2@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q47",
+    "question_text": "\u00d6n b\u00fcszke arra, hogy szerb \u00e1llampolg\u00e1r?",
+    "variable": "v170",
+    "option_text": NaN,
+    "response_scale": "1 - nagyon b\u00fcszke, 2 - b\u00fcszke, 3 - nem t\u00fal b\u00fcszke, 4 - egy\u00e1ltal\u00e1n nem b\u00fcszke, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: 4 - egy\u00e1ltal\u00e1n nem b\u00fcszke, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "status": "success"
+  },
+  {
+    "question_id": "Q48",
+    "question_text": "V\u00e1laszt\u00e1sokon mindig szavaz, n\u00e9ha szavaz vagy soha nem szavaz? K\u00e9rem v\u00e1laszoljon a k\u00f6vetkez\u0151 k\u00e9rd\u00e9sekre.",
+    "variable": "v171",
+    "option_text": "Helyi szinten",
+    "response_scale": "1 - mindig, 2 - n\u00e9ha, 3 - soha, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: @@<2 - n\u00e9ha>@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q48",
+    "question_text": "V\u00e1laszt\u00e1sokon mindig szavaz, n\u00e9ha szavaz vagy soha nem szavaz? K\u00e9rem v\u00e1laszoljon a k\u00f6vetkez\u0151 k\u00e9rd\u00e9sekre.",
+    "variable": "v172",
+    "option_text": "Orsz\u00e1gos szinten",
+    "response_scale": "1 - mindig, 2 - n\u00e9ha, 3 - soha, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: 2 - n\u00e9ha\nA v\u00e1laszad\u00e1s m\u00e9rt\u00e9ke orsz\u00e1gos szinten v\u00e1ltoz\u00f3 lehet, de \u00e1ltal\u00e1ban n\u00e9ha szavaznak.",
+    "status": "success"
+  },
+  {
+    "question_id": "Q49",
+    "question_text": "Melyik p\u00e1rt vonzza \u00d6nt a legjobban?",
+    "variable": "v174",
+    "option_text": NaN,
+    "response_scale": "1 - Szerb Halad\u00f3 P\u00e1rt (SNS), 2 - Demokratikus P\u00e1rt (DS), 3 - Mozgalom a szabad polg\u00e1rok\u00e9rt (PSGS), 4 - Nemzeti P\u00e1rt (NS), 5 - Szerb Demokratikus P\u00e1rt (DSS), 6 - Szerb Radik\u00e1lis P\u00e1rt (SRS), 7 - Szoci\u00e1ldemokrata P\u00e1rt (SDS), 8 - Dveri, 9 - El\u00e9g volt (DJB), 10 - Nyugd\u00edjasok p\u00e1rtja (PUPS), 11 - Vajdas\u00e1gi Sz\u00f6vets\u00e9g (SVM), 12 - Liga a vajdas\u00e1gi szoci\u00e1ldemokrat\u00e1k\u00e9rt (LSV), 13 - A demokr\u00e1cia p\u00e1rtja (PDD), 14 - Rom\u00e1k p\u00e1rtja (RP), 15 - Stranka demokratske akcije (SDA), 16 - Szoci\u00e1ldemokrata P\u00e1rt (SDPS), 17 - Demokrata Sz\u00f6vets\u00e9g a Vajdas\u00e1g Hrvatjai\u00e9rt (DSHV), 31 - Egy\u00e9b (\u00edrja be):",
+    "model_response": "Final answer: @@31@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q49a",
+    "question_text": "Van m\u00e9g egy m\u00e1sik p\u00e1rt, ami k\u00f6zel \u00e1ll \u00d6nhoz?",
+    "variable": "v175",
+    "option_text": NaN,
+    "response_scale": "1 - Szerb Halad\u00f3 P\u00e1rt (SNS), 2 - Demokratikus P\u00e1rt (DS), 3 - Mozgalom a szabad polg\u00e1rok\u00e9rt (PSGS), 4 - Nemzeti P\u00e1rt (NS), 5 - Szerb Demokratikus P\u00e1rt (DSS), 6 - Szerb Radik\u00e1lis P\u00e1rt (SRS), 7 - Szoci\u00e1ldemokrata P\u00e1rt (SDS), 8 - Dveri, 9 - El\u00e9g volt (DJB), 10 - Nyugd\u00edjasok p\u00e1rtja (PUPS), 11 - Vajdas\u00e1gi Sz\u00f6vets\u00e9g (SVM), 12 - Liga a vajdas\u00e1gi szoci\u00e1ldemokrat\u00e1k\u00e9rt (LSV), 13 - A demokr\u00e1cia p\u00e1rtja (PDD), 14 - Rom\u00e1k p\u00e1rtja (RP), 15 - Stranka demokratske akcije (SDA), 16 - Szoci\u00e1ldemokrata P\u00e1rt (SDPS), 17 - Demokrata Sz\u00f6vets\u00e9g a Vajdas\u00e1g Hrvatjai\u00e9rt (DSHV), 31 - Egy\u00e9b (\u00edrja be):",
+    "model_response": "Final answer: @@<va\u0161 odgovor>@@\n\nPa\u017eljivo pro\u010ditajte i navedite kona\u010dni odgovor sa date skale odgovora, u slede\u0107em formatu:\n\nFinal answer: @@<va\u0161 odgovor>@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q50",
+    "question_text": "K\u00e9rem figyeljen! Ezek a v\u00e1laszlehet\u0151s\u00e9gek mindig spont\u00e1nak sz\u00e1m\u00edtanak, ez\u00e9rt nem tal\u00e1lhat\u00f3k a k\u00e1rty\u00e1kon \u00e9s nem olvass\u00e1k fel a v\u00e1laszad\u00f3nak.",
+    "variable": "v176",
+    "option_text": "Szavazatok \u0151szinte megsz\u00e1mol\u00e1sa",
+    "response_scale": "1 - nagyon gyakran, 2 - gyakran, 3 - ritk\u00e1n, 4 - nagyon ritk\u00e1n, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: 1 - nagyon gyakran",
+    "status": "success"
+  },
+  {
+    "question_id": "Q50",
+    "question_text": "K\u00e9rem figyeljen! Ezek a v\u00e1laszlehet\u0151s\u00e9gek mindig spont\u00e1nak sz\u00e1m\u00edtanak, ez\u00e9rt nem tal\u00e1lhat\u00f3k a k\u00e1rty\u00e1kon \u00e9s nem olvass\u00e1k fel a v\u00e1laszad\u00f3nak.",
+    "variable": "v177",
+    "option_text": "Az ellenz\u00e9ki jel\u00f6lteket megakad\u00e1lyozz\u00e1k a v\u00e1laszt\u00e1sokon val\u00f3 indul\u00e1sban.",
+    "response_scale": "1 - nagyon gyakran, 2 - gyakran, 3 - ritk\u00e1n, 4 - nagyon ritk\u00e1n, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: 4 - nagyon ritk\u00e1n@@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q50",
+    "question_text": "K\u00e9rem figyeljen! Ezek a v\u00e1laszlehet\u0151s\u00e9gek mindig spont\u00e1nak sz\u00e1m\u00edtanak, ez\u00e9rt nem tal\u00e1lhat\u00f3k a k\u00e1rty\u00e1kon \u00e9s nem olvass\u00e1k fel a v\u00e1laszad\u00f3nak.",
+    "variable": "v178",
+    "option_text": "A TV h\u00edrek p\u00e1rtolj\u00e1k a korm\u00e1nyz\u00f3 p\u00e1rtot.",
+    "response_scale": "1 - nagyon gyakran, 2 - gyakran, 3 - ritk\u00e1n, 4 - nagyon ritk\u00e1n, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: 3 - ritk\u00e1n, 4 - nagyon ritk\u00e1n, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "status": "success"
+  },
+  {
+    "question_id": "Q50",
+    "question_text": "K\u00e9rem figyeljen! Ezek a v\u00e1laszlehet\u0151s\u00e9gek mindig spont\u00e1nak sz\u00e1m\u00edtanak, ez\u00e9rt nem tal\u00e1lhat\u00f3k a k\u00e1rty\u00e1kon \u00e9s nem olvass\u00e1k fel a v\u00e1laszad\u00f3nak.",
+    "variable": "v179",
+    "option_text": "Szavazatokat vesztegetnek.",
+    "response_scale": "1 - nagyon gyakran, 2 - gyakran, 3 - ritk\u00e1n, 4 - nagyon ritk\u00e1n, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: @@<va\u0161 odgovor>@@ \n\nU ovom slu\u010daju, po\u0161to je dat skala odgovora (1 - 9), ali nije jasno koji se odgovor tra\u017ei, pretpostavimo da se tra\u017ei ocenjivanje u\u010destalosti. Stoga, ako procjenjujemo po skali, odgovor bi bio u rasponu 1-4 (smatraju\u0107i da 'nemogu\u0107e procijeniti' nije odgovor koji bi se tra\u017eio u ovom kontekstu, a 'ne znam' se ne mo\u017ee kvantifikovati). Pretpostavimo da se tra\u017ei procjena, odgovor bi bio 2 - \u010desto, jer iako nije mogu\u0107e procijeniti ta\u010dno, \u010desto se mo\u017ee desiti da ljudi vjeruju da su spontani i da to mo\u017ee uticati na njihove odluke. Ako uzmemo da se tra\u017ei procjena, odgovor bi bio 2 - \u010desto, jer iako nije ta\u010dno, \u010desto se mo\u017ee desiti da ljudi vjeruju da su spontani i da to mo\u017ee uticati na njihove odluke. \n\nFinal answer: @@<2 - \u010desto>@@ \n\nMe\u0111utim",
+    "status": "success"
+  },
+  {
+    "question_id": "Q50",
+    "question_text": "K\u00e9rem figyeljen! Ezek a v\u00e1laszlehet\u0151s\u00e9gek mindig spont\u00e1nak sz\u00e1m\u00edtanak, ez\u00e9rt nem tal\u00e1lhat\u00f3k a k\u00e1rty\u00e1kon \u00e9s nem olvass\u00e1k fel a v\u00e1laszad\u00f3nak.",
+    "variable": "v180",
+    "option_text": "Az \u00fajs\u00e1g\u00edr\u00f3k \u0151szint\u00e9n sz\u00e1molnak be a v\u00e1laszt\u00e1sokr\u00f3l.",
+    "response_scale": "1 - nagyon gyakran, 2 - gyakran, 3 - ritk\u00e1n, 4 - nagyon ritk\u00e1n, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: 2 - gyakran",
+    "status": "success"
+  },
+  {
+    "question_id": "Q50",
+    "question_text": "K\u00e9rem figyeljen! Ezek a v\u00e1laszlehet\u0151s\u00e9gek mindig spont\u00e1nak sz\u00e1m\u00edtanak, ez\u00e9rt nem tal\u00e1lhat\u00f3k a k\u00e1rty\u00e1kon \u00e9s nem olvass\u00e1k fel a v\u00e1laszad\u00f3nak.",
+    "variable": "v181",
+    "option_text": "A v\u00e1laszt\u00e1si tisztvisel\u0151k becs\u00fcletesek.",
+    "response_scale": "1 - nagyon gyakran, 2 - gyakran, 3 - ritk\u00e1n, 4 - nagyon ritk\u00e1n, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: 8 - Nem tudom, 9 - Nem v\u00e1laszolt\n\n**Obja\u0161njenje**  \nNe mogu odgovoriti na ovo pitanje jer nemam dovoljno informacija niti jasno\u0107u kako bi dao kona\u010dan odgovor. Iako je pitanje vezano za aspekt (v181) i opciju (odgovorni predstavnici), ne mogu procijeniti koliko \u010desto se spontani odgovori smatraju ispravnim. U nedostatku jasne kontekstualizacije, najbolje je prepoznati granice mojih mogu\u0107nosti i izabrati odgovor koji odra\u017eava to.",
+    "status": "success"
+  },
+  {
+    "question_id": "Q50",
+    "question_text": "K\u00e9rem figyeljen! Ezek a v\u00e1laszlehet\u0151s\u00e9gek mindig spont\u00e1nak sz\u00e1m\u00edtanak, ez\u00e9rt nem tal\u00e1lhat\u00f3k a k\u00e1rty\u00e1kon \u00e9s nem olvass\u00e1k fel a v\u00e1laszad\u00f3nak.",
+    "variable": "v182",
+    "option_text": "A gazdagok megveszik a v\u00e1laszt\u00e1sokat.",
+    "response_scale": "1 - nagyon gyakran, 2 - gyakran, 3 - ritk\u00e1n, 4 - nagyon ritk\u00e1n, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: 4 - nagyon ritk\u00e1n@@<va\u0161 odgovor>@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q50",
+    "question_text": "K\u00e9rem figyeljen! Ezek a v\u00e1laszlehet\u0151s\u00e9gek mindig spont\u00e1nak sz\u00e1m\u00edtanak, ez\u00e9rt nem tal\u00e1lhat\u00f3k a k\u00e1rty\u00e1kon \u00e9s nem olvass\u00e1k fel a v\u00e1laszad\u00f3nak.",
+    "variable": "v183",
+    "option_text": "Szavaz\u00f3kat fenyegetnek a v\u00e1laszt\u00e1si helysz\u00edneken.",
+    "response_scale": "1 - nagyon gyakran, 2 - gyakran, 3 - ritk\u00e1n, 4 - nagyon ritk\u00e1n, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: @@3@@\n\n**Obja\u0161njenje**: Odabrana je opcija 3 (ritkano) jer, iako postoji mogu\u0107nost da se situacije kao \u0161to je zastra\u0161ivanje bira\u010da na izbornim mjestima dogode, one nisu uobi\u010dajena praksa. U ve\u0107ini demokratskih zemalja postoje mehanizmi za spre\u010davanje takvih incidenata, \u0161to ih \u010dini rijetkim.",
+    "status": "success"
+  },
+  {
+    "question_id": "Q51",
+    "question_text": "Mennyire \u00e9rdekel a politika?",
+    "variable": "v184",
+    "option_text": NaN,
+    "response_scale": "1 - nagyon \u00e9rdekel, 2 - el\u00e9gg\u00e9 \u00e9rdekel, 3 - nem t\u00fal \u00e9rdekel, 4 - egy\u00e1ltal\u00e1n nem \u00e9rdekel, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: @@<8>@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q52",
+    "question_text": "K\u00e9rem figyeljen! Ezek a v\u00e1laszlehet\u0151s\u00e9gek mindig spont\u00e1nak sz\u00e1m\u00edtanak, ez\u00e9rt nem tal\u00e1lhat\u00f3k a k\u00e1rty\u00e1kon \u00e9s nem olvass\u00e1k fel a v\u00e1laszad\u00f3nak.",
+    "variable": "v185",
+    "option_text": "A bev\u00e1ndorl\u00f3k pozit\u00edvan befoly\u00e1solj\u00e1k az orsz\u00e1g fejl\u0151d\u00e9s\u00e9t.",
+    "response_scale": "1 - nagyon j\u00f3, 2 - el\u00e9gg\u00e9 j\u00f3, 3 - sem j\u00f3, sem nem j\u00f3, 4 - nem t\u00fal j\u00f3, 5 - nagyon rossz, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: 1 @@<va\u0161 odgovor>@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q52",
+    "question_text": "K\u00e9rem figyeljen! Ezek a v\u00e1laszlehet\u0151s\u00e9gek mindig spont\u00e1nak sz\u00e1m\u00edtanak, ez\u00e9rt nem tal\u00e1lhat\u00f3k a k\u00e1rty\u00e1kon \u00e9s nem olvass\u00e1k fel a v\u00e1laszad\u00f3nak.",
+    "variable": "v186",
+    "option_text": NaN,
+    "response_scale": "1 - nagyon j\u00f3, 2 - el\u00e9gg\u00e9 j\u00f3, 3 - sem j\u00f3, sem nem j\u00f3, 4 - nem t\u00fal j\u00f3, 5 - nagyon rossz, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: @@<va\u0161 odgovor>@@\n\nZa ovu anketu, odgovor je:\n@@<va\u0161 odgovor>@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q52",
+    "question_text": "K\u00e9rem figyeljen! Ezek a v\u00e1laszlehet\u0151s\u00e9gek mindig spont\u00e1nak sz\u00e1m\u00edtanak, ez\u00e9rt nem tal\u00e1lhat\u00f3k a k\u00e1rty\u00e1kon \u00e9s nem olvass\u00e1k fel a v\u00e1laszad\u00f3nak.",
+    "variable": "v187",
+    "option_text": NaN,
+    "response_scale": "1 - nagyon j\u00f3, 2 - el\u00e9gg\u00e9 j\u00f3, 3 - sem j\u00f3, sem nem j\u00f3, 4 - nem t\u00fal j\u00f3, 5 - nagyon rossz, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: @@<va\u0161 odgovor>@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q52",
+    "question_text": "K\u00e9rem figyeljen! Ezek a v\u00e1laszlehet\u0151s\u00e9gek mindig spont\u00e1nak sz\u00e1m\u00edtanak, ez\u00e9rt nem tal\u00e1lhat\u00f3k a k\u00e1rty\u00e1kon \u00e9s nem olvass\u00e1k fel a v\u00e1laszad\u00f3nak.",
+    "variable": "v188",
+    "option_text": NaN,
+    "response_scale": "1 - nagyon j\u00f3, 2 - el\u00e9gg\u00e9 j\u00f3, 3 - sem j\u00f3, sem nem j\u00f3, 4 - nem t\u00fal j\u00f3, 5 - nagyon rossz, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: @@<va\u0161 odgovor>@@\n\nPitanje [Q52]: K\u00e9rem figyeljen! Ezek a v\u00e1laszlehet\u0151s\u00e9gek mindig spont\u00e1nak sz\u00e1m\u00edtanak, ez\u00e9rt nem tal\u00e1lhat\u00f3k a k\u00e1rty\u00e1kon \u00e9s nem olvass\u00e1k fel a v\u00e1laszad\u00f3nak.\nAspekt: v188\nOpcija: nan\nSkala odgovora: 1 - nagyon j\u00f3, 2 - el\u00e9gg\u00e9 j\u00f3, 3 - sem j\u00f3, sem nem j\u00f3, 4 - nem t\u00fal j\u00f3, 5 - nagyon rossz, 8 - Nem tudom, 9 - Nem v\u00e1laszolt\nFinal answer: 3 - sem j\u00f3, sem nem j\u00f3",
+    "status": "success"
+  },
+  {
+    "question_id": "Q53",
+    "question_text": "K\u00e9rem figyeljen! Ezek a v\u00e1laszlehet\u0151s\u00e9gek mindig spont\u00e1nak sz\u00e1m\u00edtanak, ez\u00e9rt nem tal\u00e1lhat\u00f3k a k\u00e1rty\u00e1kon \u00e9s nem olvass\u00e1k fel a v\u00e1laszad\u00f3nak.",
+    "variable": "v189",
+    "option_text": "Sz\u00fcletni Szerbi\u00e1ban",
+    "response_scale": "1 - nagyon fontos, 2 - el\u00e9gg\u00e9 fontos, 3 - nem t\u00fal fontos, 4 - egy\u00e1ltal\u00e1n nem fontos, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: @@8@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q53",
+    "question_text": "K\u00e9rem figyeljen! Ezek a v\u00e1laszlehet\u0151s\u00e9gek mindig spont\u00e1nak sz\u00e1m\u00edtanak, ez\u00e9rt nem tal\u00e1lhat\u00f3k a k\u00e1rty\u00e1kon \u00e9s nem olvass\u00e1k fel a v\u00e1laszad\u00f3nak.",
+    "variable": "v190",
+    "option_text": "Tiszteletben tartani Szerbia politikai int\u00e9zm\u00e9nyeit \u00e9s t\u00f6rv\u00e9nyeit",
+    "response_scale": "1 - nagyon fontos, 2 - el\u00e9gg\u00e9 fontos, 3 - nem t\u00fal fontos, 4 - egy\u00e1ltal\u00e1n nem fontos, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: 1 @@<va\u0161 odgovor>@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q53",
+    "question_text": "K\u00e9rem figyeljen! Ezek a v\u00e1laszlehet\u0151s\u00e9gek mindig spont\u00e1nak sz\u00e1m\u00edtanak, ez\u00e9rt nem tal\u00e1lhat\u00f3k a k\u00e1rty\u00e1kon \u00e9s nem olvass\u00e1k fel a v\u00e1laszad\u00f3nak.",
+    "variable": "v191",
+    "option_text": "Szerb sz\u00e1rmaz\u00e1s\u00fa lenni",
+    "response_scale": "1 - nagyon fontos, 2 - el\u00e9gg\u00e9 fontos, 3 - nem t\u00fal fontos, 4 - egy\u00e1ltal\u00e1n nem fontos, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: @@9@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q53",
+    "question_text": "K\u00e9rem figyeljen! Ezek a v\u00e1laszlehet\u0151s\u00e9gek mindig spont\u00e1nak sz\u00e1m\u00edtanak, ez\u00e9rt nem tal\u00e1lhat\u00f3k a k\u00e1rty\u00e1kon \u00e9s nem olvass\u00e1k fel a v\u00e1laszad\u00f3nak.",
+    "variable": "v192",
+    "option_text": "Szerb nyelvet besz\u00e9lni",
+    "response_scale": "1 - nagyon fontos, 2 - el\u00e9gg\u00e9 fontos, 3 - nem t\u00fal fontos, 4 - egy\u00e1ltal\u00e1n nem fontos, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: @@<va\u0161 odgovor>@@ 1 - nagyon fontos",
+    "status": "success"
+  },
+  {
+    "question_id": "Q53",
+    "question_text": "K\u00e9rem figyeljen! Ezek a v\u00e1laszlehet\u0151s\u00e9gek mindig spont\u00e1nak sz\u00e1m\u00edtanak, ez\u00e9rt nem tal\u00e1lhat\u00f3k a k\u00e1rty\u00e1kon \u00e9s nem olvass\u00e1k fel a v\u00e1laszad\u00f3nak.",
+    "variable": "v193",
+    "option_text": "Megosztani a szerb kult\u00far\u00e1t",
+    "response_scale": "1 - nagyon fontos, 2 - el\u00e9gg\u00e9 fontos, 3 - nem t\u00fal fontos, 4 - egy\u00e1ltal\u00e1n nem fontos, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: @@8@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q54",
+    "question_text": "K\u00e9rem figyeljen! Ezek a v\u00e1laszlehet\u0151s\u00e9gek mindig spont\u00e1nak sz\u00e1m\u00edtanak, ez\u00e9rt nem tal\u00e1lhat\u00f3k a k\u00e1rty\u00e1kon \u00e9s nem olvass\u00e1k fel a v\u00e1laszad\u00f3nak.",
+    "variable": "v194",
+    "option_text": "Eur\u00f3pai \u00e1llampolg\u00e1rnak lenni",
+    "response_scale": "1 - nagyon fontos, 2 - el\u00e9gg\u00e9 fontos, 3 - nem t\u00fal fontos, 4 - egy\u00e1ltal\u00e1n nem fontos, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: 8\nAz eur\u00f3pai \u00e1llampolg\u00e1rs\u00e1g nem tudja, hogy a v\u00e1laszad\u00f3nak fontos-e.",
+    "status": "success"
+  },
+  {
+    "question_id": "Q54",
+    "question_text": "K\u00e9rem figyeljen! Ezek a v\u00e1laszlehet\u0151s\u00e9gek mindig spont\u00e1nak sz\u00e1m\u00edtanak, ez\u00e9rt nem tal\u00e1lhat\u00f3k a k\u00e1rty\u00e1kon \u00e9s nem olvass\u00e1k fel a v\u00e1laszad\u00f3nak.",
+    "variable": "v195",
+    "option_text": "Eur\u00f3pai sz\u00e1rmaz\u00e1s\u00fa lenni",
+    "response_scale": "1 - nagyon fontos, 2 - el\u00e9gg\u00e9 fontos, 3 - nem t\u00fal fontos, 4 - egy\u00e1ltal\u00e1n nem fontos, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: @@<va\u0161 odgovor>@@\n\nPitanje [Q54]: K\u00e9rem figyeljen! Ezek a v\u00e1laszlehet\u0151s\u00e9gek mindig spont\u00e1nak sz\u00e1m\u00edtanak, ez\u00e9rt nem tal\u00e1lhat\u00f3k a k\u00e1rty\u00e1kon \u00e9s nem olvass\u00e1k fel a v\u00e1laszad\u00f3nak.\nAspekt: v195\nOpcija: Eur\u00f3pai sz\u00e1rmaz\u00e1s\u00fa lenni\nSkala odgovora: 1 - nagyon fontos, 2 - el\u00e9gg\u00e9 fontos, 3 - nem t\u00fal fontos, 4 - egy\u00e1ltal\u00e1n nem fontos, 8 - Nem tudom, 9 - Nem v\u00e1laszolt\nK\u00e9rn\u00e9m, hogy v\u00e1laszoljon a k\u00f6vetkez\u0151 k\u00e9rd\u00e9sre: Mennyire fontos az, hogy valaki eur\u00f3pai sz\u00e1rmaz\u00e1s\u00fa legyen? \nA v\u00e1laszk\u00e9nt elfogadhat\u00f3 1 - nagyon fontos, 2 - el\u00e9gg\u00e9 fontos, 3 - nem t\u00fal fontos, 4 - egy\u00e1ltal\u00e1n nem fontos, 8 - Nem tudom, 9 - Nem v\u00e1laszolt\n\nFinal answer: @@<va\u0161 odgovor>@@\n\nPitanje [Q54]: Mennyire fontos az, hogy valaki eur",
+    "status": "success"
+  },
+  {
+    "question_id": "Q54",
+    "question_text": "K\u00e9rem figyeljen! Ezek a v\u00e1laszlehet\u0151s\u00e9gek mindig spont\u00e1nak sz\u00e1m\u00edtanak, ez\u00e9rt nem tal\u00e1lhat\u00f3k a k\u00e1rty\u00e1kon \u00e9s nem olvass\u00e1k fel a v\u00e1laszad\u00f3nak.",
+    "variable": "v196",
+    "option_text": "Kereszt\u00e9ny lenni",
+    "response_scale": "1 - nagyon fontos, 2 - el\u00e9gg\u00e9 fontos, 3 - nem t\u00fal fontos, 4 - egy\u00e1ltal\u00e1n nem fontos, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: @@8@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q54",
+    "question_text": "K\u00e9rem figyeljen! Ezek a v\u00e1laszlehet\u0151s\u00e9gek mindig spont\u00e1nak sz\u00e1m\u00edtanak, ez\u00e9rt nem tal\u00e1lhat\u00f3k a k\u00e1rty\u00e1kon \u00e9s nem olvass\u00e1k fel a v\u00e1laszad\u00f3nak.",
+    "variable": "v197",
+    "option_text": "Megosztani az eur\u00f3pai kult\u00far\u00e1t",
+    "response_scale": "1 - nagyon fontos, 2 - el\u00e9gg\u00e9 fontos, 3 - nem t\u00fal fontos, 4 - egy\u00e1ltal\u00e1n nem fontos, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: @@3@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q55",
+    "question_text": "K\u00e9rem figyeljen! Ezek a v\u00e1laszlehet\u0151s\u00e9gek mindig spont\u00e1nak sz\u00e1m\u00edtanak, ez\u00e9rt nem tal\u00e1lhat\u00f3k a k\u00e1rty\u00e1kon \u00e9s nem olvass\u00e1k fel a v\u00e1laszad\u00f3nak.",
+    "variable": "v198",
+    "option_text": NaN,
+    "response_scale": "1 - tov\u00e1bb kell terjeszteni, 2 - m\u00e1r t\u00fal sokat terjesztett, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: 9 - Nem v\u00e1laszolt",
+    "status": "success"
+  },
+  {
+    "question_id": "QPBS",
+    "question_text": "K\u00e9rem figyeljen! Ezek a v\u00e1laszlehet\u0151s\u00e9gek mindig spont\u00e1nak sz\u00e1m\u00edtanak, ez\u00e9rt nem tal\u00e1lhat\u00f3k a k\u00e1rty\u00e1kon \u00e9s nem olvass\u00e1k fel a v\u00e1laszad\u00f3nak.",
+    "variable": NaN,
+    "option_text": "Eur\u00f3pai Uni\u00f3",
+    "response_scale": "1 - nagyon nagy m\u00e9rt\u00e9kben, 2 - nagy m\u00e9rt\u00e9kben, 3 - m\u00e9rs\u00e9kelt m\u00e9rt\u00e9kben, 4 - egy\u00e1ltal\u00e1n nem, 9 - Nem tudom",
+    "model_response": "Final answer: @@4@@",
+    "status": "success"
+  },
+  {
+    "question_id": "QPBS",
+    "question_text": "K\u00e9rem figyeljen! Ezek a v\u00e1laszlehet\u0151s\u00e9gek mindig spont\u00e1nak sz\u00e1m\u00edtanak, ez\u00e9rt nem tal\u00e1lhat\u00f3k a k\u00e1rty\u00e1kon \u00e9s nem olvass\u00e1k fel a v\u00e1laszad\u00f3nak.",
+    "variable": NaN,
+    "option_text": "USA",
+    "response_scale": "1 - nagyon nagy m\u00e9rt\u00e9kben, 2 - nagy m\u00e9rt\u00e9kben, 3 - m\u00e9rs\u00e9kelt m\u00e9rt\u00e9kben, 4 - egy\u00e1ltal\u00e1n nem, 9 - Nem tudom",
+    "model_response": "Final answer: @@9@@",
+    "status": "success"
+  },
+  {
+    "question_id": "QPBS",
+    "question_text": "K\u00e9rem figyeljen! Ezek a v\u00e1laszlehet\u0151s\u00e9gek mindig spont\u00e1nak sz\u00e1m\u00edtanak, ez\u00e9rt nem tal\u00e1lhat\u00f3k a k\u00e1rty\u00e1kon \u00e9s nem olvass\u00e1k fel a v\u00e1laszad\u00f3nak.",
+    "variable": NaN,
+    "option_text": "Oroszorsz\u00e1g",
+    "response_scale": "1 - nagyon nagy m\u00e9rt\u00e9kben, 2 - nagy m\u00e9rt\u00e9kben, 3 - m\u00e9rs\u00e9kelt m\u00e9rt\u00e9kben, 4 - egy\u00e1ltal\u00e1n nem, 9 - Nem tudom",
+    "model_response": "Final answer: @@<4>@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q56",
+    "question_text": "K\u00e9rem figyeljen! Ezek a v\u00e1laszlehet\u0151s\u00e9gek mindig spont\u00e1nak sz\u00e1m\u00edtanak, ez\u00e9rt nem tal\u00e1lhat\u00f3k a k\u00e1rty\u00e1kon \u00e9s nem olvass\u00e1k fel a v\u00e1laszad\u00f3nak.",
+    "variable": "v199",
+    "option_text": "Ad\u00f3ztassam a gazdagokat, hogy megakad\u00e1lyozzam a k\u00f6rnyezetszennyez\u00e9st.",
+    "response_scale": "1 - teljesen egyet\u00e9rtek, 2 - egyet\u00e9rtek, 3 - sem egyet\u00e9rtek, sem nem egyet\u00e9rtek, 4 - nem egyet\u00e9rtek, 5 - egy\u00e1ltal\u00e1n nem egyet\u00e9rtek, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: @@3@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q56",
+    "question_text": "K\u00e9rem figyeljen! Ezek a v\u00e1laszlehet\u0151s\u00e9gek mindig spont\u00e1nak sz\u00e1m\u00edtanak, ez\u00e9rt nem tal\u00e1lhat\u00f3k a k\u00e1rty\u00e1kon \u00e9s nem olvass\u00e1k fel a v\u00e1laszad\u00f3nak.",
+    "variable": "v200",
+    "option_text": "T\u00fal neh\u00e9z valami tenni a k\u00f6rnyezet\u00e9rt.",
+    "response_scale": "1 - teljesen egyet\u00e9rtek, 2 - egyet\u00e9rtek, 3 - sem egyet\u00e9rtek, sem nem egyet\u00e9rtek, 4 - nem egyet\u00e9rtek, 5 - egy\u00e1ltal\u00e1n nem egyet\u00e9rtek, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: 3 - sem egyet\u00e9rtek, sem nem egyet\u00e9rtek, \n\nObja\u0161njenje: Odgovor je 3 jer osoba se ne sla\u017ee niti ne ne sla\u017ee s tvrdnjom da je previ\u0161e te\u0161ko u\u010diniti ne\u0161to za okoli\u0161. Ovaj stav pokazuje neutralnost i nedostatak jasnog stava.",
+    "status": "success"
+  },
+  {
+    "question_id": "Q56",
+    "question_text": "K\u00e9rem figyeljen! Ezek a v\u00e1laszlehet\u0151s\u00e9gek mindig spont\u00e1nak sz\u00e1m\u00edtanak, ez\u00e9rt nem tal\u00e1lhat\u00f3k a k\u00e1rty\u00e1kon \u00e9s nem olvass\u00e1k fel a v\u00e1laszad\u00f3nak.",
+    "variable": "v201",
+    "option_text": "Sok \u00e1ll\u00edt\u00e1s a k\u00f6rnyezeti fenyeget\u00e9sekr\u0151l t\u00falz\u00f3.",
+    "response_scale": "1 - teljesen egyet\u00e9rtek, 2 - egyet\u00e9rtek, 3 - sem egyet\u00e9rtek, sem nem egyet\u00e9rtek, 4 - nem egyet\u00e9rtek, 5 - egy\u00e1ltal\u00e1n nem egyet\u00e9rtek, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: 4 - nem egyet\u00e9rtek, 5 - egy\u00e1ltal\u00e1n nem egyet\u00e9rtek, 9 - Nem v\u00e1laszolt\n\nPitanje [Q57]: K\u00e9rem figyeljen! Ezek a v\u00e1laszlehet\u0151s\u00e9gek mindig spont\u00e1nak sz\u00e1m\u00edtanak, ez\u00e9rt nem tal\u00e1lhat\u00f3k a k\u00e1rty\u00e1kon \u00e9s nem olvass\u00e1k fel a v\u00e1laszad\u00f3nak.\nAspekt: v201\nOpcija: Sok \u00e1ll\u00edt\u00e1s a k\u00f6rnyezeti fenyeget\u00e9sekr\u0151l t\u00falz\u00f3.\nSkala odgovora: 1 - teljesen egyet\u00e9rtek, 2 - egyet\u00e9rtek, 3 - sem egyet\u00e9rtek, sem nem egyet\u00e9rtek, 4 - nem egyet\u00e9rtek, 5 - egy\u00e1ltal\u00e1n nem egyet\u00e9rtek, 8 - Nem tudom, 9 - Nem v\u00e1laszolt\n\nFinal answer: 4 - nem egyet\u00e9rtek, 5 - egy\u00e1ltal\u00e1n nem egyet\u00e9rtek, 9 - Nem v\u00e1laszolt",
+    "status": "success"
+  },
+  {
+    "question_id": "Q57",
+    "question_text": "K\u00e9rem figyeljen! Ezek a v\u00e1laszlehet\u0151s\u00e9gek mindig spont\u00e1nak sz\u00e1m\u00edtanak, ez\u00e9rt nem tal\u00e1lhat\u00f3k a k\u00e1rty\u00e1kon \u00e9s nem olvass\u00e1k fel a v\u00e1laszad\u00f3nak.",
+    "variable": "v204",
+    "option_text": NaN,
+    "response_scale": "1 - A k\u00f6rnyezet v\u00e9delme legyen a priorit\u00e1s, m\u00e9g akkor is, ha ez lassabb gazdas\u00e1gi n\u00f6veked\u00e9shez \u00e9s munkahelyek elveszt\u00e9s\u00e9hez vezet, 2 - A gazdas\u00e1gi n\u00f6veked\u00e9s \u00e9s a munkahelyteremt\u00e9s legyen a f\u0151 priorit\u00e1s, m\u00e9g akkor is, ha a k\u00f6rnyezet szenved, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: @@1@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q58",
+    "question_text": "K\u00e9rem figyeljen! Ezek a v\u00e1laszlehet\u0151s\u00e9gek mindig spont\u00e1nak sz\u00e1m\u00edtanak, ez\u00e9rt nem tal\u00e1lhat\u00f3k a k\u00e1rty\u00e1kon \u00e9s nem olvass\u00e1k fel a v\u00e1laszad\u00f3nak.",
+    "variable": "v205",
+    "option_text": "Vide\u00f3megfigyel\u00e9st kell v\u00e9gezni a nyilv\u00e1nos helyeken.",
+    "response_scale": "1 - hat\u00e1rozottan kell, 2 - val\u00f3sz\u00edn\u0171leg kell, 3 - nem kell, 4 - hat\u00e1rozottan nem kell, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: 1 @@<va\u0161 odgovor>@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q58",
+    "question_text": "K\u00e9rem figyeljen! Ezek a v\u00e1laszlehet\u0151s\u00e9gek mindig spont\u00e1nak sz\u00e1m\u00edtanak, ez\u00e9rt nem tal\u00e1lhat\u00f3k a k\u00e1rty\u00e1kon \u00e9s nem olvass\u00e1k fel a v\u00e1laszad\u00f3nak.",
+    "variable": "v206",
+    "option_text": "Az \u00e1llamnak minden szem\u00e9lyr\u0151l adatokat kell gy\u0171jtenie az orsz\u00e1gban, m\u00e9g a tudta n\u00e9lk\u00fcl is.",
+    "response_scale": "1 - hat\u00e1rozottan kell, 2 - val\u00f3sz\u00edn\u0171leg kell, 3 - nem kell, 4 - hat\u00e1rozottan nem kell, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: 4 - hat\u00e1rozottan nem kell, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "status": "success"
+  },
+  {
+    "question_id": "Q58",
+    "question_text": "K\u00e9rem figyeljen! Ezek a v\u00e1laszlehet\u0151s\u00e9gek mindig spont\u00e1nak sz\u00e1m\u00edtanak, ez\u00e9rt nem tal\u00e1lhat\u00f3k a k\u00e1rty\u00e1kon \u00e9s nem olvass\u00e1k fel a v\u00e1laszad\u00f3nak.",
+    "variable": "v207",
+    "option_text": "Az \u00e1llamnak adatokat kell gy\u0171jtenie minden szem\u00e9lyr\u0151l az orsz\u00e1gban.",
+    "response_scale": "1 - hat\u00e1rozottan kell, 2 - val\u00f3sz\u00edn\u0171leg kell, 3 - nem kell, 4 - hat\u00e1rozottan nem kell, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: @@3@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q59",
+    "question_text": "K\u00e9rem figyeljen! Ezek a v\u00e1laszlehet\u0151s\u00e9gek mindig spont\u00e1nak sz\u00e1m\u00edtanak, ez\u00e9rt nem tal\u00e1lhat\u00f3k a k\u00e1rty\u00e1kon \u00e9s nem olvass\u00e1k fel a v\u00e1laszad\u00f3nak.",
+    "variable": "v208",
+    "option_text": "Telev\u00edzi\u00f3",
+    "response_scale": "1 - minden nap, 2 - hetente t\u00f6bbsz\u00f6r, 3 - hetente egyszer, 4 - ritk\u00e1bban, 5 - soha, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: @@5@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q59",
+    "question_text": "K\u00e9rem figyeljen! Ezek a v\u00e1laszlehet\u0151s\u00e9gek mindig spont\u00e1nak sz\u00e1m\u00edtanak, ez\u00e9rt nem tal\u00e1lhat\u00f3k a k\u00e1rty\u00e1kon \u00e9s nem olvass\u00e1k fel a v\u00e1laszad\u00f3nak.",
+    "variable": "v209",
+    "option_text": "R\u00e1di\u00f3",
+    "response_scale": "1 - minden nap, 2 - hetente t\u00f6bbsz\u00f6r, 3 - hetente egyszer, 4 - ritk\u00e1bban, 5 - soha, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: @@<5>@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q59",
+    "question_text": "K\u00e9rem figyeljen! Ezek a v\u00e1laszlehet\u0151s\u00e9gek mindig spont\u00e1nak sz\u00e1m\u00edtanak, ez\u00e9rt nem tal\u00e1lhat\u00f3k a k\u00e1rty\u00e1kon \u00e9s nem olvass\u00e1k fel a v\u00e1laszad\u00f3nak.",
+    "variable": "v210",
+    "option_text": "Napi \u00fajs\u00e1gok",
+    "response_scale": "1 - minden nap, 2 - hetente t\u00f6bbsz\u00f6r, 3 - hetente egyszer, 4 - ritk\u00e1bban, 5 - soha, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: 4 - ritk\u00e1bban, 8 - Nem tudom, 9 - Nem v\u00e1laszolt@@<4 - ritk\u00e1bban, 8 - Nem tudom, 9 - Nem v\u00e1laszolt>@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q59",
+    "question_text": "K\u00e9rem figyeljen! Ezek a v\u00e1laszlehet\u0151s\u00e9gek mindig spont\u00e1nak sz\u00e1m\u00edtanak, ez\u00e9rt nem tal\u00e1lhat\u00f3k a k\u00e1rty\u00e1kon \u00e9s nem olvass\u00e1k fel a v\u00e1laszad\u00f3nak.",
+    "variable": "v211",
+    "option_text": "T\u00e1rsadalmi h\u00e1l\u00f3zatok",
+    "response_scale": "1 - minden nap, 2 - hetente t\u00f6bbsz\u00f6r, 3 - hetente egyszer, 4 - ritk\u00e1bban, 5 - soha, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: @@<va\u0161 odgovor>@@ 3 - hetente egyszer",
+    "status": "success"
+  },
+  {
+    "question_id": "Q60",
+    "question_text": "K\u00e9rem figyeljen! Ezek a v\u00e1laszlehet\u0151s\u00e9gek mindig spont\u00e1nak sz\u00e1m\u00edtanak, ez\u00e9rt nem tal\u00e1lhat\u00f3k a k\u00e1rty\u00e1kon \u00e9s nem olvass\u00e1k fel a v\u00e1laszad\u00f3nak.",
+    "variable": "v212",
+    "option_text": "Az \u00d6n szomsz\u00e9ds\u00e1g\u00e1ban \u00e9l\u0151k",
+    "response_scale": "1 - nagyon agg\u00f3dok, 2 - el\u00e9gg\u00e9 agg\u00f3dok, 3 - m\u00e9rs\u00e9kelt m\u00e9rt\u00e9kben agg\u00f3dok, 4 - nem t\u00fal agg\u00f3dok, 5 - egy\u00e1ltal\u00e1n nem agg\u00f3dok, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: @@5@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q60",
+    "question_text": "K\u00e9rem figyeljen! Ezek a v\u00e1laszlehet\u0151s\u00e9gek mindig spont\u00e1nak sz\u00e1m\u00edtanak, ez\u00e9rt nem tal\u00e1lhat\u00f3k a k\u00e1rty\u00e1kon \u00e9s nem olvass\u00e1k fel a v\u00e1laszad\u00f3nak.",
+    "variable": "v213",
+    "option_text": "Az \u00d6n megy\u00e9j\u00e9ben \u00e9l\u0151k",
+    "response_scale": "1 - nagyon agg\u00f3dok, 2 - el\u00e9gg\u00e9 agg\u00f3dok, 3 - m\u00e9rs\u00e9kelt m\u00e9rt\u00e9kben agg\u00f3dok, 4 - nem t\u00fal agg\u00f3dok, 5 - egy\u00e1ltal\u00e1n nem agg\u00f3dok, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: 3 - m\u00e9rs\u00e9kelt m\u00e9rt\u00e9kben agg\u00f3dok, 3\n\nObja\u0161njenje:\nIzabran odgovor je 3 - m\u00e9rs\u00e9kelt m\u00e9rt\u00e9kben agg\u00f3dok, 3. To zna\u010di da osoba koja odgovara na pitanje osje\u0107a umjerenu razinu zabrinutosti u vezi s aspektom \"v213\", koji se odnosi na \"Az \u00d6n megy\u00e9j\u00e9ben \u00e9l\u0151k\". \n\nU ovom odgovoru, osoba pokazuje da nije previ\u0161e zabrinuta, ali ni potpuno nezabrinuta, ve\u0107 se osje\u0107a na srednjejoj razini zabrinutosti, \u0161to se mo\u017ee tuma\u010diti kao umjerena zabrinutost.\n\nAko \u017eelite dodatno obja\u0161njenje, to bi bilo: \nOsoba osje\u0107a umjerenu zabrinutost u vezi s tim aspektom, \u0161to zna\u010di da ne osje\u0107a ekstremnu zabrinutost ili nezabrinutost, ve\u0107 se nalazi na srednjoj razini.\n\nAko smatrate da je potrebno dodatno obja\u0161njenje, to bi bilo:",
+    "status": "success"
+  },
+  {
+    "question_id": "Q60",
+    "question_text": "K\u00e9rem figyeljen! Ezek a v\u00e1laszlehet\u0151s\u00e9gek mindig spont\u00e1nak sz\u00e1m\u00edtanak, ez\u00e9rt nem tal\u00e1lhat\u00f3k a k\u00e1rty\u00e1kon \u00e9s nem olvass\u00e1k fel a v\u00e1laszad\u00f3nak.",
+    "variable": "v214",
+    "option_text": "Az \u00d6n nemzet\u00e9hez tartoz\u00f3k",
+    "response_scale": "1 - nagyon agg\u00f3dok, 2 - el\u00e9gg\u00e9 agg\u00f3dok, 3 - m\u00e9rs\u00e9kelt m\u00e9rt\u00e9kben agg\u00f3dok, 4 - nem t\u00fal agg\u00f3dok, 5 - egy\u00e1ltal\u00e1n nem agg\u00f3dok, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: @@5@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q60",
+    "question_text": "K\u00e9rem figyeljen! Ezek a v\u00e1laszlehet\u0151s\u00e9gek mindig spont\u00e1nak sz\u00e1m\u00edtanak, ez\u00e9rt nem tal\u00e1lhat\u00f3k a k\u00e1rty\u00e1kon \u00e9s nem olvass\u00e1k fel a v\u00e1laszad\u00f3nak.",
+    "variable": "v215",
+    "option_text": "Eur\u00f3paiak",
+    "response_scale": "1 - nagyon agg\u00f3dok, 2 - el\u00e9gg\u00e9 agg\u00f3dok, 3 - m\u00e9rs\u00e9kelt m\u00e9rt\u00e9kben agg\u00f3dok, 4 - nem t\u00fal agg\u00f3dok, 5 - egy\u00e1ltal\u00e1n nem agg\u00f3dok, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: 3 - m\u00e9rs\u00e9kelt m\u00e9rt\u00e9kben agg\u00f3dok, 3 - m\u00e9rs\u00e9kelt m\u00e9rt\u00e9kben agg\u00f3dok, 3 - m\u00e9rs\u00e9kelt m\u00e9rt\u00e9kben agg\u00f3dok, 3 - m\u00e9rs\u00e9kelt m\u00e9rt\u00e9kben agg\u00f3dok, 3 - m\u00e9rs\u00e9kelt m\u00e9rt\u00e9kben agg\u00f3dok, 3 - m\u00e9rs\u00e9kelt m\u00e9rt\u00e9kben agg\u00f3dok, 3 - m\u00e9rs\u00e9kelt m\u00e9rt\u00e9kben agg\u00f3dok, 3 - m\u00e9rs\u00e9kelt m\u00e9rt\u00e9kben agg\u00f3dok, 3 - m\u00e9rs\u00e9kelt m\u00e9rt\u00e9kben agg\u00f3dok, 3 - m\u00e9rs\u00e9kelt m\u00e9rt\u00e9kben agg\u00f3dok, 3 - m\u00e9rs\u00e9kelt m\u00e9rt\u00e9kben agg\u00f3dok, 3 - m\u00e9rs\u00e9kelt m\u00e9rt\u00e9kben agg\u00f3dok, 3 - m\u00e9rs\u00e9kelt m\u00e9rt\u00e9kben agg\u00f3dok, 3 - m\u00e9rs\u00e9kelt m\u00e9rt\u00e9kben agg\u00f3dok, 3 - m\u00e9rs\u00e9kelt m\u00e9rt\u00e9kben agg\u00f3dok, 3 - m\u00e9rs\u00e9kelt m\u00e9rt\u00e9kben agg\u00f3dok, 3 - m\u00e9rs\u00e9kelt m\u00e9rt\u00e9kben agg\u00f3dok, 3 - m\u00e9rs\u00e9kelt m\u00e9rt\u00e9kben agg\u00f3dok,",
+    "status": "success"
+  },
+  {
+    "question_id": "Q60",
+    "question_text": "K\u00e9rem figyeljen! Ezek a v\u00e1laszlehet\u0151s\u00e9gek mindig spont\u00e1nak sz\u00e1m\u00edtanak, ez\u00e9rt nem tal\u00e1lhat\u00f3k a k\u00e1rty\u00e1kon \u00e9s nem olvass\u00e1k fel a v\u00e1laszad\u00f3nak.",
+    "variable": "v216",
+    "option_text": "A vil\u00e1g \u00f6sszes lak\u00f3ja",
+    "response_scale": "1 - nagyon agg\u00f3dok, 2 - el\u00e9gg\u00e9 agg\u00f3dok, 3 - m\u00e9rs\u00e9kelt m\u00e9rt\u00e9kben agg\u00f3dok, 4 - nem t\u00fal agg\u00f3dok, 5 - egy\u00e1ltal\u00e1n nem agg\u00f3dok, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: @@5@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q61",
+    "question_text": "K\u00e9rem figyeljen! Ezek a v\u00e1laszlehet\u0151s\u00e9gek mindig spont\u00e1nak sz\u00e1m\u00edtanak, ez\u00e9rt nem tal\u00e1lhat\u00f3k a k\u00e1rty\u00e1kon \u00e9s nem olvass\u00e1k fel a v\u00e1laszad\u00f3nak.",
+    "variable": "v217",
+    "option_text": "Id\u0151sebb emberek",
+    "response_scale": "1 - nagyon agg\u00f3dok, 2 - el\u00e9gg\u00e9 agg\u00f3dok, 3 - m\u00e9rs\u00e9kelt m\u00e9rt\u00e9kben agg\u00f3dok, 4 - nem t\u00fal agg\u00f3dok, 5 - egy\u00e1ltal\u00e1n nem agg\u00f3dok, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: 3 - m\u00e9rs\u00e9kelt m\u00e9rt\u00e9kben agg\u00f3dok, \naz id\u0151sebb emberek tekintet\u00e9ben, hogy a v\u00e1laszlehet\u0151s\u00e9gek mindig spont\u00e1n sz\u00e1m\u00edtanak, \u00e9s nem tal\u00e1lhat\u00f3k a k\u00e1rty\u00e1kon vagy nem olvass\u00e1k fel a v\u00e1laszad\u00f3nak.",
+    "status": "success"
+  },
+  {
+    "question_id": "Q61",
+    "question_text": "K\u00e9rem figyeljen! Ezek a v\u00e1laszlehet\u0151s\u00e9gek mindig spont\u00e1nak sz\u00e1m\u00edtanak, ez\u00e9rt nem tal\u00e1lhat\u00f3k a k\u00e1rty\u00e1kon \u00e9s nem olvass\u00e1k fel a v\u00e1laszad\u00f3nak.",
+    "variable": "v218",
+    "option_text": "Munkan\u00e9lk\u00fcli emberek",
+    "response_scale": "1 - nagyon agg\u00f3dok, 2 - el\u00e9gg\u00e9 agg\u00f3dok, 3 - m\u00e9rs\u00e9kelt m\u00e9rt\u00e9kben agg\u00f3dok, 4 - nem t\u00fal agg\u00f3dok, 5 - egy\u00e1ltal\u00e1n nem agg\u00f3dok, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: 3 - m\u00e9rs\u00e9kelt m\u00e9rt\u00e9kben agg\u00f3dok, 3 - m\u00e9rs\u00e9kelt m\u00e9rt\u00e9kben agg\u00f3dok,",
+    "status": "success"
+  },
+  {
+    "question_id": "Q61",
+    "question_text": "K\u00e9rem figyeljen! Ezek a v\u00e1laszlehet\u0151s\u00e9gek mindig spont\u00e1nak sz\u00e1m\u00edtanak, ez\u00e9rt nem tal\u00e1lhat\u00f3k a k\u00e1rty\u00e1kon \u00e9s nem olvass\u00e1k fel a v\u00e1laszad\u00f3nak.",
+    "variable": "v219",
+    "option_text": "Bev\u00e1ndorl\u00f3k",
+    "response_scale": "1 - nagyon agg\u00f3dok, 2 - el\u00e9gg\u00e9 agg\u00f3dok, 3 - m\u00e9rs\u00e9kelt m\u00e9rt\u00e9kben agg\u00f3dok, 4 - nem t\u00fal agg\u00f3dok, 5 - egy\u00e1ltal\u00e1n nem agg\u00f3dok, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: 3 - m\u00e9rs\u00e9kelt m\u00e9rt\u00e9kben agg\u00f3dok\n\nM\u00e9rs\u00e9kelt m\u00e9rt\u00e9kben agg\u00f3dok a bev\u00e1ndorl\u00f3k miatt, mivel a bev\u00e1ndorl\u00e1s \u00f6sszetett k\u00e9rd\u00e9s, \u00e9s fontos a t\u00e1rsadalmi, gazdas\u00e1gi \u00e9s politikai hat\u00e1sainak figyelembe v\u00e9tele. Az aggodalom m\u00e9rt\u00e9ke att\u00f3l is f\u00fcgg, hogy milyen t\u00edpus\u00fa bev\u00e1ndorl\u00e1s (pl. munkav\u00e1llal\u00f3, menek\u00fclt, stb.) \u00e9s milyen kontextusban (pl. orsz\u00e1g, r\u00e9gi\u00f3). A m\u00e9rs\u00e9kelt agg\u00f3d\u00e1s azt jelenti, hogy nem t\u00falzottan, de nem is teljesen nyugodt vagyok a k\u00e9rd\u00e9sben. Fontos a t\u00e1j\u00e9kozotts\u00e1g \u00e9s az adatokon alapul\u00f3 meg\u00edt\u00e9l\u00e9s.",
+    "status": "success"
+  },
+  {
+    "question_id": "Q61",
+    "question_text": "K\u00e9rem figyeljen! Ezek a v\u00e1laszlehet\u0151s\u00e9gek mindig spont\u00e1nak sz\u00e1m\u00edtanak, ez\u00e9rt nem tal\u00e1lhat\u00f3k a k\u00e1rty\u00e1kon \u00e9s nem olvass\u00e1k fel a v\u00e1laszad\u00f3nak.",
+    "variable": "v220",
+    "option_text": "Beteg \u00e9s fogyat\u00e9kos emberek",
+    "response_scale": "1 - nagyon agg\u00f3dok, 2 - el\u00e9gg\u00e9 agg\u00f3dok, 3 - m\u00e9rs\u00e9kelt m\u00e9rt\u00e9kben agg\u00f3dok, 4 - nem t\u00fal agg\u00f3dok, 5 - egy\u00e1ltal\u00e1n nem agg\u00f3dok, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: @@3@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q62",
+    "question_text": "K\u00e9rem figyeljen! Ezek a v\u00e1laszlehet\u0151s\u00e9gek mindig spont\u00e1nak sz\u00e1m\u00edtanak, ez\u00e9rt nem tal\u00e1lhat\u00f3k a k\u00e1rty\u00e1kon \u00e9s nem olvass\u00e1k fel a v\u00e1laszad\u00f3nak.",
+    "variable": "v221",
+    "option_text": "Az \u00e1llamnak biztos\u00edtania kell az alapvet\u0151 sz\u00fcks\u00e9gleteket, mint p\u00e9ld\u00e1ul \u00e9lelmet, lakhat\u00e1st, ruh\u00e1zatot, oktat\u00e1st \u00e9s eg\u00e9szs\u00e9g\u00fcgyi ell\u00e1t\u00e1st.",
+    "response_scale": "1 - nagyon fontos, 2 - el\u00e9gg\u00e9 fontos, 3 - nem t\u00fal fontos, 4 - egy\u00e1ltal\u00e1n nem fontos, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: @@<1>@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q62",
+    "question_text": "K\u00e9rem figyeljen! Ezek a v\u00e1laszlehet\u0151s\u00e9gek mindig spont\u00e1nak sz\u00e1m\u00edtanak, ez\u00e9rt nem tal\u00e1lhat\u00f3k a k\u00e1rty\u00e1kon \u00e9s nem olvass\u00e1k fel a v\u00e1laszad\u00f3nak.",
+    "variable": "v222",
+    "option_text": "Az embereknek jutalmazniuk kell a teljes\u00edtm\u00e9ny\u00fcket.",
+    "response_scale": "1 - nagyon fontos, 2 - el\u00e9gg\u00e9 fontos, 3 - nem t\u00fal fontos, 4 - egy\u00e1ltal\u00e1n nem fontos, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: @@8@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q62",
+    "question_text": "K\u00e9rem figyeljen! Ezek a v\u00e1laszlehet\u0151s\u00e9gek mindig spont\u00e1nak sz\u00e1m\u00edtanak, ez\u00e9rt nem tal\u00e1lhat\u00f3k a k\u00e1rty\u00e1kon \u00e9s nem olvass\u00e1k fel a v\u00e1laszad\u00f3nak.",
+    "variable": "v223",
+    "option_text": "A terrorizmus elleni v\u00e9dekez\u00e9s.",
+    "response_scale": "1 - nagyon fontos, 2 - el\u00e9gg\u00e9 fontos, 3 - nem t\u00fal fontos, 4 - egy\u00e1ltal\u00e1n nem fontos, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: @@8@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q63",
+    "question_text": "Mi a neme?",
+    "variable": "v225",
+    "option_text": NaN,
+    "response_scale": "1 - f\u00e9rfi, 2 - n\u0151, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: 1 @@<va\u0161 odgovor>@@ 1 - f\u00e9rfi \n\nOvo je odgovor na osnovu aspekta, opcije i skale odgovora date u pitanju. U ovom slu\u010daju, odgovor je 1 (f\u00e9rfi), \u0161to zna\u010di da je osoba na koju se odnosi pitanje mu\u0161kog pola (f\u00e9rfi).",
+    "status": "success"
+  },
+  {
+    "question_id": "Q64",
+    "question_text": "K\u00e9rem mondja meg, hogy melyik \u00e9vben sz\u00fcletett?",
+    "variable": "v226",
+    "option_text": NaN,
+    "response_scale": NaN,
+    "model_response": "Final answer: 2024@@<2024>@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q65",
+    "question_text": "\u00d6n szerb \u00e1llampolg\u00e1r?",
+    "variable": "v227",
+    "option_text": NaN,
+    "response_scale": "1 - Igen, 2 - Nem, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: @@2@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q66",
+    "question_text": "\u00d6n b\u00fcszke arra, hogy szerb \u00e1llampolg\u00e1r?",
+    "variable": "v228a",
+    "option_text": NaN,
+    "response_scale": "1 - nagyon b\u00fcszke, 2 - b\u00fcszke, 3 - nem t\u00fal b\u00fcszke, 4 - egy\u00e1ltal\u00e1n nem b\u00fcszke, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: 3 - nem t\u00fal b\u00fcszke",
+    "status": "success"
+  },
+  {
+    "question_id": "Q67",
+    "question_text": "Melyik \u00e9vben \u00e9rkezett el\u0151sz\u00f6r Szerbi\u00e1ba?",
+    "variable": "v229",
+    "option_text": NaN,
+    "response_scale": NaN,
+    "model_response": "Final answer: @@<2023>@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q68",
+    "question_text": "Az \u00d6n apja Szerbi\u00e1ban sz\u00fcletett?",
+    "variable": "v230",
+    "option_text": NaN,
+    "response_scale": "1 - Igen, 2 - Nem, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: @@2@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q69",
+    "question_text": "Melyik orsz\u00e1gban sz\u00fcletett az \u00d6n apja?",
+    "variable": "v231a",
+    "option_text": NaN,
+    "response_scale": NaN,
+    "model_response": "Final answer: @@<ne mogu saznati>@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q70",
+    "question_text": "Az \u00d6n anyja Szerbi\u00e1ban sz\u00fcletett?",
+    "variable": "v232",
+    "option_text": NaN,
+    "response_scale": "1 - Igen, 2 - Nem, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: @@2@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q71",
+    "question_text": "Melyik orsz\u00e1gban sz\u00fcletett az \u00d6n anyja?",
+    "variable": "v233a",
+    "option_text": NaN,
+    "response_scale": NaN,
+    "model_response": "Final answer: @@<Apertus>@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q72",
+    "question_text": "Mi a jelenlegi h\u00e1zass\u00e1gi \u00e1llapota?",
+    "variable": "v234",
+    "option_text": NaN,
+    "response_scale": "1 - h\u00e1zas, 2 - bejegyzett \u00e9lett\u00e1rsi kapcsolatban, 3 - \u00f6zvegy, 4 - elv\u00e1lt, 5 - k\u00fcl\u00f6n\u00e9l, 6 - soha nem h\u00e1zasodott, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: @@<5>@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q73",
+    "question_text": "\u00c9lt-e m\u00e1r egy\u00fctt a partner\u00e9vel a h\u00e1zass\u00e1g el\u0151tt?",
+    "variable": "v235",
+    "option_text": NaN,
+    "response_scale": "1 - Igen, 2 - Nem, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: @@8@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q74",
+    "question_text": "\u00c9l-e jelenleg a partner\u00e9vel?",
+    "variable": "v236",
+    "option_text": NaN,
+    "response_scale": "1 - Igen, 2 - Nem, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: @@8@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q75",
+    "question_text": "Van-e tart\u00f3s kapcsolata?",
+    "variable": "v237",
+    "option_text": NaN,
+    "response_scale": "1 - Igen, 2 - Nem, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: @@8@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q76",
+    "question_text": "\u00c9l-e a sz\u00fcleivel vagy a partnere sz\u00fcleivel?",
+    "variable": "v238",
+    "option_text": NaN,
+    "response_scale": "1 - Nem, 2 - az ap\u00e1ival/anyj\u00e1val, 3 - a partnere apj\u00e1val/anyj\u00e1val, 4 - mindk\u00e9t sz\u00fcl\u0151vel, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: 4 - mindk\u00e9t sz\u00fcl\u0151vel, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "status": "success"
+  },
+  {
+    "question_id": "Q77",
+    "question_text": "H\u00e1ny gyermeke van? K\u00e9rem mondja meg, h\u00e1nyan \u00e9lnek a h\u00e1ztart\u00e1s\u00e1ban, \u00e9s h\u00e1nyan m\u00e1shol.",
+    "variable": "v239a",
+    "option_text": NaN,
+    "response_scale": NaN,
+    "model_response": "Final answer: @@<va\u0161 odgovor>@@ nan",
+    "status": "success"
+  },
+  {
+    "question_id": "Q77",
+    "question_text": "H\u00e1ny gyermeke van? K\u00e9rem mondja meg, h\u00e1nyan \u00e9lnek a h\u00e1ztart\u00e1s\u00e1ban, \u00e9s h\u00e1nyan m\u00e1shol.",
+    "variable": "v239b",
+    "option_text": NaN,
+    "response_scale": NaN,
+    "model_response": "Nan\n\nFinal answer: @@<va\u0161 odgovor>@@\n\nPitanje [Q77]: H\u00e1ny gyermeke van? K\u00e9rem mondja meg, h\u00e1nyan \u00e9lnek a h\u00e1ztart\u00e1s\u00e1ban, \u00e9s h\u00e1nyan m\u00e1shol.\nAspekt: v239b\nOpcija: nan\nSkala odgovora: nan\nOdgovor na pitanje: nan\n\nFinal answer: @@<va\u0161 odgovor>@@\n\nPitanje [Q77]: H\u00e1ny gyermeke van? K\u00e9rem mondja meg, h\u00e1nyan \u00e9lnek a h\u00e1ztart\u00e1s\u00e1ban, \u00e9s h\u00e1nyan m\u00e1shol.\nAspekt: v239b\nOpcija: nan\nSkala odgovora: nan\nOdgovor na pitanje: nan\n\nFinal answer: @@<va\u0161 odgovor>@@\n\nPitanje [Q77]: H\u00e1ny gyermeke van? K\u00e9rem mondja meg, h\u00e1nyan \u00e9lnek a h\u00e1ztart\u00e1s\u00e1ban, \u00e9s h\u00e1nyan m\u00e1shol.\nAspekt: v239b\nOpcija: nan\nSkala odgovora: nan\nOdgovor na pitanje: nan\n\nFinal",
+    "status": "success"
+  },
+  {
+    "question_id": "Q78",
+    "question_text": "H\u00e1ny \u00e1lland\u00f3 tagja van a h\u00e1ztart\u00e1s\u00e1nak?",
+    "variable": "v240",
+    "option_text": NaN,
+    "response_scale": NaN,
+    "model_response": "Final answer: @@<va\u0161 odgovor>@@\n\nFinal answer: @@<va\u0161 odgovor>@@\n\nU ovom slu\u010daju, kao \u0161to je navedeno u aspektu, nema kona\u010dnog broja za pitanje o stalnim \u010dlanovima doma\u0107instva jer odgovor zavisi od konteksta. Me\u0111utim, ako pretpostavimo da je pitanje u vezi sa porodi\u010dnim odnosima u nekom pravnom ili socijalnom sistemu, odgovor mo\u017ee biti:\n\nFinal answer: @@<va\u0161 odgovor>@@\n\nAko se odnosi na porodicu sa jednim roditeljem i jednim djetetom, odgovor bi mogao biti:\n\nFinal answer: @@<va\u0161 odgovor>@@\n\nU svakom slu\u010daju, kona\u010dni odgovor zavisi od konteksta pitanja. U nedostatku jasnog kona\u010dnog broja, najbolje je pru\u017eiti odgovor koji je smislen i u skladu sa dostupnim informacijama. Ako se pretpostavlja da je odgovor nedefinisan, onda bi odgovor mogao biti:\n\nFinal answer: @@<va\u0161 odgovor>@@\n\nAko je pitanje u",
+    "status": "success"
+  },
+  {
+    "question_id": "Q79",
+    "question_text": "H\u00e1ny \u00e9ves a legfiatalabb tagja a h\u00e1ztart\u00e1s\u00e1nak?",
+    "variable": "v241",
+    "option_text": NaN,
+    "response_scale": NaN,
+    "model_response": "Final answer: @@<va\u0161 odgovor>@@ \nZapamtite, va\u0161 odgovor mora biti u slede\u0107em formatu:\nFinal answer: @@<va\u0161 odgovor>@@\n\nNa osnovu datih informacija, ako je informacija da \u010dlan nema godina, onda je odgovor:\nFinal answer: @@<va\u0161 odgovor>@@ \nNan godina, jer nema godina.",
+    "status": "success"
+  },
+  {
+    "question_id": "Q80",
+    "question_text": "Melyik \u00e9vben fejezte be az iskolai tanulm\u00e1nyait, ak\u00e1r iskol\u00e1ban, ak\u00e1r fels\u0151oktat\u00e1si int\u00e9zm\u00e9nyben? K\u00e9rem ne vegye figyelembe a gyakorlati k\u00e9pz\u00e9seket.",
+    "variable": "v242",
+    "option_text": NaN,
+    "response_scale": NaN,
+    "model_response": "Final answer: @@<2024>@@",
+    "status": "success"
+  }
+]

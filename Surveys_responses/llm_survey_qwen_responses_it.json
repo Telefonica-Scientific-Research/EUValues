@@ -1,0 +1,47 @@
+[
+  {
+    "question_id": "Q1",
+    "question_text": "Per favore, indica quanto sia importante per te ciascuno dei seguenti aspetti nella tua vita.",
+    "variable": "v1",
+    "option_text": "Lavoro",
+    "response_scale": "1 (molto importante) - 2 (abbastanza importante) - 3 (non importante) - 4 (per niente importante) - 8 (Non so, NS) - 9 (Nessuna risposta, SR)",
+    "model_response": null,
+    "status": "failed"
+  },
+  {
+    "question_id": "Q1",
+    "question_text": "Per favore, indica quanto sia importante per te ciascuno dei seguenti aspetti nella tua vita.",
+    "variable": "v2",
+    "option_text": "Famiglia",
+    "response_scale": "1 (molto importante) - 2 (abbastanza importante) - 3 (non importante) - 4 (per niente importante) - 8 (Non so, NS) - 9 (Nessuna risposta, SR)",
+    "model_response": null,
+    "status": "failed"
+  },
+  {
+    "question_id": "Q1",
+    "question_text": "Per favore, indica quanto sia importante per te ciascuno dei seguenti aspetti nella tua vita.",
+    "variable": "v3",
+    "option_text": "Amici e conoscenti",
+    "response_scale": "1 (molto importante) - 2 (abbastanza importante) - 3 (non importante) - 4 (per niente importante) - 8 (Non so, NS) - 9 (Nessuna risposta, SR)",
+    "model_response": null,
+    "status": "failed"
+  },
+  {
+    "question_id": "Q1",
+    "question_text": "Per favore, indica quanto sia importante per te ciascuno dei seguenti aspetti nella tua vita.",
+    "variable": "v4",
+    "option_text": "Tempo libero",
+    "response_scale": "1 (molto importante) - 2 (abbastanza importante) - 3 (non importante) - 4 (per niente importante) - 8 (Non so, NS) - 9 (Nessuna risposta, SR)",
+    "model_response": null,
+    "status": "failed"
+  },
+  {
+    "question_id": "Q1",
+    "question_text": "Per favore, indica quanto sia importante per te ciascuno dei seguenti aspetti nella tua vita.",
+    "variable": "v5",
+    "option_text": "Politica",
+    "response_scale": "1 (molto importante) - 2 (abbastanza importante) - 3 (non importante) - 4 (per niente importante) - 8 (Non so, NS) - 9 (Nessuna risposta, SR)",
+    "model_response": null,
+    "status": "failed"
+  }
+]

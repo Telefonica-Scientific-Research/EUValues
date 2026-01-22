@@ -1,0 +1,47 @@
+[
+  {
+    "question_id": "Q1",
+    "question_text": "Pros\u00edm, \u0159ekn\u011bte, jak moc je ka\u017ed\u00fd z n\u00e1sleduj\u00edc\u00edch aspekt\u016f d\u016fle\u017eit\u00fd ve va\u0161em \u017eivot\u011b.",
+    "variable": "v1",
+    "option_text": "Pr\u00e1ce",
+    "response_scale": "1 (velmi d\u016fle\u017eit\u00e9) - 2 (docela d\u016fle\u017eit\u00e9) - 3 (ned\u016fle\u017eit\u00e9) - 4 (v\u016fbec ned\u016fle\u017eit\u00e9) - 8 (Nev\u00edm, NS) - 9 (Bez odpov\u011bdi, SR)",
+    "model_response": null,
+    "status": "failed"
+  },
+  {
+    "question_id": "Q1",
+    "question_text": "Pros\u00edm, \u0159ekn\u011bte, jak moc je ka\u017ed\u00fd z n\u00e1sleduj\u00edc\u00edch aspekt\u016f d\u016fle\u017eit\u00fd ve va\u0161em \u017eivot\u011b.",
+    "variable": "v2",
+    "option_text": "Rodina",
+    "response_scale": "1 (velmi d\u016fle\u017eit\u00e9) - 2 (docela d\u016fle\u017eit\u00e9) - 3 (ned\u016fle\u017eit\u00e9) - 4 (v\u016fbec ned\u016fle\u017eit\u00e9) - 8 (Nev\u00edm, NS) - 9 (Bez odpov\u011bdi, SR)",
+    "model_response": null,
+    "status": "failed"
+  },
+  {
+    "question_id": "Q1",
+    "question_text": "Pros\u00edm, \u0159ekn\u011bte, jak moc je ka\u017ed\u00fd z n\u00e1sleduj\u00edc\u00edch aspekt\u016f d\u016fle\u017eit\u00fd ve va\u0161em \u017eivot\u011b.",
+    "variable": "v3",
+    "option_text": "P\u0159\u00e1tel\u00e9 a zn\u00e1m\u00ed",
+    "response_scale": "1 (velmi d\u016fle\u017eit\u00e9) - 2 (docela d\u016fle\u017eit\u00e9) - 3 (ned\u016fle\u017eit\u00e9) - 4 (v\u016fbec ned\u016fle\u017eit\u00e9) - 8 (Nev\u00edm, NS) - 9 (Bez odpov\u011bdi, SR)",
+    "model_response": null,
+    "status": "failed"
+  },
+  {
+    "question_id": "Q1",
+    "question_text": "Pros\u00edm, \u0159ekn\u011bte, jak moc je ka\u017ed\u00fd z n\u00e1sleduj\u00edc\u00edch aspekt\u016f d\u016fle\u017eit\u00fd ve va\u0161em \u017eivot\u011b.",
+    "variable": "v4",
+    "option_text": "Voln\u00fd \u010das",
+    "response_scale": "1 (velmi d\u016fle\u017eit\u00e9) - 2 (docela d\u016fle\u017eit\u00e9) - 3 (ned\u016fle\u017eit\u00e9) - 4 (v\u016fbec ned\u016fle\u017eit\u00e9) - 8 (Nev\u00edm, NS) - 9 (Bez odpov\u011bdi, SR)",
+    "model_response": null,
+    "status": "failed"
+  },
+  {
+    "question_id": "Q1",
+    "question_text": "Pros\u00edm, \u0159ekn\u011bte, jak moc je ka\u017ed\u00fd z n\u00e1sleduj\u00edc\u00edch aspekt\u016f d\u016fle\u017eit\u00fd ve va\u0161em \u017eivot\u011b.",
+    "variable": "v5",
+    "option_text": "Politika",
+    "response_scale": "1 (velmi d\u016fle\u017eit\u00e9) - 2 (docela d\u016fle\u017eit\u00e9) - 3 (ned\u016fle\u017eit\u00e9) - 4 (v\u016fbec ned\u016fle\u017eit\u00e9) - 8 (Nev\u00edm, NS) - 9 (Bez odpov\u011bdi, SR)",
+    "model_response": null,
+    "status": "failed"
+  }
+]

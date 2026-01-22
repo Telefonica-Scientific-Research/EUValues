@@ -1,0 +1,6 @@
+question_id,question_text,variable,option_text,response_scale,model_response,status
+Q1,"Kérem mondja meg, hogy a következők mennyire fontosak az Ön életében?",v1,Munka,"1 - nagyon fontos, 2 - elég fontos, 3 - nem fontos, 4 - egyáltalán nem fontos, 8 - Nem tudom, 9 - Nem válaszolt",,failed
+Q1,"Kérem mondja meg, hogy a következők mennyire fontosak az Ön életében?",v2,Család,"1 - nagyon fontos, 2 - elég fontos, 3 - nem fontos, 4 - egyáltalán nem fontos, 8 - Nem tudom, 9 - Nem válaszolt",,failed
+Q1,"Kérem mondja meg, hogy a következők mennyire fontosak az Ön életében?",v3,Barátok és ismerősök,"1 - nagyon fontos, 2 - elég fontos, 3 - nem fontos, 4 - egyáltalán nem fontos, 8 - Nem tudom, 9 - Nem válaszolt",,failed
+Q1,"Kérem mondja meg, hogy a következők mennyire fontosak az Ön életében?",v4,Szabadidő,"1 - nagyon fontos, 2 - elég fontos, 3 - nem fontos, 4 - egyáltalán nem fontos, 8 - Nem tudom, 9 - Nem válaszolt",,failed
+Q1,"Kérem mondja meg, hogy a következők mennyire fontosak az Ön életében?",v5,Politika,"1 - nagyon fontos, 2 - elég fontos, 3 - nem fontos, 4 - egyáltalán nem fontos, 8 - Nem tudom, 9 - Nem válaszolt",,failed

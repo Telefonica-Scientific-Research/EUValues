@@ -1,0 +1,6 @@
+question_id,question_text,variable,option_text,response_scale,model_response,status
+Q1,"Prosím, řekněte, jak moc je každý z následujících aspektů důležitý ve vašem životě.",v1,Práce,"1 (velmi důležité) - 2 (docela důležité) - 3 (nedůležité) - 4 (vůbec nedůležité) - 8 (Nevím, NS) - 9 (Bez odpovědi, SR)",,failed
+Q1,"Prosím, řekněte, jak moc je každý z následujících aspektů důležitý ve vašem životě.",v2,Rodina,"1 (velmi důležité) - 2 (docela důležité) - 3 (nedůležité) - 4 (vůbec nedůležité) - 8 (Nevím, NS) - 9 (Bez odpovědi, SR)",,failed
+Q1,"Prosím, řekněte, jak moc je každý z následujících aspektů důležitý ve vašem životě.",v3,Přátelé a známí,"1 (velmi důležité) - 2 (docela důležité) - 3 (nedůležité) - 4 (vůbec nedůležité) - 8 (Nevím, NS) - 9 (Bez odpovědi, SR)",,failed
+Q1,"Prosím, řekněte, jak moc je každý z následujících aspektů důležitý ve vašem životě.",v4,Volný čas,"1 (velmi důležité) - 2 (docela důležité) - 3 (nedůležité) - 4 (vůbec nedůležité) - 8 (Nevím, NS) - 9 (Bez odpovědi, SR)",,failed
+Q1,"Prosím, řekněte, jak moc je každý z následujících aspektů důležitý ve vašem životě.",v5,Politika,"1 (velmi důležité) - 2 (docela důležité) - 3 (nedůležité) - 4 (vůbec nedůležité) - 8 (Nevím, NS) - 9 (Bez odpovědi, SR)",,failed

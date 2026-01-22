@@ -1,0 +1,47 @@
+[
+  {
+    "question_id": "Q1",
+    "question_text": "K\u00e9rem mondja meg, hogy a k\u00f6vetkez\u0151k mennyire fontosak az \u00d6n \u00e9let\u00e9ben?",
+    "variable": "v1",
+    "option_text": "Munka",
+    "response_scale": "1 - nagyon fontos, 2 - el\u00e9g fontos, 3 - nem fontos, 4 - egy\u00e1ltal\u00e1n nem fontos, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": null,
+    "status": "failed"
+  },
+  {
+    "question_id": "Q1",
+    "question_text": "K\u00e9rem mondja meg, hogy a k\u00f6vetkez\u0151k mennyire fontosak az \u00d6n \u00e9let\u00e9ben?",
+    "variable": "v2",
+    "option_text": "Csal\u00e1d",
+    "response_scale": "1 - nagyon fontos, 2 - el\u00e9g fontos, 3 - nem fontos, 4 - egy\u00e1ltal\u00e1n nem fontos, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": null,
+    "status": "failed"
+  },
+  {
+    "question_id": "Q1",
+    "question_text": "K\u00e9rem mondja meg, hogy a k\u00f6vetkez\u0151k mennyire fontosak az \u00d6n \u00e9let\u00e9ben?",
+    "variable": "v3",
+    "option_text": "Bar\u00e1tok \u00e9s ismer\u0151s\u00f6k",
+    "response_scale": "1 - nagyon fontos, 2 - el\u00e9g fontos, 3 - nem fontos, 4 - egy\u00e1ltal\u00e1n nem fontos, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": null,
+    "status": "failed"
+  },
+  {
+    "question_id": "Q1",
+    "question_text": "K\u00e9rem mondja meg, hogy a k\u00f6vetkez\u0151k mennyire fontosak az \u00d6n \u00e9let\u00e9ben?",
+    "variable": "v4",
+    "option_text": "Szabadid\u0151",
+    "response_scale": "1 - nagyon fontos, 2 - el\u00e9g fontos, 3 - nem fontos, 4 - egy\u00e1ltal\u00e1n nem fontos, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": null,
+    "status": "failed"
+  },
+  {
+    "question_id": "Q1",
+    "question_text": "K\u00e9rem mondja meg, hogy a k\u00f6vetkez\u0151k mennyire fontosak az \u00d6n \u00e9let\u00e9ben?",
+    "variable": "v5",
+    "option_text": "Politika",
+    "response_scale": "1 - nagyon fontos, 2 - el\u00e9g fontos, 3 - nem fontos, 4 - egy\u00e1ltal\u00e1n nem fontos, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": null,
+    "status": "failed"
+  }
+]

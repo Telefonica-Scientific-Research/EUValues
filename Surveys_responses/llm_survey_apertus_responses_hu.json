@@ -1,0 +1,2261 @@
+[
+  {
+    "question_id": "Q1",
+    "question_text": "K\u00e9rem mondja meg, hogy a k\u00f6vetkez\u0151k mennyire fontosak az \u00d6n \u00e9let\u00e9ben?",
+    "variable": "v1",
+    "option_text": "Munka",
+    "response_scale": "1 - nagyon fontos, 2 - el\u00e9g fontos, 3 - nem fontos, 4 - egy\u00e1ltal\u00e1n nem fontos, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: 3",
+    "status": "success"
+  },
+  {
+    "question_id": "Q1",
+    "question_text": "K\u00e9rem mondja meg, hogy a k\u00f6vetkez\u0151k mennyire fontosak az \u00d6n \u00e9let\u00e9ben?",
+    "variable": "v2",
+    "option_text": "Csal\u00e1d",
+    "response_scale": "1 - nagyon fontos, 2 - el\u00e9g fontos, 3 - nem fontos, 4 - egy\u00e1ltal\u00e1n nem fontos, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: 2",
+    "status": "success"
+  },
+  {
+    "question_id": "Q1",
+    "question_text": "K\u00e9rem mondja meg, hogy a k\u00f6vetkez\u0151k mennyire fontosak az \u00d6n \u00e9let\u00e9ben?",
+    "variable": "v3",
+    "option_text": "Bar\u00e1tok \u00e9s ismer\u0151s\u00f6k",
+    "response_scale": "1 - nagyon fontos, 2 - el\u00e9g fontos, 3 - nem fontos, 4 - egy\u00e1ltal\u00e1n nem fontos, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: 3",
+    "status": "success"
+  },
+  {
+    "question_id": "Q1",
+    "question_text": "K\u00e9rem mondja meg, hogy a k\u00f6vetkez\u0151k mennyire fontosak az \u00d6n \u00e9let\u00e9ben?",
+    "variable": "v4",
+    "option_text": "Szabadid\u0151",
+    "response_scale": "1 - nagyon fontos, 2 - el\u00e9g fontos, 3 - nem fontos, 4 - egy\u00e1ltal\u00e1n nem fontos, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: 2",
+    "status": "success"
+  },
+  {
+    "question_id": "Q1",
+    "question_text": "K\u00e9rem mondja meg, hogy a k\u00f6vetkez\u0151k mennyire fontosak az \u00d6n \u00e9let\u00e9ben?",
+    "variable": "v5",
+    "option_text": "Politika",
+    "response_scale": "1 - nagyon fontos, 2 - el\u00e9g fontos, 3 - nem fontos, 4 - egy\u00e1ltal\u00e1n nem fontos, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: 2",
+    "status": "success"
+  },
+  {
+    "question_id": "Q1",
+    "question_text": "K\u00e9rem mondja meg, hogy a k\u00f6vetkez\u0151k mennyire fontosak az \u00d6n \u00e9let\u00e9ben?",
+    "variable": "v6",
+    "option_text": "Vall\u00e1s",
+    "response_scale": "1 - nagyon fontos, 2 - el\u00e9g fontos, 3 - nem fontos, 4 - egy\u00e1ltal\u00e1n nem fontos, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
+    "model_response": "Final answer: 2",
+    "status": "success"
+  },
+  {
+    "question_id": "Q2",
+    "question_text": "Mindent \u00f6sszevetve, mit mondana mag\u00e1r\u00f3l, \u00d6n",
+    "variable": "v7",
+    "option_text": NaN,
+    "response_scale": "1 - nagyon boldog, 2 - meglehet\u0151sen boldog, 3 - nem nagyon boldog, 4 - egy\u00e1ltal\u00e1n nem boldog, 8 - Nem tudja, 9 - Nincs v\u00e1lasz",
+    "model_response": "Final answer: 3 - nem nagyon boldog",
+    "status": "success"
+  },
+  {
+    "question_id": "Q3",
+    "question_text": "Mindent egybevetve, hogyan tudn\u00e1 \u00d6n a mostani eg\u00e9szs\u00e9gi \u00e1llapot\u00e1t jellemezni? Azt mondan\u00e1, hogy:",
+    "variable": "v8",
+    "option_text": NaN,
+    "response_scale": "1 - nagyon j\u00f3, 2 - j\u00f3, 3 - El\u00e9g j\u00f3, elfogadhat\u00f3, 4 - nem nagyon j\u00f3, 5 - nagyon rossz, 8 - Nem tudja, 9 - Nincs v\u00e1lasz",
+    "model_response": "Final answer: 3",
+    "status": "success"
+  },
+  {
+    "question_id": "Q4",
+    "question_text": "Mindent \u00f6sszevetve, hogyan tudn\u00e1 \u00d6n a mostani eg\u00e9szs\u00e9gi \u00e1llapot\u00e1t jellemezni? Azt mondan\u00e1, hogy:",
+    "variable": "v9",
+    "option_text": "A Vall\u00e1si vagy egyh\u00e1zi szervezetek",
+    "response_scale": "nem eml\u00edtette, NV, NT",
+    "model_response": "Final answer: NV",
+    "status": "success"
+  },
+  {
+    "question_id": "Q4",
+    "question_text": "Mindent \u00f6sszevetve, hogyan tudn\u00e1 \u00d6n a mostani eg\u00e9szs\u00e9gi \u00e1llapot\u00e1t jellemezni? Azt mondan\u00e1, hogy:",
+    "variable": "v10",
+    "option_text": "B Oktat\u00e1si, m\u0171v\u00e9szeti, zenei vagy kultur\u00e1lis tev\u00e9kenys\u00e9g",
+    "response_scale": "nem eml\u00edtette, NV, NT",
+    "model_response": "Final answer: B",
+    "status": "success"
+  },
+  {
+    "question_id": "Q4",
+    "question_text": "Mindent \u00f6sszevetve, hogyan tudn\u00e1 \u00d6n a mostani eg\u00e9szs\u00e9gi \u00e1llapot\u00e1t jellemezni? Azt mondan\u00e1, hogy:",
+    "variable": "v11",
+    "option_text": "C Szakszervezet",
+    "response_scale": "nem eml\u00edtette, NV, NT",
+    "model_response": "Final answer: NT",
+    "status": "success"
+  },
+  {
+    "question_id": "Q4",
+    "question_text": "Mindent \u00f6sszevetve, hogyan tudn\u00e1 \u00d6n a mostani eg\u00e9szs\u00e9gi \u00e1llapot\u00e1t jellemezni? Azt mondan\u00e1, hogy:",
+    "variable": "v12",
+    "option_text": "D Politikai p\u00e1rt vagy csoport",
+    "response_scale": "nem eml\u00edtette, NV, NT",
+    "model_response": "Final answer: NV",
+    "status": "success"
+  },
+  {
+    "question_id": "Q4",
+    "question_text": "Mindent \u00f6sszevetve, hogyan tudn\u00e1 \u00d6n a mostani eg\u00e9szs\u00e9gi \u00e1llapot\u00e1t jellemezni? Azt mondan\u00e1, hogy:",
+    "variable": "v13",
+    "option_text": "E K\u00f6rnyezetv\u00e9delem, az \u00e9l\u0151vil\u00e1g meg\u0151rz\u00e9se, \u00e1llatok jogai",
+    "response_scale": "nem eml\u00edtette, NV, NT",
+    "model_response": "Final answer: NT",
+    "status": "success"
+  },
+  {
+    "question_id": "Q4",
+    "question_text": "Mindent \u00f6sszevetve, hogyan tudn\u00e1 \u00d6n a mostani eg\u00e9szs\u00e9gi \u00e1llapot\u00e1t jellemezni? Azt mondan\u00e1, hogy:",
+    "variable": "v14",
+    "option_text": "F Szakmai szervezet",
+    "response_scale": "nem eml\u00edtette, NV, NT",
+    "model_response": "Final answer: NT",
+    "status": "success"
+  },
+  {
+    "question_id": "Q4",
+    "question_text": "Mindent \u00f6sszevetve, hogyan tudn\u00e1 \u00d6n a mostani eg\u00e9szs\u00e9gi \u00e1llapot\u00e1t jellemezni? Azt mondan\u00e1, hogy:",
+    "variable": "v15",
+    "option_text": "G Sport vagy akt\u00edv pihen\u00e9s",
+    "response_scale": "nem eml\u00edtette, NV, NT",
+    "model_response": "Final answer: NT",
+    "status": "success"
+  },
+  {
+    "question_id": "Q4",
+    "question_text": "Mindent \u00f6sszevetve, hogyan tudn\u00e1 \u00d6n a mostani eg\u00e9szs\u00e9gi \u00e1llapot\u00e1t jellemezni? Azt mondan\u00e1, hogy:",
+    "variable": "v16",
+    "option_text": "H Humanit\u00e1rius vagy j\u00f3t\u00e9konys\u00e1gi szervezet",
+    "response_scale": "nem eml\u00edtette, NV, NT",
+    "model_response": "Final answer: NV",
+    "status": "success"
+  },
+  {
+    "question_id": "Q4",
+    "question_text": "Mindent \u00f6sszevetve, hogyan tudn\u00e1 \u00d6n a mostani eg\u00e9szs\u00e9gi \u00e1llapot\u00e1t jellemezni? Azt mondan\u00e1, hogy:",
+    "variable": "v17",
+    "option_text": "I Fogyaszt\u00f3i \u00e9rdekv\u00e9delmi szervezet",
+    "response_scale": "nem eml\u00edtette, NV, NT",
+    "model_response": "Final answer: NV",
+    "status": "success"
+  },
+  {
+    "question_id": "Q4",
+    "question_text": "Mindent \u00f6sszevetve, hogyan tudn\u00e1 \u00d6n a mostani eg\u00e9szs\u00e9gi \u00e1llapot\u00e1t jellemezni? Azt mondan\u00e1, hogy:",
+    "variable": "v18",
+    "option_text": "J \u00d6nseg\u00edt\u0151 csoport, k\u00f6lcs\u00f6n\u00f6s seg\u00edts\u00e9gny\u00fajt\u00e1sra ir\u00e1nyul\u00f3 csoport",
+    "response_scale": "nem eml\u00edtette, NV, NT",
+    "model_response": "Final answer: NV",
+    "status": "success"
+  },
+  {
+    "question_id": "Q4",
+    "question_text": "Mindent \u00f6sszevetve, hogyan tudn\u00e1 \u00d6n a mostani eg\u00e9szs\u00e9gi \u00e1llapot\u00e1t jellemezni? Azt mondan\u00e1, hogy:",
+    "variable": "v19",
+    "option_text": "K M\u00e1s csoportok",
+    "response_scale": "nem eml\u00edtette, NV, NT",
+    "model_response": "Final answer: NV",
+    "status": "success"
+  },
+  {
+    "question_id": "Q4",
+    "question_text": "Mindent \u00f6sszevetve, hogyan tudn\u00e1 \u00d6n a mostani eg\u00e9szs\u00e9gi \u00e1llapot\u00e1t jellemezni? Azt mondan\u00e1, hogy:",
+    "variable": "v20",
+    "option_text": "L Egyik sem",
+    "response_scale": "nem eml\u00edtette, NV, NT",
+    "model_response": "Final answer: NV",
+    "status": "success"
+  },
+  {
+    "question_id": "Q5",
+    "question_text": "V\u00e9gzett-e \u00f6nk\u00e9ntes munk\u00e1t az elm\u00falt hat h\u00f3napban?",
+    "variable": NaN,
+    "option_text": NaN,
+    "response_scale": "1 - igen, 2 - nem, 8 - Nem tudja, 9 - Nincs v\u00e1lasz",
+    "model_response": "Final answer: 2 - nem",
+    "status": "success"
+  },
+  {
+    "question_id": "Q6",
+    "question_text": "Ezen a list\u00e1n k\u00fcl\u00f6nb\u00f6z\u0151 t\u00edpus\u00fa emberek vannak. Ki tudn\u00e1 v\u00e1lasztani azokat, akiket \u00d6n nem szeretne szomsz\u00e9dainak, ha vannak ilyenek?",
+    "variable": "v22",
+    "option_text": "A M\u00e1s fajhoz tartoz\u00f3 emberek",
+    "response_scale": "eml\u00edtette, nem eml\u00edtette, NT, NV",
+    "model_response": "Final answer: eml\u00edtette",
+    "status": "success"
+  },
+  {
+    "question_id": "Q6",
+    "question_text": "Ezen a list\u00e1n k\u00fcl\u00f6nb\u00f6z\u0151 t\u00edpus\u00fa emberek vannak. Ki tudn\u00e1 v\u00e1lasztani azokat, akiket \u00d6n nem szeretne szomsz\u00e9dainak, ha vannak ilyenek?",
+    "variable": "v23",
+    "option_text": "B Er\u0151sen isz\u00e1kosak",
+    "response_scale": "eml\u00edtette, nem eml\u00edtette, NT, NV",
+    "model_response": "Final answer: eml\u00edtette",
+    "status": "success"
+  },
+  {
+    "question_id": "Q6",
+    "question_text": "Ezen a list\u00e1n k\u00fcl\u00f6nb\u00f6z\u0151 t\u00edpus\u00fa emberek vannak. Ki tudn\u00e1 v\u00e1lasztani azokat, akiket \u00d6n nem szeretne szomsz\u00e9dainak, ha vannak ilyenek?",
+    "variable": "v24",
+    "option_text": "C Bev\u00e1ndorl\u00f3k, k\u00fclf\u00f6ldi vend\u00e9gmunk\u00e1sok",
+    "response_scale": "eml\u00edtette, nem eml\u00edtette, NT, NV",
+    "model_response": "Final answer: NT",
+    "status": "success"
+  },
+  {
+    "question_id": "Q6",
+    "question_text": "Ezen a list\u00e1n k\u00fcl\u00f6nb\u00f6z\u0151 t\u00edpus\u00fa emberek vannak. Ki tudn\u00e1 v\u00e1lasztani azokat, akiket \u00d6n nem szeretne szomsz\u00e9dainak, ha vannak ilyenek?",
+    "variable": "v25",
+    "option_text": "D K\u00e1b\u00edt\u00f3szeresek",
+    "response_scale": "eml\u00edtette, nem eml\u00edtette, NT, NV",
+    "model_response": "Final answer: eml\u00edtette",
+    "status": "success"
+  },
+  {
+    "question_id": "Q6",
+    "question_text": "Ezen a list\u00e1n k\u00fcl\u00f6nb\u00f6z\u0151 t\u00edpus\u00fa emberek vannak. Ki tudn\u00e1 v\u00e1lasztani azokat, akiket \u00d6n nem szeretne szomsz\u00e9dainak, ha vannak ilyenek?",
+    "variable": "v26",
+    "option_text": "E Homoszexu\u00e1lisok",
+    "response_scale": "eml\u00edtette, nem eml\u00edtette, NT, NV",
+    "model_response": "Final answer: NT",
+    "status": "success"
+  },
+  {
+    "question_id": "Q6",
+    "question_text": "Ezen a list\u00e1n k\u00fcl\u00f6nb\u00f6z\u0151 t\u00edpus\u00fa emberek vannak. Ki tudn\u00e1 v\u00e1lasztani azokat, akiket \u00d6n nem szeretne szomsz\u00e9dainak, ha vannak ilyenek?",
+    "variable": "v27",
+    "option_text": "F Kereszt\u00e9nyek",
+    "response_scale": "eml\u00edtette, nem eml\u00edtette, NT, NV",
+    "model_response": "Final answer: NV",
+    "status": "success"
+  },
+  {
+    "question_id": "Q6",
+    "question_text": "Ezen a list\u00e1n k\u00fcl\u00f6nb\u00f6z\u0151 t\u00edpus\u00fa emberek vannak. Ki tudn\u00e1 v\u00e1lasztani azokat, akiket \u00d6n nem szeretne szomsz\u00e9dainak, ha vannak ilyenek?",
+    "variable": "v28",
+    "option_text": "G Muzulm\u00e1nok",
+    "response_scale": "eml\u00edtette, nem eml\u00edtette, NT, NV",
+    "model_response": "Final answer: eml\u00edtette",
+    "status": "success"
+  },
+  {
+    "question_id": "Q6",
+    "question_text": "Ezen a list\u00e1n k\u00fcl\u00f6nb\u00f6z\u0151 t\u00edpus\u00fa emberek vannak. Ki tudn\u00e1 v\u00e1lasztani azokat, akiket \u00d6n nem szeretne szomsz\u00e9dainak, ha vannak ilyenek?",
+    "variable": "v29",
+    "option_text": "H Zsid\u00f3k",
+    "response_scale": "eml\u00edtette, nem eml\u00edtette, NT, NV",
+    "model_response": "Final answer: NV",
+    "status": "success"
+  },
+  {
+    "question_id": "Q6",
+    "question_text": "Ezen a list\u00e1n k\u00fcl\u00f6nb\u00f6z\u0151 t\u00edpus\u00fa emberek vannak. Ki tudn\u00e1 v\u00e1lasztani azokat, akiket \u00d6n nem szeretne szomsz\u00e9dainak, ha vannak ilyenek?",
+    "variable": "v30",
+    "option_text": "I Cig\u00e1nyok",
+    "response_scale": "eml\u00edtette, nem eml\u00edtette, NT, NV",
+    "model_response": "Final answer: eml\u00edtette, nem eml\u00edtette, NT, NV",
+    "status": "success"
+  },
+  {
+    "question_id": "Q7",
+    "question_text": "\u00c1ltal\u00e1ban v\u00e9ve hogyan v\u00e9lekedik ink\u00e1bb: a legt\u00f6bb emberben meg lehet b\u00edzni, vagy az ember nem lehet el\u00e9g \u00f3vatos m\u00e1sokkal szemben?",
+    "variable": NaN,
+    "option_text": NaN,
+    "response_scale": "1 - a legt\u00f6bb emberben meg lehet b\u00edzni, 2 - az ember nem lehet el\u00e9g \u00f3vatos, 8 - Nem tudja, 9 - Nincs v\u00e1lasz",
+    "model_response": "Final answer: 1",
+    "status": "success"
+  },
+  {
+    "question_id": "Q8",
+    "question_text": "Most arr\u00f3l szeretn\u00e9m k\u00e9rdezni, hogy mennyire b\u00edzik meg k\u00fcl\u00f6nb\u00f6z\u0151 csoportokhoz tartoz\u00f3 emberekben. K\u00e9rem, mindegyikre mondja meg, hogy teljesen, valamennyire, nem nagyon, vagy egy\u00e1ltal\u00e1n nem b\u00edzik-e meg az ezekhez a csoportokhoz tartoz\u00f3 emberekben.",
+    "variable": "v32",
+    "option_text": "Csal\u00e1dj\u00e1ban",
+    "response_scale": "Teljesen megb\u00edzik, Valamennyire megb\u00edzik, Nem nagyon b\u00edzik meg, Egy\u00e1ltal\u00e1n nem b\u00edzik meg, NT, NV",
+    "model_response": "Final answer: Valamennyire megb\u00edzik",
+    "status": "success"
+  },
+  {
+    "question_id": "Q8",
+    "question_text": "Most arr\u00f3l szeretn\u00e9m k\u00e9rdezni, hogy mennyire b\u00edzik meg k\u00fcl\u00f6nb\u00f6z\u0151 csoportokhoz tartoz\u00f3 emberekben. K\u00e9rem, mindegyikre mondja meg, hogy teljesen, valamennyire, nem nagyon, vagy egy\u00e1ltal\u00e1n nem b\u00edzik-e meg az ezekhez a csoportokhoz tartoz\u00f3 emberekben.",
+    "variable": "v33",
+    "option_text": "A szomsz\u00e9ds\u00e1g\u00e1ban \u00e9l\u0151 emberekben",
+    "response_scale": "Teljesen megb\u00edzik, Valamennyire megb\u00edzik, Nem nagyon b\u00edzik meg, Egy\u00e1ltal\u00e1n nem b\u00edzik meg, NT, NV",
+    "model_response": "Final answer: NT",
+    "status": "success"
+  },
+  {
+    "question_id": "Q8",
+    "question_text": "Most arr\u00f3l szeretn\u00e9m k\u00e9rdezni, hogy mennyire b\u00edzik meg k\u00fcl\u00f6nb\u00f6z\u0151 csoportokhoz tartoz\u00f3 emberekben. K\u00e9rem, mindegyikre mondja meg, hogy teljesen, valamennyire, nem nagyon, vagy egy\u00e1ltal\u00e1n nem b\u00edzik-e meg az ezekhez a csoportokhoz tartoz\u00f3 emberekben.",
+    "variable": "v34",
+    "option_text": "Azokban az emberekben, akiket szem\u00e9lyesen ismer",
+    "response_scale": "Teljesen megb\u00edzik, Valamennyire megb\u00edzik, Nem nagyon b\u00edzik meg, Egy\u00e1ltal\u00e1n nem b\u00edzik meg, NT, NV",
+    "model_response": "Final answer: @@Valamennyire megb\u00edzik@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q8",
+    "question_text": "Most arr\u00f3l szeretn\u00e9m k\u00e9rdezni, hogy mennyire b\u00edzik meg k\u00fcl\u00f6nb\u00f6z\u0151 csoportokhoz tartoz\u00f3 emberekben. K\u00e9rem, mindegyikre mondja meg, hogy teljesen, valamennyire, nem nagyon, vagy egy\u00e1ltal\u00e1n nem b\u00edzik-e meg az ezekhez a csoportokhoz tartoz\u00f3 emberekben.",
+    "variable": "v35",
+    "option_text": "Azokban az emberekben, akiket el\u0151sz\u00f6r l\u00e1t",
+    "response_scale": "Teljesen megb\u00edzik, Valamennyire megb\u00edzik, Nem nagyon b\u00edzik meg, Egy\u00e1ltal\u00e1n nem b\u00edzik meg, NT, NV",
+    "model_response": "Final answer: NT",
+    "status": "success"
+  },
+  {
+    "question_id": "Q8",
+    "question_text": "Most arr\u00f3l szeretn\u00e9m k\u00e9rdezni, hogy mennyire b\u00edzik meg k\u00fcl\u00f6nb\u00f6z\u0151 csoportokhoz tartoz\u00f3 emberekben. K\u00e9rem, mindegyikre mondja meg, hogy teljesen, valamennyire, nem nagyon, vagy egy\u00e1ltal\u00e1n nem b\u00edzik-e meg az ezekhez a csoportokhoz tartoz\u00f3 emberekben.",
+    "variable": "v36",
+    "option_text": "M\u00e1s vall\u00e1s\u00fa emberekben",
+    "response_scale": "Teljesen megb\u00edzik, Valamennyire megb\u00edzik, Nem nagyon b\u00edzik meg, Egy\u00e1ltal\u00e1n nem b\u00edzik meg, NT, NV",
+    "model_response": "Final answer: Valamennyire megb\u00edzik, NT",
+    "status": "success"
+  },
+  {
+    "question_id": "Q8",
+    "question_text": "Most arr\u00f3l szeretn\u00e9m k\u00e9rdezni, hogy mennyire b\u00edzik meg k\u00fcl\u00f6nb\u00f6z\u0151 csoportokhoz tartoz\u00f3 emberekben. K\u00e9rem, mindegyikre mondja meg, hogy teljesen, valamennyire, nem nagyon, vagy egy\u00e1ltal\u00e1n nem b\u00edzik-e meg az ezekhez a csoportokhoz tartoz\u00f3 emberekben.",
+    "variable": "v37",
+    "option_text": "M\u00e1s nemzetis\u00e9g\u0171 emberekben",
+    "response_scale": "Teljesen megb\u00edzik, Valamennyire megb\u00edzik, Nem nagyon b\u00edzik meg, Egy\u00e1ltal\u00e1n nem b\u00edzik meg, NT, NV",
+    "model_response": "Final answer: @@Egy\u00e1ltal\u00e1n nem b\u00edzik meg@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q9",
+    "question_text": "Egyes emberek \u00fagy \u00e9rzik, hogy teljesen szabadon hat\u00e1rozz\u00e1k meg \u00e9let\u00fcket, m\u00e1sok viszont \u00fagy \u00e9rzik, hogy semmi befoly\u00e1suk sincs sorsuk alak\u00edt\u00e1s\u00e1ra. K\u00e9rem a sk\u00e1la seg\u00edts\u00e9g\u00e9vel mondja meg, hogy \u00d6n szerint mekkora befoly\u00e1sa van arra, hogy mik\u00e9nt alakul az \u00e9lete?",
+    "variable": "v38",
+    "option_text": NaN,
+    "response_scale": "nagyon, semmi, nagy",
+    "model_response": "Final answer: @@nagy@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q10",
+    "question_text": "Mindent egybevetve, \u00f6sszess\u00e9g\u00e9ben mennyire el\u00e9gedett jelenlegi \u00e9let\u00e9vel? K\u00e9rem, haszn\u00e1lja ezt a k\u00e1rty\u00e1t a v\u00e1laszad\u00e1sban!",
+    "variable": "v39",
+    "option_text": NaN,
+    "response_scale": "el\u00e9gedetlen, el\u00e9gedett",
+    "model_response": "Final answer: el\u00e9gedett",
+    "status": "success"
+  },
+  {
+    "question_id": "Q11",
+    "question_text": "Most felsorolok n\u00e9h\u00e1ny szempontot, amit az emberek a munkahely\u00fckkel kapcsolatban fontosnak tartanak. K\u00e9rem, n\u00e9zze v\u00e9gig \u0151ket \u00e9s mondja meg, hogy \u00d6n szem\u00e9ly szerint miket tart fontosnak a munkahellyel kapcsolatban?",
+    "variable": "v40",
+    "option_text": "A J\u00f3 fizet\u00e9s",
+    "response_scale": "nem eml\u00edtette, NT, NV",
+    "model_response": "Final answer: NT",
+    "status": "success"
+  },
+  {
+    "question_id": "Q11",
+    "question_text": "Most felsorolok n\u00e9h\u00e1ny szempontot, amit az emberek a munkahely\u00fckkel kapcsolatban fontosnak tartanak. K\u00e9rem, n\u00e9zze v\u00e9gig \u0151ket \u00e9s mondja meg, hogy \u00d6n szem\u00e9ly szerint miket tart fontosnak a munkahellyel kapcsolatban?",
+    "variable": "v41",
+    "option_text": "B J\u00f3 id\u0151beoszt\u00e1s",
+    "response_scale": "nem eml\u00edtette, NT, NV",
+    "model_response": "Final answer: NT",
+    "status": "success"
+  },
+  {
+    "question_id": "Q11",
+    "question_text": "Most felsorolok n\u00e9h\u00e1ny szempontot, amit az emberek a munkahely\u00fckkel kapcsolatban fontosnak tartanak. K\u00e9rem, n\u00e9zze v\u00e9gig \u0151ket \u00e9s mondja meg, hogy \u00d6n szem\u00e9ly szerint miket tart fontosnak a munkahellyel kapcsolatban?",
+    "variable": "v42",
+    "option_text": "C Kezdem\u00e9nyez\u00e9si lehet\u0151s\u00e9gek",
+    "response_scale": "nem eml\u00edtette, NT, NV",
+    "model_response": "Final answer: NV",
+    "status": "success"
+  },
+  {
+    "question_id": "Q11",
+    "question_text": "Most felsorolok n\u00e9h\u00e1ny szempontot, amit az emberek a munkahely\u00fckkel kapcsolatban fontosnak tartanak. K\u00e9rem, n\u00e9zze v\u00e9gig \u0151ket \u00e9s mondja meg, hogy \u00d6n szem\u00e9ly szerint miket tart fontosnak a munkahellyel kapcsolatban?",
+    "variable": "v43",
+    "option_text": "D Hossz\u00fa szabads\u00e1g",
+    "response_scale": "nem eml\u00edtette, NT, NV",
+    "model_response": "Final answer: NV",
+    "status": "success"
+  },
+  {
+    "question_id": "Q11",
+    "question_text": "Most felsorolok n\u00e9h\u00e1ny szempontot, amit az emberek a munkahely\u00fckkel kapcsolatban fontosnak tartanak. K\u00e9rem, n\u00e9zze v\u00e9gig \u0151ket \u00e9s mondja meg, hogy \u00d6n szem\u00e9ly szerint miket tart fontosnak a munkahellyel kapcsolatban?",
+    "variable": "v44",
+    "option_text": "E Olyan munka, amelyben az ember \u00e9rzi, hogy megval\u00f3s\u00edthat valamit",
+    "response_scale": "nem eml\u00edtette, NT, NV",
+    "model_response": "Final answer: NV (Nem eml\u00edtette)",
+    "status": "success"
+  },
+  {
+    "question_id": "Q11",
+    "question_text": "Most felsorolok n\u00e9h\u00e1ny szempontot, amit az emberek a munkahely\u00fckkel kapcsolatban fontosnak tartanak. K\u00e9rem, n\u00e9zze v\u00e9gig \u0151ket \u00e9s mondja meg, hogy \u00d6n szem\u00e9ly szerint miket tart fontosnak a munkahellyel kapcsolatban?",
+    "variable": "v45",
+    "option_text": "F Felel\u0151ss\u00e9gteljes munka",
+    "response_scale": "nem eml\u00edtette, NT, NV",
+    "model_response": "Final answer: NT",
+    "status": "success"
+  },
+  {
+    "question_id": "Q11",
+    "question_text": "Most felsorolok n\u00e9h\u00e1ny szempontot, amit az emberek a munkahely\u00fckkel kapcsolatban fontosnak tartanak. K\u00e9rem, n\u00e9zze v\u00e9gig \u0151ket \u00e9s mondja meg, hogy \u00d6n szem\u00e9ly szerint miket tart fontosnak a munkahellyel kapcsolatban?",
+    "variable": "v45a",
+    "option_text": "G Egyik sem",
+    "response_scale": "nem eml\u00edtette, NT, NV",
+    "model_response": "Final answer: @@NT@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q12",
+    "question_text": "\u00d6n egyet\u00e9rt, vagy nem \u00e9rt egyet a k\u00f6vetkez\u0151 kijelent\u00e9sekkel?",
+    "variable": "v46",
+    "option_text": "Ahhoz, hogy adotts\u00e1gait teljesen kibontakoztassa, kell hogy legyen valamilyen munk\u00e1ja",
+    "response_scale": "Nem \u00e9rt egyet, de nincs ellenv\u00e9lem\u00e9nye sem, Nem \u00e9rt egyet, Egy\u00e1ltal\u00e1n nem \u00e9rt egyet",
+    "model_response": "Final answer: Nem \u00e9rt egyet, de nincs ellenv\u00e9lem\u00e9nye sem",
+    "status": "success"
+  },
+  {
+    "question_id": "Q12",
+    "question_text": "\u00d6n egyet\u00e9rt, vagy nem \u00e9rt egyet a k\u00f6vetkez\u0151 kijelent\u00e9sekkel?",
+    "variable": "v47",
+    "option_text": "Megal\u00e1z\u00f3 dolog p\u00e9nzt kapni, ha az ember nem dolgozott meg \u00e9rte",
+    "response_scale": "Nem \u00e9rt egyet, de nincs ellenv\u00e9lem\u00e9nye sem, Nem \u00e9rt egyet, Egy\u00e1ltal\u00e1n nem \u00e9rt egyet",
+    "model_response": "Final answer: Nem \u00e9rt egyet, de nincs ellenv\u00e9lem\u00e9nye sem",
+    "status": "success"
+  },
+  {
+    "question_id": "Q12",
+    "question_text": "\u00d6n egyet\u00e9rt, vagy nem \u00e9rt egyet a k\u00f6vetkez\u0151 kijelent\u00e9sekkel?",
+    "variable": "v48",
+    "option_text": "Akik nem dolgoznak, ellustulnak",
+    "response_scale": "Nem \u00e9rt egyet, de nincs ellenv\u00e9lem\u00e9nye sem, Nem \u00e9rt egyet, Egy\u00e1ltal\u00e1n nem \u00e9rt egyet",
+    "model_response": "Final answer: Nem \u00e9rt egyet, de nincs ellenv\u00e9lem\u00e9nye sem",
+    "status": "success"
+  },
+  {
+    "question_id": "Q12",
+    "question_text": "\u00d6n egyet\u00e9rt, vagy nem \u00e9rt egyet a k\u00f6vetkez\u0151 kijelent\u00e9sekkel?",
+    "variable": "v49",
+    "option_text": "A munka a t\u00e1rsadalommal szembeni k\u00f6teless\u00e9g",
+    "response_scale": "Nem \u00e9rt egyet, de nincs ellenv\u00e9lem\u00e9nye sem, Nem \u00e9rt egyet, Egy\u00e1ltal\u00e1n nem \u00e9rt egyet",
+    "model_response": "Final answer: Nem \u00e9rt egyet, de nincs ellenv\u00e9lem\u00e9nye sem",
+    "status": "success"
+  },
+  {
+    "question_id": "Q12",
+    "question_text": "\u00d6n egyet\u00e9rt, vagy nem \u00e9rt egyet a k\u00f6vetkez\u0151 kijelent\u00e9sekkel?",
+    "variable": "v50",
+    "option_text": "Az els\u0151 helyen mindig a munka \u00e1ll, m\u00e9g akkor is, ha emiatt kevesebb szabad id\u0151 marad",
+    "response_scale": "Nem \u00e9rt egyet, de nincs ellenv\u00e9lem\u00e9nye sem, Nem \u00e9rt egyet, Egy\u00e1ltal\u00e1n nem \u00e9rt egyet",
+    "model_response": "Final answer: Nem \u00e9rt egyet, de nincs ellenv\u00e9lem\u00e9nye sem",
+    "status": "success"
+  },
+  {
+    "question_id": "Q13",
+    "question_text": "Tartozik-e \u00d6n valamilyen vall\u00e1si felekezethez?",
+    "variable": NaN,
+    "option_text": NaN,
+    "response_scale": "1 - igen, 2 - nem, 8 - Nem tudja, 9 - Nincs v\u00e1lasz",
+    "model_response": "Final answer: 9 - Nincs v\u00e1lasz",
+    "status": "success"
+  },
+  {
+    "question_id": "Q13a",
+    "question_text": "Melyikhez?",
+    "variable": NaN,
+    "option_text": NaN,
+    "response_scale": "R\u00f3mai Katolikus, G\u00f6r\u00f6g katolikus, \u00f6rm\u00e9ny katolikus, Reform\u00e1tus, k\u00e1lvinista, Evang\u00e9likus, luther\u00e1nus, Baptista, Ortodox, g\u00f6r\u00f6g keleti, pravoszl\u00e1v, Izraelita, zsid\u00f3, Hit Gy\u00fclekezete, Jehova tan\u00fai, Krisna-tudat\u00fa h\u00edv\u0151k, Egy\u00e9b",
+    "model_response": "Final answer: @@Egy\u00e9b@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q14",
+    "question_text": "Tartozott-e valaha valamilyen vall\u00e1si felekezethez?",
+    "variable": NaN,
+    "option_text": NaN,
+    "response_scale": "1 - igen, 2 - nem, 8 - Nem tudja, 9 - Nincs v\u00e1lasz",
+    "model_response": "Final answer: 2 - nem",
+    "status": "success"
+  },
+  {
+    "question_id": "Q15",
+    "question_text": "Amikor 12 \u00e9ves volt, esk\u00fcv\u0151kt\u0151l, temet\u00e9sekt\u0151l \u00e9s keresztel\u0151kt\u0151l eltekintve, milyen gyakran szokott r\u00e9szt venni vall\u00e1si szertart\u00e1son?",
+    "variable": NaN,
+    "option_text": NaN,
+    "response_scale": "hetente t\u00f6bbsz\u00f6r, hetente, havonta, csak bizonyos \u00fcnnepekkor, \u00e9vente, ritk\u00e1bban, soha, gyakorlatilag soha, 8 - Nem tudja, 9 - Nincs v\u00e1lasz",
+    "model_response": "Final answer: 8 - Nem tudja",
+    "status": "success"
+  },
+  {
+    "question_id": "Q16",
+    "question_text": "Amikor 12 \u00e9ves volt, esk\u00fcv\u0151kt\u0151l, temet\u00e9sekt\u0151l \u00e9s keresztel\u0151kt\u0151l eltekintve, milyen gyakran szokott r\u00e9szt venni vall\u00e1si szertart\u00e1son?",
+    "variable": NaN,
+    "option_text": NaN,
+    "response_scale": "hetente t\u00f6bbsz\u00f6r, hetente, havonta, csak bizonyos \u00fcnnepekkor, \u00e9vente, ritk\u00e1bban, soha, gyakorlatilag soha, 8 - Nem tudja, 9 - Nincs v\u00e1lasz",
+    "model_response": "Final answer: havonta",
+    "status": "success"
+  },
+  {
+    "question_id": "Q17",
+    "question_text": "F\u00fcggetlen\u00fcl att\u00f3l, hogy j\u00e1r-e templomba vagy sem, mit mondana mag\u00e1r\u00f3l, \u00d6n \u2026",
+    "variable": NaN,
+    "option_text": NaN,
+    "response_scale": "vall\u00e1sos ember, nem vall\u00e1sos ember, meggy\u0151z\u0151d\u00e9ses ateista, 8 - Nem tudja, 9 - Nincs v\u00e1lasz",
+    "model_response": "Final answer: Vall\u00e1sos ember",
+    "status": "success"
+  },
+  {
+    "question_id": "Q18",
+    "question_text": "Az al\u00e1bbiak k\u00f6z\u00fcl miben hisz \u00d6n \u00e9s miben nem hisz?",
+    "variable": "v57",
+    "option_text": "Isten",
+    "response_scale": "igen, nem, NT, NV",
+    "model_response": "Final answer: NT",
+    "status": "success"
+  },
+  {
+    "question_id": "Q18",
+    "question_text": "Az al\u00e1bbiak k\u00f6z\u00fcl miben hisz \u00d6n \u00e9s miben nem hisz?",
+    "variable": "v58",
+    "option_text": "A hal\u00e1l ut\u00e1ni \u00e9let",
+    "response_scale": "igen, nem, NT, NV",
+    "model_response": "Final answer: NT",
+    "status": "success"
+  },
+  {
+    "question_id": "Q18",
+    "question_text": "Az al\u00e1bbiak k\u00f6z\u00fcl miben hisz \u00d6n \u00e9s miben nem hisz?",
+    "variable": "v59",
+    "option_text": "Pokol",
+    "response_scale": "igen, nem, NT, NV",
+    "model_response": "Final answer: NV",
+    "status": "success"
+  },
+  {
+    "question_id": "Q18",
+    "question_text": "Az al\u00e1bbiak k\u00f6z\u00fcl miben hisz \u00d6n \u00e9s miben nem hisz?",
+    "variable": "v60",
+    "option_text": "Mennyorsz\u00e1g",
+    "response_scale": "igen, nem, NT, NV",
+    "model_response": "Final answer: NV",
+    "status": "success"
+  },
+  {
+    "question_id": "Q19",
+    "question_text": "Hisz-e \u00d6n a reinkarn\u00e1ci\u00f3ban, azaz abban, hogy voltak el\u0151z\u0151 \u00e9leteink, \u00e9s itt a F\u00f6ld\u00f6n \u00fajra meg fogunk sz\u00fcletni?",
+    "variable": NaN,
+    "option_text": NaN,
+    "response_scale": "1 - igen, 2 - nem, 8 - Nem tudja, 9 - Nincs v\u00e1lasz",
+    "model_response": "Final answer: 2 \u2013 nem",
+    "status": "success"
+  },
+  {
+    "question_id": "Q20",
+    "question_text": "Ezen a k\u00e1rty\u00e1n k\u00fcl\u00f6nb\u00f6z\u0151 \u00e1ll\u00edt\u00e1sokat l\u00e1t. Melyik \u00e1ll a legk\u00f6zelebb az \u00d6n hit\u00e9hez?",
+    "variable": NaN,
+    "option_text": NaN,
+    "response_scale": "L\u00e9tezik egy Isten, mint szem\u00e9ly, Van valamilyen szellemi l\u00e9ny vagy \u00e9leter\u0151, Nem val\u00f3j\u00e1ban nem is tudom, hogy mit gondoljak, Nem hiszem, hogy l\u00e9tezne valamilyen Isten, szellemi l\u00e9ny vagy \u00e9leter\u0151, 8 - Nem tudja, 9 - Nincs v\u00e1lasz",
+    "model_response": "Final answer: 5 - Nem val\u00f3j\u00e1ban nem is tudom, hogy mit gondoljak",
+    "status": "success"
+  },
+  {
+    "question_id": "Q21",
+    "question_text": "\u00c9s mennyire fontos Isten az \u00d6n \u00e9let\u00e9ben? K\u00e9rem, hat\u00e1rozza meg ennek a k\u00e1rtyalapnak a seg\u00edts\u00e9g\u00e9vel - a 10-es azt jelenti, hogy nagyon fontos, az 1-es pedig hogy egy\u00e1ltal\u00e1n nem fontos.",
+    "variable": NaN,
+    "option_text": NaN,
+    "response_scale": "egy\u00e1ltal\u00e1n nem fontos, nagyon fontos",
+    "model_response": "Final answer: 10",
+    "status": "success"
+  },
+  {
+    "question_id": "Q22",
+    "question_text": "Milyen gyakran im\u00e1dkozik istentiszteleten k\u00edv\u00fcl? Nagyj\u00e1b\u00f3l \u2026",
+    "variable": NaN,
+    "option_text": NaN,
+    "response_scale": "minden nap, hetente t\u00f6bbsz\u00f6r, hetente, legal\u00e1bb havonta, \u00e9vente t\u00f6bbsz\u00f6r, ritk\u00e1bban, soha, 8 - Nem tudja, 9 - Nincs v\u00e1lasz",
+    "model_response": "Final answer: ritk\u00e1bban",
+    "status": "success"
+  },
+  {
+    "question_id": "Q23",
+    "question_text": "Ezen a list\u00e1n olyan dolgokat sorolunk fel, amelyekr\u0151l egyesek azt tartj\u00e1k, hogy sz\u00fcks\u00e9gesek a sikeres h\u00e1zass\u00e1ghoz vagy \u00e9lett\u00e1rsi kapcsolathoz. K\u00e9rem, mondja meg mindegyikr\u0151l, hogy az \u00d6n szerint nagyon fontos, el\u00e9gg\u00e9 fontos, vagy nem nagyon fontos a sikeres h\u00e1zass\u00e1ghoz.",
+    "variable": "v65",
+    "option_text": "A H\u0171s\u00e9g",
+    "response_scale": "Nagyon fontos, el\u00e9g fontos, nem fontos",
+    "model_response": "Final answer: Nagyon fontos, el\u00e9g fontos, nem fontos",
+    "status": "success"
+  },
+  {
+    "question_id": "Q23",
+    "question_text": "Ezen a list\u00e1n olyan dolgokat sorolunk fel, amelyekr\u0151l egyesek azt tartj\u00e1k, hogy sz\u00fcks\u00e9gesek a sikeres h\u00e1zass\u00e1ghoz vagy \u00e9lett\u00e1rsi kapcsolathoz. K\u00e9rem, mondja meg mindegyikr\u0151l, hogy az \u00d6n szerint nagyon fontos, el\u00e9gg\u00e9 fontos, vagy nem nagyon fontos a sikeres h\u00e1zass\u00e1ghoz.",
+    "variable": "v66",
+    "option_text": "B Megfelel\u0151 j\u00f6vedelem",
+    "response_scale": "Nagyon fontos, el\u00e9g fontos, nem fontos",
+    "model_response": "Final answer: B El\u00e9g fontos",
+    "status": "success"
+  },
+  {
+    "question_id": "Q23",
+    "question_text": "Ezen a list\u00e1n olyan dolgokat sorolunk fel, amelyekr\u0151l egyesek azt tartj\u00e1k, hogy sz\u00fcks\u00e9gesek a sikeres h\u00e1zass\u00e1ghoz vagy \u00e9lett\u00e1rsi kapcsolathoz. K\u00e9rem, mondja meg mindegyikr\u0151l, hogy az \u00d6n szerint nagyon fontos, el\u00e9gg\u00e9 fontos, vagy nem nagyon fontos a sikeres h\u00e1zass\u00e1ghoz.",
+    "variable": "v67",
+    "option_text": "C Megfelel\u0151 lakhat\u00e1si k\u00f6r\u00fclm\u00e9nyek",
+    "response_scale": "Nagyon fontos, el\u00e9g fontos, nem fontos",
+    "model_response": "Final answer: Nagyon fontos, el\u00e9g fontos, nem fontos",
+    "status": "success"
+  },
+  {
+    "question_id": "Q23",
+    "question_text": "Ezen a list\u00e1n olyan dolgokat sorolunk fel, amelyekr\u0151l egyesek azt tartj\u00e1k, hogy sz\u00fcks\u00e9gesek a sikeres h\u00e1zass\u00e1ghoz vagy \u00e9lett\u00e1rsi kapcsolathoz. K\u00e9rem, mondja meg mindegyikr\u0151l, hogy az \u00d6n szerint nagyon fontos, el\u00e9gg\u00e9 fontos, vagy nem nagyon fontos a sikeres h\u00e1zass\u00e1ghoz.",
+    "variable": "v68",
+    "option_text": "D A h\u00e1ztart\u00e1si teend\u0151k megoszt\u00e1sa",
+    "response_scale": "Nagyon fontos, el\u00e9g fontos, nem fontos",
+    "model_response": "Final answer: Nagyon fontos",
+    "status": "success"
+  },
+  {
+    "question_id": "Q23",
+    "question_text": "Ezen a list\u00e1n olyan dolgokat sorolunk fel, amelyekr\u0151l egyesek azt tartj\u00e1k, hogy sz\u00fcks\u00e9gesek a sikeres h\u00e1zass\u00e1ghoz vagy \u00e9lett\u00e1rsi kapcsolathoz. K\u00e9rem, mondja meg mindegyikr\u0151l, hogy az \u00d6n szerint nagyon fontos, el\u00e9gg\u00e9 fontos, vagy nem nagyon fontos a sikeres h\u00e1zass\u00e1ghoz.",
+    "variable": "v69",
+    "option_text": "E Gyerekek",
+    "response_scale": "Nagyon fontos, el\u00e9g fontos, nem fontos",
+    "model_response": "Final answer: @@Nagyon fontos@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q23",
+    "question_text": "Ezen a list\u00e1n olyan dolgokat sorolunk fel, amelyekr\u0151l egyesek azt tartj\u00e1k, hogy sz\u00fcks\u00e9gesek a sikeres h\u00e1zass\u00e1ghoz vagy \u00e9lett\u00e1rsi kapcsolathoz. K\u00e9rem, mondja meg mindegyikr\u0151l, hogy az \u00d6n szerint nagyon fontos, el\u00e9gg\u00e9 fontos, vagy nem nagyon fontos a sikeres h\u00e1zass\u00e1ghoz.",
+    "variable": "v70",
+    "option_text": "F Mindenkinek legyen valamennyi ideje a saj\u00e1t bar\u00e1taira \u00e9s a szem\u00e9lyes hobbijaira/tev\u00e9kenys\u00e9geire",
+    "response_scale": "Nagyon fontos, el\u00e9g fontos, nem fontos",
+    "model_response": "Final answer: Nagyon fontos",
+    "status": "success"
+  },
+  {
+    "question_id": "Q24",
+    "question_text": "Egyet\u00e9rt \u00d6n, vagy nem \u00e9rt egyet azzal az \u00e1ll\u00edt\u00e1ssal, hogy: A h\u00e1zass\u00e1g egy idej\u00e9tm\u00falt int\u00e9zm\u00e9ny?",
+    "variable": NaN,
+    "option_text": NaN,
+    "response_scale": "1 - egyet\u00e9rt, 2 - nem \u00e9rt egyet, 8 - Nem tudja, 9 - Nincs v\u00e1lasz",
+    "model_response": "Final answer: 2",
+    "status": "success"
+  },
+  {
+    "question_id": "Q25",
+    "question_text": "K\u00e9rem jelezze, hogy mennyire \u00e9rt egyet vagy mennyire nem \u00e9rt egyet a k\u00f6vetkez\u0151 \u00e1ll\u00edt\u00e1sokkal. Teljesen egyet\u00e9rt, egyet\u00e9rt, nem \u00e9rt egyet, vagy egy\u00e1ltal\u00e1n nem \u00e9rt egyet?",
+    "variable": "v72",
+    "option_text": "Ha egy anya fizetett munk\u00e1t v\u00e1llal, azt megszenvedik a gyermekek",
+    "response_scale": "Teljesen egyet\u00e9rt, Egyet\u00e9rt, Nem \u00e9rt egyet, Egy\u00e1ltal\u00e1n nem \u00e9rt egyet",
+    "model_response": "Final answer: Nem \u00e9rt egyet",
+    "status": "success"
+  },
+  {
+    "question_id": "Q25",
+    "question_text": "K\u00e9rem jelezze, hogy mennyire \u00e9rt egyet vagy mennyire nem \u00e9rt egyet a k\u00f6vetkez\u0151 \u00e1ll\u00edt\u00e1sokkal. Teljesen egyet\u00e9rt, egyet\u00e9rt, nem \u00e9rt egyet, vagy egy\u00e1ltal\u00e1n nem \u00e9rt egyet?",
+    "variable": "v73",
+    "option_text": "Lehet munk\u00e1t v\u00e1llalni, de amit egy n\u0151 igaz\u00e1n akar, az az otthon \u00e9s a gyermekek",
+    "response_scale": "Teljesen egyet\u00e9rt, Egyet\u00e9rt, Nem \u00e9rt egyet, Egy\u00e1ltal\u00e1n nem \u00e9rt egyet",
+    "model_response": "Final answer: Nem \u00e9rt egyet",
+    "status": "success"
+  },
+  {
+    "question_id": "Q25",
+    "question_text": "K\u00e9rem jelezze, hogy mennyire \u00e9rt egyet vagy mennyire nem \u00e9rt egyet a k\u00f6vetkez\u0151 \u00e1ll\u00edt\u00e1sokkal. Teljesen egyet\u00e9rt, egyet\u00e9rt, nem \u00e9rt egyet, vagy egy\u00e1ltal\u00e1n nem \u00e9rt egyet?",
+    "variable": "v74",
+    "option_text": "Mindent egybevetve, a csal\u00e1d \u00e9lete megs\u00ednyli, ha a n\u0151 teljes munkaid\u0151ben dolgozik.",
+    "response_scale": "Teljesen egyet\u00e9rt, Egyet\u00e9rt, Nem \u00e9rt egyet, Egy\u00e1ltal\u00e1n nem \u00e9rt egyet",
+    "model_response": "Final answer: Nem \u00e9rt egyet",
+    "status": "success"
+  },
+  {
+    "question_id": "Q25",
+    "question_text": "K\u00e9rem jelezze, hogy mennyire \u00e9rt egyet vagy mennyire nem \u00e9rt egyet a k\u00f6vetkez\u0151 \u00e1ll\u00edt\u00e1sokkal. Teljesen egyet\u00e9rt, egyet\u00e9rt, nem \u00e9rt egyet, vagy egy\u00e1ltal\u00e1n nem \u00e9rt egyet?",
+    "variable": "v75",
+    "option_text": "A f\u00e9rfi dolga p\u00e9nz keresni, a n\u0151 dolga a h\u00e1ztart\u00e1sr\u00f3l \u00e9s a csal\u00e1dr\u00f3l gondoskodni",
+    "response_scale": "Teljesen egyet\u00e9rt, Egyet\u00e9rt, Nem \u00e9rt egyet, Egy\u00e1ltal\u00e1n nem \u00e9rt egyet",
+    "model_response": "Final answer: Egyet\u00e9rt",
+    "status": "success"
+  },
+  {
+    "question_id": "Q25",
+    "question_text": "K\u00e9rem jelezze, hogy mennyire \u00e9rt egyet vagy mennyire nem \u00e9rt egyet a k\u00f6vetkez\u0151 \u00e1ll\u00edt\u00e1sokkal. Teljesen egyet\u00e9rt, egyet\u00e9rt, nem \u00e9rt egyet, vagy egy\u00e1ltal\u00e1n nem \u00e9rt egyet?",
+    "variable": "v76",
+    "option_text": "Mindent egybe vetve a f\u00e9rfiak jobb politikai vezet\u0151k, mint a n\u0151k",
+    "response_scale": "Teljesen egyet\u00e9rt, Egyet\u00e9rt, Nem \u00e9rt egyet, Egy\u00e1ltal\u00e1n nem \u00e9rt egyet",
+    "model_response": "Final answer: Nem \u00e9rt egyet",
+    "status": "success"
+  },
+  {
+    "question_id": "Q25",
+    "question_text": "K\u00e9rem jelezze, hogy mennyire \u00e9rt egyet vagy mennyire nem \u00e9rt egyet a k\u00f6vetkez\u0151 \u00e1ll\u00edt\u00e1sokkal. Teljesen egyet\u00e9rt, egyet\u00e9rt, nem \u00e9rt egyet, vagy egy\u00e1ltal\u00e1n nem \u00e9rt egyet?",
+    "variable": "v77",
+    "option_text": "Az egyetemi v\u00e9gzetts\u00e9g fontosabb a fi\u00faknak, mint a l\u00e1nyoknak",
+    "response_scale": "Teljesen egyet\u00e9rt, Egyet\u00e9rt, Nem \u00e9rt egyet, Egy\u00e1ltal\u00e1n nem \u00e9rt egyet",
+    "model_response": "Final answer: Nem \u00e9rt egyet, @@Nem \u00e9rt egyet@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q25",
+    "question_text": "K\u00e9rem jelezze, hogy mennyire \u00e9rt egyet vagy mennyire nem \u00e9rt egyet a k\u00f6vetkez\u0151 \u00e1ll\u00edt\u00e1sokkal. Teljesen egyet\u00e9rt, egyet\u00e9rt, nem \u00e9rt egyet, vagy egy\u00e1ltal\u00e1n nem \u00e9rt egyet?",
+    "variable": "v78",
+    "option_text": "Mindent egybe vetve a f\u00e9rfiak jobb gazdas\u00e1gi vezet\u0151k, mint a n\u0151k",
+    "response_scale": "Teljesen egyet\u00e9rt, Egyet\u00e9rt, Nem \u00e9rt egyet, Egy\u00e1ltal\u00e1n nem \u00e9rt egyet",
+    "model_response": "Final answer: @@Egyet\u00e9rt@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q25",
+    "question_text": "K\u00e9rem jelezze, hogy mennyire \u00e9rt egyet vagy mennyire nem \u00e9rt egyet a k\u00f6vetkez\u0151 \u00e1ll\u00edt\u00e1sokkal. Teljesen egyet\u00e9rt, egyet\u00e9rt, nem \u00e9rt egyet, vagy egy\u00e1ltal\u00e1n nem \u00e9rt egyet?",
+    "variable": "v79",
+    "option_text": "Egyik legfontosabb c\u00e9lom az \u00e9letben, hogy sz\u00fcleim b\u00fcszk\u00e9k legyenek r\u00e1m",
+    "response_scale": "Teljesen egyet\u00e9rt, Egyet\u00e9rt, Nem \u00e9rt egyet, Egy\u00e1ltal\u00e1n nem \u00e9rt egyet",
+    "model_response": "Final answer: @@Egyet\u00e9rt@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q26",
+    "question_text": "K\u00e9rem jelezze, hogy mennyire \u00e9rt egyet vagy mennyire nem \u00e9rt egyet a k\u00f6vetkez\u0151 \u00e1ll\u00edt\u00e1sokkal.",
+    "variable": "v80",
+    "option_text": "Ha kev\u00e9s a munkahely, a munk\u00e1ltat\u00f3knak el\u0151nyben kell r\u00e9szes\u00edteni a magyarokat a bev\u00e1ndorl\u00f3kkal szemben",
+    "response_scale": "Nem \u00e9rt egyet, de nincs ellenv\u00e9lem\u00e9nye sem, Nem \u00e9rt egyet, Egy\u00e1ltal\u00e1n nem \u00e9rt egyet",
+    "model_response": "Final answer: Nem \u00e9rt egyet, de nincs ellenv\u00e9lem\u00e9nye sem",
+    "status": "success"
+  },
+  {
+    "question_id": "Q26",
+    "question_text": "K\u00e9rem jelezze, hogy mennyire \u00e9rt egyet vagy mennyire nem \u00e9rt egyet a k\u00f6vetkez\u0151 \u00e1ll\u00edt\u00e1sokkal.",
+    "variable": "v81",
+    "option_text": "Ha kev\u00e9s a munkahely, a f\u00e9rfiaknak t\u00f6bb joguk van a munk\u00e1hoz, mint a n\u0151knek",
+    "response_scale": "Nem \u00e9rt egyet, de nincs ellenv\u00e9lem\u00e9nye sem, Nem \u00e9rt egyet, Egy\u00e1ltal\u00e1n nem \u00e9rt egyet",
+    "model_response": "Final answer: Nem \u00e9rt egyet",
+    "status": "success"
+  },
+  {
+    "question_id": "Q27",
+    "question_text": "Mit gondol, a k\u00f6vetkez\u0151 kijelent\u00e9sekr\u0151l? Egyet\u00e9rt vel\u00fck, vagy nem \u00e9rt egyet vel\u00fck?",
+    "variable": "v82",
+    "option_text": "A homoszexu\u00e1lis p\u00e1rok \u00e9ppolyan j\u00f3 sz\u00fcl\u0151k, mint m\u00e1s p\u00e1rok",
+    "response_scale": "Teljesen egyet\u00e9rt, Egyet\u00e9rt, Nem \u00e9rt egyet, Egy\u00e1ltal\u00e1n nem \u00e9rt egyet",
+    "model_response": "Final answer: Teljesen egyet\u00e9rtek.",
+    "status": "success"
+  },
+  {
+    "question_id": "Q27",
+    "question_text": "Mit gondol, a k\u00f6vetkez\u0151 kijelent\u00e9sekr\u0151l? Egyet\u00e9rt vel\u00fck, vagy nem \u00e9rt egyet vel\u00fck?",
+    "variable": "v83",
+    "option_text": "A gyermekv\u00e1llal\u00e1s a t\u00e1rsadalommal szembeni k\u00f6teless\u00e9g",
+    "response_scale": "Teljesen egyet\u00e9rt, Egyet\u00e9rt, Nem \u00e9rt egyet, Egy\u00e1ltal\u00e1n nem \u00e9rt egyet",
+    "model_response": "Final answer: Egyet\u00e9rt",
+    "status": "success"
+  },
+  {
+    "question_id": "Q27",
+    "question_text": "Mit gondol, a k\u00f6vetkez\u0151 kijelent\u00e9sekr\u0151l? Egyet\u00e9rt vel\u00fck, vagy nem \u00e9rt egyet vel\u00fck?",
+    "variable": "v84",
+    "option_text": "A feln\u0151tt gyermekeknek k\u00f6teless\u00e9g\u00fck hossz\u00fat\u00e1von gondoskodni a sz\u00fcleikr\u0151l",
+    "response_scale": "Teljesen egyet\u00e9rt, Egyet\u00e9rt, Nem \u00e9rt egyet, Egy\u00e1ltal\u00e1n nem \u00e9rt egyet",
+    "model_response": "Final answer: Nem \u00e9rt egyet",
+    "status": "success"
+  },
+  {
+    "question_id": "Q28",
+    "question_text": "Most felsorolok n\u00e9h\u00e1ny tulajdons\u00e1got, amelyekre a sz\u00fcl\u0151k a gyermekeiket otthon nevelhetik. Ezek k\u00f6z\u00fcl melyeket tartja k\u00fcl\u00f6n\u00f6sen fontosnak?",
+    "variable": "v85",
+    "option_text": "A J\u00f3 modor",
+    "response_scale": "eml\u00edtette, nem eml\u00edtette, NT, NV",
+    "model_response": "Final answer: eml\u00edtette",
+    "status": "success"
+  },
+  {
+    "question_id": "Q28",
+    "question_text": "Most felsorolok n\u00e9h\u00e1ny tulajdons\u00e1got, amelyekre a sz\u00fcl\u0151k a gyermekeiket otthon nevelhetik. Ezek k\u00f6z\u00fcl melyeket tartja k\u00fcl\u00f6n\u00f6sen fontosnak?",
+    "variable": "v86",
+    "option_text": "B \u00d6n\u00e1ll\u00f3s\u00e1g",
+    "response_scale": "eml\u00edtette, nem eml\u00edtette, NT, NV",
+    "model_response": "Final answer: eml\u00edtette",
+    "status": "success"
+  },
+  {
+    "question_id": "Q28",
+    "question_text": "Most felsorolok n\u00e9h\u00e1ny tulajdons\u00e1got, amelyekre a sz\u00fcl\u0151k a gyermekeiket otthon nevelhetik. Ezek k\u00f6z\u00fcl melyeket tartja k\u00fcl\u00f6n\u00f6sen fontosnak?",
+    "variable": "v87",
+    "option_text": "C Szorgalom",
+    "response_scale": "eml\u00edtette, nem eml\u00edtette, NT, NV",
+    "model_response": "Final answer: eml\u00edtette, nem eml\u00edtette, NT, NV",
+    "status": "success"
+  },
+  {
+    "question_id": "Q28",
+    "question_text": "Most felsorolok n\u00e9h\u00e1ny tulajdons\u00e1got, amelyekre a sz\u00fcl\u0151k a gyermekeiket otthon nevelhetik. Ezek k\u00f6z\u00fcl melyeket tartja k\u00fcl\u00f6n\u00f6sen fontosnak?",
+    "variable": "v88",
+    "option_text": "D Felel\u0151ss\u00e9g\u00e9rzet",
+    "response_scale": "eml\u00edtette, nem eml\u00edtette, NT, NV",
+    "model_response": "Final answer: eml\u00edtette",
+    "status": "success"
+  },
+  {
+    "question_id": "Q28",
+    "question_text": "Most felsorolok n\u00e9h\u00e1ny tulajdons\u00e1got, amelyekre a sz\u00fcl\u0151k a gyermekeiket otthon nevelhetik. Ezek k\u00f6z\u00fcl melyeket tartja k\u00fcl\u00f6n\u00f6sen fontosnak?",
+    "variable": "v89",
+    "option_text": "E K\u00e9pzel\u0151er\u0151, fant\u00e1zia",
+    "response_scale": "eml\u00edtette, nem eml\u00edtette, NT, NV",
+    "model_response": "E K\u00e9pzel\u0151er\u0151, fant\u00e1zia, NT, NV",
+    "status": "success"
+  },
+  {
+    "question_id": "Q28",
+    "question_text": "Most felsorolok n\u00e9h\u00e1ny tulajdons\u00e1got, amelyekre a sz\u00fcl\u0151k a gyermekeiket otthon nevelhetik. Ezek k\u00f6z\u00fcl melyeket tartja k\u00fcl\u00f6n\u00f6sen fontosnak?",
+    "variable": "v90",
+    "option_text": "F M\u00e1sok tisztelete, tolerancia m\u00e1sok ir\u00e1nt",
+    "response_scale": "eml\u00edtette, nem eml\u00edtette, NT, NV",
+    "model_response": "Final answer: NT",
+    "status": "success"
+  },
+  {
+    "question_id": "Q28",
+    "question_text": "Most felsorolok n\u00e9h\u00e1ny tulajdons\u00e1got, amelyekre a sz\u00fcl\u0151k a gyermekeiket otthon nevelhetik. Ezek k\u00f6z\u00fcl melyeket tartja k\u00fcl\u00f6n\u00f6sen fontosnak?",
+    "variable": "v91",
+    "option_text": "G Takar\u00e9koss\u00e1g",
+    "response_scale": "eml\u00edtette, nem eml\u00edtette, NT, NV",
+    "model_response": "Final answer: NT",
+    "status": "success"
+  },
+  {
+    "question_id": "Q28",
+    "question_text": "Most felsorolok n\u00e9h\u00e1ny tulajdons\u00e1got, amelyekre a sz\u00fcl\u0151k a gyermekeiket otthon nevelhetik. Ezek k\u00f6z\u00fcl melyeket tartja k\u00fcl\u00f6n\u00f6sen fontosnak?",
+    "variable": "v92",
+    "option_text": "H Elsz\u00e1nts\u00e1g, \u00e1llhatatoss\u00e1g.",
+    "response_scale": "eml\u00edtette, nem eml\u00edtette, NT, NV",
+    "model_response": "Final answer: eml\u00edtette",
+    "status": "success"
+  },
+  {
+    "question_id": "Q28",
+    "question_text": "Most felsorolok n\u00e9h\u00e1ny tulajdons\u00e1got, amelyekre a sz\u00fcl\u0151k a gyermekeiket otthon nevelhetik. Ezek k\u00f6z\u00fcl melyeket tartja k\u00fcl\u00f6n\u00f6sen fontosnak?",
+    "variable": "v93",
+    "option_text": "I Vall\u00e1sos hit",
+    "response_scale": "eml\u00edtette, nem eml\u00edtette, NT, NV",
+    "model_response": "Final answer: eml\u00edtette",
+    "status": "success"
+  },
+  {
+    "question_id": "Q28",
+    "question_text": "Most felsorolok n\u00e9h\u00e1ny tulajdons\u00e1got, amelyekre a sz\u00fcl\u0151k a gyermekeiket otthon nevelhetik. Ezek k\u00f6z\u00fcl melyeket tartja k\u00fcl\u00f6n\u00f6sen fontosnak?",
+    "variable": "v94",
+    "option_text": "J \u00d6nzetlens\u00e9g",
+    "response_scale": "eml\u00edtette, nem eml\u00edtette, NT, NV",
+    "model_response": "Final answer: NT",
+    "status": "success"
+  },
+  {
+    "question_id": "Q28",
+    "question_text": "Most felsorolok n\u00e9h\u00e1ny tulajdons\u00e1got, amelyekre a sz\u00fcl\u0151k a gyermekeiket otthon nevelhetik. Ezek k\u00f6z\u00fcl melyeket tartja k\u00fcl\u00f6n\u00f6sen fontosnak?",
+    "variable": "v95",
+    "option_text": "K Engedelmess\u00e9g",
+    "response_scale": "eml\u00edtette, nem eml\u00edtette, NT, NV",
+    "model_response": "Final answer: eml\u00edtette",
+    "status": "success"
+  },
+  {
+    "question_id": "Q29",
+    "question_text": "Mennyire \u00e9rdekli \u00d6nt a politika?",
+    "variable": NaN,
+    "option_text": NaN,
+    "response_scale": "1 - nagyon \u00e9rdekli, 2 - n\u00e9mileg \u00e9rdekli, 3 - nem nagyon \u00e9rdekli, 4 - egy\u00e1ltal\u00e1n nem \u00e9rdekli, 8 - Nem tudja, 9 - Nincs v\u00e1lasz",
+    "model_response": "Final answer: 3 - Nem nagyon \u00e9rdekli",
+    "status": "success"
+  },
+  {
+    "question_id": "Q30",
+    "question_text": "Most arra k\u00e9rem, n\u00e9zze meg ezt a k\u00e1rty\u00e1t. Felolvasok n\u00e9h\u00e1ny politikai akci\u00f3t, amiben az emberek r\u00e9szt vehetnek. K\u00e9rem, mondja meg mindegyikr\u0151l , hogy vett-e m\u00e1r r\u00e9szt ilyenben, alkalomadt\u00e1n r\u00e9szt venne-e benne, vagy soha, semmilyen k\u00f6r\u00fclm\u00e9nyek k\u00f6zt nem venne r\u00e9szt ilyen akci\u00f3ban?",
+    "variable": "v98",
+    "option_text": "A Egy k\u00f6vetel\u00e9s, pet\u00edci\u00f3 al\u00e1\u00edr\u00e1sa",
+    "response_scale": "m\u00e1r r\u00e9szt vett, alkalomadt\u00e1n r\u00e9szt venne, soha nem venne r\u00e9szt",
+    "model_response": "Final answer: @@m\u00e1r r\u00e9szt vett@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q30",
+    "question_text": "Most arra k\u00e9rem, n\u00e9zze meg ezt a k\u00e1rty\u00e1t. Felolvasok n\u00e9h\u00e1ny politikai akci\u00f3t, amiben az emberek r\u00e9szt vehetnek. K\u00e9rem, mondja meg mindegyikr\u0151l , hogy vett-e m\u00e1r r\u00e9szt ilyenben, alkalomadt\u00e1n r\u00e9szt venne-e benne, vagy soha, semmilyen k\u00f6r\u00fclm\u00e9nyek k\u00f6zt nem venne r\u00e9szt ilyen akci\u00f3ban?",
+    "variable": "v99",
+    "option_text": "B Bojkotthoz csatlakoz\u00e1s",
+    "response_scale": "m\u00e1r r\u00e9szt vett, alkalomadt\u00e1n r\u00e9szt venne, soha nem venne r\u00e9szt",
+    "model_response": "Final answer: @@A@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q30",
+    "question_text": "Most arra k\u00e9rem, n\u00e9zze meg ezt a k\u00e1rty\u00e1t. Felolvasok n\u00e9h\u00e1ny politikai akci\u00f3t, amiben az emberek r\u00e9szt vehetnek. K\u00e9rem, mondja meg mindegyikr\u0151l , hogy vett-e m\u00e1r r\u00e9szt ilyenben, alkalomadt\u00e1n r\u00e9szt venne-e benne, vagy soha, semmilyen k\u00f6r\u00fclm\u00e9nyek k\u00f6zt nem venne r\u00e9szt ilyen akci\u00f3ban?",
+    "variable": "v100",
+    "option_text": "C Enged\u00e9lyezett t\u00fcntet\u00e9sen val\u00f3 r\u00e9szv\u00e9tel",
+    "response_scale": "m\u00e1r r\u00e9szt vett, alkalomadt\u00e1n r\u00e9szt venne, soha nem venne r\u00e9szt",
+    "model_response": "Final answer: @@m\u00e1r r\u00e9szt vett@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q30",
+    "question_text": "Most arra k\u00e9rem, n\u00e9zze meg ezt a k\u00e1rty\u00e1t. Felolvasok n\u00e9h\u00e1ny politikai akci\u00f3t, amiben az emberek r\u00e9szt vehetnek. K\u00e9rem, mondja meg mindegyikr\u0151l , hogy vett-e m\u00e1r r\u00e9szt ilyenben, alkalomadt\u00e1n r\u00e9szt venne-e benne, vagy soha, semmilyen k\u00f6r\u00fclm\u00e9nyek k\u00f6zt nem venne r\u00e9szt ilyen akci\u00f3ban?",
+    "variable": "v101",
+    "option_text": "D Nem enged\u00e9lyezett sztr\u00e1jkhoz val\u00f3 csatlakoz\u00e1s",
+    "response_scale": "m\u00e1r r\u00e9szt vett, alkalomadt\u00e1n r\u00e9szt venne, soha nem venne r\u00e9szt",
+    "model_response": "Final answer: @@m\u00e1r r\u00e9szt vett@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q31",
+    "question_text": "Politikai k\u00e9rd\u00e9sekben az emberek besz\u00e9lnek bal\" illetve \"jobb\" oldalr\u00f3l. \u00d6n \u00e1ltal\u00e1ban v\u00e9ve hov\u00e1 helyezn\u00e9 el a saj\u00e1t n\u00e9zeteit ezen a sk\u00e1l\u00e1n?\"",
+    "variable": NaN,
+    "option_text": NaN,
+    "response_scale": "bal, jobb",
+    "model_response": "Final answer: bal",
+    "status": "success"
+  },
+  {
+    "question_id": "Q32a",
+    "question_text": "Az egy\u00e9neknek nagyobb m\u00e9rt\u00e9kben kellene felel\u0151ss\u00e9get v\u00e1llalniuk a saj\u00e1t magukr\u00f3l val\u00f3 gondoskod\u00e1sban, vagy az \u00e1llamnak nagyobb m\u00e9rt\u00e9kben kellene v\u00e1llalnia az emberekr\u0151l val\u00f3 gondoskod\u00e1sban?",
+    "variable": NaN,
+    "option_text": NaN,
+    "response_scale": "Az egy\u00e9neknek nagyobb m\u00e9rt\u00e9kben kellene felel\u0151ss\u00e9get v\u00e1llalniuk a saj\u00e1t magukr\u00f3l val\u00f3 gondoskod\u00e1sban, Az \u00e1llamnak nagyobb m\u00e9rt\u00e9kben kellene v\u00e1llalnia az emberekr\u0151l val\u00f3 gondoskod\u00e1sban",
+    "model_response": "Final answer: @@Az egy\u00e9neknek nagyobb m\u00e9rt\u00e9kben kellene felel\u0151ss\u00e9get v\u00e1llalniuk a saj\u00e1t magukr\u00f3l val\u00f3 gondoskod\u00e1sban@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q32b",
+    "question_text": "A munkan\u00e9lk\u00fclieknek minden lehets\u00e9ges munk\u00e1t el kellene v\u00e1llalniuk, vagy visszautas\u00edts\u00e1k a munk\u00e1t amelyet nem akarnak?",
+    "variable": NaN,
+    "option_text": NaN,
+    "response_scale": "A munkan\u00e9lk\u00fclieknek minden lehets\u00e9ges munk\u00e1t el kellene v\u00e1llalniuk, vagy visszautas\u00edts\u00e1k a munk\u00e1t amelyet nem akarnak",
+    "model_response": "Final answer: @@Mind a k\u00e9t lehet\u0151s\u00e9g elfogadhat\u00f3, de a munkan\u00e9lk\u00fclieknek saj\u00e1t d\u00f6nt\u00e9s\u00fcket kell hozniuk a munka v\u00e1llal\u00e1s\u00e1nak k\u00e9rd\u00e9s\u00e9ben. A munka visszautas\u00edt\u00e1sa is elfogadhat\u00f3 lehet, ha a munka nem felel meg a munkan\u00e9lk\u00fcli elv\u00e1r\u00e1sainak vagy \u00e9rt\u00e9keinek. Ugyanakkor fontos, hogy a munkan\u00e9lk\u00fcliek meg\u00e9rts\u00e9k, hogy a munkav\u00e1llal\u00e1s lehet\u0151s\u00e9ge fontos lehet a j\u00f6v\u0151beli munkalehet\u0151s\u00e9gek szempontj\u00e1b\u00f3l.@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q32c",
+    "question_text": "A verseny j\u00f3 dolog, vagy k\u00e1ros dolog?",
+    "variable": NaN,
+    "option_text": NaN,
+    "response_scale": "A verseny j\u00f3 dolog, A verseny k\u00e1ros dolog",
+    "model_response": "Final answer: A verseny j\u00f3 dolog.",
+    "status": "success"
+  },
+  {
+    "question_id": "Q32d",
+    "question_text": "Az egy\u00e9ni j\u00f6vedelmeket nagyobb m\u00e9rt\u00e9kben kellene jutalmazni, vagy az egy\u00e9ni j\u00f6vedelmeket egyenl\u0151bb\u00e9 kellene tenni?",
+    "variable": NaN,
+    "option_text": NaN,
+    "response_scale": "Az egy\u00e9ni j\u00f6vedelmeket nagyobb m\u00e9rt\u00e9kben kellene jutalmazni, Az egy\u00e9ni j\u00f6vedelmeket egyenl\u0151bb\u00e9 kellene tenni",
+    "model_response": "Final answer: @@Az egy\u00e9ni j\u00f6vedelmeket nagyobb m\u00e9rt\u00e9kben kellene jutalmazni@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q32e",
+    "question_text": "Az \u00fczleti szf\u00e9r\u00e1ban \u00e9s az iparban n\u00f6velni kellene a mag\u00e1ntulajdon ar\u00e1ny\u00e1t, vagy az \u00e1llami tulajdon ar\u00e1ny\u00e1t?",
+    "variable": NaN,
+    "option_text": NaN,
+    "response_scale": "Az \u00fczleti szf\u00e9r\u00e1ban \u00e9s az iparban n\u00f6velni kellene a mag\u00e1ntulajdon ar\u00e1ny\u00e1t, Az \u00fczleti szf\u00e9r\u00e1ban \u00e9s az iparban n\u00f6velni kellene az \u00e1llami tulajdon ar\u00e1ny\u00e1t",
+    "model_response": "Final answer: Az \u00fczleti szf\u00e9r\u00e1ban \u00e9s az iparban n\u00f6velni kellene a mag\u00e1ntulajdon ar\u00e1ny\u00e1t. @@mag\u00e1ntulajdon@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q33",
+    "question_text": "Az emberek n\u00e9ha besz\u00e9lnek arr\u00f3l, hogy milyen c\u00e9lokat kellene k\u00f6vetnie Magyarorsz\u00e1gnak a k\u00f6vetkez\u0151 t\u00edz \u00e9vbe. Ezen a k\u00e1rty\u00e1n n\u00e9h\u00e1ny olyan c\u00e9lt soroltunk fel, melyeket k\u00fcl\u00f6nb\u00f6z\u0151 emberek k\u00fcl\u00f6n\u00f6sen fontosnak tarthatnak. Meg tudn\u00e1, k\u00e9rem, mondani, hogy ezek k\u00f6z\u00fcl a c\u00e9lok k\u00f6z\u00fcl \u00d6n melyiket tartja a legfontosabbnak?",
+    "variable": NaN,
+    "option_text": NaN,
+    "response_scale": "Gyors gazdas\u00e1gi n\u00f6veked\u00e9s, Biztos\u00edtani, hogy az orsz\u00e1gnak er\u0151s v\u00e9dereje legyen, Biztos\u00edtani, hogy az embereknek t\u00f6bb belesz\u00f3l\u00e1suk legyen abba, hogy a munkahely\u00fck\u00f6n \u00e9s k\u00f6z\u00f6ss\u00e9g\u00fckben mi t\u00f6rt\u00e9nik, Megpr\u00f3b\u00e1lni a v\u00e1rosokat \u00e9s a vid\u00e9ket szebb\u00e9 tenni",
+    "model_response": "Final answer: Gyors gazdas\u00e1gi n\u00f6veked\u00e9s",
+    "status": "success"
+  },
+  {
+    "question_id": "Q33a",
+    "question_text": "\u00c9s mit tart a m\u00e1sodik legfontosabbnak?",
+    "variable": NaN,
+    "option_text": NaN,
+    "response_scale": "Gyors gazdas\u00e1gi n\u00f6veked\u00e9s, Biztos\u00edtani, hogy az orsz\u00e1gnak er\u0151s v\u00e9dereje legyen, Biztos\u00edtani, hogy az embereknek t\u00f6bb belesz\u00f3l\u00e1suk legyen abba, hogy a munkahely\u00fck\u00f6n \u00e9s k\u00f6z\u00f6ss\u00e9g\u00fckben mi t\u00f6rt\u00e9nik, Megpr\u00f3b\u00e1lni a v\u00e1rosokat \u00e9s a vid\u00e9ket szebb\u00e9 tenni",
+    "model_response": "Final answer: Biztos\u00edtani, hogy az embereknek t\u00f6bb belesz\u00f3l\u00e1suk legyen abba, hogy a munkahely\u00fck\u00f6n \u00e9s k\u00f6z\u00f6ss\u00e9g\u00fckben mi t\u00f6rt\u00e9nik.",
+    "status": "success"
+  },
+  {
+    "question_id": "Q34",
+    "question_text": "Ha v\u00e1lasztania kellene, mit tartana a legfontosabbnak az ezen a lapon felsoroltak k\u00f6z\u00fcl?",
+    "variable": NaN,
+    "option_text": NaN,
+    "response_scale": "Meg\u0151rizni a rendet az orsz\u00e1gban, T\u00f6bb belesz\u00f3l\u00e1st adni az embereknek a fontos korm\u00e1nyzati d\u00f6nt\u00e9sekbe, K\u00fczdeni az \u00e1remelked\u00e9sek ellen, V\u00e9deni a sz\u00f3l\u00e1sszabads\u00e1got",
+    "model_response": "Final answer: @@Meg\u0151rizni a rendet az orsz\u00e1gban@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q35",
+    "question_text": "\u00c9s mit tart a m\u00e1sodik legfontosabbnak?",
+    "variable": NaN,
+    "option_text": NaN,
+    "response_scale": "Meg\u0151rizni a rendet az orsz\u00e1gban, T\u00f6bb belesz\u00f3l\u00e1st adni az embereknek a fontos korm\u00e1nyzati d\u00f6nt\u00e9sekbe, K\u00fczdeni az \u00e1remelked\u00e9sek ellen, V\u00e9deni a sz\u00f3l\u00e1sszabads\u00e1got",
+    "model_response": "Final answer: @@V\u00e9deni a sz\u00f3l\u00e1sszabads\u00e1got@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q36",
+    "question_text": "Term\u00e9szetesen mindannyian azt rem\u00e9lj\u00fck, hogy nem lesz m\u00e9g egy h\u00e1bor\u00fa, de ha m\u00e9gis arra ker\u00fclne a sor, \u00d6n hajland\u00f3 lenne harcolni az orsz\u00e1g\u00e1\u00e9rt?",
+    "variable": NaN,
+    "option_text": NaN,
+    "response_scale": "1 - igen, 2 - nem, 8 - Nem tudja, 9 - Nincs v\u00e1lasz",
+    "model_response": "Final answer: 1 - igen",
+    "status": "success"
+  },
+  {
+    "question_id": "Q37",
+    "question_text": "Itt van k\u00e9t olyan v\u00e1ltoz\u00e1s, amelyek tal\u00e1n a k\u00f6zelj\u00f6v\u0151ben bek\u00f6vetkezhetnek \u00e9letvitel\u00fcnkben. K\u00e9rem, mondja meg mindegyikr\u0151l, hogy ha bek\u00f6vetkezne, akkor az j\u00f3, vagy rossz, vagy mindegy lenne az \u00d6n sz\u00e1m\u00e1ra?",
+    "variable": "v113",
+    "option_text": "A munka \u00e9let\u00fcnkben bet\u00f6lt\u00f6tt fontoss\u00e1g\u00e1nak cs\u00f6kken\u00e9se",
+    "response_scale": "j\u00f3, rossz, mindegy",
+    "model_response": "Final answer: Rossz",
+    "status": "success"
+  },
+  {
+    "question_id": "Q37",
+    "question_text": "Itt van k\u00e9t olyan v\u00e1ltoz\u00e1s, amelyek tal\u00e1n a k\u00f6zelj\u00f6v\u0151ben bek\u00f6vetkezhetnek \u00e9letvitel\u00fcnkben. K\u00e9rem, mondja meg mindegyikr\u0151l, hogy ha bek\u00f6vetkezne, akkor az j\u00f3, vagy rossz, vagy mindegy lenne az \u00d6n sz\u00e1m\u00e1ra?",
+    "variable": "v114",
+    "option_text": "A tekint\u00e9lytisztelet er\u0151s\u00f6d\u00e9se",
+    "response_scale": "j\u00f3, rossz, mindegy",
+    "model_response": "Final answer: @@rossz@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q38",
+    "question_text": "Most arr\u00f3l szeretn\u00e9m k\u00e9rdezni, hogy mennyire b\u00edzik meg k\u00fcl\u00f6nb\u00f6z\u0151 csoportokhoz tartoz\u00f3 emberekben. K\u00e9rem, mindegyikre mondja meg, hogy teljesen, valamennyire, nem nagyon, vagy egy\u00e1ltal\u00e1n nem b\u00edzik-e meg az ezekhez a csoportokhoz tartoz\u00f3 emberekben.",
+    "variable": "v115",
+    "option_text": "Az egyh\u00e1z",
+    "response_scale": "Teljesen megb\u00edzik, Valamennyire megb\u00edzik, Nem nagyon b\u00edzik meg, Egy\u00e1ltal\u00e1n nem b\u00edzik meg, NT, NV",
+    "model_response": "Final answer: NT",
+    "status": "success"
+  },
+  {
+    "question_id": "Q38",
+    "question_text": "Most arr\u00f3l szeretn\u00e9m k\u00e9rdezni, hogy mennyire b\u00edzik meg k\u00fcl\u00f6nb\u00f6z\u0151 csoportokhoz tartoz\u00f3 emberekben. K\u00e9rem, mindegyikre mondja meg, hogy teljesen, valamennyire, nem nagyon, vagy egy\u00e1ltal\u00e1n nem b\u00edzik-e meg az ezekhez a csoportokhoz tartoz\u00f3 emberekben.",
+    "variable": "v116",
+    "option_text": "A fegyveres er\u0151k",
+    "response_scale": "Teljesen megb\u00edzik, Valamennyire megb\u00edzik, Nem nagyon b\u00edzik meg, Egy\u00e1ltal\u00e1n nem b\u00edzik meg, NT, NV",
+    "model_response": "Final answer: NT",
+    "status": "success"
+  },
+  {
+    "question_id": "Q38",
+    "question_text": "Most arr\u00f3l szeretn\u00e9m k\u00e9rdezni, hogy mennyire b\u00edzik meg k\u00fcl\u00f6nb\u00f6z\u0151 csoportokhoz tartoz\u00f3 emberekben. K\u00e9rem, mindegyikre mondja meg, hogy teljesen, valamennyire, nem nagyon, vagy egy\u00e1ltal\u00e1n nem b\u00edzik-e meg az ezekhez a csoportokhoz tartoz\u00f3 emberekben.",
+    "variable": "v117",
+    "option_text": "Az oktat\u00e1si rendszer",
+    "response_scale": "Teljesen megb\u00edzik, Valamennyire megb\u00edzik, Nem nagyon b\u00edzik meg, Egy\u00e1ltal\u00e1n nem b\u00edzik meg, NT, NV",
+    "model_response": "Final answer: NT",
+    "status": "success"
+  },
+  {
+    "question_id": "Q38",
+    "question_text": "Most arr\u00f3l szeretn\u00e9m k\u00e9rdezni, hogy mennyire b\u00edzik meg k\u00fcl\u00f6nb\u00f6z\u0151 csoportokhoz tartoz\u00f3 emberekben. K\u00e9rem, mindegyikre mondja meg, hogy teljesen, valamennyire, nem nagyon, vagy egy\u00e1ltal\u00e1n nem b\u00edzik-e meg az ezekhez a csoportokhoz tartoz\u00f3 emberekben.",
+    "variable": "v118",
+    "option_text": "A sajt\u00f3",
+    "response_scale": "Teljesen megb\u00edzik, Valamennyire megb\u00edzik, Nem nagyon b\u00edzik meg, Egy\u00e1ltal\u00e1n nem b\u00edzik meg, NT, NV",
+    "model_response": "Final answer: NT",
+    "status": "success"
+  },
+  {
+    "question_id": "Q38",
+    "question_text": "Most arr\u00f3l szeretn\u00e9m k\u00e9rdezni, hogy mennyire b\u00edzik meg k\u00fcl\u00f6nb\u00f6z\u0151 csoportokhoz tartoz\u00f3 emberekben. K\u00e9rem, mindegyikre mondja meg, hogy teljesen, valamennyire, nem nagyon, vagy egy\u00e1ltal\u00e1n nem b\u00edzik-e meg az ezekhez a csoportokhoz tartoz\u00f3 emberekben.",
+    "variable": "v119",
+    "option_text": "A szakszervezetek",
+    "response_scale": "Teljesen megb\u00edzik, Valamennyire megb\u00edzik, Nem nagyon b\u00edzik meg, Egy\u00e1ltal\u00e1n nem b\u00edzik meg, NT, NV",
+    "model_response": "Final answer: @@Nem nagyon b\u00edzik meg@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q38",
+    "question_text": "Most arr\u00f3l szeretn\u00e9m k\u00e9rdezni, hogy mennyire b\u00edzik meg k\u00fcl\u00f6nb\u00f6z\u0151 csoportokhoz tartoz\u00f3 emberekben. K\u00e9rem, mindegyikre mondja meg, hogy teljesen, valamennyire, nem nagyon, vagy egy\u00e1ltal\u00e1n nem b\u00edzik-e meg az ezekhez a csoportokhoz tartoz\u00f3 emberekben.",
+    "variable": "v120",
+    "option_text": "A rend\u0151rs\u00e9g",
+    "response_scale": "Teljesen megb\u00edzik, Valamennyire megb\u00edzik, Nem nagyon b\u00edzik meg, Egy\u00e1ltal\u00e1n nem b\u00edzik meg, NT, NV",
+    "model_response": "Final answer: NT",
+    "status": "success"
+  },
+  {
+    "question_id": "Q38",
+    "question_text": "Most arr\u00f3l szeretn\u00e9m k\u00e9rdezni, hogy mennyire b\u00edzik meg k\u00fcl\u00f6nb\u00f6z\u0151 csoportokhoz tartoz\u00f3 emberekben. K\u00e9rem, mindegyikre mondja meg, hogy teljesen, valamennyire, nem nagyon, vagy egy\u00e1ltal\u00e1n nem b\u00edzik-e meg az ezekhez a csoportokhoz tartoz\u00f3 emberekben.",
+    "variable": "v121",
+    "option_text": "Az orsz\u00e1ggy\u0171l\u00e9s",
+    "response_scale": "Teljesen megb\u00edzik, Valamennyire megb\u00edzik, Nem nagyon b\u00edzik meg, Egy\u00e1ltal\u00e1n nem b\u00edzik meg, NT, NV",
+    "model_response": "Final answer: @Teljesen megb\u00edzik@@, @Valamennyire megb\u00edzik@@, @Nem nagyon b\u00edzik meg@@, @Egy\u00e1ltal\u00e1n nem b\u00edzik meg@@, @NT@@, @NV@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q38",
+    "question_text": "Most arr\u00f3l szeretn\u00e9m k\u00e9rdezni, hogy mennyire b\u00edzik meg k\u00fcl\u00f6nb\u00f6z\u0151 csoportokhoz tartoz\u00f3 emberekben. K\u00e9rem, mindegyikre mondja meg, hogy teljesen, valamennyire, nem nagyon, vagy egy\u00e1ltal\u00e1n nem b\u00edzik-e meg az ezekhez a csoportokhoz tartoz\u00f3 emberekben.",
+    "variable": "v122",
+    "option_text": "A k\u00f6zigazgat\u00e1s",
+    "response_scale": "Teljesen megb\u00edzik, Valamennyire megb\u00edzik, Nem nagyon b\u00edzik meg, Egy\u00e1ltal\u00e1n nem b\u00edzik meg, NT, NV",
+    "model_response": "Final answer: @Teljesen megb\u00edzik@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q38",
+    "question_text": "Most arr\u00f3l szeretn\u00e9m k\u00e9rdezni, hogy mennyire b\u00edzik meg k\u00fcl\u00f6nb\u00f6z\u0151 csoportokhoz tartoz\u00f3 emberekben. K\u00e9rem, mindegyikre mondja meg, hogy teljesen, valamennyire, nem nagyon, vagy egy\u00e1ltal\u00e1n nem b\u00edzik-e meg az ezekhez a csoportokhoz tartoz\u00f3 emberekben.",
+    "variable": "v123",
+    "option_text": "A t\u00e1rsadalombiztos\u00edt\u00e1si rendszer",
+    "response_scale": "Teljesen megb\u00edzik, Valamennyire megb\u00edzik, Nem nagyon b\u00edzik meg, Egy\u00e1ltal\u00e1n nem b\u00edzik meg, NT, NV",
+    "model_response": "Final answer: @@Valamennyire megb\u00edzik@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q38",
+    "question_text": "Most arr\u00f3l szeretn\u00e9m k\u00e9rdezni, hogy mennyire b\u00edzik meg k\u00fcl\u00f6nb\u00f6z\u0151 csoportokhoz tartoz\u00f3 emberekben. K\u00e9rem, mindegyikre mondja meg, hogy teljesen, valamennyire, nem nagyon, vagy egy\u00e1ltal\u00e1n nem b\u00edzik-e meg az ezekhez a csoportokhoz tartoz\u00f3 emberekben.",
+    "variable": "v124",
+    "option_text": "Az Eur\u00f3pai Uni\u00f3",
+    "response_scale": "Teljesen megb\u00edzik, Valamennyire megb\u00edzik, Nem nagyon b\u00edzik meg, Egy\u00e1ltal\u00e1n nem b\u00edzik meg, NT, NV",
+    "model_response": "Final answer: Valamennyire megb\u00edzik",
+    "status": "success"
+  },
+  {
+    "question_id": "Q38",
+    "question_text": "Most arr\u00f3l szeretn\u00e9m k\u00e9rdezni, hogy mennyire b\u00edzik meg k\u00fcl\u00f6nb\u00f6z\u0151 csoportokhoz tartoz\u00f3 emberekben. K\u00e9rem, mindegyikre mondja meg, hogy teljesen, valamennyire, nem nagyon, vagy egy\u00e1ltal\u00e1n nem b\u00edzik-e meg az ezekhez a csoportokhoz tartoz\u00f3 emberekben.",
+    "variable": "v125",
+    "option_text": "Az ENSZ",
+    "response_scale": "Teljesen megb\u00edzik, Valamennyire megb\u00edzik, Nem nagyon b\u00edzik meg, Egy\u00e1ltal\u00e1n nem b\u00edzik meg, NT, NV",
+    "model_response": "Final answer: Teljesen megb\u00edzik, Valamennyire megb\u00edzik, Nem nagyon b\u00edzik meg, Egy\u00e1ltal\u00e1n nem b\u00edzik meg, NT, NV",
+    "status": "success"
+  },
+  {
+    "question_id": "Q38",
+    "question_text": "Most arr\u00f3l szeretn\u00e9m k\u00e9rdezni, hogy mennyire b\u00edzik meg k\u00fcl\u00f6nb\u00f6z\u0151 csoportokhoz tartoz\u00f3 emberekben. K\u00e9rem, mindegyikre mondja meg, hogy teljesen, valamennyire, nem nagyon, vagy egy\u00e1ltal\u00e1n nem b\u00edzik-e meg az ezekhez a csoportokhoz tartoz\u00f3 emberekben.",
+    "variable": "v126",
+    "option_text": "Az eg\u00e9szs\u00e9g\u00fcgyi rendszer",
+    "response_scale": "Teljesen megb\u00edzik, Valamennyire megb\u00edzik, Nem nagyon b\u00edzik meg, Egy\u00e1ltal\u00e1n nem b\u00edzik meg, NT, NV",
+    "model_response": "Final answer: NT",
+    "status": "success"
+  },
+  {
+    "question_id": "Q38",
+    "question_text": "Most arr\u00f3l szeretn\u00e9m k\u00e9rdezni, hogy mennyire b\u00edzik meg k\u00fcl\u00f6nb\u00f6z\u0151 csoportokhoz tartoz\u00f3 emberekben. K\u00e9rem, mindegyikre mondja meg, hogy teljesen, valamennyire, nem nagyon, vagy egy\u00e1ltal\u00e1n nem b\u00edzik-e meg az ezekhez a csoportokhoz tartoz\u00f3 emberekben.",
+    "variable": "v127",
+    "option_text": "Az igazs\u00e1gszolg\u00e1ltat\u00e1si rendszer",
+    "response_scale": "Teljesen megb\u00edzik, Valamennyire megb\u00edzik, Nem nagyon b\u00edzik meg, Egy\u00e1ltal\u00e1n nem b\u00edzik meg, NT, NV",
+    "model_response": "Final answer: NT",
+    "status": "success"
+  },
+  {
+    "question_id": "Q38",
+    "question_text": "Most arr\u00f3l szeretn\u00e9m k\u00e9rdezni, hogy mennyire b\u00edzik meg k\u00fcl\u00f6nb\u00f6z\u0151 csoportokhoz tartoz\u00f3 emberekben. K\u00e9rem, mindegyikre mondja meg, hogy teljesen, valamennyire, nem nagyon, vagy egy\u00e1ltal\u00e1n nem b\u00edzik-e meg az ezekhez a csoportokhoz tartoz\u00f3 emberekben.",
+    "variable": "v128",
+    "option_text": "Nagyv\u00e1llalatok",
+    "response_scale": "Teljesen megb\u00edzik, Valamennyire megb\u00edzik, Nem nagyon b\u00edzik meg, Egy\u00e1ltal\u00e1n nem b\u00edzik meg, NT, NV",
+    "model_response": "Final answer: NT",
+    "status": "success"
+  },
+  {
+    "question_id": "Q38",
+    "question_text": "Most arr\u00f3l szeretn\u00e9m k\u00e9rdezni, hogy mennyire b\u00edzik meg k\u00fcl\u00f6nb\u00f6z\u0151 csoportokhoz tartoz\u00f3 emberekben. K\u00e9rem, mindegyikre mondja meg, hogy teljesen, valamennyire, nem nagyon, vagy egy\u00e1ltal\u00e1n nem b\u00edzik-e meg az ezekhez a csoportokhoz tartoz\u00f3 emberekben.",
+    "variable": "v129",
+    "option_text": "K\u00f6rnyezetv\u00e9delmi szervezetek",
+    "response_scale": "Teljesen megb\u00edzik, Valamennyire megb\u00edzik, Nem nagyon b\u00edzik meg, Egy\u00e1ltal\u00e1n nem b\u00edzik meg, NT, NV",
+    "model_response": "Final answer: NT",
+    "status": "success"
+  },
+  {
+    "question_id": "Q38",
+    "question_text": "Most arr\u00f3l szeretn\u00e9m k\u00e9rdezni, hogy mennyire b\u00edzik meg k\u00fcl\u00f6nb\u00f6z\u0151 csoportokhoz tartoz\u00f3 emberekben. K\u00e9rem, mindegyikre mondja meg, hogy teljesen, valamennyire, nem nagyon, vagy egy\u00e1ltal\u00e1n nem b\u00edzik-e meg az ezekhez a csoportokhoz tartoz\u00f3 emberekben.",
+    "variable": "v130",
+    "option_text": "Politikai p\u00e1rtok",
+    "response_scale": "Teljesen megb\u00edzik, Valamennyire megb\u00edzik, Nem nagyon b\u00edzik meg, Egy\u00e1ltal\u00e1n nem b\u00edzik meg, NT, NV",
+    "model_response": "Final answer: @@Valamennyire megb\u00edzik@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q38",
+    "question_text": "Most arr\u00f3l szeretn\u00e9m k\u00e9rdezni, hogy mennyire b\u00edzik meg k\u00fcl\u00f6nb\u00f6z\u0151 csoportokhoz tartoz\u00f3 emberekben. K\u00e9rem, mindegyikre mondja meg, hogy teljesen, valamennyire, nem nagyon, vagy egy\u00e1ltal\u00e1n nem b\u00edzik-e meg az ezekhez a csoportokhoz tartoz\u00f3 emberekben.",
+    "variable": "v131",
+    "option_text": "A korm\u00e1ny",
+    "response_scale": "Teljesen megb\u00edzik, Valamennyire megb\u00edzik, Nem nagyon b\u00edzik meg, Egy\u00e1ltal\u00e1n nem b\u00edzik meg, NT, NV",
+    "model_response": "Final answer: Teljesen megb\u00edzik, Valamennyire megb\u00edzik, Nem nagyon b\u00edzik meg, Egy\u00e1ltal\u00e1n nem b\u00edzik meg, NT, NV",
+    "status": "success"
+  },
+  {
+    "question_id": "Q38",
+    "question_text": "Most arr\u00f3l szeretn\u00e9m k\u00e9rdezni, hogy mennyire b\u00edzik meg k\u00fcl\u00f6nb\u00f6z\u0151 csoportokhoz tartoz\u00f3 emberekben. K\u00e9rem, mindegyikre mondja meg, hogy teljesen, valamennyire, nem nagyon, vagy egy\u00e1ltal\u00e1n nem b\u00edzik-e meg az ezekhez a csoportokhoz tartoz\u00f3 emberekben.",
+    "variable": "v132",
+    "option_text": "K\u00f6z\u00f6ss\u00e9gi m\u00e9dia",
+    "response_scale": "Teljesen megb\u00edzik, Valamennyire megb\u00edzik, Nem nagyon b\u00edzik meg, Egy\u00e1ltal\u00e1n nem b\u00edzik meg, NT, NV",
+    "model_response": "Final answer: \nK\u00f6z\u00f6ss\u00e9gi m\u00e9dia: Valamennyire megb\u00edzik, Valamennyire megb\u00edzik, Nem nagyon b\u00edzik meg, NT, NV",
+    "status": "success"
+  },
+  {
+    "question_id": "Q39",
+    "question_text": "Egyes emberek \u00fagy \u00e9rzik, hogy teljesen szabadon hat\u00e1rozz\u00e1k meg \u00e9let\u00fcket, m\u00e1sok viszont \u00fagy \u00e9rzik, hogy semmi befoly\u00e1suk sincs sorsuk alak\u00edt\u00e1s\u00e1ra. K\u00e9rem a sk\u00e1la seg\u00edts\u00e9g\u00e9vel mondja meg, hogy \u00d6n szerint mekkora befoly\u00e1sa van arra, hogy mik\u00e9nt alakul az \u00e9lete?",
+    "variable": NaN,
+    "option_text": NaN,
+    "response_scale": "nagyon, semmi, nagy",
+    "model_response": "Final answer: nagyon",
+    "status": "success"
+  },
+  {
+    "question_id": "Q40",
+    "question_text": "Mennyire fontos \u00d6nnek, hogy egy demokratikusan ir\u00e1ny\u00edtott orsz\u00e1gban \u00e9ljen? Hov\u00e1 helyezn\u00e9 el mag\u00e1t ezen a sk\u00e1l\u00e1n, ahol az 1-es azt jelenti, hogy egy\u00e1ltal\u00e1n nem fontos a 10-es pedig azt jelenti, hogy alapvet\u0151 fontoss\u00e1g\u00fa?",
+    "variable": NaN,
+    "option_text": NaN,
+    "response_scale": "egy\u00e1ltal\u00e1n nem fontos, alapvet\u0151 fontoss\u00e1g\u00fa",
+    "model_response": "Final answer: 8@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q41",
+    "question_text": "\u00c9s mennyire demokratikus Magyarorsz\u00e1g korm\u00e1nyz\u00e1sa manaps\u00e1g? Ism\u00e9t haszn\u00e1lja az 1-t\u0151l 10-ig terjed\u0151 sk\u00e1l\u00e1t, ahol az 1-es azt jelenti, hogy egy\u00e1ltal\u00e1n nem demokratikus, \u00e9s a 10-es azt jelenti, hogy teljes m\u00e9rt\u00e9kben demokratikus. Hov\u00e1 helyezn\u00e9 el mag\u00e1t?",
+    "variable": NaN,
+    "option_text": NaN,
+    "response_scale": "egy\u00e1ltal\u00e1n nem demokratikus, teljes m\u00e9rt\u00e9kben demokratikus",
+    "model_response": "Final answer: 6",
+    "status": "success"
+  },
+  {
+    "question_id": "Q42",
+    "question_text": "Mennyire el\u00e9gedett \u00d6n azzal, ahogy jelenleg a politikai rendszer m\u0171k\u00f6dik Magyarorsz\u00e1gon? Ism\u00e9t haszn\u00e1lja ezt a k\u00e1rty\u00e1t a v\u00e1laszad\u00e1sban!",
+    "variable": NaN,
+    "option_text": NaN,
+    "response_scale": "el\u00e9gedetlen, el\u00e9gedett",
+    "model_response": "Final answer: el\u00e9gedett",
+    "status": "success"
+  },
+  {
+    "question_id": "Q43",
+    "question_text": "Mit gondol, a k\u00f6vetkez\u0151 kijelent\u00e9sekr\u0151l? Egyet\u00e9rt vel\u00fck, vagy nem \u00e9rt egyet vel\u00fck?",
+    "variable": "v145",
+    "option_text": "Van egy er\u0151skez\u0171 vezet\u0151, akinek nem kell t\u00f6r\u0151dnie az orsz\u00e1ggy\u0171l\u00e9ssel \u00e9s a v\u00e1laszt\u00e1sokkal",
+    "response_scale": "Teljesen egyet\u00e9rt, Egyet\u00e9rt, Nem \u00e9rt egyet, Egy\u00e1ltal\u00e1n nem \u00e9rt egyet",
+    "model_response": "Final answer: @@Egyet\u00e9rt@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q43",
+    "question_text": "Mit gondol, a k\u00f6vetkez\u0151 kijelent\u00e9sekr\u0151l? Egyet\u00e9rt vel\u00fck, vagy nem \u00e9rt egyet vel\u00fck?",
+    "variable": "v146",
+    "option_text": "Nem a korm\u00e1ny, hanem szakemberek hozz\u00e1k meg azokat a d\u00f6nt\u00e9seket, amelyeket az orsz\u00e1g sz\u00e1m\u00e1ra a legjobbnak tartanak",
+    "response_scale": "Teljesen egyet\u00e9rt, Egyet\u00e9rt, Nem \u00e9rt egyet, Egy\u00e1ltal\u00e1n nem \u00e9rt egyet",
+    "model_response": "Final answer: Egyet\u00e9rt",
+    "status": "success"
+  },
+  {
+    "question_id": "Q43",
+    "question_text": "Mit gondol, a k\u00f6vetkez\u0151 kijelent\u00e9sekr\u0151l? Egyet\u00e9rt vel\u00fck, vagy nem \u00e9rt egyet vel\u00fck?",
+    "variable": "v147",
+    "option_text": "A hadsereg uralkodik az orsz\u00e1gban",
+    "response_scale": "Teljesen egyet\u00e9rt, Egyet\u00e9rt, Nem \u00e9rt egyet, Egy\u00e1ltal\u00e1n nem \u00e9rt egyet",
+    "model_response": "Final answer: Egyet\u00e9rt",
+    "status": "success"
+  },
+  {
+    "question_id": "Q43",
+    "question_text": "Mit gondol, a k\u00f6vetkez\u0151 kijelent\u00e9sekr\u0151l? Egyet\u00e9rt vel\u00fck, vagy nem \u00e9rt egyet vel\u00fck?",
+    "variable": "v148",
+    "option_text": "Demokratikus politikai rendszer",
+    "response_scale": "Teljesen egyet\u00e9rt, Egyet\u00e9rt, Nem \u00e9rt egyet, Egy\u00e1ltal\u00e1n nem \u00e9rt egyet",
+    "model_response": "Final answer: Nem \u00e9rt egyet",
+    "status": "success"
+  },
+  {
+    "question_id": "Q44",
+    "question_text": "Mindent \u00f6sszevetve, hogyan tudn\u00e1 \u00d6n a mostani eg\u00e9szs\u00e9gi \u00e1llapot\u00e1t jellemezni? Azt mondan\u00e1, hogy:",
+    "variable": "v149",
+    "option_text": "\u00c1llami juttat\u00e1sokat jogtalanul ig\u00e9nybe venni",
+    "response_scale": "soha, mindig",
+    "model_response": "Final answer: @@soha@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q44",
+    "question_text": "Mindent \u00f6sszevetve, hogyan tudn\u00e1 \u00d6n a mostani eg\u00e9szs\u00e9gi \u00e1llapot\u00e1t jellemezni? Azt mondan\u00e1, hogy:",
+    "variable": "v150",
+    "option_text": "Csalni az ad\u00f3val, ha az ember nem dolgozott meg \u00e9rte",
+    "response_scale": "soha, mindig",
+    "model_response": "Final answer: mindig",
+    "status": "success"
+  },
+  {
+    "question_id": "Q44",
+    "question_text": "Mindent \u00f6sszevetve, hogyan tudn\u00e1 \u00d6n a mostani eg\u00e9szs\u00e9gi \u00e1llapot\u00e1t jellemezni? Azt mondan\u00e1, hogy:",
+    "variable": "v151",
+    "option_text": "Marihuan\u00e1t vagy hasist sz\u00edvni",
+    "response_scale": "soha, mindig",
+    "model_response": "Final answer: @@soha@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q44",
+    "question_text": "Mindent \u00f6sszevetve, hogyan tudn\u00e1 \u00d6n a mostani eg\u00e9szs\u00e9gi \u00e1llapot\u00e1t jellemezni? Azt mondan\u00e1, hogy:",
+    "variable": "v152",
+    "option_text": "Cs\u00fasz\u00f3p\u00e9nzt elfogadni a k\u00f6teless\u00e9g teljes\u00edt\u00e9se sor\u00e1n",
+    "response_scale": "soha, mindig",
+    "model_response": "Final answer: mindig",
+    "status": "success"
+  },
+  {
+    "question_id": "Q44",
+    "question_text": "Mindent \u00f6sszevetve, hogyan tudn\u00e1 \u00d6n a mostani eg\u00e9szs\u00e9gi \u00e1llapot\u00e1t jellemezni? Azt mondan\u00e1, hogy:",
+    "variable": "v153",
+    "option_text": "Homoszexualit\u00e1s",
+    "response_scale": "soha, mindig",
+    "model_response": "Final answer: mindig",
+    "status": "success"
+  },
+  {
+    "question_id": "Q44",
+    "question_text": "Mindent \u00f6sszevetve, hogyan tudn\u00e1 \u00d6n a mostani eg\u00e9szs\u00e9gi \u00e1llapot\u00e1t jellemezni? Azt mondan\u00e1, hogy:",
+    "variable": "v154",
+    "option_text": "Abortusz",
+    "response_scale": "soha, mindig",
+    "model_response": "Final answer: soha",
+    "status": "success"
+  },
+  {
+    "question_id": "Q44",
+    "question_text": "Mindent \u00f6sszevetve, hogyan tudn\u00e1 \u00d6n a mostani eg\u00e9szs\u00e9gi \u00e1llapot\u00e1t jellemezni? Azt mondan\u00e1, hogy:",
+    "variable": "v155",
+    "option_text": "Elv\u00e1lni",
+    "response_scale": "soha, mindig",
+    "model_response": "Final answer: mindig",
+    "status": "success"
+  },
+  {
+    "question_id": "Q44",
+    "question_text": "Mindent \u00f6sszevetve, hogyan tudn\u00e1 \u00d6n a mostani eg\u00e9szs\u00e9gi \u00e1llapot\u00e1t jellemezni? Azt mondan\u00e1, hogy:",
+    "variable": "v156",
+    "option_text": "Eutan\u00e1zia (gy\u00f3gy\u00edthatatlan beteg \u00e9let\u00e9t kioltani)",
+    "response_scale": "soha, mindig",
+    "model_response": "Final answer: soha",
+    "status": "success"
+  },
+  {
+    "question_id": "Q44",
+    "question_text": "Mindent \u00f6sszevetve, hogyan tudn\u00e1 \u00d6n a mostani eg\u00e9szs\u00e9gi \u00e1llapot\u00e1t jellemezni? Azt mondan\u00e1, hogy:",
+    "variable": "v157",
+    "option_text": "\u00d6ngyilkoss\u00e1g",
+    "response_scale": "soha, mindig",
+    "model_response": "Final answer: soha",
+    "status": "success"
+  },
+  {
+    "question_id": "Q44",
+    "question_text": "Mindent \u00f6sszevetve, hogyan tudn\u00e1 \u00d6n a mostani eg\u00e9szs\u00e9gi \u00e1llapot\u00e1t jellemezni? Azt mondan\u00e1, hogy:",
+    "variable": "v158",
+    "option_text": "Alkalmi szexu\u00e1lis kapcsolatot l\u00e9tes\u00edteni",
+    "response_scale": "soha, mindig",
+    "model_response": "Final answer: soha",
+    "status": "success"
+  },
+  {
+    "question_id": "Q44",
+    "question_text": "Mindent \u00f6sszevetve, hogyan tudn\u00e1 \u00d6n a mostani eg\u00e9szs\u00e9gi \u00e1llapot\u00e1t jellemezni? Azt mondan\u00e1, hogy:",
+    "variable": "v159",
+    "option_text": "Jegy \u00e9s b\u00e9rlet n\u00e9lk\u00fcl utazni egy t\u00f6megk\u00f6zleked\u00e9si eszk\u00f6z\u00f6n",
+    "response_scale": "soha, mindig",
+    "model_response": "Final answer: mindig",
+    "status": "success"
+  },
+  {
+    "question_id": "Q44",
+    "question_text": "Mindent \u00f6sszevetve, hogyan tudn\u00e1 \u00d6n a mostani eg\u00e9szs\u00e9gi \u00e1llapot\u00e1t jellemezni? Azt mondan\u00e1, hogy:",
+    "variable": "v160",
+    "option_text": "Prostit\u00faci\u00f3",
+    "response_scale": "soha, mindig",
+    "model_response": "Final answer: soha",
+    "status": "success"
+  },
+  {
+    "question_id": "Q44",
+    "question_text": "Mindent \u00f6sszevetve, hogyan tudn\u00e1 \u00d6n a mostani eg\u00e9szs\u00e9gi \u00e1llapot\u00e1t jellemezni? Azt mondan\u00e1, hogy:",
+    "variable": "v161",
+    "option_text": "Mesters\u00e9ges inszemin\u00e1ci\u00f3 vagy lombikban t\u00f6rt\u00e9n\u0151 megterm\u00e9keny\u00edt\u00e9s",
+    "response_scale": "soha, mindig",
+    "model_response": "Final answer: mindig",
+    "status": "success"
+  },
+  {
+    "question_id": "Q45",
+    "question_text": "F\u00fcggetlen\u00fcl att\u00f3l, hogy j\u00e1r-e templomba vagy sem, mit mondana mag\u00e1r\u00f3l, \u00d6n \u2026",
+    "variable": NaN,
+    "option_text": NaN,
+    "response_scale": "vall\u00e1sos ember, nem vall\u00e1sos ember, meggy\u0151z\u0151d\u00e9ses ateista",
+    "model_response": "Final answer: vall\u00e1sos ember, nem vall\u00e1sos ember, meggy\u0151z\u0151d\u00e9ses ateista",
+    "status": "success"
+  },
+  {
+    "question_id": "Q46",
+    "question_text": "\u00d6n Magyarorsz\u00e1g \u00e1llampolg\u00e1ra?",
+    "variable": NaN,
+    "option_text": NaN,
+    "response_scale": "1 - igen, 2 - nem, 8 - Nem tudja, 9 - Nincs v\u00e1lasz",
+    "model_response": "Final answer: 2",
+    "status": "success"
+  },
+  {
+    "question_id": "Q47",
+    "question_text": "Mennyire b\u00fcszke \u00d6n arra, hogy magyar \u00e1llampolg\u00e1r?",
+    "variable": NaN,
+    "option_text": NaN,
+    "response_scale": "1 - nagyon b\u00fcszke, 2 - meglehet\u0151sen b\u00fcszke, 3 - nem nagyon b\u00fcszke, 4 - egy\u00e1ltal\u00e1n nem b\u00fcszke, 8 - Nem tudja, 9 - Nincs v\u00e1lasz",
+    "model_response": "Final answer: 3 - nem nagyon b\u00fcszke",
+    "status": "success"
+  },
+  {
+    "question_id": "Q48",
+    "question_text": "V\u00e1laszt\u00e1sokkor \u00d6n mindig szavaz, \u00e1ltal\u00e1ban szavaz vagy soha nem szavaz?",
+    "variable": "v171",
+    "option_text": "\u00d6nkorm\u00e1nyzati szinten",
+    "response_scale": "Mindig, \u00c1ltal\u00e1ban, Soha, NT, NV",
+    "model_response": "Final answer: \u00c1ltal\u00e1ban",
+    "status": "success"
+  },
+  {
+    "question_id": "Q48",
+    "question_text": "V\u00e1laszt\u00e1sokkor \u00d6n mindig szavaz, \u00e1ltal\u00e1ban szavaz vagy soha nem szavaz?",
+    "variable": "v172",
+    "option_text": "Orsz\u00e1gosan (orsz\u00e1ggy\u0171l\u00e9si v\u00e1laszt\u00e1sok)",
+    "response_scale": "Mindig, \u00c1ltal\u00e1ban, Soha, NT, NV",
+    "model_response": "Final answer: \u00c1ltal\u00e1ban",
+    "status": "success"
+  },
+  {
+    "question_id": "Q48",
+    "question_text": "V\u00e1laszt\u00e1sokkor \u00d6n mindig szavaz, \u00e1ltal\u00e1ban szavaz vagy soha nem szavaz?",
+    "variable": "v173",
+    "option_text": "Eur\u00f3pai szinten (eur\u00f3pai parlamenti v\u00e1laszt\u00e1sok)",
+    "response_scale": "Mindig, \u00c1ltal\u00e1ban, Soha, NT, NV",
+    "model_response": "Final answer: Mindig",
+    "status": "success"
+  },
+  {
+    "question_id": "Q49",
+    "question_text": "Melyik (politikai) p\u00e1rt a legrokonszenvesebb \u00d6nnek?",
+    "variable": NaN,
+    "option_text": NaN,
+    "response_scale": "Magyar Szocialista P\u00e1rt (MSZP), Fidesz - Magyar Polg\u00e1ri Sz\u00f6vets\u00e9g (Fidesz), Kereszt\u00e9nydemokrata N\u00e9pp\u00e1rt (KDNP), Jobbik Magyarorsz\u00e1g\u00e9rt Mozgalom (Jobbik), Lehet M\u00e1s a Politika (LMP), Demokratikus Koal\u00edci\u00f3 (DK), Egy\u00fctt \u2013 a Korszakv\u00e1lt\u00f3k P\u00e1rtja (Egy\u00fctt), P\u00e1rbesz\u00e9d Magyarorsz\u00e1g\u00e9rt (PM), Momentum Mozgalom (Momentum), Magyar Liber\u00e1lis P\u00e1rt (Liber\u00e1lisok), Magyar K\u00e9tfark\u00fa Kutya P\u00e1rt (MKKP), Magyar Munk\u00e1sp\u00e1rt (Munk\u00e1sp\u00e1rt), Egy\u00e9b",
+    "model_response": "Final answer: Magyar Szocialista P\u00e1rt (MSZP)",
+    "status": "success"
+  },
+  {
+    "question_id": "Q49a",
+    "question_text": "Van m\u00e9g m\u00e1sik p\u00e1rt is, amely rokonszenves \u00d6nnek?",
+    "variable": NaN,
+    "option_text": NaN,
+    "response_scale": "Magyar Szocialista P\u00e1rt (MSZP), Fidesz - Magyar Polg\u00e1ri Sz\u00f6vets\u00e9g (Fidesz), Kereszt\u00e9nydemokrata N\u00e9pp\u00e1rt (KDNP), Jobbik Magyarorsz\u00e1g\u00e9rt Mozgalom (Jobbik), Lehet M\u00e1s a Politika (LMP), Demokratikus Koal\u00edci\u00f3 (DK), Egy\u00fctt \u2013 a Korszakv\u00e1lt\u00f3k P\u00e1rtja (Egy\u00fctt), P\u00e1rbesz\u00e9d Magyarorsz\u00e1g\u00e9rt (PM), Momentum Mozgalom (Momentum), Magyar Liber\u00e1lis P\u00e1rt (Liber\u00e1lisok), Magyar K\u00e9tfark\u00fa Kutya P\u00e1rt (MKKP), Magyar Munk\u00e1sp\u00e1rt (Munk\u00e1sp\u00e1rt), Egy\u00e9b",
+    "model_response": "Final answer: Magyar Szocialista P\u00e1rt (MSZP)",
+    "status": "success"
+  },
+  {
+    "question_id": "Q50",
+    "question_text": "Mit gondol, a k\u00f6vetkez\u0151 kijelent\u00e9sekr\u0151l? Egyet\u00e9rt vel\u00fck, vagy nem \u00e9rt egyet vel\u00fck?",
+    "variable": "v176",
+    "option_text": "A szavazatokat tisztess\u00e9ges m\u00f3don sz\u00e1molj\u00e1k \u00f6ssze",
+    "response_scale": "Nagyon gyakran, El\u00e9g gyakran, Nem gyakran, Egy\u00e1ltal\u00e1n nem gyakran",
+    "model_response": "Final answer: @@Nem gyakran@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q50",
+    "question_text": "Mit gondol, a k\u00f6vetkez\u0151 kijelent\u00e9sekr\u0151l? Egyet\u00e9rt vel\u00fck, vagy nem \u00e9rt egyet vel\u00fck?",
+    "variable": "v177",
+    "option_text": "Megakad\u00e1lyozz\u00e1k, hogy ellenz\u00e9ki jel\u00f6ltek indulhassanak a v\u00e1laszt\u00e1son",
+    "response_scale": "Nagyon gyakran, El\u00e9g gyakran, Nem gyakran, Egy\u00e1ltal\u00e1n nem gyakran",
+    "model_response": "Final answer: @@Egy\u00e1ltal\u00e1n nem gyakran@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q50",
+    "question_text": "Mit gondol, a k\u00f6vetkez\u0151 kijelent\u00e9sekr\u0151l? Egyet\u00e9rt vel\u00fck, vagy nem \u00e9rt egyet vel\u00fck?",
+    "variable": "v178",
+    "option_text": "A t\u00e9v\u00e9 h\u00edrm\u0171sora el\u0151nyben r\u00e9szes\u00edti a korm\u00e1nyz\u00f3 p\u00e1rtot",
+    "response_scale": "Nagyon gyakran, El\u00e9g gyakran, Nem gyakran, Egy\u00e1ltal\u00e1n nem gyakran",
+    "model_response": "Final answer: Egy\u00e1ltal\u00e1n nem gyakran@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q50",
+    "question_text": "Mit gondol, a k\u00f6vetkez\u0151 kijelent\u00e9sekr\u0151l? Egyet\u00e9rt vel\u00fck, vagy nem \u00e9rt egyet vel\u00fck?",
+    "variable": "v179",
+    "option_text": "Szavaz\u00f3kat lefizetnek",
+    "response_scale": "Nagyon gyakran, El\u00e9g gyakran, Nem gyakran, Egy\u00e1ltal\u00e1n nem gyakran",
+    "model_response": "Final answer: Egyet\u00e9rtek vel\u00fck, de nem gyakran. (Nem gyakran)",
+    "status": "success"
+  },
+  {
+    "question_id": "Q50",
+    "question_text": "Mit gondol, a k\u00f6vetkez\u0151 kijelent\u00e9sekr\u0151l? Egyet\u00e9rt vel\u00fck, vagy nem \u00e9rt egyet vel\u00fck?",
+    "variable": "v180",
+    "option_text": "Az \u00fajs\u00e1g\u00edr\u00f3k p\u00e1rtatlanul tud\u00f3s\u00edtanak a v\u00e1laszt\u00e1sokr\u00f3l",
+    "response_scale": "Nagyon gyakran, El\u00e9g gyakran, Nem gyakran, Egy\u00e1ltal\u00e1n nem gyakran",
+    "model_response": "Final answer: @@Egyet\u00e9rtek vel\u00fck@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q50",
+    "question_text": "Mit gondol, a k\u00f6vetkez\u0151 kijelent\u00e9sekr\u0151l? Egyet\u00e9rt vel\u00fck, vagy nem \u00e9rt egyet vel\u00fck?",
+    "variable": "v181",
+    "option_text": "A v\u00e1laszt\u00e1sokat biztos\u00edt\u00f3 hivatalnokok \u00e9s a v\u00e1laszt\u00e1si bizotts\u00e1gok tisztess\u00e9gesek",
+    "response_scale": "Nagyon gyakran, El\u00e9g gyakran, Nem gyakran, Egy\u00e1ltal\u00e1n nem gyakran",
+    "model_response": "Final answer: Egyet\u00e9rtek vel\u00fck, mert \u00fagy gondolom, hogy a v\u00e1laszt\u00e1sokat biztos\u00edt\u00f3 hivatalnokok \u00e9s a v\u00e1laszt\u00e1si bizotts\u00e1gok \u00e1ltal\u00e1ban tisztess\u00e9gesek \u00e9s f\u00fcggetlenek. Ez hozz\u00e1j\u00e1rul ahhoz, hogy a v\u00e1laszt\u00e1sok szabadon \u00e9s tisztess\u00e9gesen zajljanak.",
+    "status": "success"
+  },
+  {
+    "question_id": "Q50",
+    "question_text": "Mit gondol, a k\u00f6vetkez\u0151 kijelent\u00e9sekr\u0151l? Egyet\u00e9rt vel\u00fck, vagy nem \u00e9rt egyet vel\u00fck?",
+    "variable": "v182",
+    "option_text": "A gazdag emberek megv\u00e1s\u00e1rolj\u00e1k a v\u00e1laszt\u00e1st",
+    "response_scale": "Nagyon gyakran, El\u00e9g gyakran, Nem gyakran, Egy\u00e1ltal\u00e1n nem gyakran",
+    "model_response": "Final answer: @@Nem gyakran@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q50",
+    "question_text": "Mit gondol, a k\u00f6vetkez\u0151 kijelent\u00e9sekr\u0151l? Egyet\u00e9rt vel\u00fck, vagy nem \u00e9rt egyet vel\u00fck?",
+    "variable": "v183",
+    "option_text": "A szavaz\u00f3kat er\u0151szakkal megf\u00e9leml\u00edtik a szavaz\u00e1sn\u00e1l",
+    "response_scale": "Nagyon gyakran, El\u00e9g gyakran, Nem gyakran, Egy\u00e1ltal\u00e1n nem gyakran",
+    "model_response": "Final answer: @@Egy\u00e1ltal\u00e1n nem gyakran@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q51",
+    "question_text": "Mennyire \u00e9rdekli \u00d6nt a bev\u00e1ndorl\u00f3kr\u00f3l?",
+    "variable": NaN,
+    "option_text": NaN,
+    "response_scale": "1 - nagyon rossz, 2 - el\u00e9g rossz, 3 - sem j\u00f3, sem rossz, 4 - el\u00e9g j\u00f3, 5 - nagyon j\u00f3, 8 - Nem tudja, 9 - Nincs v\u00e1lasz",
+    "model_response": "Final answer: 3 - sem j\u00f3, sem rossz",
+    "status": "success"
+  },
+  {
+    "question_id": "Q52a",
+    "question_text": "A bev\u00e1ndorl\u00f3k munkahelyeket vesznek el a magyarokt\u00f3l?",
+    "variable": NaN,
+    "option_text": NaN,
+    "response_scale": "A bev\u00e1ndorl\u00f3k munkahelyeket vesznek el a magyarokt\u00f3l, A bev\u00e1ndorl\u00f3k nem vesznek el munkahelyeket a magyarokt\u00f3l",
+    "model_response": "Final answer: @@A bev\u00e1ndorl\u00f3k nem vesznek el munkahelyeket a magyarokt\u00f3l@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q52b",
+    "question_text": "A bev\u00e1ndorl\u00f3k rontj\u00e1k a b\u0171n\u00f6z\u00e9si helyzetet?",
+    "variable": NaN,
+    "option_text": NaN,
+    "response_scale": "A bev\u00e1ndorl\u00f3k rontj\u00e1k a b\u0171n\u00f6z\u00e9si helyzetet, A bev\u00e1ndorl\u00f3k nem rontj\u00e1k a b\u0171n\u00f6z\u00e9si helyzetet",
+    "model_response": "Final answer: @@A bev\u00e1ndorl\u00f3k nem rontj\u00e1k a b\u0171n\u00f6z\u00e9si helyzetet@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q52c",
+    "question_text": "A bev\u00e1ndorl\u00f3k megterhelik egy orsz\u00e1g j\u00f3l\u00e9ti rendszer\u00e9t?",
+    "variable": NaN,
+    "option_text": NaN,
+    "response_scale": "A bev\u00e1ndorl\u00f3k megterhelik egy orsz\u00e1g j\u00f3l\u00e9ti rendszer\u00e9t, A bev\u00e1ndorl\u00f3k nem terhelik egy orsz\u00e1g j\u00f3l\u00e9ti rendszer\u00e9t",
+    "model_response": "Final answer: A bev\u00e1ndorl\u00f3k nem terhelik egy orsz\u00e1g j\u00f3l\u00e9ti rendszer\u00e9t.",
+    "status": "success"
+  },
+  {
+    "question_id": "Q52d",
+    "question_text": "Jobb, ha a bev\u00e1ndorl\u00f3k meg\u0151rzik saj\u00e1tos szok\u00e1saikat \u00e9s hagyom\u00e1nyaikat, vagy nem \u0151rzik meg saj\u00e1tos szok\u00e1saikat \u00e9s hagyom\u00e1nyaikat?",
+    "variable": NaN,
+    "option_text": NaN,
+    "response_scale": "Jobb, ha a bev\u00e1ndorl\u00f3k meg\u0151rzik saj\u00e1tos szok\u00e1saikat \u00e9s hagyom\u00e1nyaikat, Jobb, ha a bev\u00e1ndorl\u00f3k nem \u0151rzik meg saj\u00e1tos szok\u00e1saikat \u00e9s hagyom\u00e1nyaikat",
+    "model_response": "Final answer: Jobb, ha a bev\u00e1ndorl\u00f3k meg\u0151rzik saj\u00e1tos szok\u00e1saikat \u00e9s hagyom\u00e1nyaikat.",
+    "status": "success"
+  },
+  {
+    "question_id": "Q53",
+    "question_text": "Most felsorolok n\u00e9h\u00e1ny tulajdons\u00e1got, amelyekre a sz\u00fcl\u0151k a gyermekeiket otthon nevelhetik. Ezek k\u00f6z\u00fcl melyeket tartja k\u00fcl\u00f6n\u00f6sen fontosnak?",
+    "variable": "v189",
+    "option_text": "A J\u00f3 modor",
+    "response_scale": "nagyon fontos, el\u00e9g fontos, nem fontos, egy\u00e1ltal\u00e1n nem fontos",
+    "model_response": "Final answer: nagyon fontos",
+    "status": "success"
+  },
+  {
+    "question_id": "Q53",
+    "question_text": "Most felsorolok n\u00e9h\u00e1ny tulajdons\u00e1got, amelyekre a sz\u00fcl\u0151k a gyermekeiket otthon nevelhetik. Ezek k\u00f6z\u00fcl melyeket tartja k\u00fcl\u00f6n\u00f6sen fontosnak?",
+    "variable": "v190",
+    "option_text": "B \u00d6n\u00e1ll\u00f3s\u00e1g",
+    "response_scale": "nagyon fontos, el\u00e9g fontos, nem fontos, egy\u00e1ltal\u00e1n nem fontos",
+    "model_response": "Final answer: nagyon fontos",
+    "status": "success"
+  },
+  {
+    "question_id": "Q53",
+    "question_text": "Most felsorolok n\u00e9h\u00e1ny tulajdons\u00e1got, amelyekre a sz\u00fcl\u0151k a gyermekeiket otthon nevelhetik. Ezek k\u00f6z\u00fcl melyeket tartja k\u00fcl\u00f6n\u00f6sen fontosnak?",
+    "variable": "v191",
+    "option_text": "C Szorgalom",
+    "response_scale": "nagyon fontos, el\u00e9g fontos, nem fontos, egy\u00e1ltal\u00e1n nem fontos",
+    "model_response": "Final answer: nagyon fontos, el\u00e9g fontos",
+    "status": "success"
+  },
+  {
+    "question_id": "Q53",
+    "question_text": "Most felsorolok n\u00e9h\u00e1ny tulajdons\u00e1got, amelyekre a sz\u00fcl\u0151k a gyermekeiket otthon nevelhetik. Ezek k\u00f6z\u00fcl melyeket tartja k\u00fcl\u00f6n\u00f6sen fontosnak?",
+    "variable": "v192",
+    "option_text": "D Felel\u0151ss\u00e9g\u00e9rzet",
+    "response_scale": "nagyon fontos, el\u00e9g fontos, nem fontos, egy\u00e1ltal\u00e1n nem fontos",
+    "model_response": "Final answer: nagyon fontos",
+    "status": "success"
+  },
+  {
+    "question_id": "Q53",
+    "question_text": "Most felsorolok n\u00e9h\u00e1ny tulajdons\u00e1got, amelyekre a sz\u00fcl\u0151k a gyermekeiket otthon nevelhetik. Ezek k\u00f6z\u00fcl melyeket tartja k\u00fcl\u00f6n\u00f6sen fontosnak?",
+    "variable": "v193",
+    "option_text": "E K\u00e9pzel\u0151er\u0151, fant\u00e1zia",
+    "response_scale": "nagyon fontos, el\u00e9g fontos, nem fontos, egy\u00e1ltal\u00e1n nem fontos",
+    "model_response": "Final answer: nagyon fontos, el\u00e9g fontos",
+    "status": "success"
+  },
+  {
+    "question_id": "Q53",
+    "question_text": "Most felsorolok n\u00e9h\u00e1ny tulajdons\u00e1got, amelyekre a sz\u00fcl\u0151k a gyermekeiket otthon nevelhetik. Ezek k\u00f6z\u00fcl melyeket tartja k\u00fcl\u00f6n\u00f6sen fontosnak?",
+    "variable": "v194",
+    "option_text": "F M\u00e1sok tisztelete, tolerancia m\u00e1sok ir\u00e1nt",
+    "response_scale": "nagyon fontos, el\u00e9g fontos, nem fontos, egy\u00e1ltal\u00e1n nem fontos",
+    "model_response": "Final answer: nagyon fontos",
+    "status": "success"
+  },
+  {
+    "question_id": "Q53",
+    "question_text": "Most felsorolok n\u00e9h\u00e1ny tulajdons\u00e1got, amelyekre a sz\u00fcl\u0151k a gyermekeiket otthon nevelhetik. Ezek k\u00f6z\u00fcl melyeket tartja k\u00fcl\u00f6n\u00f6sen fontosnak?",
+    "variable": "v195",
+    "option_text": "G Takar\u00e9koss\u00e1g",
+    "response_scale": "nagyon fontos, el\u00e9g fontos, nem fontos, egy\u00e1ltal\u00e1n nem fontos",
+    "model_response": "Final answer: nagyon fontos, el\u00e9g fontos, nem fontos, egy\u00e1ltal\u00e1n nem fontos",
+    "status": "success"
+  },
+  {
+    "question_id": "Q53",
+    "question_text": "Most felsorolok n\u00e9h\u00e1ny tulajdons\u00e1got, amelyekre a sz\u00fcl\u0151k a gyermekeiket otthon nevelhetik. Ezek k\u00f6z\u00fcl melyeket tartja k\u00fcl\u00f6n\u00f6sen fontosnak?",
+    "variable": "v196",
+    "option_text": "H Elsz\u00e1nts\u00e1g, \u00e1llhatatoss\u00e1g.",
+    "response_scale": "nagyon fontos, el\u00e9g fontos, nem fontos, egy\u00e1ltal\u00e1n nem fontos",
+    "model_response": "Final answer: nagyon fontos",
+    "status": "success"
+  },
+  {
+    "question_id": "Q53",
+    "question_text": "Most felsorolok n\u00e9h\u00e1ny tulajdons\u00e1got, amelyekre a sz\u00fcl\u0151k a gyermekeiket otthon nevelhetik. Ezek k\u00f6z\u00fcl melyeket tartja k\u00fcl\u00f6n\u00f6sen fontosnak?",
+    "variable": "v197",
+    "option_text": "I Vall\u00e1sos hit",
+    "response_scale": "nagyon fontos, el\u00e9g fontos, nem fontos, egy\u00e1ltal\u00e1n nem fontos",
+    "model_response": "Final answer: nagyon fontos",
+    "status": "success"
+  },
+  {
+    "question_id": "Q53",
+    "question_text": "Most felsorolok n\u00e9h\u00e1ny tulajdons\u00e1got, amelyekre a sz\u00fcl\u0151k a gyermekeiket otthon nevelhetik. Ezek k\u00f6z\u00fcl melyeket tartja k\u00fcl\u00f6n\u00f6sen fontosnak?",
+    "variable": "v198",
+    "option_text": "J \u00d6nzetlens\u00e9g",
+    "response_scale": "nagyon fontos, el\u00e9g fontos, nem fontos, egy\u00e1ltal\u00e1n nem fontos",
+    "model_response": "Final answer: nagyon fontos, el\u00e9g fontos",
+    "status": "success"
+  },
+  {
+    "question_id": "Q53",
+    "question_text": "Most felsorolok n\u00e9h\u00e1ny tulajdons\u00e1got, amelyekre a sz\u00fcl\u0151k a gyermekeiket otthon nevelhetik. Ezek k\u00f6z\u00fcl melyeket tartja k\u00fcl\u00f6n\u00f6sen fontosnak?",
+    "variable": "v199",
+    "option_text": "K Engedelmess\u00e9g",
+    "response_scale": "nagyon fontos, el\u00e9g fontos, nem fontos, egy\u00e1ltal\u00e1n nem fontos",
+    "model_response": "Final answer: nagyon fontos",
+    "status": "success"
+  },
+  {
+    "question_id": "Q54",
+    "question_text": "K\u00e9rem jelezze, hogy mennyire \u00e9rt egyet vagy mennyire nem \u00e9rt egyet a k\u00f6vetkez\u0151 \u00e1ll\u00edt\u00e1sokkal.",
+    "variable": "v200",
+    "option_text": "Eur\u00f3p\u00e1ban sz\u00fclessen",
+    "response_scale": "nagyon fontos, el\u00e9g fontos, nem fontos, egy\u00e1ltal\u00e1n nem fontos",
+    "model_response": "Final answer: nem fontos, egy\u00e1ltal\u00e1n nem fontos",
+    "status": "success"
+  },
+  {
+    "question_id": "Q54",
+    "question_text": "K\u00e9rem jelezze, hogy mennyire \u00e9rt egyet vagy mennyire nem \u00e9rt egyet a k\u00f6vetkez\u0151 \u00e1ll\u00edt\u00e1sokkal.",
+    "variable": "v201",
+    "option_text": "Legyenek eur\u00f3pai felmen\u0151i",
+    "response_scale": "nagyon fontos, el\u00e9g fontos, nem fontos, egy\u00e1ltal\u00e1n nem fontos",
+    "model_response": "Final answer: el\u00e9g fontos",
+    "status": "success"
+  },
+  {
+    "question_id": "Q54",
+    "question_text": "K\u00e9rem jelezze, hogy mennyire \u00e9rt egyet vagy mennyire nem \u00e9rt egyet a k\u00f6vetkez\u0151 \u00e1ll\u00edt\u00e1sokkal.",
+    "variable": "v202",
+    "option_text": "Kereszt\u00e9ny legyen",
+    "response_scale": "nagyon fontos, el\u00e9g fontos, nem fontos, egy\u00e1ltal\u00e1n nem fontos",
+    "model_response": "Final answer: @@El\u00e9g fontos@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q54",
+    "question_text": "K\u00e9rem jelezze, hogy mennyire \u00e9rt egyet vagy mennyire nem \u00e9rt egyet a k\u00f6vetkez\u0151 \u00e1ll\u00edt\u00e1sokkal.",
+    "variable": "v203",
+    "option_text": "Elsaj\u00e1t\u00edtsa az eur\u00f3pai kult\u00far\u00e1t",
+    "response_scale": "nagyon fontos, el\u00e9g fontos, nem fontos, egy\u00e1ltal\u00e1n nem fontos",
+    "model_response": "Final answer: nagyon fontos",
+    "status": "success"
+  },
+  {
+    "question_id": "Q55",
+    "question_text": "N\u00e9h\u00e1nyan azt mondj\u00e1k, hogy az Eur\u00f3pai Uni\u00f3 kib\u0151v\u00edt\u00e9s\u00e9nek tov\u00e1bb kell folytat\u00f3dnia. M\u00e1sok szerint az Uni\u00f3 kib\u0151v\u00edt\u00e9se m\u00e1r \u00edgy is t\u00fal messzire ment. A k\u00e1rtya seg\u00edts\u00e9g\u00e9vel mondja meg, hogy melyik sz\u00e1m fejezi ki a legjobban az \u00d6n v\u00e9lem\u00e9ny\u00e9t.",
+    "variable": NaN,
+    "option_text": NaN,
+    "response_scale": "tov\u00e1bb kellene folytat\u00f3dnia, m\u00e1r \u00edgy is t\u00fal messze ment",
+    "model_response": "Final answer: tov\u00e1bb kellene folytat\u00f3dnia",
+    "status": "success"
+  },
+  {
+    "question_id": "Q56",
+    "question_text": "Most felsorolok n\u00e9h\u00e1ny kijelent\u00e9st a k\u00f6rnyezettel kapcsolatosan. K\u00e9rem, mondja meg egyenk\u00e9nt mindegyikr\u0151l, hogy teljesen egyet\u00e9rt-e, egyet\u00e9rt, nem \u00e9rt egyet vagy egy\u00e1ltal\u00e1n nem \u00e9rt egyet vele!",
+    "variable": "v205",
+    "option_text": "Odaadn\u00e1m a j\u00f6vedelmem egy r\u00e9sz\u00e9t, ha biztos lenne benne, hogy a p\u00e9nzt a k\u00f6rnyezetszennyez\u00e9s megel\u0151z\u00e9s\u00e9re ford\u00edtj\u00e1k",
+    "response_scale": "Teljesen egyet\u00e9rt, Egyet\u00e9rt, Nem \u00e9rt egyet, Egy\u00e1ltal\u00e1n nem \u00e9rt egyet",
+    "model_response": "Final answer: Egyet\u00e9rt",
+    "status": "success"
+  },
+  {
+    "question_id": "Q56",
+    "question_text": "Most felsorolok n\u00e9h\u00e1ny kijelent\u00e9st a k\u00f6rnyezettel kapcsolatosan. K\u00e9rem, mondja meg egyenk\u00e9nt mindegyikr\u0151l, hogy teljesen egyet\u00e9rt-e, egyet\u00e9rt, nem \u00e9rt egyet vagy egy\u00e1ltal\u00e1n nem \u00e9rt egyet vele!",
+    "variable": "v206",
+    "option_text": "Az emberi tal\u00e1l\u00e9konys\u00e1g biztos\u00edtani fogja, hogy a F\u00f6ld \u00e9lhet\u0151 maradjon",
+    "response_scale": "Teljesen egyet\u00e9rt, Egyet\u00e9rt, Nem \u00e9rt egyet, Egy\u00e1ltal\u00e1n nem \u00e9rt egyet",
+    "model_response": "Final answer: Egyet\u00e9rt",
+    "status": "success"
+  },
+  {
+    "question_id": "Q56",
+    "question_text": "Most felsorolok n\u00e9h\u00e1ny kijelent\u00e9st a k\u00f6rnyezettel kapcsolatosan. K\u00e9rem, mondja meg egyenk\u00e9nt mindegyikr\u0151l, hogy teljesen egyet\u00e9rt-e, egyet\u00e9rt, nem \u00e9rt egyet vagy egy\u00e1ltal\u00e1n nem \u00e9rt egyet vele!",
+    "variable": "v207",
+    "option_text": "Sz\u00e1mos, a k\u00f6rnyezetet fenyeget\u0151 vesz\u00e9lyr\u0151l sz\u00f3l\u00f3 \u00e1ll\u00edt\u00e1s t\u00falz\u00e1s",
+    "response_scale": "Teljesen egyet\u00e9rt, Egyet\u00e9rt, Nem \u00e9rt egyet, Egy\u00e1ltal\u00e1n nem \u00e9rt egyet",
+    "model_response": "K\u00e9rlek, mutasd meg az \u00e1ll\u00edt\u00e1sokat!",
+    "status": "success"
+  },
+  {
+    "question_id": "Q57",
+    "question_text": "Most felsorolok n\u00e9h\u00e1ny kijelent\u00e9st a k\u00f6rnyezettel kapcsolatosan. K\u00e9rem, mondja meg egyenk\u00e9nt mindegyikr\u0151l, hogy teljesen egyet\u00e9rt-e, egyet\u00e9rt, nem \u00e9rt egyet vagy egy\u00e1ltal\u00e1n nem \u00e9rt egyet vele!",
+    "variable": NaN,
+    "option_text": NaN,
+    "response_scale": "A k\u00f6rnyezetv\u00e9delmet akkor is el\u0151nyben kell r\u00e9szes\u00edteni, ha ez lelass\u00edtja a gazdas\u00e1gi n\u00f6veked\u00e9st \u00e9s n\u00e9h\u00e1ny munkahely megsz\u0171n\u00e9s\u00e9t okozza, A gazdas\u00e1gi n\u00f6veked\u00e9snek \u00e9s a munkahelyteremt\u00e9snek kell a legfontosabbnak lennie, m\u00e9g akkor is, ha ez egy bizonyos m\u00e9rt\u00e9kben negat\u00edv hat\u00e1ssal van a k\u00f6rnyezetre",
+    "model_response": "Final answer: @@Egyet\u00e9rtek@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q58",
+    "question_text": "Itt van k\u00e9t olyan v\u00e1ltoz\u00e1s, amelyek tal\u00e1n a k\u00f6zelj\u00f6v\u0151ben bek\u00f6vetkezhetnek \u00e9letvitel\u00fcnkben. K\u00e9rem, mondja meg mindegyikr\u0151l, hogy ha bek\u00f6vetkezne, akkor az j\u00f3, vagy rossz, vagy mindegy lenne az \u00d6n sz\u00e1m\u00e1ra?",
+    "variable": "v209",
+    "option_text": "A munka \u00e9let\u00fcnkben bet\u00f6lt\u00f6tt fontoss\u00e1g\u00e1nak cs\u00f6kken\u00e9se",
+    "response_scale": "j\u00f3, rossz, mindegy",
+    "model_response": "Final answer: J\u00f3",
+    "status": "success"
+  },
+  {
+    "question_id": "Q58",
+    "question_text": "Itt van k\u00e9t olyan v\u00e1ltoz\u00e1s, amelyek tal\u00e1n a k\u00f6zelj\u00f6v\u0151ben bek\u00f6vetkezhetnek \u00e9letvitel\u00fcnkben. K\u00e9rem, mondja meg mindegyikr\u0151l, hogy ha bek\u00f6vetkezne, akkor az j\u00f3, vagy rossz, vagy mindegy lenne az \u00d6n sz\u00e1m\u00e1ra?",
+    "variable": "v210",
+    "option_text": "A tekint\u00e9lytisztelet er\u0151s\u00f6d\u00e9se",
+    "response_scale": "j\u00f3, rossz, mindegy",
+    "model_response": "Final answer: j\u00f3",
+    "status": "success"
+  },
+  {
+    "question_id": "Q59",
+    "question_text": "Mennyire b\u00edzik meg a k\u00f6vetkez\u0151 csoportokhoz tartoz\u00f3 emberekben?",
+    "variable": "v211",
+    "option_text": "Az egyh\u00e1z",
+    "response_scale": "nagyon, meglehet\u0151sen, nem nagyon, egy\u00e1ltal\u00e1n nem",
+    "model_response": "Final answer: meglehet\u0151sen",
+    "status": "success"
+  },
+  {
+    "question_id": "Q59",
+    "question_text": "Mennyire b\u00edzik meg a k\u00f6vetkez\u0151 csoportokhoz tartoz\u00f3 emberekben?",
+    "variable": "v212",
+    "option_text": "A fegyveres er\u0151k",
+    "response_scale": "nagyon, meglehet\u0151sen, nem nagyon, egy\u00e1ltal\u00e1n nem",
+    "model_response": "Final answer: meglehet\u0151sen",
+    "status": "success"
+  },
+  {
+    "question_id": "Q59",
+    "question_text": "Mennyire b\u00edzik meg a k\u00f6vetkez\u0151 csoportokhoz tartoz\u00f3 emberekben?",
+    "variable": "v213",
+    "option_text": "Az oktat\u00e1si rendszer",
+    "response_scale": "nagyon, meglehet\u0151sen, nem nagyon, egy\u00e1ltal\u00e1n nem",
+    "model_response": "Final answer: @@nem nagyon@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q59",
+    "question_text": "Mennyire b\u00edzik meg a k\u00f6vetkez\u0151 csoportokhoz tartoz\u00f3 emberekben?",
+    "variable": "v214",
+    "option_text": "A sajt\u00f3",
+    "response_scale": "nagyon, meglehet\u0151sen, nem nagyon, egy\u00e1ltal\u00e1n nem",
+    "model_response": "Final answer: nagyon",
+    "status": "success"
+  },
+  {
+    "question_id": "Q59",
+    "question_text": "Mennyire b\u00edzik meg a k\u00f6vetkez\u0151 csoportokhoz tartoz\u00f3 emberekben?",
+    "variable": "v215",
+    "option_text": "A szakszervezetek",
+    "response_scale": "nagyon, meglehet\u0151sen, nem nagyon, egy\u00e1ltal\u00e1n nem",
+    "model_response": "Final answer: @@nem nagyon@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q59",
+    "question_text": "Mennyire b\u00edzik meg a k\u00f6vetkez\u0151 csoportokhoz tartoz\u00f3 emberekben?",
+    "variable": "v216",
+    "option_text": "A rend\u0151rs\u00e9g",
+    "response_scale": "nagyon, meglehet\u0151sen, nem nagyon, egy\u00e1ltal\u00e1n nem",
+    "model_response": "Final answer: meglehet\u0151sen",
+    "status": "success"
+  },
+  {
+    "question_id": "Q59",
+    "question_text": "Mennyire b\u00edzik meg a k\u00f6vetkez\u0151 csoportokhoz tartoz\u00f3 emberekben?",
+    "variable": "v217",
+    "option_text": "Az orsz\u00e1ggy\u0171l\u00e9s",
+    "response_scale": "nagyon, meglehet\u0151sen, nem nagyon, egy\u00e1ltal\u00e1n nem",
+    "model_response": "Final answer: nagyon",
+    "status": "success"
+  },
+  {
+    "question_id": "Q59",
+    "question_text": "Mennyire b\u00edzik meg a k\u00f6vetkez\u0151 csoportokhoz tartoz\u00f3 emberekben?",
+    "variable": "v218",
+    "option_text": "A k\u00f6zigazgat\u00e1s",
+    "response_scale": "nagyon, meglehet\u0151sen, nem nagyon, egy\u00e1ltal\u00e1n nem",
+    "model_response": "Final answer: nagyon",
+    "status": "success"
+  },
+  {
+    "question_id": "Q59",
+    "question_text": "Mennyire b\u00edzik meg a k\u00f6vetkez\u0151 csoportokhoz tartoz\u00f3 emberekben?",
+    "variable": "v219",
+    "option_text": "A t\u00e1rsadalombiztos\u00edt\u00e1si rendszer",
+    "response_scale": "nagyon, meglehet\u0151sen, nem nagyon, egy\u00e1ltal\u00e1n nem",
+    "model_response": "Final answer: meglehet\u0151sen",
+    "status": "success"
+  },
+  {
+    "question_id": "Q59",
+    "question_text": "Mennyire b\u00edzik meg a k\u00f6vetkez\u0151 csoportokhoz tartoz\u00f3 emberekben?",
+    "variable": "v220",
+    "option_text": "Az Eur\u00f3pai Uni\u00f3",
+    "response_scale": "nagyon, meglehet\u0151sen, nem nagyon, egy\u00e1ltal\u00e1n nem",
+    "model_response": "Final answer: nagyon",
+    "status": "success"
+  },
+  {
+    "question_id": "Q59",
+    "question_text": "Mennyire b\u00edzik meg a k\u00f6vetkez\u0151 csoportokhoz tartoz\u00f3 emberekben?",
+    "variable": "v221",
+    "option_text": "Az ENSZ",
+    "response_scale": "nagyon, meglehet\u0151sen, nem nagyon, egy\u00e1ltal\u00e1n nem",
+    "model_response": "Final answer: meglehet\u0151sen",
+    "status": "success"
+  },
+  {
+    "question_id": "Q59",
+    "question_text": "Mennyire b\u00edzik meg a k\u00f6vetkez\u0151 csoportokhoz tartoz\u00f3 emberekben?",
+    "variable": "v222",
+    "option_text": "Az eg\u00e9szs\u00e9g\u00fcgyi rendszer",
+    "response_scale": "nagyon, meglehet\u0151sen, nem nagyon, egy\u00e1ltal\u00e1n nem",
+    "model_response": "Final answer: nagyon",
+    "status": "success"
+  },
+  {
+    "question_id": "Q59",
+    "question_text": "Mennyire b\u00edzik meg a k\u00f6vetkez\u0151 csoportokhoz tartoz\u00f3 emberekben?",
+    "variable": "v223",
+    "option_text": "Az igazs\u00e1gszolg\u00e1ltat\u00e1si rendszer",
+    "response_scale": "nagyon, meglehet\u0151sen, nem nagyon, egy\u00e1ltal\u00e1n nem",
+    "model_response": "Final answer: nagyon",
+    "status": "success"
+  },
+  {
+    "question_id": "Q59",
+    "question_text": "Mennyire b\u00edzik meg a k\u00f6vetkez\u0151 csoportokhoz tartoz\u00f3 emberekben?",
+    "variable": "v224",
+    "option_text": "Nagyv\u00e1llalatok",
+    "response_scale": "nagyon, meglehet\u0151sen, nem nagyon, egy\u00e1ltal\u00e1n nem",
+    "model_response": "Final answer: @@meglehet\u0151sen@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q59",
+    "question_text": "Mennyire b\u00edzik meg a k\u00f6vetkez\u0151 csoportokhoz tartoz\u00f3 emberekben?",
+    "variable": "v225",
+    "option_text": "K\u00f6rnyezetv\u00e9delmi szervezetek",
+    "response_scale": "nagyon, meglehet\u0151sen, nem nagyon, egy\u00e1ltal\u00e1n nem",
+    "model_response": "Final answer: nagyon",
+    "status": "success"
+  },
+  {
+    "question_id": "Q59",
+    "question_text": "Mennyire b\u00edzik meg a k\u00f6vetkez\u0151 csoportokhoz tartoz\u00f3 emberekben?",
+    "variable": "v226",
+    "option_text": "Politikai p\u00e1rtok",
+    "response_scale": "nagyon, meglehet\u0151sen, nem nagyon, egy\u00e1ltal\u00e1n nem",
+    "model_response": "Final answer: nagyon",
+    "status": "success"
+  },
+  {
+    "question_id": "Q59",
+    "question_text": "Mennyire b\u00edzik meg a k\u00f6vetkez\u0151 csoportokhoz tartoz\u00f3 emberekben?",
+    "variable": "v227",
+    "option_text": "A korm\u00e1ny",
+    "response_scale": "nagyon, meglehet\u0151sen, nem nagyon, egy\u00e1ltal\u00e1n nem",
+    "model_response": "Final answer: nagyon",
+    "status": "success"
+  },
+  {
+    "question_id": "Q59",
+    "question_text": "Mennyire b\u00edzik meg a k\u00f6vetkez\u0151 csoportokhoz tartoz\u00f3 emberekben?",
+    "variable": "v228",
+    "option_text": "K\u00f6z\u00f6ss\u00e9gi m\u00e9dia",
+    "response_scale": "nagyon, meglehet\u0151sen, nem nagyon, egy\u00e1ltal\u00e1n nem",
+    "model_response": "Final answer: @@nem nagyon@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q60",
+    "question_text": "Mennyire foglalkoztatj\u00e1k \u00d6nt a k\u00f6vetkez\u0151 emberek \u00e9s csoportok \u00e9letk\u00f6r\u00fclm\u00e9nyei?",
+    "variable": "v229",
+    "option_text": "A szomsz\u00e9ds\u00e1g\u00e1ban \u00e9l\u0151 emberek",
+    "response_scale": "igen nagyon, nagyon, bizonyos fokig, nem olyan nagyon, egy\u00e1ltal\u00e1n nem",
+    "model_response": "Final answer: nagyon",
+    "status": "success"
+  },
+  {
+    "question_id": "Q60",
+    "question_text": "Mennyire foglalkoztatj\u00e1k \u00d6nt a k\u00f6vetkez\u0151 emberek \u00e9s csoportok \u00e9letk\u00f6r\u00fclm\u00e9nyei?",
+    "variable": "v230",
+    "option_text": "Az \u00d6n r\u00e9gi\u00f3j\u00e1ban \u00e9l\u0151k",
+    "response_scale": "igen nagyon, nagyon, bizonyos fokig, nem olyan nagyon, egy\u00e1ltal\u00e1n nem",
+    "model_response": "Final answer: igen nagyon",
+    "status": "success"
+  },
+  {
+    "question_id": "Q60",
+    "question_text": "Mennyire foglalkoztatj\u00e1k \u00d6nt a k\u00f6vetkez\u0151 emberek \u00e9s csoportok \u00e9letk\u00f6r\u00fclm\u00e9nyei?",
+    "variable": "v231",
+    "option_text": "Az \u00d6nnel egy orsz\u00e1gban \u00e9l\u0151k",
+    "response_scale": "igen nagyon, nagyon, bizonyos fokig, nem olyan nagyon, egy\u00e1ltal\u00e1n nem",
+    "model_response": "Final answer: igen nagyon",
+    "status": "success"
+  },
+  {
+    "question_id": "Q60",
+    "question_text": "Mennyire foglalkoztatj\u00e1k \u00d6nt a k\u00f6vetkez\u0151 emberek \u00e9s csoportok \u00e9letk\u00f6r\u00fclm\u00e9nyei?",
+    "variable": "v232",
+    "option_text": "Az eur\u00f3paiak",
+    "response_scale": "igen nagyon, nagyon, bizonyos fokig, nem olyan nagyon, egy\u00e1ltal\u00e1n nem",
+    "model_response": "Final answer: @@nem olyan nagyon@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q60",
+    "question_text": "Mennyire foglalkoztatj\u00e1k \u00d6nt a k\u00f6vetkez\u0151 emberek \u00e9s csoportok \u00e9letk\u00f6r\u00fclm\u00e9nyei?",
+    "variable": "v233",
+    "option_text": "A vil\u00e1gon \u00e9l\u0151 minden ember",
+    "response_scale": "igen nagyon, nagyon, bizonyos fokig, nem olyan nagyon, egy\u00e1ltal\u00e1n nem",
+    "model_response": "Final answer: nagyon",
+    "status": "success"
+  },
+  {
+    "question_id": "Q61",
+    "question_text": "Mennyire foglalkoztatj\u00e1k \u00d6nt a k\u00f6vetkez\u0151 emberek \u00e9s csoportok \u00e9letk\u00f6r\u00fclm\u00e9nyei?",
+    "variable": "v234",
+    "option_text": "id\u0151s emberek",
+    "response_scale": "igen nagyon, nagyon, bizonyos fokig, nem olyan nagyon, egy\u00e1ltal\u00e1n nem",
+    "model_response": "Final answer: igen nagyon",
+    "status": "success"
+  },
+  {
+    "question_id": "Q61",
+    "question_text": "Mennyire foglalkoztatj\u00e1k \u00d6nt a k\u00f6vetkez\u0151 emberek \u00e9s csoportok \u00e9letk\u00f6r\u00fclm\u00e9nyei?",
+    "variable": "v235",
+    "option_text": "munkan\u00e9lk\u00fcliek",
+    "response_scale": "igen nagyon, nagyon, bizonyos fokig, nem olyan nagyon, egy\u00e1ltal\u00e1n nem",
+    "model_response": "Final answer: @@nem olyan nagyon@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q61",
+    "question_text": "Mennyire foglalkoztatj\u00e1k \u00d6nt a k\u00f6vetkez\u0151 emberek \u00e9s csoportok \u00e9letk\u00f6r\u00fclm\u00e9nyei?",
+    "variable": "v236",
+    "option_text": "bev\u00e1ndorl\u00f3k",
+    "response_scale": "igen nagyon, nagyon, bizonyos fokig, nem olyan nagyon, egy\u00e1ltal\u00e1n nem",
+    "model_response": "Final answer: @@nem olyan nagyon@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q61",
+    "question_text": "Mennyire foglalkoztatj\u00e1k \u00d6nt a k\u00f6vetkez\u0151 emberek \u00e9s csoportok \u00e9letk\u00f6r\u00fclm\u00e9nyei?",
+    "variable": "v237",
+    "option_text": "betegek \u00e9s fogyat\u00e9kosok",
+    "response_scale": "igen nagyon, nagyon, bizonyos fokig, nem olyan nagyon, egy\u00e1ltal\u00e1n nem",
+    "model_response": "Final answer: nagyon",
+    "status": "success"
+  },
+  {
+    "question_id": "Q62",
+    "question_text": "Sz\u00e1mos dolog k\u00edv\u00e1natos, azonban k\u00f6z\u00fcl nem mindegyik n\u00e9lk\u00fcl\u00f6zhetetlen a demokr\u00e1cia m\u0171k\u00f6d\u00e9se szempontj\u00e1b\u00f3l. K\u00e9rem a k\u00f6vetkez\u0151 dolgokr\u00f3l mondja meg, hogy mennyire tartja azokat a demokr\u00e1cia n\u00e9lk\u00fcl\u00f6zhetetlen jellemz\u0151j\u00e9nek. K\u00e9rem, haszn\u00e1lja ezt a sk\u00e1l\u00e1t, ahol az 1-es azt jelenti, hogy az adott t\u00e9nyez\u0151 egy\u00e1ltal\u00e1n nem fontos jellemz\u0151je a demokr\u00e1ci\u00e1nak, \u00e9s 10-es pedig azt jelenti, hogy n\u00e9lk\u00fcl\u00f6zhetetlen jellemz\u0151je a demokr\u00e1ci\u00e1nak.",
+    "variable": "v238",
+    "option_text": "A korm\u00e1nyzat megad\u00f3ztatja a gazdagokat, \u00e9s t\u00e1mogatja a szeg\u00e9nyeket",
+    "response_scale": "Egy\u00e1ltal\u00e1n nem fontos, Nagyon fontos",
+    "model_response": "Final answer: @@10@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q62",
+    "question_text": "Sz\u00e1mos dolog k\u00edv\u00e1natos, azonban k\u00f6z\u00fcl nem mindegyik n\u00e9lk\u00fcl\u00f6zhetetlen a demokr\u00e1cia m\u0171k\u00f6d\u00e9se szempontj\u00e1b\u00f3l. K\u00e9rem a k\u00f6vetkez\u0151 dolgokr\u00f3l mondja meg, hogy mennyire tartja azokat a demokr\u00e1cia n\u00e9lk\u00fcl\u00f6zhetetlen jellemz\u0151j\u00e9nek. K\u00e9rem, haszn\u00e1lja ezt a sk\u00e1l\u00e1t, ahol az 1-es azt jelenti, hogy az adott t\u00e9nyez\u0151 egy\u00e1ltal\u00e1n nem fontos jellemz\u0151je a demokr\u00e1ci\u00e1nak, \u00e9s 10-es pedig azt jelenti, hogy n\u00e9lk\u00fcl\u00f6zhetetlen jellemz\u0151je a demokr\u00e1ci\u00e1nak.",
+    "variable": "v239",
+    "option_text": "A vall\u00e1si k\u00e9pvisel\u0151knek d\u00f6nt\u0151 szavuk van a t\u00f6rv\u00e9nyek \u00e9rtelmez\u00e9s\u00e9n\u00e9l",
+    "response_scale": "Egy\u00e1ltal\u00e1n nem fontos, Nagyon fontos",
+    "model_response": "Final answer: @@10@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q62",
+    "question_text": "Sz\u00e1mos dolog k\u00edv\u00e1natos, azonban k\u00f6z\u00fcl nem mindegyik n\u00e9lk\u00fcl\u00f6zhetetlen a demokr\u00e1cia m\u0171k\u00f6d\u00e9se szempontj\u00e1b\u00f3l. K\u00e9rem a k\u00f6vetkez\u0151 dolgokr\u00f3l mondja meg, hogy mennyire tartja azokat a demokr\u00e1cia n\u00e9lk\u00fcl\u00f6zhetetlen jellemz\u0151j\u00e9nek. K\u00e9rem, haszn\u00e1lja ezt a sk\u00e1l\u00e1t, ahol az 1-es azt jelenti, hogy az adott t\u00e9nyez\u0151 egy\u00e1ltal\u00e1n nem fontos jellemz\u0151je a demokr\u00e1ci\u00e1nak, \u00e9s 10-es pedig azt jelenti, hogy n\u00e9lk\u00fcl\u00f6zhetetlen jellemz\u0151je a demokr\u00e1ci\u00e1nak.",
+    "variable": "v240",
+    "option_text": "Az emberek szabad v\u00e1laszt\u00e1sokon v\u00e1lasztj\u00e1k meg vezet\u0151iket",
+    "response_scale": "Egy\u00e1ltal\u00e1n nem fontos, Nagyon fontos",
+    "model_response": "Final answer: @@10@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q62",
+    "question_text": "Sz\u00e1mos dolog k\u00edv\u00e1natos, azonban k\u00f6z\u00fcl nem mindegyik n\u00e9lk\u00fcl\u00f6zhetetlen a demokr\u00e1cia m\u0171k\u00f6d\u00e9se szempontj\u00e1b\u00f3l. K\u00e9rem a k\u00f6vetkez\u0151 dolgokr\u00f3l mondja meg, hogy mennyire tartja azokat a demokr\u00e1cia n\u00e9lk\u00fcl\u00f6zhetetlen jellemz\u0151j\u00e9nek. K\u00e9rem, haszn\u00e1lja ezt a sk\u00e1l\u00e1t, ahol az 1-es azt jelenti, hogy az adott t\u00e9nyez\u0151 egy\u00e1ltal\u00e1n nem fontos jellemz\u0151je a demokr\u00e1ci\u00e1nak, \u00e9s 10-es pedig azt jelenti, hogy n\u00e9lk\u00fcl\u00f6zhetetlen jellemz\u0151je a demokr\u00e1ci\u00e1nak.",
+    "variable": "v241",
+    "option_text": "A munkan\u00e9lk\u00fcliek \u00e1llami seg\u00e9lyben r\u00e9szes\u00fclnek",
+    "response_scale": "Egy\u00e1ltal\u00e1n nem fontos, Nagyon fontos",
+    "model_response": "Final answer: @@1@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q62",
+    "question_text": "Sz\u00e1mos dolog k\u00edv\u00e1natos, azonban k\u00f6z\u00fcl nem mindegyik n\u00e9lk\u00fcl\u00f6zhetetlen a demokr\u00e1cia m\u0171k\u00f6d\u00e9se szempontj\u00e1b\u00f3l. K\u00e9rem a k\u00f6vetkez\u0151 dolgokr\u00f3l mondja meg, hogy mennyire tartja azokat a demokr\u00e1cia n\u00e9lk\u00fcl\u00f6zhetetlen jellemz\u0151j\u00e9nek. K\u00e9rem, haszn\u00e1lja ezt a sk\u00e1l\u00e1t, ahol az 1-es azt jelenti, hogy az adott t\u00e9nyez\u0151 egy\u00e1ltal\u00e1n nem fontos jellemz\u0151je a demokr\u00e1ci\u00e1nak, \u00e9s 10-es pedig azt jelenti, hogy n\u00e9lk\u00fcl\u00f6zhetetlen jellemz\u0151je a demokr\u00e1ci\u00e1nak.",
+    "variable": "v242",
+    "option_text": "Ha a korm\u00e1ny alkalmatlan ell\u00e1tni a feladat\u00e1t, a hadsereg veszi \u00e1t a hatalmat",
+    "response_scale": "Egy\u00e1ltal\u00e1n nem fontos, Nagyon fontos",
+    "model_response": "Final answer: 1",
+    "status": "success"
+  },
+  {
+    "question_id": "Q62",
+    "question_text": "Sz\u00e1mos dolog k\u00edv\u00e1natos, azonban k\u00f6z\u00fcl nem mindegyik n\u00e9lk\u00fcl\u00f6zhetetlen a demokr\u00e1cia m\u0171k\u00f6d\u00e9se szempontj\u00e1b\u00f3l. K\u00e9rem a k\u00f6vetkez\u0151 dolgokr\u00f3l mondja meg, hogy mennyire tartja azokat a demokr\u00e1cia n\u00e9lk\u00fcl\u00f6zhetetlen jellemz\u0151j\u00e9nek. K\u00e9rem, haszn\u00e1lja ezt a sk\u00e1l\u00e1t, ahol az 1-es azt jelenti, hogy az adott t\u00e9nyez\u0151 egy\u00e1ltal\u00e1n nem fontos jellemz\u0151je a demokr\u00e1ci\u00e1nak, \u00e9s 10-es pedig azt jelenti, hogy n\u00e9lk\u00fcl\u00f6zhetetlen jellemz\u0151je a demokr\u00e1ci\u00e1nak.",
+    "variable": "v243",
+    "option_text": "A polg\u00e1ri jogok v\u00e9delmezik az embereket az \u00e1llam elnyom\u00f3 hatalm\u00e1val szemben",
+    "response_scale": "Egy\u00e1ltal\u00e1n nem fontos, Nagyon fontos",
+    "model_response": "Final answer: @@7@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q62",
+    "question_text": "Sz\u00e1mos dolog k\u00edv\u00e1natos, azonban k\u00f6z\u00fcl nem mindegyik n\u00e9lk\u00fcl\u00f6zhetetlen a demokr\u00e1cia m\u0171k\u00f6d\u00e9se szempontj\u00e1b\u00f3l. K\u00e9rem a k\u00f6vetkez\u0151 dolgokr\u00f3l mondja meg, hogy mennyire tartja azokat a demokr\u00e1cia n\u00e9lk\u00fcl\u00f6zhetetlen jellemz\u0151j\u00e9nek. K\u00e9rem, haszn\u00e1lja ezt a sk\u00e1l\u00e1t, ahol az 1-es azt jelenti, hogy az adott t\u00e9nyez\u0151 egy\u00e1ltal\u00e1n nem fontos jellemz\u0151je a demokr\u00e1ci\u00e1nak, \u00e9s 10-es pedig azt jelenti, hogy n\u00e9lk\u00fcl\u00f6zhetetlen jellemz\u0151je a demokr\u00e1ci\u00e1nak.",
+    "variable": "v244",
+    "option_text": "Az \u00e1llam az emberek j\u00f6vedelm\u00e9t egyenl\u0151v\u00e9 teszi",
+    "response_scale": "Egy\u00e1ltal\u00e1n nem fontos, Nagyon fontos",
+    "model_response": "Final answer: @@1@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q62",
+    "question_text": "Sz\u00e1mos dolog k\u00edv\u00e1natos, azonban k\u00f6z\u00fcl nem mindegyik n\u00e9lk\u00fcl\u00f6zhetetlen a demokr\u00e1cia m\u0171k\u00f6d\u00e9se szempontj\u00e1b\u00f3l. K\u00e9rem a k\u00f6vetkez\u0151 dolgokr\u00f3l mondja meg, hogy mennyire tartja azokat a demokr\u00e1cia n\u00e9lk\u00fcl\u00f6zhetetlen jellemz\u0151j\u00e9nek. K\u00e9rem, haszn\u00e1lja ezt a sk\u00e1l\u00e1t, ahol az 1-es azt jelenti, hogy az adott t\u00e9nyez\u0151 egy\u00e1ltal\u00e1n nem fontos jellemz\u0151je a demokr\u00e1ci\u00e1nak, \u00e9s 10-es pedig azt jelenti, hogy n\u00e9lk\u00fcl\u00f6zhetetlen jellemz\u0151je a demokr\u00e1ci\u00e1nak.",
+    "variable": "v245",
+    "option_text": "Az emberek engedelmeskednek vezet\u0151iknek",
+    "response_scale": "Egy\u00e1ltal\u00e1n nem fontos, Nagyon fontos",
+    "model_response": "Final answer: @@1@@\n\nMegjegyz\u00e9s: Az, hogy az emberek engedelmeskednek vezet\u0151iknek, nem felt\u00e9tlen\u00fcl kritikus a demokr\u00e1cia m\u0171k\u00f6d\u00e9se szempontj\u00e1b\u00f3l. A demokr\u00e1ci\u00e1ban az embereknek van lehet\u0151s\u00e9g\u00fck kritiz\u00e1lni a vezet\u0151ket \u00e9s r\u00e9szt venni a d\u00f6nt\u00e9shozatali folyamatokban, \u00edgy ez a t\u00e9nyez\u0151 nem tekinthet\u0151 n\u00e9lk\u00fcl\u00f6zhetetlennek.",
+    "status": "success"
+  },
+  {
+    "question_id": "Q62",
+    "question_text": "Sz\u00e1mos dolog k\u00edv\u00e1natos, azonban k\u00f6z\u00fcl nem mindegyik n\u00e9lk\u00fcl\u00f6zhetetlen a demokr\u00e1cia m\u0171k\u00f6d\u00e9se szempontj\u00e1b\u00f3l. K\u00e9rem a k\u00f6vetkez\u0151 dolgokr\u00f3l mondja meg, hogy mennyire tartja azokat a demokr\u00e1cia n\u00e9lk\u00fcl\u00f6zhetetlen jellemz\u0151j\u00e9nek. K\u00e9rem, haszn\u00e1lja ezt a sk\u00e1l\u00e1t, ahol az 1-es azt jelenti, hogy az adott t\u00e9nyez\u0151 egy\u00e1ltal\u00e1n nem fontos jellemz\u0151je a demokr\u00e1ci\u00e1nak, \u00e9s 10-es pedig azt jelenti, hogy n\u00e9lk\u00fcl\u00f6zhetetlen jellemz\u0151je a demokr\u00e1ci\u00e1nak.",
+    "variable": "v246",
+    "option_text": "A n\u0151knek ugyanolyan jogaik vannak, mint a f\u00e9rfiaknak",
+    "response_scale": "Egy\u00e1ltal\u00e1n nem fontos, Nagyon fontos",
+    "model_response": "Final answer: @@8@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q63",
+    "question_text": "Neme",
+    "variable": NaN,
+    "option_text": NaN,
+    "response_scale": "1 - f\u00e9rfi, 2 - n\u0151, 8 - Nem tudja, 9 - Nincs v\u00e1lasz",
+    "model_response": "Final answer: 2",
+    "status": "success"
+  },
+  {
+    "question_id": "Q64",
+    "question_text": "Melyik \u00e9vben sz\u00fcletett \u00d6n?",
+    "variable": NaN,
+    "option_text": NaN,
+    "response_scale": "........, 8888 - Nem tudja, 9999 - Nincs v\u00e1lasz",
+    "model_response": "Final answer: 2026 - Nem tudja",
+    "status": "success"
+  },
+  {
+    "question_id": "Q65",
+    "question_text": "Magyarorsz\u00e1gon sz\u00fcletett?",
+    "variable": NaN,
+    "option_text": NaN,
+    "response_scale": "1 - igen, 2 - nem, 8 - Nem tudja, 9 - Nincs v\u00e1lasz",
+    "model_response": "Final answer: 2 - nem",
+    "status": "success"
+  },
+  {
+    "question_id": "Q66",
+    "question_text": "Melyik orsz\u00e1gban sz\u00fcletett \u00d6n?",
+    "variable": NaN,
+    "option_text": NaN,
+    "response_scale": "\u00cdrja be: ..................................................................",
+    "model_response": "Final answer: Magyarorsz\u00e1g",
+    "status": "success"
+  },
+  {
+    "question_id": "Q67",
+    "question_text": "Meg tudn\u00e1 mondani, melyik \u00e9vben j\u00f6tt el\u0151sz\u00f6r Magyarorsz\u00e1gra, hogy itt \u00e9ljen?",
+    "variable": NaN,
+    "option_text": NaN,
+    "response_scale": "\u00cdrja be az \u00e9vet: ..................................................................",
+    "model_response": "Final answer: @@1867@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q68",
+    "question_text": "Az \u00e9desapja Magyarorsz\u00e1gon sz\u00fcletett?",
+    "variable": NaN,
+    "option_text": NaN,
+    "response_scale": "1 - igen, 2 - nem, 8 - Nem tudja, 9 - Nincs v\u00e1lasz",
+    "model_response": "Final answer: 2 - nem",
+    "status": "success"
+  },
+  {
+    "question_id": "Q69",
+    "question_text": "Melyik orsz\u00e1gban sz\u00fcletett az \u00e9desapja?",
+    "variable": NaN,
+    "option_text": NaN,
+    "response_scale": "\u00cdrja be:...........................................................................",
+    "model_response": "Final answer: \u00cdrorsz\u00e1g",
+    "status": "success"
+  },
+  {
+    "question_id": "Q70",
+    "question_text": "Az \u00e9desanyja Magyarorsz\u00e1gon sz\u00fcletett?",
+    "variable": NaN,
+    "option_text": NaN,
+    "response_scale": "1 - igen, 2 - nem, 8 - Nem tudja, 9 - Nincs v\u00e1lasz",
+    "model_response": "Final answer: 2 - nem",
+    "status": "success"
+  },
+  {
+    "question_id": "Q71",
+    "question_text": "Melyik orsz\u00e1gban sz\u00fcletett az \u00e9desanyja?",
+    "variable": NaN,
+    "option_text": NaN,
+    "response_scale": "\u00cdrja be: ...........................................................................",
+    "model_response": "\u00cdrorsz\u00e1g",
+    "status": "success"
+  },
+  {
+    "question_id": "Q72",
+    "question_text": "Mi az \u00d6n jelenlegi hivatalos csal\u00e1di \u00e1llapota?",
+    "variable": NaN,
+    "option_text": NaN,
+    "response_scale": "1 - h\u00e1zas, 2 - regisztr\u00e1lt partnerkapcsolat, 3 - \u00f6zvegy, 4 - elv\u00e1lt, 5 - k\u00fcl\u00f6n\u00e9l\u0151, 6 - hajadon, n\u0151tlen, 8 - Nem tudja, 9 - Nincs v\u00e1lasz",
+    "model_response": "Final answer: 1 - h\u00e1zas",
+    "status": "success"
+  },
+  {
+    "question_id": "Q73",
+    "question_text": "Egy\u00fctt \u00e9lt \u00d6n a partner\u00e9vel, miel\u0151tt \u00f6sszeh\u00e1zasodtak vagy regisztr\u00e1ltatt\u00e1k a kapcsolatukat?",
+    "variable": NaN,
+    "option_text": NaN,
+    "response_scale": "1 - igen, 2 - nem, 8 - Nem tudja, 9 - Nincs v\u00e1lasz",
+    "model_response": "Final answer: 2 - nem",
+    "status": "success"
+  },
+  {
+    "question_id": "Q74",
+    "question_text": "Van-e t\u00e1rsa, akivel egy\u00fctt \u00e9l?",
+    "variable": NaN,
+    "option_text": NaN,
+    "response_scale": "1 - igen, 2 - nem, 8 - Nem tudja, 9 - Nincs v\u00e1lasz",
+    "model_response": "Final answer: 2 - nem",
+    "status": "success"
+  },
+  {
+    "question_id": "Q75",
+    "question_text": "Van-e \u00e1lland\u00f3 p\u00e1rkapcsolata?",
+    "variable": NaN,
+    "option_text": NaN,
+    "response_scale": "1 - igen, 2 - nem, 8 - Nem tudja, 9 - Nincs v\u00e1lasz",
+    "model_response": "Final answer: 2",
+    "status": "success"
+  },
+  {
+    "question_id": "Q76",
+    "question_text": "\u00d6n egy\u00fctt \u00e9l a sz\u00fcleivel vagy a p\u00e1rja sz\u00fcleivel?",
+    "variable": NaN,
+    "option_text": NaN,
+    "response_scale": "Nem, Igen, a saj\u00e1t sz\u00fcleimmel, Igen, a p\u00e1rom sz\u00fcleivel, Igen, a saj\u00e1t \u00e9s a p\u00e1rom sz\u00fcleivel is, 8 - Nem tudja, 9 - Nincs v\u00e1lasz",
+    "model_response": "Final answer: @@Nem, Igen, a saj\u00e1t sz\u00fcleimmel@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q77",
+    "question_text": "H\u00e1ny gyermeke van \u00d6nnek? K\u00e9rem, mondja meg, h\u00e1nyan \u00e9lnek k\u00f6z\u00fcl\u00fck \u00d6nnel egy h\u00e1ztart\u00e1sban, \u00e9s h\u00e1nyan \u00e9lnek m\u00e1shol:",
+    "variable": NaN,
+    "option_text": NaN,
+    "response_scale": "A h\u00e1ztart\u00e1sban \u00e9l\u0151 gyermekek sz\u00e1ma: ..................................................................",
+    "model_response": "Final answer: 2 gyermek, akik k\u00f6z\u00fcl 1 \u00e9l velem egy h\u00e1ztart\u00e1sban, a m\u00e1sik pedig m\u00e1shol.",
+    "status": "success"
+  },
+  {
+    "question_id": "Q77",
+    "question_text": "H\u00e1ny gyermeke van \u00d6nnek? K\u00e9rem, mondja meg, h\u00e1nyan \u00e9lnek k\u00f6z\u00fcl\u00fck \u00d6nnel egy h\u00e1ztart\u00e1sban, \u00e9s h\u00e1nyan \u00e9lnek m\u00e1shol:",
+    "variable": NaN,
+    "option_text": NaN,
+    "response_scale": "A h\u00e1ztart\u00e1son k\u00edv\u00fcl \u00e9l\u0151 gyermekek sz\u00e1ma: ..................................................................",
+    "model_response": "Final answer: 0",
+    "status": "success"
+  },
+  {
+    "question_id": "Q78",
+    "question_text": "\u00d6nmag\u00e1t \u00e9s a gyerekeket is belesz\u00e1molva h\u00e1ny ember \u00e9l itt, mint a h\u00e1ztart\u00e1s tagja",
+    "variable": NaN,
+    "option_text": NaN,
+    "response_scale": "\u00cdrja be: ..............................",
+    "model_response": "Final answer: 5",
+    "status": "success"
+  },
+  {
+    "question_id": "Q79",
+    "question_text": "\u00c9s h\u00e1ny \u00e9ves a h\u00e1ztart\u00e1sa legfiatalabb tagja?",
+    "variable": NaN,
+    "option_text": NaN,
+    "response_scale": "\u00cdrja be: ..................................................................",
+    "model_response": "Final answer: 15",
+    "status": "success"
+  },
+  {
+    "question_id": "Q80",
+    "question_text": "Mi az \u00d6n jelenlegi nappali iskolai tanulm\u00e1nyainak befejez\u00e9s\u00e9nek \u00e9ve?",
+    "variable": NaN,
+    "option_text": NaN,
+    "response_scale": "\u00cdrja be az \u00e9letkort: ..................................................................",
+    "model_response": "Final answer: @@2024@@",
+    "status": "success"
+  }
+]

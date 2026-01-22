@@ -1,0 +1,47 @@
+[
+  {
+    "question_id": "Q1",
+    "question_text": "Please say, for each of the following, how important it is in your life.",
+    "variable": "v1",
+    "option_text": "Work",
+    "response_scale": "1 (very important) - 2 (quite important) - 3 (not important) - 4 (not at all important) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
+    "model_response": null,
+    "status": "failed"
+  },
+  {
+    "question_id": "Q1",
+    "question_text": "Please say, for each of the following, how important it is in your life.",
+    "variable": "v2",
+    "option_text": "Family",
+    "response_scale": "1 (very important) - 2 (quite important) - 3 (not important) - 4 (not at all important) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
+    "model_response": null,
+    "status": "failed"
+  },
+  {
+    "question_id": "Q1",
+    "question_text": "Please say, for each of the following, how important it is in your life.",
+    "variable": "v3",
+    "option_text": "Friends and acquaintances",
+    "response_scale": "1 (very important) - 2 (quite important) - 3 (not important) - 4 (not at all important) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
+    "model_response": null,
+    "status": "failed"
+  },
+  {
+    "question_id": "Q1",
+    "question_text": "Please say, for each of the following, how important it is in your life.",
+    "variable": "v4",
+    "option_text": "Leisure time",
+    "response_scale": "1 (very important) - 2 (quite important) - 3 (not important) - 4 (not at all important) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
+    "model_response": null,
+    "status": "failed"
+  },
+  {
+    "question_id": "Q1",
+    "question_text": "Please say, for each of the following, how important it is in your life.",
+    "variable": "v5",
+    "option_text": "Politics",
+    "response_scale": "1 (very important) - 2 (quite important) - 3 (not important) - 4 (not at all important) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
+    "model_response": null,
+    "status": "failed"
+  }
+]

@@ -1,0 +1,6 @@
+question_id,question_text,variable,option_text,response_scale,model_response,status
+Q1,"Por favor, indica qué tan importante es cada uno de los siguientes aspectos en tu vida.",v1,Trabajo,"1 (muy importante) - 2 (bastante importante) - 3 (no muy importante) - 4 (nada importante) - 8 (No Sabe, NS) - 9 (Sin Respuesta, SR)",,failed
+Q1,"Por favor, indica qué tan importante es cada uno de los siguientes aspectos en tu vida.",v2,Familia,"1 (muy importante) - 2 (bastante importante) - 3 (no muy importante) - 4 (nada importante) - 8 (No Sabe, NS) - 9 (Sin Respuesta, SR)",,failed
+Q1,"Por favor, indica qué tan importante es cada uno de los siguientes aspectos en tu vida.",v3,Amigos y conocidos,"1 (muy importante) - 2 (bastante importante) - 3 (no muy importante) - 4 (nada importante) - 8 (No Sabe, NS) - 9 (Sin Respuesta, SR)",,failed
+Q1,"Por favor, indica qué tan importante es cada uno de los siguientes aspectos en tu vida.",v4,Tiempo libre/de ocio,"1 (muy importante) - 2 (bastante importante) - 3 (no muy importante) - 4 (nada importante) - 8 (No Sabe, NS) - 9 (Sin Respuesta, SR)",,failed
+Q1,"Por favor, indica qué tan importante es cada uno de los siguientes aspectos en tu vida.",v5,Política,"1 (muy importante) - 2 (bastante importante) - 3 (no muy importante) - 4 (nada importante) - 8 (No Sabe, NS) - 9 (Sin Respuesta, SR)",,failed

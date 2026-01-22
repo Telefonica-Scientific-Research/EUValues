@@ -1,0 +1,94 @@
+{#-
+Multilingual Survey Prompt Template for Salamandra Instruction Model
+Adapted from survey_prompts_final_answer.jinja2
+Format: <|im_start|>user\n{prompt}<|im_end|>\n<|im_start|>assistant\n
+-#}
+
+{%- set prompt_content -%}
+{%- if language == "en" or language == "gb" -%}
+You are answering a survey question. Read carefully and only provide 
+your a final answer from the response scale provided and in the format: 
+Final answer: @@<your answer>@@
+
+Question [{{ question_id }}]: {{ question_text }}
+Aspect: {{ variable }}
+Option: {{ option_text }}
+Response Scale: {{ response_scale }}
+
+{%- elif language == "es" -%}
+Está respondiendo una pregunta de una encuesta. Lea cuidadosamente y proporcione 
+únicamente su respuesta final de la escala de respuesta proporcionada, en el formato: 
+Final answer: @@<su respuesta>@@
+
+Pregunta [{{ question_id }}]: {{ question_text }}
+Aspecto: {{ variable }}
+Opción: {{ option_text }}
+Escala de Respuestas: {{ response_scale }}
+
+{%- elif language == "it" -%}
+Sta rispondendo a una domanda di un sondaggio. Legga attentamente e fornisca 
+esclusivamente la sua risposta finale dalla scala di risposta fornita, nel formato: 
+Final answer: @@<la sua risposta>@@
+
+Domanda [{{ question_id }}]: {{ question_text }}
+Aspetto: {{ variable }}
+Opzione: {{ option_text }}
+Scala di Risposte: {{ response_scale }}
+
+{%- elif language == "cz" -%}
+Odpovídáte na otázku v průzkumu. Přečtěte si pozorně a poskytněte pouze vaši finální 
+odpověď ze zadané škály odpovědí, ve formátu: 
+Final answer: @@<vaše odpověď>@@
+
+Otázka [{{ question_id }}]: {{ question_text }}
+Aspekt: {{ variable }}
+Možnost: {{ option_text }}
+Stupnice odpovědí: {{ response_scale }}
+
+{%- elif language == "hu" -%}
+Egy kérdőív kérdésére válaszol. Kérjük, olvassa el figyelmesen és adja meg kizárólag 
+a végső válaszát a megadott válaszskálán, a következő formátumban: 
+Final answer: @@<válasza>@@
+
+Kérdés [{{ question_id }}]: {{ question_text }}
+Aspektus: {{ variable }}
+Lehetőség: {{ option_text }}
+Válaszkör: {{ response_scale }}
+
+{%- elif language == "rs" -%}
+Odgovarate na pitanje u anketi. Pažljivo pročitajte i navedite samo konačni 
+odgovor sa date skale odgovora, u sledećem formatu: 
+Final answer: @@<vaš odgovor>@@
+
+Pitanje [{{ question_id }}]: {{ question_text }}
+Aspekt: {{ variable }}
+Opcija: {{ option_text }}
+Skala odgovora: {{ response_scale }}
+
+{%- elif language == "ru" -%}
+Вы отвечаете на вопрос в опросе. Внимательно прочитайте и укажите только ваш 
+окончательный ответ из предложенной шкалы ответов, в следующем формате: 
+Final answer: @@<ваш ответ>@@
+
+Вопрос [{{ question_id }}]: {{ question_text }}
+Аспект: {{ variable }}
+Опция: {{ option_text }}
+Шкала ответов: {{ response_scale }}
+
+{%- else -%}
+{# Default fallback to English #}
+You are answering a survey question. Read carefully and only provide 
+your a final answer from the response scale provided and in the format: 
+Final answer: @@<your answer>@@
+
+Question [{{ question_id }}]: {{ question_text }}
+Aspect: {{ variable }}
+Option: {{ option_text }}
+Response Scale: {{ response_scale }}
+
+{%- endif -%}
+{%- endset -%}
+
+<|im_start|>user
+{{ prompt_content.strip() }}<|im_end|>
+<|im_start|>assistant

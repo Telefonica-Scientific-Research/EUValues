@@ -1,0 +1,47 @@
+[
+  {
+    "question_id": "Q1",
+    "question_text": "Por favor, indica qu\u00e9 tan importante es cada uno de los siguientes aspectos en tu vida.",
+    "variable": "v1",
+    "option_text": "Trabajo",
+    "response_scale": "1 (muy importante) - 2 (bastante importante) - 3 (no muy importante) - 4 (nada importante) - 8 (No Sabe, NS) - 9 (Sin Respuesta, SR)",
+    "model_response": null,
+    "status": "failed"
+  },
+  {
+    "question_id": "Q1",
+    "question_text": "Por favor, indica qu\u00e9 tan importante es cada uno de los siguientes aspectos en tu vida.",
+    "variable": "v2",
+    "option_text": "Familia",
+    "response_scale": "1 (muy importante) - 2 (bastante importante) - 3 (no muy importante) - 4 (nada importante) - 8 (No Sabe, NS) - 9 (Sin Respuesta, SR)",
+    "model_response": null,
+    "status": "failed"
+  },
+  {
+    "question_id": "Q1",
+    "question_text": "Por favor, indica qu\u00e9 tan importante es cada uno de los siguientes aspectos en tu vida.",
+    "variable": "v3",
+    "option_text": "Amigos y conocidos",
+    "response_scale": "1 (muy importante) - 2 (bastante importante) - 3 (no muy importante) - 4 (nada importante) - 8 (No Sabe, NS) - 9 (Sin Respuesta, SR)",
+    "model_response": null,
+    "status": "failed"
+  },
+  {
+    "question_id": "Q1",
+    "question_text": "Por favor, indica qu\u00e9 tan importante es cada uno de los siguientes aspectos en tu vida.",
+    "variable": "v4",
+    "option_text": "Tiempo libre/de ocio",
+    "response_scale": "1 (muy importante) - 2 (bastante importante) - 3 (no muy importante) - 4 (nada importante) - 8 (No Sabe, NS) - 9 (Sin Respuesta, SR)",
+    "model_response": null,
+    "status": "failed"
+  },
+  {
+    "question_id": "Q1",
+    "question_text": "Por favor, indica qu\u00e9 tan importante es cada uno de los siguientes aspectos en tu vida.",
+    "variable": "v5",
+    "option_text": "Pol\u00edtica",
+    "response_scale": "1 (muy importante) - 2 (bastante importante) - 3 (no muy importante) - 4 (nada importante) - 8 (No Sabe, NS) - 9 (Sin Respuesta, SR)",
+    "model_response": null,
+    "status": "failed"
+  }
+]

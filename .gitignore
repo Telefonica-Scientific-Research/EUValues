@@ -132,3 +132,8 @@ dmypy.json
 .github/templates/*
 
 .idea/*
+
+# Large data files and archives
+Surveys/PDFs.zip
+Surveys/*.zip
+Surveys_responses/*.tar.gz

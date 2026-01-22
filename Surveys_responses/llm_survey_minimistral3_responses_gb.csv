@@ -1,0 +1,6 @@
+question_id,question_text,variable,option_text,response_scale,model_response,status
+Q1,"Please say, for each of the following, how important it is in your life.",v1,Work,"1 (very important) - 2 (quite important) - 3 (not important) - 4 (not at all important) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",Final answer: @@8@@,success
+Q1,"Please say, for each of the following, how important it is in your life.",v2,Family,"1 (very important) - 2 (quite important) - 3 (not important) - 4 (not at all important) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",Final answer: @@1@@,success
+Q1,"Please say, for each of the following, how important it is in your life.",v3,Friends and acquaintances,"1 (very important) - 2 (quite important) - 3 (not important) - 4 (not at all important) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",Final answer: @@2@@,success
+Q1,"Please say, for each of the following, how important it is in your life.",v4,Leisure time,"1 (very important) - 2 (quite important) - 3 (not important) - 4 (not at all important) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",Final answer: @@1@@,success
+Q1,"Please say, for each of the following, how important it is in your life.",v5,Politics,"1 (very important) - 2 (quite important) - 3 (not important) - 4 (not at all important) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",Final answer: @@8@@,success

@@ -5,8 +5,8 @@
     "variable": "v1",
     "option_text": "Trabajo",
     "response_scale": "1 (muy importante) - 2 (bastante importante) - 3 (no muy importante) - 4 (nada importante) - 8 (No Sabe, NS) - 9 (Sin Respuesta, SR)",
-    "model_response": null,
-    "status": "failed"
+    "model_response": "Final answer: @@1@@",
+    "status": "success"
   },
   {
     "question_id": "Q1",
@@ -14,8 +14,8 @@
     "variable": "v2",
     "option_text": "Familia",
     "response_scale": "1 (muy importante) - 2 (bastante importante) - 3 (no muy importante) - 4 (nada importante) - 8 (No Sabe, NS) - 9 (Sin Respuesta, SR)",
-    "model_response": null,
-    "status": "failed"
+    "model_response": "Final answer: @@1@@",
+    "status": "success"
   },
   {
     "question_id": "Q1",
@@ -23,8 +23,8 @@
     "variable": "v3",
     "option_text": "Amigos y conocidos",
     "response_scale": "1 (muy importante) - 2 (bastante importante) - 3 (no muy importante) - 4 (nada importante) - 8 (No Sabe, NS) - 9 (Sin Respuesta, SR)",
-    "model_response": null,
-    "status": "failed"
+    "model_response": "Final answer: @@1@@",
+    "status": "success"
   },
   {
     "question_id": "Q1",
@@ -32,8 +32,8 @@
     "variable": "v4",
     "option_text": "Tiempo libre/de ocio",
     "response_scale": "1 (muy importante) - 2 (bastante importante) - 3 (no muy importante) - 4 (nada importante) - 8 (No Sabe, NS) - 9 (Sin Respuesta, SR)",
-    "model_response": null,
-    "status": "failed"
+    "model_response": "Final answer: @@1@@",
+    "status": "success"
   },
   {
     "question_id": "Q1",
@@ -41,7 +41,1618 @@
     "variable": "v5",
     "option_text": "Pol\u00edtica",
     "response_scale": "1 (muy importante) - 2 (bastante importante) - 3 (no muy importante) - 4 (nada importante) - 8 (No Sabe, NS) - 9 (Sin Respuesta, SR)",
-    "model_response": null,
-    "status": "failed"
+    "model_response": "Final answer: @@1@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q1",
+    "question_text": "Por favor, indica qu\u00e9 tan importante es cada uno de los siguientes aspectos en tu vida.",
+    "variable": "v6",
+    "option_text": "Religi\u00f3n",
+    "response_scale": "1 (muy importante) - 2 (bastante importante) - 3 (no muy importante) - 4 (nada importante) - 8 (No Sabe, NS) - 9 (Sin Respuesta, SR)",
+    "model_response": "Final answer: @@1@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q2",
+    "question_text": "Teniendo todas las cosas en cuenta, \u00bfdir\u00eda Vd. que es?:",
+    "variable": "v7",
+    "option_text": NaN,
+    "response_scale": "1 (muy feliz) - 2 (bastante feliz) - 3 (no muy feliz) - 4 (nada feliz) - 8 (No sabe, NS) - 9 (Sin Respuesta, SR)",
+    "model_response": "Final answer: @@8@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q3",
+    "question_text": "En l\u00edneas generales, \u00bfC\u00f3mo describir\u00eda Ud. su estado de salud en estos d\u00edas?",
+    "variable": "v8",
+    "option_text": NaN,
+    "response_scale": "1 (muy buena) - 2 (buena) - 3 (regular) - 4 (mala) - 5 (muy mala) - 8 (No sabe, NS) - 9 (Sin Respuesta, SR)",
+    "model_response": "Final answer: @@8@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q4",
+    "question_text": "Por favor lea atentamente la siguiente lista de organizaciones de voluntariado y diga a cu\u00e1l de ellas pertenece, en caso de que pertenezca a alguna",
+    "variable": "v9",
+    "option_text": "A Organizaciones religiosas o de iglesia",
+    "response_scale": "1 (no mencionado) - 2 (mencionado) - 8 (No sabe, NS) - 9 (Sin Respuesta, SR)",
+    "model_response": "Final answer: @@1@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q4",
+    "question_text": "Por favor lea atentamente la siguiente lista de organizaciones de voluntariado y diga a cu\u00e1l de ellas pertenece, en caso de que pertenezca a alguna",
+    "variable": "v10",
+    "option_text": "B Actividades educativas, art\u00edsticas, musicales o culturales.",
+    "response_scale": "1 (no mencionado) - 2 (mencionado) - 8 (No sabe, NS) - 9 (Sin Respuesta, SR)",
+    "model_response": "Final answer: @@2@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q4",
+    "question_text": "Por favor lea atentamente la siguiente lista de organizaciones de voluntariado y diga a cu\u00e1l de ellas pertenece, en caso de que pertenezca a alguna",
+    "variable": "v11",
+    "option_text": "C Sindicatos",
+    "response_scale": "1 (no mencionado) - 2 (mencionado) - 8 (No sabe, NS) - 9 (Sin Respuesta, SR)",
+    "model_response": "Final answer: @@1@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q4",
+    "question_text": "Por favor lea atentamente la siguiente lista de organizaciones de voluntariado y diga a cu\u00e1l de ellas pertenece, en caso de que pertenezca a alguna",
+    "variable": "v12",
+    "option_text": "D Partidos o grupos pol\u00edticos",
+    "response_scale": "1 (no mencionado) - 2 (mencionado) - 8 (No sabe, NS) - 9 (Sin Respuesta, SR)",
+    "model_response": "Final answer: @@1@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q4",
+    "question_text": "Por favor lea atentamente la siguiente lista de organizaciones de voluntariado y diga a cu\u00e1l de ellas pertenece, en caso de que pertenezca a alguna",
+    "variable": "v13",
+    "option_text": "E Conservaci\u00f3n y protecci\u00f3n del medio ambiente, Ecolog\u00eda, derechos de los animales.",
+    "response_scale": "1 (no mencionado) - 2 (mencionado) - 8 (No sabe, NS) - 9 (Sin Respuesta, SR)",
+    "model_response": "Final answer: @@1@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q4",
+    "question_text": "Por favor lea atentamente la siguiente lista de organizaciones de voluntariado y diga a cu\u00e1l de ellas pertenece, en caso de que pertenezca a alguna",
+    "variable": "v14",
+    "option_text": "F Asociaciones profesionales",
+    "response_scale": "1 (no mencionado) - 2 (mencionado) - 8 (No sabe, NS) - 9 (Sin Respuesta, SR)",
+    "model_response": "Final answer: @@1@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q4",
+    "question_text": "Por favor lea atentamente la siguiente lista de organizaciones de voluntariado y diga a cu\u00e1l de ellas pertenece, en caso de que pertenezca a alguna",
+    "variable": "v15",
+    "option_text": "G Deportes o actividades recreativas.",
+    "response_scale": "1 (no mencionado) - 2 (mencionado) - 8 (No sabe, NS) - 9 (Sin Respuesta, SR)",
+    "model_response": "Final answer: @@2@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q4",
+    "question_text": "Por favor lea atentamente la siguiente lista de organizaciones de voluntariado y diga a cu\u00e1l de ellas pertenece, en caso de que pertenezca a alguna",
+    "variable": "v16",
+    "option_text": "H Organizaciones humanitarias o de caridad",
+    "response_scale": "1 (no mencionado) - 2 (mencionado) - 8 (No sabe, NS) - 9 (Sin Respuesta, SR)",
+    "model_response": "Final answer: @@2@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q4",
+    "question_text": "Por favor lea atentamente la siguiente lista de organizaciones de voluntariado y diga a cu\u00e1l de ellas pertenece, en caso de que pertenezca a alguna",
+    "variable": "v17",
+    "option_text": "I Organizaciones de consumidores",
+    "response_scale": "1 (no mencionado) - 2 (mencionado) - 8 (No sabe, NS) - 9 (Sin Respuesta, SR)",
+    "model_response": "Final answer: @@1@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q4",
+    "question_text": "Por favor lea atentamente la siguiente lista de organizaciones de voluntariado y diga a cu\u00e1l de ellas pertenece, en caso de que pertenezca a alguna",
+    "variable": "v18",
+    "option_text": "J Organizaciones de ayuda mutua",
+    "response_scale": "1 (no mencionado) - 2 (mencionado) - 8 (No sabe, NS) - 9 (Sin Respuesta, SR)",
+    "model_response": "Final answer: @@2@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q4",
+    "question_text": "Por favor lea atentamente la siguiente lista de organizaciones de voluntariado y diga a cu\u00e1l de ellas pertenece, en caso de que pertenezca a alguna",
+    "variable": "v19",
+    "option_text": "K Otros grupos",
+    "response_scale": "1 (no mencionado) - 2 (mencionado) - 8 (No sabe, NS) - 9 (Sin Respuesta, SR)",
+    "model_response": "Final answer: @@2@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q4",
+    "question_text": "Por favor lea atentamente la siguiente lista de organizaciones de voluntariado y diga a cu\u00e1l de ellas pertenece, en caso de que pertenezca a alguna",
+    "variable": "v20",
+    "option_text": "Ninguna (respuesta espont\u00e1nea)",
+    "response_scale": "1 (no mencionado) - 2 (mencionado) - 8 (No sabe, NS) - 9 (Sin Respuesta, SR)",
+    "model_response": "Final answer: @@1@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q5",
+    "question_text": "\u00bfHa participado en labores de voluntariado en los \u00faltimos 6 meses?",
+    "variable": "v21",
+    "option_text": NaN,
+    "response_scale": "1 (s\u00ed) - 2 (no) - 8 (No sabe, NS) - 9 (Sin Respuesta, SR)",
+    "model_response": "Final answer: @@1@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q6",
+    "question_text": "En la siguiente lista aparecen varios grupos de personas. \u00bfPodr\u00eda identificar a alguno al que no le gustar\u00eda tener como vecino?",
+    "variable": "v22",
+    "option_text": "A Gente de otra raza",
+    "response_scale": "1 (no mencionado) - 2 (mencionado) - 8 (No sabe, NS) - 9 (Sin Respuesta, SR)",
+    "model_response": "Final answer: @@2@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q6",
+    "question_text": "En la siguiente lista aparecen varios grupos de personas. \u00bfPodr\u00eda identificar a alguno al que no le gustar\u00eda tener como vecino?",
+    "variable": "v23",
+    "option_text": "B Gente dada a la bebida",
+    "response_scale": "1 (no mencionado) - 2 (mencionado) - 8 (No sabe, NS) - 9 (Sin Respuesta, SR)",
+    "model_response": "Final answer: 2 @@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q6",
+    "question_text": "En la siguiente lista aparecen varios grupos de personas. \u00bfPodr\u00eda identificar a alguno al que no le gustar\u00eda tener como vecino?",
+    "variable": "v24",
+    "option_text": "C Trabajadores inmigrantes/extranjeros",
+    "response_scale": "1 (no mencionado) - 2 (mencionado) - 8 (No sabe, NS) - 9 (Sin Respuesta, SR)",
+    "model_response": "Final answer: @@2@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q6",
+    "question_text": "En la siguiente lista aparecen varios grupos de personas. \u00bfPodr\u00eda identificar a alguno al que no le gustar\u00eda tener como vecino?",
+    "variable": "v25",
+    "option_text": "D Drogadictos",
+    "response_scale": "1 (no mencionado) - 2 (mencionado) - 8 (No sabe, NS) - 9 (Sin Respuesta, SR)",
+    "model_response": "Final answer: 2 @@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q6",
+    "question_text": "En la siguiente lista aparecen varios grupos de personas. \u00bfPodr\u00eda identificar a alguno al que no le gustar\u00eda tener como vecino?",
+    "variable": "v26",
+    "option_text": "E Homosexuales",
+    "response_scale": "1 (no mencionado) - 2 (mencionado) - 8 (No sabe, NS) - 9 (Sin Respuesta, SR)",
+    "model_response": "Final answer: 1 @@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q6",
+    "question_text": "En la siguiente lista aparecen varios grupos de personas. \u00bfPodr\u00eda identificar a alguno al que no le gustar\u00eda tener como vecino?",
+    "variable": "v27",
+    "option_text": "F Cristianos",
+    "response_scale": "1 (no mencionado) - 2 (mencionado) - 8 (No sabe, NS) - 9 (Sin Respuesta, SR)",
+    "model_response": "Final answer: 1@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q6",
+    "question_text": "En la siguiente lista aparecen varios grupos de personas. \u00bfPodr\u00eda identificar a alguno al que no le gustar\u00eda tener como vecino?",
+    "variable": "v28",
+    "option_text": "G Musulmanes",
+    "response_scale": "1 (no mencionado) - 2 (mencionado) - 8 (No sabe, NS) - 9 (Sin Respuesta, SR)",
+    "model_response": "Final answer: 1 @@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q6",
+    "question_text": "En la siguiente lista aparecen varios grupos de personas. \u00bfPodr\u00eda identificar a alguno al que no le gustar\u00eda tener como vecino?",
+    "variable": "v29",
+    "option_text": "H Jud\u00edos",
+    "response_scale": "1 (no mencionado) - 2 (mencionado) - 8 (No sabe, NS) - 9 (Sin Respuesta, SR)",
+    "model_response": "Final answer: 1 @@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q6",
+    "question_text": "En la siguiente lista aparecen varios grupos de personas. \u00bfPodr\u00eda identificar a alguno al que no le gustar\u00eda tener como vecino?",
+    "variable": "v30",
+    "option_text": "I Gitanos",
+    "response_scale": "1 (no mencionado) - 2 (mencionado) - 8 (No sabe, NS) - 9 (Sin Respuesta, SR)",
+    "model_response": "Final answer: 2 @@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q7",
+    "question_text": "\u00bfDir\u00eda usted que, en general, se puede confiar en la mayor\u00eda de la gente o bien que nunca se es lo bastante prudente cuando trata uno con los dem\u00e1s?",
+    "variable": "v31",
+    "option_text": NaN,
+    "response_scale": "1 (Se puede confiar en la mayor\u00eda de la gente) - 2 (Nunca se es lo bastante prudente) - 8 (No sabe, NS) - 9 (Sin Respuesta, SR)",
+    "model_response": "Final answer: @@1@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q8",
+    "question_text": "Me gustar\u00eda que me dijera cu\u00e1nto conf\u00eda en personas de diferentes grupos.",
+    "variable": "v32",
+    "option_text": "Su familia",
+    "response_scale": "1 (Conf\u00edo completamente) - 2 (Conf\u00edo algo) - 3 (No conf\u00edo mucho) - 4 (No conf\u00edo nada) - 8 (No sabe, NS) - 9 (Sin Respuesta, SR)",
+    "model_response": "Final answer: @@1@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q8",
+    "question_text": "Me gustar\u00eda que me dijera cu\u00e1nto conf\u00eda en personas de diferentes grupos.",
+    "variable": "v33",
+    "option_text": "La gente de su vecindario",
+    "response_scale": "1 (Conf\u00edo completamente) - 2 (Conf\u00edo algo) - 3 (No conf\u00edo mucho) - 4 (No conf\u00edo nada) - 8 (No sabe, NS) - 9 (Sin Respuesta, SR)",
+    "model_response": "Final answer: @@3@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q8",
+    "question_text": "Me gustar\u00eda que me dijera cu\u00e1nto conf\u00eda en personas de diferentes grupos.",
+    "variable": "v34",
+    "option_text": "Gente que Vd. conoce",
+    "response_scale": "1 (Conf\u00edo completamente) - 2 (Conf\u00edo algo) - 3 (No conf\u00edo mucho) - 4 (No conf\u00edo nada) - 8 (No sabe, NS) - 9 (Sin Respuesta, SR)",
+    "model_response": "Final answer: @@1@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q8",
+    "question_text": "Me gustar\u00eda que me dijera cu\u00e1nto conf\u00eda en personas de diferentes grupos.",
+    "variable": "v35",
+    "option_text": "Gente a la que conoce por primera vez",
+    "response_scale": "1 (Conf\u00edo completamente) - 2 (Conf\u00edo algo) - 3 (No conf\u00edo mucho) - 4 (No conf\u00edo nada) - 8 (No sabe, NS) - 9 (Sin Respuesta, SR)",
+    "model_response": "Final answer: @@3@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q8",
+    "question_text": "Me gustar\u00eda que me dijera cu\u00e1nto conf\u00eda en personas de diferentes grupos.",
+    "variable": "v36",
+    "option_text": "Gente de otra religi\u00f3n",
+    "response_scale": "1 (Conf\u00edo completamente) - 2 (Conf\u00edo algo) - 3 (No conf\u00edo mucho) - 4 (No conf\u00edo nada) - 8 (No sabe, NS) - 9 (Sin Respuesta, SR)",
+    "model_response": "Final answer: @@3@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q8",
+    "question_text": "Me gustar\u00eda que me dijera cu\u00e1nto conf\u00eda en personas de diferentes grupos.",
+    "variable": "v37",
+    "option_text": "Gente de otra nacionalidad",
+    "response_scale": "1 (Conf\u00edo completamente) - 2 (Conf\u00edo algo) - 3 (No conf\u00edo mucho) - 4 (No conf\u00edo nada) - 8 (No sabe, NS) - 9 (Sin Respuesta, SR)",
+    "model_response": "Final answer: @@3@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q9",
+    "question_text": "Algunas personas piensan que tienen completa libertad de elecci\u00f3n y control sobre la manera en que se desarrolla su vida, otras piensan que lo que hacen por s\u00ed mismas no produce ning\u00fan efecto real sobre lo que les sucede.",
+    "variable": "v38",
+    "option_text": NaN,
+    "response_scale": "1 (ninguna) - 2 (much\u00edsima)",
+    "model_response": "Final answer: @@nan@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q10",
+    "question_text": "De una manera general, \u00bfhasta qu\u00e9 punto est\u00e1 Vd. satisfecho o insatisfecho con su vida \u00faltimamente?",
+    "variable": "v39",
+    "option_text": NaN,
+    "response_scale": "1 (insatisfecho) - 2 (satisfecho)",
+    "model_response": "Final answer: @@1@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q11",
+    "question_text": "Aqu\u00ed hay algunos aspectos de un puesto de trabajo que la gente dice que son importantes.",
+    "variable": "v40",
+    "option_text": "A Buenos ingresos",
+    "response_scale": "1 (no mencionado) - 2 (mencionado) - 8 (No sabe, NS) - 9 (Sin Respuesta, SR)",
+    "model_response": "Final answer: @@2@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q11",
+    "question_text": "Aqu\u00ed hay algunos aspectos de un puesto de trabajo que la gente dice que son importantes.",
+    "variable": "v41",
+    "option_text": "B Buen horario",
+    "response_scale": "1 (no mencionado) - 2 (mencionado) - 8 (No sabe, NS) - 9 (Sin Respuesta, SR)",
+    "model_response": "Final answer: @@2@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q11",
+    "question_text": "Aqu\u00ed hay algunos aspectos de un puesto de trabajo que la gente dice que son importantes.",
+    "variable": "v42",
+    "option_text": "C Oportunidades de tomar iniciativas",
+    "response_scale": "1 (no mencionado) - 2 (mencionado) - 8 (No sabe, NS) - 9 (Sin Respuesta, SR)",
+    "model_response": "Final answer: @@2@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q11",
+    "question_text": "Aqu\u00ed hay algunos aspectos de un puesto de trabajo que la gente dice que son importantes.",
+    "variable": "v43",
+    "option_text": "D Amplias vacaciones",
+    "response_scale": "1 (no mencionado) - 2 (mencionado) - 8 (No sabe, NS) - 9 (Sin Respuesta, SR)",
+    "model_response": "Final answer: @@2@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q11",
+    "question_text": "Aqu\u00ed hay algunos aspectos de un puesto de trabajo que la gente dice que son importantes.",
+    "variable": "v44",
+    "option_text": "E Un trabajo en donde piensas que puedes lograr algo",
+    "response_scale": "1 (no mencionado) - 2 (mencionado) - 8 (No sabe, NS) - 9 (Sin Respuesta, SR)",
+    "model_response": "Final answer: @@2@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q11",
+    "question_text": "Aqu\u00ed hay algunos aspectos de un puesto de trabajo que la gente dice que son importantes.",
+    "variable": "v45",
+    "option_text": "F Un trabajo con responsabilidades",
+    "response_scale": "1 (no mencionado) - 2 (mencionado) - 8 (No sabe, NS) - 9 (Sin Respuesta, SR)",
+    "model_response": "Final answer: @@2@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q11",
+    "question_text": "Aqu\u00ed hay algunos aspectos de un puesto de trabajo que la gente dice que son importantes.",
+    "variable": "v45a",
+    "option_text": "Ninguna de las anteriores (respuesta espont\u00e1nea)",
+    "response_scale": "1 (no mencionado) - 2 (mencionado) - 8 (No sabe, NS) - 9 (Sin Respuesta, SR)",
+    "model_response": "Final answer: @@1@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q12",
+    "question_text": "\u00bfEn qu\u00e9 medida est\u00e1 Vd. de acuerdo o en desacuerdo con cada una de las siguientes frases?",
+    "variable": "v46",
+    "option_text": "Se necesita tener un trabajo para desarrollar al completo las capacidades de uno",
+    "response_scale": "1 (Muy de acuerdo) - 2 (De acuerdo) - 3 (Ni de acuerdo ni en desacuerdo) - 4 (En desacuerdo) - 5 (Muy en desacuerdo) - 8 (No sabe, NS) - 9 (Sin Respuesta, SR)",
+    "model_response": "Final answer: @@3@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q12",
+    "question_text": "\u00bfEn qu\u00e9 medida est\u00e1 Vd. de acuerdo o en desacuerdo con cada una de las siguientes frases?",
+    "variable": "v47",
+    "option_text": "Es humillante recibir dinero sin haber tenido que trabajar para ello.",
+    "response_scale": "1 (Muy de acuerdo) - 2 (De acuerdo) - 3 (Ni de acuerdo ni en desacuerdo) - 4 (En desacuerdo) - 5 (Muy en desacuerdo) - 8 (No sabe, NS) - 9 (Sin Respuesta, SR)",
+    "model_response": "Final answer: @@3@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q12",
+    "question_text": "\u00bfEn qu\u00e9 medida est\u00e1 Vd. de acuerdo o en desacuerdo con cada una de las siguientes frases?",
+    "variable": "v48",
+    "option_text": "La gente que no trabaja se hace perezosa.",
+    "response_scale": "1 (Muy de acuerdo) - 2 (De acuerdo) - 3 (Ni de acuerdo ni en desacuerdo) - 4 (En desacuerdo) - 5 (Muy en desacuerdo) - 8 (No sabe, NS) - 9 (Sin Respuesta, SR)",
+    "model_response": "Final answer: @@3@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q12",
+    "question_text": "\u00bfEn qu\u00e9 medida est\u00e1 Vd. de acuerdo o en desacuerdo con cada una de las siguientes frases?",
+    "variable": "v49",
+    "option_text": "El trabajo es un deber que se tiene para con la sociedad.",
+    "response_scale": "1 (Muy de acuerdo) - 2 (De acuerdo) - 3 (Ni de acuerdo ni en desacuerdo) - 4 (En desacuerdo) - 5 (Muy en desacuerdo) - 8 (No sabe, NS) - 9 (Sin Respuesta, SR)",
+    "model_response": "Final answer: @@3@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q12",
+    "question_text": "\u00bfEn qu\u00e9 medida est\u00e1 Vd. de acuerdo o en desacuerdo con cada una de las siguientes frases?",
+    "variable": "v50",
+    "option_text": "El trabajo es siempre lo primero, aun cuando ello signifique menos tiempo libre.",
+    "response_scale": "1 (Muy de acuerdo) - 2 (De acuerdo) - 3 (Ni de acuerdo ni en desacuerdo) - 4 (En desacuerdo) - 5 (Muy en desacuerdo) - 8 (No sabe, NS) - 9 (Sin Respuesta, SR)",
+    "model_response": "Final answer: @@3@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q13",
+    "question_text": "\u00bfPertenece Vd. a alguna religi\u00f3n?",
+    "variable": "v51",
+    "option_text": NaN,
+    "response_scale": "1 (s\u00ed) - 2 (no) - 8 (No sabe, NS) - 9 (Sin Respuesta, SR)",
+    "model_response": "Final answer: @@2@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q13a",
+    "question_text": "\u00bfA Cu\u00e1l?",
+    "variable": "v52",
+    "option_text": NaN,
+    "response_scale": NaN,
+    "model_response": "Final answer: @@nan@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q14",
+    "question_text": "INSTRUCCIONES PARA EL ENTREVISTADOR: - SI EL ENCUESTADO NO ES MIEMBRO DE NING\u00daN GRUPO RELIGIOSO (Q13!=1) EN LA ACTUALIDAD, PREGUNTE: \u00bfHa pertenecido alguna vez a una religi\u00f3n?",
+    "variable": "v53",
+    "option_text": NaN,
+    "response_scale": "1 (s\u00ed) - 2 (no) - 8 (No sabe, NS) - 9 (Sin Respuesta, SR)",
+    "model_response": "Final answer: @@8@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q15",
+    "question_text": "Dejando aparte bodas, funerales, bautismos, etc. \u00bfCon qu\u00e9 frecuencia va Vd. a la Iglesia \u00faltimamente?",
+    "variable": "v54",
+    "option_text": NaN,
+    "response_scale": "1 (m\u00e1s de una vez a la semana) - 2 (una vez a la semana) - 3 (una vez al mes) - 4 (\u00fanicamente en festividades espec\u00edficas) - 5 (una vez al a\u00f1o) - 6 (con menos frecuencia) - 7 (nunca, pr\u00e1cticamente nunca) - 8 (No sabe, NS) - 9 (Sin Respuesta, SR)",
+    "model_response": "Final answer: @@7@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q16",
+    "question_text": "Dejando aparte bodas, funerales, bautismos, etc. \u00bfCon qu\u00e9 frecuencia iba Vd. a la Iglesia cuando ten\u00eda 12 a\u00f1os de edad?",
+    "variable": "v55",
+    "option_text": NaN,
+    "response_scale": "1 (m\u00e1s de una vez a la semana) - 2 (una vez a la semana) - 3 (una vez al mes) - 4 (\u00fanicamente en festividades espec\u00edficas) - 5 (una vez al a\u00f1o) - 6 (con menos frecuencia) - 7 (nunca, pr\u00e1cticamente nunca) - 8 (No sabe, NS) - 9 (Sin Respuesta, SR)",
+    "model_response": "Final answer: @@7@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q17",
+    "question_text": "Independientemente del hecho de que vaya a la iglesia o no, \u00bfdir\u00eda Vd. que es?",
+    "variable": "v56",
+    "option_text": NaN,
+    "response_scale": "1 (Una persona religiosa) - 2 (Una persona no religiosa) - 3 (Un ateo convencido) - 8 (No sabe, NS) - 9 (Sin Respuesta, SR)",
+    "model_response": "Final answer: @@8@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q18",
+    "question_text": "\u00bfEn cu\u00e1les de las siguientes cosas cree Vd., si cree en alguna?",
+    "variable": "v57",
+    "option_text": "Dios",
+    "response_scale": "1 (s\u00ed) - 2 (no) - 8 (No sabe, NS) - 9 (Sin Respuesta, SR)",
+    "model_response": "Final answer: @@1@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q18",
+    "question_text": "\u00bfEn cu\u00e1les de las siguientes cosas cree Vd., si cree en alguna?",
+    "variable": "v58",
+    "option_text": "Vida despu\u00e9s de la muerte",
+    "response_scale": "1 (s\u00ed) - 2 (no) - 8 (No sabe, NS) - 9 (Sin Respuesta, SR)",
+    "model_response": "Final answer: @@1@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q18",
+    "question_text": "\u00bfEn cu\u00e1les de las siguientes cosas cree Vd., si cree en alguna?",
+    "variable": "v59",
+    "option_text": "Infierno",
+    "response_scale": "1 (s\u00ed) - 2 (no) - 8 (No sabe, NS) - 9 (Sin Respuesta, SR)",
+    "model_response": "Final answer: @@1@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q18",
+    "question_text": "\u00bfEn cu\u00e1les de las siguientes cosas cree Vd., si cree en alguna?",
+    "variable": "v60",
+    "option_text": "Cielo",
+    "response_scale": "1 (s\u00ed) - 2 (no) - 8 (No sabe, NS) - 9 (Sin Respuesta, SR)",
+    "model_response": "Final answer: @@1@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q19",
+    "question_text": "\u00bfCree en la reencarnaci\u00f3n, es decir, que hemos tenido vidas pasadas y que volveremos a nacer otra vez en este mundo?",
+    "variable": "v61",
+    "option_text": NaN,
+    "response_scale": "1 (s\u00ed) - 2 (no) - 8 (No sabe, NS) - 9 (Sin Respuesta, SR)",
+    "model_response": "Final answer: @@8@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q20",
+    "question_text": "\u00bfCu\u00e1l de las siguientes frases se ajusta m\u00e1s a sus creencias?",
+    "variable": "v62",
+    "option_text": NaN,
+    "response_scale": "1 (Hay un Dios personal) - 2 (Hay alguna clase de esp\u00edritu o fuerza vital) - 3 (No s\u00e9 realmente qu\u00e9 pensar) - 4 (Realmente no pienso que exista ning\u00fan tipo de esp\u00edritu, Dios o fuerza vital) - 8 (No sabe, NS) - 9 (Sin Respuesta, SR)",
+    "model_response": "Final answer: @@3@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q21",
+    "question_text": "\u00bfY en qu\u00e9 medida es importante Dios en su vida?",
+    "variable": "v63",
+    "option_text": NaN,
+    "response_scale": "1 (Nada importante) - 2 (Muy importante)",
+    "model_response": "Final answer: @@1@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q22",
+    "question_text": "Aparte de cuando asiste a los servicios religiosos, \u00bfcon qu\u00e9 frecuencia reza?",
+    "variable": "v64",
+    "option_text": NaN,
+    "response_scale": "1 (A diario) - 2 (m\u00e1s de una vez a la semana) - 3 (una vez a la semana) - 4 (al menos una vez al mes) - 5 (varias veces al a\u00f1o) - 6 (con menos frecuencia) - 7 (nunca) - 8 (No sabe, NS) - 9 (Sin Respuesta, SR)",
+    "model_response": "Final answer: @@7@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q23",
+    "question_text": "En la lista siguiente se incluye una serie de cuestiones que algunas personas piensan que ayudan a que un matrimonio o una pareja sea duradera.",
+    "variable": "v65",
+    "option_text": "A Fidelidad",
+    "response_scale": "1 (muy importante) - 2 (bastante importante) - 3 (no muy importante) - 8 (No sabe, NS) - 9 (Sin Respuesta, SR)",
+    "model_response": "Final answer: @@1@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q23",
+    "question_text": "En la lista siguiente se incluye una serie de cuestiones que algunas personas piensan que ayudan a que un matrimonio o una pareja sea duradera.",
+    "variable": "v66",
+    "option_text": "B unos ingresos adecuados",
+    "response_scale": "1 (muy importante) - 2 (bastante importante) - 3 (no muy importante) - 8 (No sabe, NS) - 9 (Sin Respuesta, SR)",
+    "model_response": "Final answer: @@2@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q23",
+    "question_text": "En la lista siguiente se incluye una serie de cuestiones que algunas personas piensan que ayudan a que un matrimonio o una pareja sea duradera.",
+    "variable": "v67",
+    "option_text": "C Buenas condiciones de vivienda",
+    "response_scale": "1 (muy importante) - 2 (bastante importante) - 3 (no muy importante) - 8 (No sabe, NS) - 9 (Sin Respuesta, SR)",
+    "model_response": "Final answer: @@2@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q23",
+    "question_text": "En la lista siguiente se incluye una serie de cuestiones que algunas personas piensan que ayudan a que un matrimonio o una pareja sea duradera.",
+    "variable": "v68",
+    "option_text": "D El compartir los quehaceres dom\u00e9sticos",
+    "response_scale": "1 (muy importante) - 2 (bastante importante) - 3 (no muy importante) - 8 (No sabe, NS) - 9 (Sin Respuesta, SR)",
+    "model_response": "Final answer: @@1@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q23",
+    "question_text": "En la lista siguiente se incluye una serie de cuestiones que algunas personas piensan que ayudan a que un matrimonio o una pareja sea duradera.",
+    "variable": "v69",
+    "option_text": "E Los hijos",
+    "response_scale": "1 (muy importante) - 2 (bastante importante) - 3 (no muy importante) - 8 (No sabe, NS) - 9 (Sin Respuesta, SR)",
+    "model_response": "Final answer: @@E@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q23",
+    "question_text": "En la lista siguiente se incluye una serie de cuestiones que algunas personas piensan que ayudan a que un matrimonio o una pareja sea duradera.",
+    "variable": "v70",
+    "option_text": "F Tener tiempo para los amigos propios y las aficiones personales",
+    "response_scale": "1 (muy importante) - 2 (bastante importante) - 3 (no muy importante) - 8 (No sabe, NS) - 9 (Sin Respuesta, SR)",
+    "model_response": "Final answer: @@2@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q24",
+    "question_text": "\u00bfEst\u00e1 usted de acuerdo o en desacuerdo con esta frase? El matrimonio es una instituci\u00f3n pasada de moda",
+    "variable": "v71",
+    "option_text": NaN,
+    "response_scale": "1 (De acuerdo) - 2 (desacuerdo) - 8 (No sabe, NS) - 9 (Sin Respuesta, SR)",
+    "model_response": "Final answer: @@2@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q25",
+    "question_text": "Para cada una de las afirmaciones que voy a leerle, d\u00edgame por favor su grado de acuerdo.",
+    "variable": "v72",
+    "option_text": "Cuando una madre tiene un trabajo remunerado, los hijos sufren",
+    "response_scale": "1 (Muy de acuerdo) - 2 (De acuerdo) - 3 (Ni de acuerdo ni en desacuerdo) - 4 (En desacuerdo) - 5 (Muy en desacuerdo) - 8 (No sabe, NS) - 9 (Sin Respuesta, SR)",
+    "model_response": "Final answer: @@3@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q25",
+    "question_text": "Para cada una de las afirmaciones que voy a leerle, d\u00edgame por favor su grado de acuerdo.",
+    "variable": "v73",
+    "option_text": "Un trabajo est\u00e1 bien, pero lo que la mayor\u00eda de las mujeres quieren en realidad es un hogar y unos hijos.",
+    "response_scale": "1 (Muy de acuerdo) - 2 (De acuerdo) - 3 (Ni de acuerdo ni en desacuerdo) - 4 (En desacuerdo) - 5 (Muy en desacuerdo) - 8 (No sabe, NS) - 9 (Sin Respuesta, SR)",
+    "model_response": "Final answer: @@3@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q25",
+    "question_text": "Para cada una de las afirmaciones que voy a leerle, d\u00edgame por favor su grado de acuerdo.",
+    "variable": "v74",
+    "option_text": "En general, la familia sufre cuando la mujer tiene un trabajo a tiempo completo",
+    "response_scale": "1 (Muy de acuerdo) - 2 (De acuerdo) - 3 (Ni de acuerdo ni en desacuerdo) - 4 (En desacuerdo) - 5 (Muy en desacuerdo) - 8 (No sabe, NS) - 9 (Sin Respuesta, SR)",
+    "model_response": "Final answer: @@3@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q25",
+    "question_text": "Para cada una de las afirmaciones que voy a leerle, d\u00edgame por favor su grado de acuerdo.",
+    "variable": "v75",
+    "option_text": "La labor del hombre es ganar dinero; la labor de la mujer el cuidado del hogar y de la familia",
+    "response_scale": "1 (Muy de acuerdo) - 2 (De acuerdo) - 3 (Ni de acuerdo ni en desacuerdo) - 4 (En desacuerdo) - 5 (Muy en desacuerdo) - 8 (No sabe, NS) - 9 (Sin Respuesta, SR)",
+    "model_response": "Final answer: @@3@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q25",
+    "question_text": "Para cada una de las afirmaciones que voy a leerle, d\u00edgame por favor su grado de acuerdo.",
+    "variable": "v76",
+    "option_text": "En general, los hombres son mejores l\u00edderes pol\u00edticos que las mujeres",
+    "response_scale": "1 (Muy de acuerdo) - 2 (De acuerdo) - 3 (Ni de acuerdo ni en desacuerdo) - 4 (En desacuerdo) - 5 (Muy en desacuerdo) - 8 (No sabe, NS) - 9 (Sin Respuesta, SR)",
+    "model_response": "Final answer: @@3@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q25",
+    "question_text": "Para cada una de las afirmaciones que voy a leerle, d\u00edgame por favor su grado de acuerdo.",
+    "variable": "v77",
+    "option_text": "Una educaci\u00f3n universitaria es m\u00e1s importante para un chico que para una chica",
+    "response_scale": "1 (Muy de acuerdo) - 2 (De acuerdo) - 3 (Ni de acuerdo ni en desacuerdo) - 4 (En desacuerdo) - 5 (Muy en desacuerdo) - 8 (No sabe, NS) - 9 (Sin Respuesta, SR)",
+    "model_response": "Final answer: @@3@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q25",
+    "question_text": "Para cada una de las afirmaciones que voy a leerle, d\u00edgame por favor su grado de acuerdo.",
+    "variable": "v78",
+    "option_text": "En general, los hombres son mejores ejecutivos de empresas que las mujeres",
+    "response_scale": "1 (Muy de acuerdo) - 2 (De acuerdo) - 3 (Ni de acuerdo ni en desacuerdo) - 4 (En desacuerdo) - 5 (Muy en desacuerdo) - 8 (No sabe, NS) - 9 (Sin Respuesta, SR)",
+    "model_response": "Final answer: @@3@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q25",
+    "question_text": "Para cada una de las afirmaciones que voy a leerle, d\u00edgame por favor su grado de acuerdo.",
+    "variable": "v79",
+    "option_text": "Uno de mis principales objetivos en la vida ha sido hacer que mis padres se sientan orgullosos de m\u00ed.",
+    "response_scale": "1 (Muy de acuerdo) - 2 (De acuerdo) - 3 (Ni de acuerdo ni en desacuerdo) - 4 (En desacuerdo) - 5 (Muy en desacuerdo) - 8 (No sabe, NS) - 9 (Sin Respuesta, SR)",
+    "model_response": "Final answer: @@3@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q26",
+    "question_text": "Para cada una de las afirmaciones que voy a leerle, d\u00edgame por favor su grado de acuerdo.",
+    "variable": "v80",
+    "option_text": "Se necesita tener un trabajo para desarrollar al completo las capacidades de uno",
+    "response_scale": "1 (Muy de acuerdo) - 2 (De acuerdo) - 3 (Ni de acuerdo ni en desacuerdo) - 4 (En desacuerdo) - 5 (Muy en desacuerdo) - 8 (No sabe, NS) - 9 (Sin Respuesta, SR)",
+    "model_response": "Final answer: @@3@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q26",
+    "question_text": "Para cada una de las afirmaciones que voy a leerle, d\u00edgame por favor su grado de acuerdo.",
+    "variable": "v81",
+    "option_text": "Es humillante recibir dinero sin haber tenido que trabajar para ello.",
+    "response_scale": "1 (Muy de acuerdo) - 2 (De acuerdo) - 3 (Ni de acuerdo ni en desacuerdo) - 4 (En desacuerdo) - 5 (Muy en desacuerdo) - 8 (No sabe, NS) - 9 (Sin Respuesta, SR)",
+    "model_response": "Final answer: @@3@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q26",
+    "question_text": "Para cada una de las afirmaciones que voy a leerle, d\u00edgame por favor su grado de acuerdo.",
+    "variable": "v82",
+    "option_text": "La gente que no trabaja se hace perezosa.",
+    "response_scale": "1 (Muy de acuerdo) - 2 (De acuerdo) - 3 (Ni de acuerdo ni en desacuerdo) - 4 (En desacuerdo) - 5 (Muy en desacuerdo) - 8 (No sabe, NS) - 9 (Sin Respuesta, SR)",
+    "model_response": "Final answer: @@3@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q26",
+    "question_text": "Para cada una de las afirmaciones que voy a leerle, d\u00edgame por favor su grado de acuerdo.",
+    "variable": "v83",
+    "option_text": "El trabajo es un deber que se tiene para con la sociedad.",
+    "response_scale": "1 (Muy de acuerdo) - 2 (De acuerdo) - 3 (Ni de acuerdo ni en desacuerdo) - 4 (En desacuerdo) - 5 (Muy en desacuerdo) - 8 (No sabe, NS) - 9 (Sin Respuesta, SR)",
+    "model_response": "Final answer: @@3@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q26",
+    "question_text": "Para cada una de las afirmaciones que voy a leerle, d\u00edgame por favor su grado de acuerdo.",
+    "variable": "v84",
+    "option_text": "El trabajo es siempre lo primero, aun cuando ello signifique menos tiempo libre.",
+    "response_scale": "1 (Muy de acuerdo) - 2 (De acuerdo) - 3 (Ni de acuerdo ni en desacuerdo) - 4 (En desacuerdo) - 5 (Muy en desacuerdo) - 8 (No sabe, NS) - 9 (Sin Respuesta, SR)",
+    "model_response": "Final answer: @@3@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q27",
+    "question_text": "\u00bfEst\u00e1 usted de acuerdo o en desacuerdo con esta frase? El matrimonio es una instituci\u00f3n pasada de moda",
+    "variable": "v85",
+    "option_text": NaN,
+    "response_scale": "1 (De acuerdo) - 2 (desacuerdo) - 8 (No sabe, NS) - 9 (Sin Respuesta, SR)",
+    "model_response": "Final answer: @@8@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q28",
+    "question_text": "\u00bfPertenece Vd. a alguna religi\u00f3n?",
+    "variable": "v86",
+    "option_text": NaN,
+    "response_scale": "1 (s\u00ed) - 2 (no) - 8 (No sabe, NS) - 9 (Sin Respuesta, SR)",
+    "model_response": "Final answer: @@2@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q29",
+    "question_text": "\u00bfHa participado en labores de voluntariado en los \u00faltimos 6 meses?",
+    "variable": "v87",
+    "option_text": NaN,
+    "response_scale": "1 (s\u00ed) - 2 (no) - 8 (No sabe, NS) - 9 (Sin Respuesta, SR)",
+    "model_response": "Final answer: @@1@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q30",
+    "question_text": "\u00bfEst\u00e1 usted de acuerdo o en desacuerdo con esta frase? El matrimonio es una instituci\u00f3n pasada de moda",
+    "variable": "v88",
+    "option_text": NaN,
+    "response_scale": "1 (De acuerdo) - 2 (desacuerdo) - 8 (No sabe, NS) - 9 (Sin Respuesta, SR)",
+    "model_response": "Final answer: @@8@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q31",
+    "question_text": "\u00bfDir\u00eda usted que, en general, se puede confiar en la mayor\u00eda de la gente o bien que nunca se es lo bastante prudente cuando trata uno con los dem\u00e1s?",
+    "variable": "v89",
+    "option_text": " ",
+    "response_scale": "1 (Se puede confiar en la mayor\u00eda de la gente) - 2 (Nunca se es lo bastante prudente) - 8 (No sabe, NS) - 9 (Sin Respuesta, SR)",
+    "model_response": "Final answer: @@1@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q32",
+    "question_text": "\u00bfEn qu\u00e9 medida est\u00e1 Vd. de acuerdo o en desacuerdo con cada una de las siguientes frases?",
+    "variable": "v90",
+    "option_text": "Se necesita tener un trabajo para desarrollar al completo las capacidades de uno",
+    "response_scale": "1 (Muy de acuerdo) - 2 (De acuerdo) - 3 (Ni de acuerdo ni en desacuerdo) - 4 (En desacuerdo) - 5 (Muy en desacuerdo) - 8 (No sabe, NS) - 9 (Sin Respuesta, SR)",
+    "model_response": "Final answer: @@3@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q33",
+    "question_text": "\u00bfEn qu\u00e9 medida est\u00e1 Vd. de acuerdo o en desacuerdo con cada una de las siguientes frases?",
+    "variable": "v91",
+    "option_text": "Es humillante recibir dinero sin haber tenido que trabajar para ello.",
+    "response_scale": "1 (Muy de acuerdo) - 2 (De acuerdo) - 3 (Ni de acuerdo ni en desacuerdo) - 4 (En desacuerdo) - 5 (Muy en desacuerdo) - 8 (No sabe, NS) - 9 (Sin Respuesta, SR)",
+    "model_response": "Final answer: @@3@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q34",
+    "question_text": "\u00bfEn qu\u00e9 medida est\u00e1 Vd. de acuerdo o en desacuerdo con cada una de las siguientes frases?",
+    "variable": "v92",
+    "option_text": "La gente que no trabaja se hace perezosa.",
+    "response_scale": "1 (Muy de acuerdo) - 2 (De acuerdo) - 3 (Ni de acuerdo ni en desacuerdo) - 4 (En desacuerdo) - 5 (Muy en desacuerdo) - 8 (No sabe, NS) - 9 (Sin Respuesta, SR)",
+    "model_response": "Final answer: @@3@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q35",
+    "question_text": "\u00bfEn qu\u00e9 medida est\u00e1 Vd. de acuerdo o en desacuerdo con cada una de las siguientes frases?",
+    "variable": "v93",
+    "option_text": "El trabajo es un deber que se tiene para con la sociedad.",
+    "response_scale": "1 (Muy de acuerdo) - 2 (De acuerdo) - 3 (Ni de acuerdo ni en desacuerdo) - 4 (En desacuerdo) - 5 (Muy en desacuerdo) - 8 (No sabe, NS) - 9 (Sin Respuesta, SR)",
+    "model_response": "Final answer: @@3@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q36",
+    "question_text": "\u00bfEn qu\u00e9 medida est\u00e1 Vd. de acuerdo o en desacuerdo con cada una de las siguientes frases?",
+    "variable": "v94",
+    "option_text": "El trabajo es siempre lo primero, aun cuando ello signifique menos tiempo libre.",
+    "response_scale": "1 (Muy de acuerdo) - 2 (De acuerdo) - 3 (Ni de acuerdo ni en desacuerdo) - 4 (En desacuerdo) - 5 (Muy en desacuerdo) - 8 (No sabe, NS) - 9 (Sin Respuesta, SR)",
+    "model_response": "Final answer: @@3@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q37",
+    "question_text": "\u00bfEn qu\u00e9 medida est\u00e1 Vd. de acuerdo o en desacuerdo con cada una de las siguientes frases?",
+    "variable": "v95",
+    "option_text": "Uno de mis principales objetivos en la vida ha sido hacer que mis padres se sientan orgullosos de m\u00ed.",
+    "response_scale": "1 (Muy de acuerdo) - 2 (De acuerdo) - 3 (Ni de acuerdo ni en desacuerdo) - 4 (En desacuerdo) - 5 (Muy en desacuerdo) - 8 (No sabe, NS) - 9 (Sin Respuesta, SR)",
+    "model_response": "Final answer: @@3@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q38",
+    "question_text": "\u00bfEn qu\u00e9 medida est\u00e1 Vd. de acuerdo o en desacuerdo con cada una de las siguientes frases?",
+    "variable": "v96",
+    "option_text": "Se necesita tener un trabajo para desarrollar al completo las capacidades de uno",
+    "response_scale": "1 (Muy de acuerdo) - 2 (De acuerdo) - 3 (Ni de acuerdo ni en desacuerdo) - 4 (En desacuerdo) - 5 (Muy en desacuerdo) - 8 (No sabe, NS) - 9 (Sin Respuesta, SR)",
+    "model_response": "Final answer: @@3@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q39",
+    "question_text": "\u00bfEn qu\u00e9 medida est\u00e1 Vd. de acuerdo o en desacuerdo con cada una de las siguientes frases?",
+    "variable": "v97",
+    "option_text": "Es humillante recibir dinero sin haber tenido que trabajar para ello.",
+    "response_scale": "1 (Muy de acuerdo) - 2 (De acuerdo) - 3 (Ni de acuerdo ni en desacuerdo) - 4 (En desacuerdo) - 5 (Muy en desacuerdo) - 8 (No sabe, NS) - 9 (Sin Respuesta, SR)",
+    "model_response": "Final answer: @@3@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q40",
+    "question_text": "\u00bfEn qu\u00e9 medida est\u00e1 Vd. de acuerdo o en desacuerdo con cada una de las siguientes frases?",
+    "variable": "v98",
+    "option_text": "La gente que no trabaja se hace perezosa.",
+    "response_scale": "1 (Muy de acuerdo) - 2 (De acuerdo) - 3 (Ni de acuerdo ni en desacuerdo) - 4 (En desacuerdo) - 5 (Muy en desacuerdo) - 8 (No sabe, NS) - 9 (Sin Respuesta, SR)",
+    "model_response": "Final answer: @@3@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q41",
+    "question_text": "\u00bfEn qu\u00e9 medida est\u00e1 Vd. de acuerdo o en desacuerdo con cada una de las siguientes frases?",
+    "variable": "v99",
+    "option_text": "El trabajo es un deber que se tiene para con la sociedad.",
+    "response_scale": "1 (Muy de acuerdo) - 2 (De acuerdo) - 3 (Ni de acuerdo ni en desacuerdo) - 4 (En desacuerdo) - 5 (Muy en desacuerdo) - 8 (No sabe, NS) - 9 (Sin Respuesta, SR)",
+    "model_response": "Final answer: @@3@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q42",
+    "question_text": "\u00bfEn qu\u00e9 medida est\u00e1 Vd. de acuerdo o en desacuerdo con cada una de las siguientes frases?",
+    "variable": "v100",
+    "option_text": "El trabajo es siempre lo primero, aun cuando ello signifique menos tiempo libre.",
+    "response_scale": "1 (Muy de acuerdo) - 2 (De acuerdo) - 3 (Ni de acuerdo ni en desacuerdo) - 4 (En desacuerdo) - 5 (Muy en desacuerdo) - 8 (No sabe, NS) - 9 (Sin Respuesta, SR)",
+    "model_response": "Final answer: @@3@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q43",
+    "question_text": "\u00bfEn qu\u00e9 medida est\u00e1 Vd. de acuerdo o en desacuerdo con cada una de las siguientes frases?",
+    "variable": "v101",
+    "option_text": "Uno de mis principales objetivos en la vida ha sido hacer que mis padres se sientan orgullosos de m\u00ed.",
+    "response_scale": "1 (Muy de acuerdo) - 2 (De acuerdo) - 3 (Ni de acuerdo ni en desacuerdo) - 4 (En desacuerdo) - 5 (Muy en desacuerdo) - 8 (No sabe, NS) - 9 (Sin Respuesta, SR)",
+    "model_response": "Final answer: @@3@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q44",
+    "question_text": "\u00bfEn qu\u00e9 medida est\u00e1 Vd. de acuerdo o en desacuerdo con cada una de las siguientes frases?",
+    "variable": "v102",
+    "option_text": "Reclamar beneficios del Estado, a los que uno no tiene derecho.",
+    "response_scale": "1 (nunca) - 2 (no) - 3 (siempre) - 8 (No sabe, NS) - 9 (Sin Respuesta, SR)",
+    "model_response": "Final answer: @@1@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q44",
+    "question_text": "\u00bfEn qu\u00e9 medida est\u00e1 Vd. de acuerdo o en desacuerdo con cada una de las siguientes frases?",
+    "variable": "v103",
+    "option_text": "Enga\u00f1ar en el pago de impuestos, si se puede.",
+    "response_scale": "1 (nunca) - 2 (no) - 3 (siempre) - 8 (No sabe, NS) - 9 (Sin Respuesta, SR)",
+    "model_response": "Final answer: @@1@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q44",
+    "question_text": "\u00bfEn qu\u00e9 medida est\u00e1 Vd. de acuerdo o en desacuerdo con cada una de las siguientes frases?",
+    "variable": "v104",
+    "option_text": "Consumo de marihuana o hach\u00eds",
+    "response_scale": "1 (nunca) - 2 (no) - 3 (siempre) - 8 (No sabe, NS) - 9 (Sin Respuesta, SR)",
+    "model_response": "Final answer: @@3@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q44",
+    "question_text": "\u00bfEn qu\u00e9 medida est\u00e1 Vd. de acuerdo o en desacuerdo con cada una de las siguientes frases?",
+    "variable": "v105",
+    "option_text": "Que alguien acepte un soborno en el cumplimiento de sus obligaciones.",
+    "response_scale": "1 (nunca) - 2 (no) - 3 (siempre) - 8 (No sabe, NS) - 9 (Sin Respuesta, SR)",
+    "model_response": "Final answer: @@1@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q44",
+    "question_text": "\u00bfEn qu\u00e9 medida est\u00e1 Vd. de acuerdo o en desacuerdo con cada una de las siguientes frases?",
+    "variable": "v106",
+    "option_text": "Homosexualidad",
+    "response_scale": "1 (nunca) - 2 (no) - 3 (siempre) - 8 (No sabe, NS) - 9 (Sin Respuesta, SR)",
+    "model_response": "Final answer: @@1@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q44",
+    "question_text": "\u00bfEn qu\u00e9 medida est\u00e1 Vd. de acuerdo o en desacuerdo con cada una de las siguientes frases?",
+    "variable": "v107",
+    "option_text": "Aborto",
+    "response_scale": "1 (nunca) - 2 (no) - 3 (siempre) - 8 (No sabe, NS) - 9 (Sin Respuesta, SR)",
+    "model_response": "Final answer: @@1@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q44",
+    "question_text": "\u00bfEn qu\u00e9 medida est\u00e1 Vd. de acuerdo o en desacuerdo con cada una de las siguientes frases?",
+    "variable": "v108",
+    "option_text": "Divorcio",
+    "response_scale": "1 (nunca) - 2 (no) - 3 (siempre) - 8 (No sabe, NS) - 9 (Sin Respuesta, SR)",
+    "model_response": "Final answer: @@1@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q44",
+    "question_text": "\u00bfEn qu\u00e9 medida est\u00e1 Vd. de acuerdo o en desacuerdo con cada una de las siguientes frases?",
+    "variable": "v109",
+    "option_text": "Eutanasia (dejar morir a alguien que tiene una enfermedad incurable)",
+    "response_scale": "1 (nunca) - 2 (no) - 3 (siempre) - 8 (No sabe, NS) - 9 (Sin Respuesta, SR)",
+    "model_response": "Final answer: @@3@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q44",
+    "question_text": "\u00bfEn qu\u00e9 medida est\u00e1 Vd. de acuerdo o en desacuerdo con cada una de las siguientes frases?",
+    "variable": "v110",
+    "option_text": "Suicidio",
+    "response_scale": "1 (nunca) - 2 (no) - 3 (siempre) - 8 (No sabe, NS) - 9 (Sin Respuesta, SR)",
+    "model_response": "Final answer: @@1@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q44",
+    "question_text": "\u00bfEn qu\u00e9 medida est\u00e1 Vd. de acuerdo o en desacuerdo con cada una de las siguientes frases?",
+    "variable": "v111",
+    "option_text": "Tener relaciones sexuales ocasionales / sin compromiso",
+    "response_scale": "1 (nunca) - 2 (no) - 3 (siempre) - 8 (No sabe, NS) - 9 (Sin Respuesta, SR)",
+    "model_response": "Final answer: @@3@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q44",
+    "question_text": "\u00bfEn qu\u00e9 medida est\u00e1 Vd. de acuerdo o en desacuerdo con cada una de las siguientes frases?",
+    "variable": "v112",
+    "option_text": "Viajar sin pagar en el transporte p\u00fablico",
+    "response_scale": "1 (nunca) - 2 (no) - 3 (siempre) - 8 (No sabe, NS) - 9 (Sin Respuesta, SR)",
+    "model_response": "Final answer: @@1@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q44",
+    "question_text": "\u00bfEn qu\u00e9 medida est\u00e1 Vd. de acuerdo o en desacuerdo con cada una de las siguientes frases?",
+    "variable": "v113",
+    "option_text": "Prostituci\u00f3n",
+    "response_scale": "1 (nunca) - 2 (no) - 3 (siempre) - 8 (No sabe, NS) - 9 (Sin Respuesta, SR)",
+    "model_response": "Final answer: @@1@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q44",
+    "question_text": "\u00bfEn qu\u00e9 medida est\u00e1 Vd. de acuerdo o en desacuerdo con cada una de las siguientes frases?",
+    "variable": "v114",
+    "option_text": "Inseminaci\u00f3n artificial o fecundaci\u00f3n in-vitro",
+    "response_scale": "1 (nunca) - 2 (no) - 3 (siempre) - 8 (No sabe, NS) - 9 (Sin Respuesta, SR)",
+    "model_response": "Final answer: @@1@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q44",
+    "question_text": "\u00bfEn qu\u00e9 medida est\u00e1 Vd. de acuerdo o en desacuerdo con cada una de las siguientes frases?",
+    "variable": "v115",
+    "option_text": "Violencia Pol\u00edtica",
+    "response_scale": "1 (nunca) - 2 (no) - 3 (siempre) - 8 (No sabe, NS) - 9 (Sin Respuesta, SR)",
+    "model_response": "Final answer: @@1@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q44",
+    "question_text": "\u00bfEn qu\u00e9 medida est\u00e1 Vd. de acuerdo o en desacuerdo con cada una de las siguientes frases?",
+    "variable": "v116",
+    "option_text": "Pena de muerte",
+    "response_scale": "1 (nunca) - 2 (no) - 3 (siempre) - 8 (No sabe, NS) - 9 (Sin Respuesta, SR)",
+    "model_response": "Final answer: @@1@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q45",
+    "question_text": "Aqu\u00ed hay dos frases que la gente suele utilizar cuando se habla sobre el medio ambiente y el crecimiento econ\u00f3mico.",
+    "variable": NaN,
+    "option_text": NaN,
+    "response_scale": NaN,
+    "model_response": "Final answer: @@nan@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q46",
+    "question_text": "\u00bfMe puede decir si est\u00e1 Ud. de acuerdo o en desacuerdo con las siguientes afirmaciones?",
+    "variable": "v118",
+    "option_text": "Dar\u00eda parte de mis ingresos si tuviera la certeza de que mi dinero se iba a destinar a evitar la contaminaci\u00f3n medioambiental",
+    "response_scale": "1 (Muy de acuerdo) - 2 (De acuerdo) - 3 (Ni de acuerdo ni en desacuerdo) - 4 (En desacuerdo) - 5 (Muy en desacuerdo) - 8 (No sabe, NS) - 9 (Sin Respuesta, SR)",
+    "model_response": "Final answer: @@3@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q46",
+    "question_text": "\u00bfMe puede decir si est\u00e1 Ud. de acuerdo o en desacuerdo con las siguientes afirmaciones?",
+    "variable": "v119",
+    "option_text": "Resulta muy dif\u00edcil para alguien como yo hacer mucho en favor del medio ambiente",
+    "response_scale": "1 (Muy de acuerdo) - 2 (De acuerdo) - 3 (Ni de acuerdo ni en desacuerdo) - 4 (En desacuerdo) - 5 (Muy en desacuerdo) - 8 (No sabe, NS) - 9 (Sin Respuesta, SR)",
+    "model_response": "Final answer: @@3@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q46",
+    "question_text": "\u00bfMe puede decir si est\u00e1 Ud. de acuerdo o en desacuerdo con las siguientes afirmaciones?",
+    "variable": "v120",
+    "option_text": "Hay cosas m\u00e1s importantes que hacer en la vida que proteger el medioambiente",
+    "response_scale": "1 (Muy de acuerdo) - 2 (De acuerdo) - 3 (Ni de acuerdo ni en desacuerdo) - 4 (En desacuerdo) - 5 (Muy en desacuerdo) - 8 (No sabe, NS) - 9 (Sin Respuesta, SR)",
+    "model_response": "Final answer: @@3@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q46",
+    "question_text": "\u00bfMe puede decir si est\u00e1 Ud. de acuerdo o en desacuerdo con las siguientes afirmaciones?",
+    "variable": "v121",
+    "option_text": "No merece la pena intentar hacer algo por el medioambiente si los dem\u00e1s no hacen lo mismo",
+    "response_scale": "1 (Muy de acuerdo) - 2 (De acuerdo) - 3 (Ni de acuerdo ni en desacuerdo) - 4 (En desacuerdo) - 5 (Muy en desacuerdo) - 8 (No sabe, NS) - 9 (Sin Respuesta, SR)",
+    "model_response": "Final answer: @@3@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q46",
+    "question_text": "\u00bfMe puede decir si est\u00e1 Ud. de acuerdo o en desacuerdo con las siguientes afirmaciones?",
+    "variable": "v122",
+    "option_text": "Muchas de las afirmaciones sobre los riesgos medioambientales son exageradas",
+    "response_scale": "1 (Muy de acuerdo) - 2 (De acuerdo) - 3 (Ni de acuerdo ni en desacuerdo) - 4 (En desacuerdo) - 5 (Muy en desacuerdo) - 8 (No sabe, NS) - 9 (Sin Respuesta, SR)",
+    "model_response": "Final answer: @@3@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q47",
+    "question_text": "\u00bfMe puede decir si est\u00e1 Ud. de acuerdo o en desacuerdo con las siguientes afirmaciones?",
+    "variable": NaN,
+    "option_text": NaN,
+    "response_scale": "1 (Deber\u00eda darse prioridad a la protecci\u00f3n del medio ambiente, incluso si provoca un crecimiento econ\u00f3mico m\u00e1s lento y alguna p\u00e9rdida de puestos de trabajo) - 2 (Deber\u00eda darse prioridad al crecimiento econ\u00f3mico y a la creaci\u00f3n de empleo, incluso si el medio ambiente sufre en alguna medida) - 3 (Otra respuesta) - 8 (No sabe, NS) - 9 (Sin Respuesta, SR)",
+    "model_response": "Final answer: @@3@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q48",
+    "question_text": "\u00bfMe puede decir si est\u00e1 Ud. de acuerdo o en desacuerdo con las siguientes afirmaciones?",
+    "variable": "v124",
+    "option_text": "Mantener a la gente bajo videovigilancia en zonas p\u00fablicas",
+    "response_scale": "1 (Definitivamente deber\u00eda tener derecho) - 2 (Probablemente deber\u00eda tener derecho) - 3 (Probablemente no deber\u00eda tener derecho) - 4 (Definitivamente no deber\u00eda tener derecho) - 8 (No sabe, NS) - 9 (Sin Respuesta, SR)",
+    "model_response": "Final answer: @@3@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q48",
+    "question_text": "\u00bfMe puede decir si est\u00e1 Ud. de acuerdo o en desacuerdo con las siguientes afirmaciones?",
+    "variable": "v125",
+    "option_text": "Controlar los correos electr\u00f3nicos y otra informaci\u00f3n intercambiada en internet",
+    "response_scale": "1 (Definitivamente deber\u00eda tener derecho) - 2 (Probablemente deber\u00eda tener derecho) - 3 (Probablemente no deber\u00eda tener derecho) - 4 (Definitivamente no deber\u00eda tener derecho) - 8 (No sabe, NS) - 9 (Sin Respuesta, SR)",
+    "model_response": "Final answer: @@3@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q48",
+    "question_text": "\u00bfMe puede decir si est\u00e1 Ud. de acuerdo o en desacuerdo con las siguientes afirmaciones?",
+    "variable": "v126",
+    "option_text": "Recopilar informaci\u00f3n sobre cualquier persona que viva en Espa\u00f1a sin su conocimiento",
+    "response_scale": "1 (Definitivamente deber\u00eda tener derecho) - 2 (Probablemente deber\u00eda tener derecho) - 3 (Probablemente no deber\u00eda tener derecho) - 4 (Definitivamente no deber\u00eda tener derecho) - 8 (No sabe, NS) - 9 (Sin Respuesta, SR)",
+    "model_response": "Final answer: @@4@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q49",
+    "question_text": "\u00bfCon qu\u00e9 frecuencia sigue usted los temas pol\u00edticos...",
+    "variable": "v127",
+    "option_text": "... en la televisi\u00f3n",
+    "response_scale": "1 (Todos los d\u00edas) - 2 (Varias veces a la semana) - 3 (Una o dos veces a la semana) - 4 (Con menos frecuencia) - 5 (Nunca) - 8 (No sabe, NS) - 9 (Sin Respuesta, SR)",
+    "model_response": "Final answer: @@1@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q49",
+    "question_text": "\u00bfCon qu\u00e9 frecuencia sigue usted los temas pol\u00edticos...",
+    "variable": "v128",
+    "option_text": "... en la radio",
+    "response_scale": "1 (Todos los d\u00edas) - 2 (Varias veces a la semana) - 3 (Una o dos veces a la semana) - 4 (Con menos frecuencia) - 5 (Nunca) - 8 (No sabe, NS) - 9 (Sin Respuesta, SR)",
+    "model_response": "Final answer: @@3@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q49",
+    "question_text": "\u00bfCon qu\u00e9 frecuencia sigue usted los temas pol\u00edticos...",
+    "variable": "v129",
+    "option_text": "... en la prensa diaria",
+    "response_scale": "1 (Todos los d\u00edas) - 2 (Varias veces a la semana) - 3 (Una o dos veces a la semana) - 4 (Con menos frecuencia) - 5 (Nunca) - 8 (No sabe, NS) - 9 (Sin Respuesta, SR)",
+    "model_response": "Final answer: @@3@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q49",
+    "question_text": "\u00bfCon qu\u00e9 frecuencia sigue usted los temas pol\u00edticos...",
+    "variable": "v130",
+    "option_text": "...en las redes sociales",
+    "response_scale": "1 (Todos los d\u00edas) - 2 (Varias veces a la semana) - 3 (Una o dos veces a la semana) - 4 (Con menos frecuencia) - 5 (Nunca) - 8 (No sabe, NS) - 9 (Sin Respuesta, SR)",
+    "model_response": "Final answer: @@1@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q50",
+    "question_text": "\u00bfHasta qu\u00e9 punto siente Vd. que le preocupan las condiciones de vida de ..?",
+    "variable": "v131",
+    "option_text": "La gente de su barrio.",
+    "response_scale": "1 (totalmente) - 2 (mucho) - 3 (hasta cierto punto) - 4 (no demasiado) - 5 (nada en absoluto) - 8 (No sabe, NS) - 9 (Sin Respuesta, SR)",
+    "model_response": "Final answer: @@3@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q50",
+    "question_text": "\u00bfHasta qu\u00e9 punto siente Vd. que le preocupan las condiciones de vida de ..?",
+    "variable": "v132",
+    "option_text": "La gente de la regi\u00f3n en la que Vd. vive.",
+    "response_scale": "1 (totalmente) - 2 (mucho) - 3 (hasta cierto punto) - 4 (no demasiado) - 5 (nada en absoluto) - 8 (No sabe, NS) - 9 (Sin Respuesta, SR)",
+    "model_response": "Final answer: @@3@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q50",
+    "question_text": "\u00bfHasta qu\u00e9 punto siente Vd. que le preocupan las condiciones de vida de ..?",
+    "variable": "v133",
+    "option_text": "Sus compatriotas",
+    "response_scale": "1 (totalmente) - 2 (mucho) - 3 (hasta cierto punto) - 4 (no demasiado) - 5 (nada en absoluto) - 8 (No sabe, NS) - 9 (Sin Respuesta, SR)",
+    "model_response": "Final answer: @@1@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q50",
+    "question_text": "\u00bfHasta qu\u00e9 punto siente Vd. que le preocupan las condiciones de vida de ..?",
+    "variable": "v134",
+    "option_text": "Europeos",
+    "response_scale": "1 (totalmente) - 2 (mucho) - 3 (hasta cierto punto) - 4 (no demasiado) - 5 (nada en absoluto) - 8 (No sabe, NS) - 9 (Sin Respuesta, SR)",
+    "model_response": "Final answer: @@3@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q50",
+    "question_text": "\u00bfHasta qu\u00e9 punto siente Vd. que le preocupan las condiciones de vida de ..?",
+    "variable": "v135",
+    "option_text": "Todos los seres humanos del mundo",
+    "response_scale": "1 (totalmente) - 2 (mucho) - 3 (hasta cierto punto) - 4 (no demasiado) - 5 (nada en absoluto) - 8 (No sabe, NS) - 9 (Sin Respuesta, SR)",
+    "model_response": "Final answer: @@3@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q51",
+    "question_text": "\u00bfHasta qu\u00e9 punto siente Vd. que le preocupan las condiciones de vida de los siguientes grupos que viven en su pa\u00eds?",
+    "variable": "v136",
+    "option_text": "Las personas mayores",
+    "response_scale": "1 (totalmente) - 2 (mucho) - 3 (hasta cierto punto) - 4 (no demasiado) - 5 (nada en absoluto) - 8 (No sabe, NS) - 9 (Sin Respuesta, SR)",
+    "model_response": "Final answer: @@3@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q51",
+    "question_text": "\u00bfHasta qu\u00e9 punto siente Vd. que le preocupan las condiciones de vida de los siguientes grupos que viven en su pa\u00eds?",
+    "variable": "v137",
+    "option_text": "Las personas en paro",
+    "response_scale": "1 (totalmente) - 2 (mucho) - 3 (hasta cierto punto) - 4 (no demasiado) - 5 (nada en absoluto) - 8 (No sabe, NS) - 9 (Sin Respuesta, SR)",
+    "model_response": "Final answer: @@1@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q51",
+    "question_text": "\u00bfHasta qu\u00e9 punto siente Vd. que le preocupan las condiciones de vida de los siguientes grupos que viven en su pa\u00eds?",
+    "variable": "v138",
+    "option_text": "Las personas inmigrantes",
+    "response_scale": "1 (totalmente) - 2 (mucho) - 3 (hasta cierto punto) - 4 (no demasiado) - 5 (nada en absoluto) - 8 (No sabe, NS) - 9 (Sin Respuesta, SR)",
+    "model_response": "Final answer: @@3@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q51",
+    "question_text": "\u00bfHasta qu\u00e9 punto siente Vd. que le preocupan las condiciones de vida de los siguientes grupos que viven en su pa\u00eds?",
+    "variable": "v139",
+    "option_text": "Las personas enfermas y discapacitadas",
+    "response_scale": "1 (totalmente) - 2 (mucho) - 3 (hasta cierto punto) - 4 (no demasiado) - 5 (nada en absoluto) - 8 (No sabe, NS) - 9 (Sin Respuesta, SR)",
+    "model_response": "Final answer: @@3@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q52",
+    "question_text": "\u00bfQu\u00e9 deber\u00eda proporcionar una sociedad?",
+    "variable": "v140",
+    "option_text": "La eliminaci\u00f3n de las grandes desigualdades de ingresos entre los ciudadanos",
+    "response_scale": "1 (muy importante) - 2 (bastante importante) - 3 (no muy importante) - 4 (nada importante) - 8 (No sabe, NS) - 9 (Sin Respuesta, SR)",
+    "model_response": "Final answer: @@1@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q52",
+    "question_text": "\u00bfQu\u00e9 deber\u00eda proporcionar una sociedad?",
+    "variable": "v141",
+    "option_text": "Garantizar que se cubren las necesidades b\u00e1sicas de todo el mundo en lo que se refiere a alimentaci\u00f3n, vivienda, educaci\u00f3n y salud",
+    "response_scale": "1 (muy importante) - 2 (bastante importante) - 3 (no muy importante) - 4 (nada importante) - 8 (No sabe, NS) - 9 (Sin Respuesta, SR)",
+    "model_response": "Final answer: @@1@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q52",
+    "question_text": "\u00bfQu\u00e9 deber\u00eda proporcionar una sociedad?",
+    "variable": "v142",
+    "option_text": "El reconocimiento de la gente por sus m\u00e9ritos.",
+    "response_scale": "1 (muy importante) - 2 (bastante importante) - 3 (no muy importante) - 4 (nada importante) - 8 (No sabe, NS) - 9 (Sin Respuesta, SR)",
+    "model_response": "Final answer: @@1@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q52",
+    "question_text": "\u00bfQu\u00e9 deber\u00eda proporcionar una sociedad?",
+    "variable": "v143",
+    "option_text": "Protecci\u00f3n contra el terrorismo",
+    "response_scale": "1 (muy importante) - 2 (bastante importante) - 3 (no muy importante) - 4 (nada importante) - 8 (No sabe, NS) - 9 (Sin Respuesta, SR)",
+    "model_response": "Final answer: @@1@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q53",
+    "question_text": "\u00bfEs Vd. ciudadano del Estado espa\u00f1ol?",
+    "variable": NaN,
+    "option_text": NaN,
+    "response_scale": "1 (s\u00ed) - 2 (no) - 8 (No sabe, NS) - 9 (Sin Respuesta, SR)",
+    "model_response": "Final answer: @@1@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q54",
+    "question_text": "\u00bfHasta qu\u00e9 punto est\u00e1 Vd. orgulloso de ser ciudadano espa\u00f1ol?",
+    "variable": NaN,
+    "option_text": NaN,
+    "response_scale": "1 (muy orgulloso) - 2 (bastante orgulloso) - 3 (no muy orgulloso) - 4 (nada orgulloso) - 8 (No sabe, NS) - 9 (Sin Respuesta, SR)",
+    "model_response": "Final answer: @@1@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q55",
+    "question_text": "Cuando se celebran elecciones, \u00bfusted vota siempre, frecuentemente o nunca?",
+    "variable": "v146",
+    "option_text": "Nivel local",
+    "response_scale": "1 (Siempre) - 2 (Frecuentemente) - 3 (Nunca) - 8 (No sabe, NS) - 9 (Sin Respuesta, SR)",
+    "model_response": "Final answer: @@1@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q55",
+    "question_text": "Cuando se celebran elecciones, \u00bfusted vota siempre, frecuentemente o nunca?",
+    "variable": "v147",
+    "option_text": "Nivel nacional",
+    "response_scale": "1 (Siempre) - 2 (Frecuentemente) - 3 (Nunca) - 8 (No sabe, NS) - 9 (Sin Respuesta, SR)",
+    "model_response": "Final answer: @@1@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q55",
+    "question_text": "Cuando se celebran elecciones, \u00bfusted vota siempre, frecuentemente o nunca?",
+    "variable": "v148",
+    "option_text": "Nivel europeo",
+    "response_scale": "1 (Siempre) - 2 (Frecuentemente) - 3 (Nunca) - 8 (No sabe, NS) - 9 (Sin Respuesta, SR)",
+    "model_response": "Final answer: @@1@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q56",
+    "question_text": "\u00bfPor qu\u00e9 partido pol\u00edtico siente m\u00e1s simpat\u00eda?",
+    "variable": NaN,
+    "option_text": NaN,
+    "response_scale": NaN,
+    "model_response": "Final answer: @@nan@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q57",
+    "question_text": "\u00bfPor qu\u00e9 partido pol\u00edtico siente m\u00e1s simpat\u00eda?",
+    "variable": NaN,
+    "option_text": NaN,
+    "response_scale": NaN,
+    "model_response": "Final answer: @@nan@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q58",
+    "question_text": "\u00bfEn qu\u00e9 medida est\u00e1 Vd. de acuerdo o en desacuerdo con cada una de las siguientes frases?",
+    "variable": "v151",
+    "option_text": "Los votos son contabilizados correctamente/ limpiamente",
+    "response_scale": "1 (Muy a menudo) - 2 (Algunas veces) - 3 (Raramente) - 4 (Nunca) - 8 (No sabe, NS) - 9 (Sin Respuesta, SR)",
+    "model_response": "Final answer: @@3@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q58",
+    "question_text": "\u00bfEn qu\u00e9 medida est\u00e1 Vd. de acuerdo o en desacuerdo con cada una de las siguientes frases?",
+    "variable": "v152",
+    "option_text": "Se impide a los candidatos de la oposici\u00f3n presentarse a las elecciones",
+    "response_scale": "1 (Muy a menudo) - 2 (Algunas veces) - 3 (Raramente) - 4 (Nunca) - 8 (No sabe, NS) - 9 (Sin Respuesta, SR)",
+    "model_response": "Final answer: @@4@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q58",
+    "question_text": "\u00bfEn qu\u00e9 medida est\u00e1 Vd. de acuerdo o en desacuerdo con cada una de las siguientes frases?",
+    "variable": "v153",
+    "option_text": "Las noticias en la televisi\u00f3n favorecen al partido que gobierna",
+    "response_scale": "1 (Muy a menudo) - 2 (Algunas veces) - 3 (Raramente) - 4 (Nunca) - 8 (No sabe, NS) - 9 (Sin Respuesta, SR)",
+    "model_response": "Final answer: @@3@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q58",
+    "question_text": "\u00bfEn qu\u00e9 medida est\u00e1 Vd. de acuerdo o en desacuerdo con cada una de las siguientes frases?",
+    "variable": "v154",
+    "option_text": "Los votantes son sobornados",
+    "response_scale": "1 (Muy a menudo) - 2 (Algunas veces) - 3 (Raramente) - 4 (Nunca) - 8 (No sabe, NS) - 9 (Sin Respuesta, SR)",
+    "model_response": "Final answer: @@4@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q58",
+    "question_text": "\u00bfEn qu\u00e9 medida est\u00e1 Vd. de acuerdo o en desacuerdo con cada una de las siguientes frases?",
+    "variable": "v155",
+    "option_text": "La prensa cubre las elecciones imparcialmente",
+    "response_scale": "1 (Muy a menudo) - 2 (Algunas veces) - 3 (Raramente) - 4 (Nunca) - 8 (No sabe, NS) - 9 (Sin Respuesta, SR)",
+    "model_response": "Final answer: @@3@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q58",
+    "question_text": "\u00bfEn qu\u00e9 medida est\u00e1 Vd. de acuerdo o en desacuerdo con cada una de las siguientes frases?",
+    "variable": "v156",
+    "option_text": "Los funcionarios electorales son justos/ imparciales",
+    "response_scale": "1 (Muy a menudo) - 2 (Algunas veces) - 3 (Raramente) - 4 (Nunca) - 8 (No sabe, NS) - 9 (Sin Respuesta, SR)",
+    "model_response": "Final answer: @@3@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q58",
+    "question_text": "\u00bfEn qu\u00e9 medida est\u00e1 Vd. de acuerdo o en desacuerdo con cada una de las siguientes frases?",
+    "variable": "v157",
+    "option_text": "Los ricos compran las elecciones",
+    "response_scale": "1 (Muy a menudo) - 2 (Algunas veces) - 3 (Raramente) - 4 (Nunca) - 8 (No sabe, NS) - 9 (Sin Respuesta, SR)",
+    "model_response": "Final answer: @@3@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q58",
+    "question_text": "\u00bfEn qu\u00e9 medida est\u00e1 Vd. de acuerdo o en desacuerdo con cada una de las siguientes frases?",
+    "variable": "v158",
+    "option_text": "Los votantes son amenazados con violencia en las urnas",
+    "response_scale": "1 (Muy a menudo) - 2 (Algunas veces) - 3 (Raramente) - 4 (Nunca) - 8 (No sabe, NS) - 9 (Sin Respuesta, SR)",
+    "model_response": "Final answer: @@4@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q59",
+    "question_text": "\u00bfEn qu\u00e9 medida est\u00e1 Vd. interesado por la pol\u00edtica?",
+    "variable": NaN,
+    "option_text": NaN,
+    "response_scale": "1 (Muy interesado) - 2 (Algo interesado) - 3 (No muy interesado) - 4 (Nada interesado) - 8 (No sabe, NS) - 9 (Sin Respuesta, SR)",
+    "model_response": "Final answer: @@1@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q60",
+    "question_text": "\u00bfEn qu\u00e9 medida est\u00e1 Vd. de acuerdo o en desacuerdo con cada una de las siguientes frases?",
+    "variable": "v160",
+    "option_text": "Los inmigrantes tienen una repercusi\u00f3n buena en el desarrollo de Espa\u00f1a",
+    "response_scale": "1 (Muy buena) - 2 (Bastante buena) - 3 (Ni buena ni mala) - 4 (Bastante mala) - 5 (Muy mala) - 8 (No sabe, NS) - 9 (Sin Respuesta, SR)",
+    "model_response": "Final answer: @@1@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q61",
+    "question_text": "\u00bfEn qu\u00e9 medida est\u00e1 Vd. de acuerdo o en desacuerdo con cada una de las siguientes frases?",
+    "variable": "v161",
+    "option_text": "Los inmigrantes quitan los trabajos a los espa\u00f1oles",
+    "response_scale": "1 (Muy de acuerdo) - 2 (De acuerdo) - 3 (Ni de acuerdo ni en desacuerdo) - 4 (En desacuerdo) - 5 (Muy en desacuerdo) - 8 (No sabe, NS) - 9 (Sin Respuesta, SR)",
+    "model_response": "Final answer: @@3@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q61",
+    "question_text": "\u00bfEn qu\u00e9 medida est\u00e1 Vd. de acuerdo o en desacuerdo con cada una de las siguientes frases?",
+    "variable": "v162",
+    "option_text": "Los inmigrantes no empeoran los problemas de delincuencia",
+    "response_scale": "1 (Muy de acuerdo) - 2 (De acuerdo) - 3 (Ni de acuerdo ni en desacuerdo) - 4 (En desacuerdo) - 5 (Muy en desacuerdo) - 8 (No sabe, NS) - 9 (Sin Respuesta, SR)",
+    "model_response": "Final answer: @@3@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q61",
+    "question_text": "\u00bfEn qu\u00e9 medida est\u00e1 Vd. de acuerdo o en desacuerdo con cada una de las siguientes frases?",
+    "variable": "v163",
+    "option_text": "Los inmigrantes no suponen una dificultad para el sistema de bienestar de un pa\u00eds",
+    "response_scale": "1 (Muy de acuerdo) - 2 (De acuerdo) - 3 (Ni de acuerdo ni en desacuerdo) - 4 (En desacuerdo) - 5 (Muy en desacuerdo) - 8 (No sabe, NS) - 9 (Sin Respuesta, SR)",
+    "model_response": "Final answer: @@3@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q61",
+    "question_text": "\u00bfEn qu\u00e9 medida est\u00e1 Vd. de acuerdo o en desacuerdo con cada una de las siguientes frases?",
+    "variable": "v164",
+    "option_text": "Es mejor si los inmigrantes no mantienen sus costumbres y tradiciones distintivas",
+    "response_scale": "1 (Muy de acuerdo) - 2 (De acuerdo) - 3 (Ni de acuerdo ni en desacuerdo) - 4 (En desacuerdo) - 5 (Muy en desacuerdo) - 8 (No sabe, NS) - 9 (Sin Respuesta, SR)",
+    "model_response": "Final answer: @@5@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q62",
+    "question_text": "\u00bfCu\u00e1l es el nivel educativo m\u00e1s alto completado por su padre?",
+    "variable": NaN,
+    "option_text": NaN,
+    "response_scale": "1 (Sin estudios) - 2 (Estudios primarios sin completar (menos de 5 a\u00f1os)) - 3 (Antigua Educaci\u00f3n Primaria (Certificado de Estudios Primarios)) - 4 (Hasta 5\u00ba de EGB) - 5 (Educaci\u00f3n Primaria (LOGSE)) - 6 (Grado Elemental en M\u00fasica y Danza) - 7 (Bachillerato elemental) - 8 (EGB) - 9 (ESO) - 10 (Bachillerato Superior o BUP) - 11 (PREU o COU) - 12 (Bachillerato (LOGSE)) - 13 (F.P. de iniciaci\u00f3n) - 14 (Programas de garant\u00eda social, Programas de Cualificaci\u00f3n Profesional Inicial (PCPI)) - 15 (F.P. Oficial\u00eda) - 16 (F.P. de 1er grado (FP I)) - 17 (C.F. de Grado Medio (T\u00e9cnico Medio)) - 18 (C.F. de Grado Medio en Artes Pl\u00e1sticas y Dise\u00f1o) - 19 (Grado Medio en M\u00fasica y Danza) - 20 (F.P. Maestr\u00eda) - 21 (F.P. de 2\u00ba Grado (FP II)) - 22 (C.F. de Grado Superior (T\u00e9cnico Superior)) - 23 (C.F. de Grado Superior en Escuelas de Arte) - 24 (Peritaje, Enfermer\u00eda, Magisterio o Asistente Social) - 25 (Diploma, Ingeniero o Arquitecto T\u00e9cnico, 3 a\u00f1os de licenciatura, Grado (Bolonia), Titulo Superior en Dise\u00f1o) - 26 (Licenciado, Ingeniero Superior, Arquitecto, M\u00e1ster (Bolonia), t\u00edtulo Superior en M\u00fasica, Danza o Arte Dram\u00e1tico) - 27 (Doctorado) - 28 (Otros (especificar)) - 88 (No sabe, NS) - 99 (Sin Respuesta, SR)",
+    "model_response": "Final answer: @@88@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q63",
+    "question_text": "\u00bfCu\u00e1l es el nivel educativo m\u00e1s alto completado por su madre?",
+    "variable": NaN,
+    "option_text": NaN,
+    "response_scale": "1 (Sin estudios) - 2 (Estudios primarios sin completar (menos de 5 a\u00f1os)) - 3 (Antigua Educaci\u00f3n Primaria (Certificado de Estudios Primarios)) - 4 (Hasta 5\u00ba de EGB) - 5 (Educaci\u00f3n Primaria (LOGSE)) - 6 (Grado Elemental en M\u00fasica y Danza) - 7 (Bachillerato elemental) - 8 (EGB) - 9 (ESO) - 10 (Bachillerato Superior o BUP) - 11 (PREU o COU) - 12 (Bachillerato (LOGSE)) - 13 (F.P. de iniciaci\u00f3n) - 14 (Programas de garant\u00eda social, Programas de Cualificaci\u00f3n Profesional Inicial (PCPI)) - 15 (F.P. Oficial\u00eda) - 16 (F.P. de 1er grado (FP I)) - 17 (C.F. de Grado Medio (T\u00e9cnico Medio)) - 18 (C.F. de Grado Medio en Artes Pl\u00e1sticas y Dise\u00f1o) - 19 (Grado Medio en M\u00fasica y Danza) - 20 (F.P. Maestr\u00eda) - 21 (F.P. de 2\u00ba Grado (FP II)) - 22 (C.F. de Grado Superior (T\u00e9cnico Superior)) - 23 (C.F. de Grado Superior en Escuelas de Arte) - 24 (Peritaje, Enfermer\u00eda, Magisterio o Asistente Social) - 25 (Diploma, Ingeniero o Arquitecto T\u00e9cnico, 3 a\u00f1os de licenciatura, Grado (Bolonia), Titulo Superior en Dise\u00f1o) - 26 (Licenciado, Ingeniero Superior, Arquitecto, M\u00e1ster (Bolonia), t\u00edtulo Superior en M\u00fasica, Danza o Arte Dram\u00e1tico) - 27 (Doctorado) - 28 (Otros (especificar)) - 88 (No sabe, NS) - 99 (Sin Respuesta, SR)",
+    "model_response": "Final answer: @@1@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q64",
+    "question_text": "\u00bfSexo del respondente?",
+    "variable": "v167",
+    "option_text": NaN,
+    "response_scale": "1 (hombre) - 2 (mujer) - 8 (No sabe, NS) - 9 (Sin Respuesta, SR)",
+    "model_response": "Final answer: @@1@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q65",
+    "question_text": "\u00bfPodr\u00eda decirme en qu\u00e9 a\u00f1o naci\u00f3 Vd., por favor:",
+    "variable": "v168",
+    "option_text": NaN,
+    "response_scale": NaN,
+    "model_response": "Final answer: @@nan@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q66",
+    "question_text": "\u00bfHa nacido Ud. en Espa\u00f1a?",
+    "variable": "v169",
+    "option_text": NaN,
+    "response_scale": "1 (s\u00ed) - 2 (no) - 8 (No sabe, NS) - 9 (Sin Respuesta, SR)",
+    "model_response": "Final answer: @@1@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q67",
+    "question_text": "\u00bfEn qu\u00e9 pa\u00eds ha nacido Ud.?",
+    "variable": "v170",
+    "option_text": NaN,
+    "response_scale": NaN,
+    "model_response": "Final answer: @@nan@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q68",
+    "question_text": "\u00bfNaci\u00f3 su padre en Espa\u00f1a?",
+    "variable": "v171",
+    "option_text": NaN,
+    "response_scale": "1 (s\u00ed) - 2 (no) - 8 (No sabe, NS) - 9 (Sin Respuesta, SR)",
+    "model_response": "Final answer: @@8@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q69",
+    "question_text": "\u00bfEn qu\u00e9 pa\u00eds naci\u00f3 su padre?",
+    "variable": "v172",
+    "option_text": NaN,
+    "response_scale": NaN,
+    "model_response": "Final answer: @@nan@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q70",
+    "question_text": "\u00bfNaci\u00f3 su madre en Espa\u00f1a?",
+    "variable": "v173",
+    "option_text": NaN,
+    "response_scale": "1 (s\u00ed) - 2 (no) - 8 (No sabe, NS) - 9 (Sin Respuesta, SR)",
+    "model_response": "Final answer: @@8@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q71",
+    "question_text": "\u00bfEn qu\u00e9 pa\u00eds naci\u00f3 su madre?",
+    "variable": "v174",
+    "option_text": NaN,
+    "response_scale": NaN,
+    "model_response": "Final answer: @@nan@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q72",
+    "question_text": "\u00bfCu\u00e1l es su actual estado civil?",
+    "variable": "v175",
+    "option_text": NaN,
+    "response_scale": "1 (casado(a)) - 2 (Pareja de hecho) - 3 (viudo(a)) - 4 (divorciado(a)) - 5 (separado(a)) - 6 (nunca ha estado casado(a) o registrado como pareja) - 8 (No sabe, NS) - 9 (Sin Respuesta, SR)",
+    "model_response": "Final answer: @@6@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q73",
+    "question_text": "\u00bfViv\u00eda Ud. con su pareja antes de casarse o de registrarse como pareja de hecho?",
+    "variable": "v176",
+    "option_text": NaN,
+    "response_scale": "1 (s\u00ed) - 2 (no) - 8 (No sabe, NS) - 9 (Sin Respuesta, SR)",
+    "model_response": "Final answer: @@8@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q74",
+    "question_text": "\u00bfVive Ud. con su pareja?",
+    "variable": "v177",
+    "option_text": NaN,
+    "response_scale": "1 (s\u00ed) - 2 (no) - 8 (No sabe, NS) - 9 (Sin Respuesta, SR)",
+    "model_response": "Final answer: @@1@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q75",
+    "question_text": "\u00bfMantiene Ud. una relaci\u00f3n estable?",
+    "variable": "v178",
+    "option_text": NaN,
+    "response_scale": "1 (s\u00ed) - 2 (no) - 8 (No sabe, NS) - 9 (Sin Respuesta, SR)",
+    "model_response": "Final answer: @@1@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q76",
+    "question_text": "\u00bfVive Ud. con sus padres o con sus suegros?",
+    "variable": "v179",
+    "option_text": NaN,
+    "response_scale": "1 (No) - 2 (Si, con uno de mis padres/ con mis padres) - 3 (Si, con uno de mis suegros/ con mis suegros) - 4 (Si, con ambos, con mis padres y con mis suegros) - 8 (No sabe, NS) - 9 (Sin Respuesta, SR)",
+    "model_response": "Final answer: @@2@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q77",
+    "question_text": "\u00bfCu\u00e1ntos hijos/as tiene?",
+    "variable": "v180",
+    "option_text": NaN,
+    "response_scale": NaN,
+    "model_response": "Final answer: @@nan@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q78",
+    "question_text": "Incluy\u00e9ndole a Vd., \u00bfcu\u00e1ntas personas - hijos incluidos - viven de forma regular en este domicilio?",
+    "variable": "v181",
+    "option_text": NaN,
+    "response_scale": NaN,
+    "model_response": "Final answer: @@nan@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q79",
+    "question_text": "\u00bfQu\u00e9 edad tiene la persona m\u00e1s joven que vive en su domicilio familiar?",
+    "variable": "v182",
+    "option_text": NaN,
+    "response_scale": NaN,
+    "model_response": "Final answer: @@nan@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q80",
+    "question_text": "\u00bfA qu\u00e9 edad acab\u00f3 Vd. (o piensa Vd. acabar) sus estudios regulares, bien en la escuela/colegio/instituto o bien en un centro de ense\u00f1anza superior?",
+    "variable": "v183",
+    "option_text": NaN,
+    "response_scale": NaN,
+    "model_response": "Final answer: @@nan@@",
+    "status": "success"
   }
 ]

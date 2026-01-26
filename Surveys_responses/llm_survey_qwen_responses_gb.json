@@ -5,8 +5,8 @@
     "variable": "v1",
     "option_text": "Work",
     "response_scale": "1 (very important) - 2 (quite important) - 3 (not important) - 4 (not at all important) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
-    "model_response": null,
-    "status": "failed"
+    "model_response": "Final answer: @@1@@",
+    "status": "success"
   },
   {
     "question_id": "Q1",
@@ -14,8 +14,8 @@
     "variable": "v2",
     "option_text": "Family",
     "response_scale": "1 (very important) - 2 (quite important) - 3 (not important) - 4 (not at all important) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
-    "model_response": null,
-    "status": "failed"
+    "model_response": "Final answer: @@1@@",
+    "status": "success"
   },
   {
     "question_id": "Q1",
@@ -23,8 +23,8 @@
     "variable": "v3",
     "option_text": "Friends and acquaintances",
     "response_scale": "1 (very important) - 2 (quite important) - 3 (not important) - 4 (not at all important) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
-    "model_response": null,
-    "status": "failed"
+    "model_response": "Final answer: @@2@@",
+    "status": "success"
   },
   {
     "question_id": "Q1",
@@ -32,8 +32,8 @@
     "variable": "v4",
     "option_text": "Leisure time",
     "response_scale": "1 (very important) - 2 (quite important) - 3 (not important) - 4 (not at all important) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
-    "model_response": null,
-    "status": "failed"
+    "model_response": "Final answer: @@3@@",
+    "status": "success"
   },
   {
     "question_id": "Q1",
@@ -41,7 +41,2023 @@
     "variable": "v5",
     "option_text": "Politics",
     "response_scale": "1 (very important) - 2 (quite important) - 3 (not important) - 4 (not at all important) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
-    "model_response": null,
-    "status": "failed"
+    "model_response": "Final answer: @@3@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q1",
+    "question_text": "Please say, for each of the following, how important it is in your life.",
+    "variable": "v6",
+    "option_text": "Religion",
+    "response_scale": "1 (very important) - 2 (quite important) - 3 (not important) - 4 (not at all important) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
+    "model_response": "Final answer: @@3@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q2",
+    "question_text": "Taking all things together, would you say you are\u2026READ OUT\u2026",
+    "variable": "v7",
+    "option_text": "very happy",
+    "response_scale": "1 (very happy) - 2 (quite happy) - 3 (not very happy) - 4 (not at all happy) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
+    "model_response": "Final answer: @@1@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q3",
+    "question_text": "All in all, how would you describe your state of health these days? Would you say it is\u2026READ OUT\u2026",
+    "variable": "v8",
+    "option_text": "very good",
+    "response_scale": "1 (very good) - 2 (good) - 3 (fair) - 4 (poor) - 5 (very poor) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
+    "model_response": "Final answer: @@1@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q4",
+    "question_text": "Please look carefully at the following list of voluntary organisations and say which, if any, do you belong to?",
+    "variable": "v9",
+    "option_text": "A Religious or church organisations",
+    "response_scale": "1 (mentioned) - 2 (not mentioned) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
+    "model_response": "Final answer: @@1@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q4",
+    "question_text": "Please look carefully at the following list of voluntary organisations and say which, if any, do you belong to?",
+    "variable": "v10",
+    "option_text": "B Education, arts, music or cultural activities",
+    "response_scale": "1 (mentioned) - 2 (not mentioned) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
+    "model_response": "Final answer: @@2@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q4",
+    "question_text": "Please look carefully at the following list of voluntary organisations and say which, if any, do you belong to?",
+    "variable": "v11",
+    "option_text": "C Trade union",
+    "response_scale": "1 (mentioned) - 2 (not mentioned) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
+    "model_response": "Final answer: @@1@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q4",
+    "question_text": "Please look carefully at the following list of voluntary organisations and say which, if any, do you belong to?",
+    "variable": "v12",
+    "option_text": "D Political parties or groups",
+    "response_scale": "1 (mentioned) - 2 (not mentioned) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
+    "model_response": "Final answer: @@2@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q4",
+    "question_text": "Please look carefully at the following list of voluntary organisations and say which, if any, do you belong to?",
+    "variable": "v13",
+    "option_text": "E Conservation, the environment, ecology, animal rights",
+    "response_scale": "1 (mentioned) - 2 (not mentioned) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
+    "model_response": "Final answer: @@2@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q4",
+    "question_text": "Please look carefully at the following list of voluntary organisations and say which, if any, do you belong to?",
+    "variable": "v14",
+    "option_text": "F Professional associations",
+    "response_scale": "1 (mentioned) - 2 (not mentioned) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
+    "model_response": "Final answer: @@2@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q4",
+    "question_text": "Please look carefully at the following list of voluntary organisations and say which, if any, do you belong to?",
+    "variable": "v15",
+    "option_text": "G Sports or recreation",
+    "response_scale": "1 (mentioned) - 2 (not mentioned) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
+    "model_response": "Final answer: @@2@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q4",
+    "question_text": "Please look carefully at the following list of voluntary organisations and say which, if any, do you belong to?",
+    "variable": "v16",
+    "option_text": "H Humanitarian or charitable organisation",
+    "response_scale": "1 (mentioned) - 2 (not mentioned) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
+    "model_response": "Final answer: @@2@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q4",
+    "question_text": "Please look carefully at the following list of voluntary organisations and say which, if any, do you belong to?",
+    "variable": "v17",
+    "option_text": "I Consumer organisation",
+    "response_scale": "1 (mentioned) - 2 (not mentioned) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
+    "model_response": "Final answer: @@2@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q4",
+    "question_text": "Please look carefully at the following list of voluntary organisations and say which, if any, do you belong to?",
+    "variable": "v18",
+    "option_text": "J Self-help group, mutual aid group",
+    "response_scale": "1 (mentioned) - 2 (not mentioned) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
+    "model_response": "Final answer: @@2@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q4",
+    "question_text": "Please look carefully at the following list of voluntary organisations and say which, if any, do you belong to?",
+    "variable": "v19",
+    "option_text": "K Other groups",
+    "response_scale": "1 (mentioned) - 2 (not mentioned) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
+    "model_response": "Final answer: @@2@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q4",
+    "question_text": "Please look carefully at the following list of voluntary organisations and say which, if any, do you belong to?",
+    "variable": "v20",
+    "option_text": NaN,
+    "response_scale": "1 (mentioned) - 2 (not mentioned) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
+    "model_response": "Final answer: @@2@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q5",
+    "question_text": "Did you do voluntary work in the last 6 months?",
+    "variable": "v21",
+    "option_text": "Yes",
+    "response_scale": "1 (Yes) - 2 (No) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
+    "model_response": "Final answer: @@1@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q6",
+    "question_text": "On this list are various groups of people. Could you identify any that you would not like to have as neighbours?",
+    "variable": "v22",
+    "option_text": "A People of a different race",
+    "response_scale": "1 (mentioned) - 2 (not mentioned) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
+    "model_response": "Final answer: @@2@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q6",
+    "question_text": "On this list are various groups of people. Could you identify any that you would not like to have as neighbours?",
+    "variable": "v23",
+    "option_text": "B Heavy drinkers",
+    "response_scale": "1 (mentioned) - 2 (not mentioned) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
+    "model_response": "Final answer: @@1@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q6",
+    "question_text": "On this list are various groups of people. Could you identify any that you would not like to have as neighbours?",
+    "variable": "v24",
+    "option_text": "C Immigrants/foreign workers",
+    "response_scale": "1 (mentioned) - 2 (not mentioned) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
+    "model_response": "Final answer: @@2@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q6",
+    "question_text": "On this list are various groups of people. Could you identify any that you would not like to have as neighbours?",
+    "variable": "v25",
+    "option_text": "D Drug addicts",
+    "response_scale": "1 (mentioned) - 2 (not mentioned) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
+    "model_response": "Final answer: @@1@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q6",
+    "question_text": "On this list are various groups of people. Could you identify any that you would not like to have as neighbours?",
+    "variable": "v26",
+    "option_text": "E Homosexuals",
+    "response_scale": "1 (mentioned) - 2 (not mentioned) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
+    "model_response": "Final answer: @@2@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q6",
+    "question_text": "On this list are various groups of people. Could you identify any that you would not like to have as neighbours?",
+    "variable": "v27",
+    "option_text": "F Christians",
+    "response_scale": "1 (mentioned) - 2 (not mentioned) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
+    "model_response": "Final answer: @@2@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q6",
+    "question_text": "On this list are various groups of people. Could you identify any that you would not like to have as neighbours?",
+    "variable": "v28",
+    "option_text": "G Muslims",
+    "response_scale": "1 (mentioned) - 2 (not mentioned) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
+    "model_response": "Final answer: @@2@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q6",
+    "question_text": "On this list are various groups of people. Could you identify any that you would not like to have as neighbours?",
+    "variable": "v29",
+    "option_text": "H Jews",
+    "response_scale": "1 (mentioned) - 2 (not mentioned) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
+    "model_response": "Final answer: @@2@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q6",
+    "question_text": "On this list are various groups of people. Could you identify any that you would not like to have as neighbours?",
+    "variable": "v30",
+    "option_text": "I Gypsies",
+    "response_scale": "1 (mentioned) - 2 (not mentioned) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
+    "model_response": "Final answer: @@1@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q7",
+    "question_text": "Generally speaking, would you say that most people can be trusted or that you can\u2019t be too careful in dealing with people?",
+    "variable": "v31",
+    "option_text": "most people can be trusted",
+    "response_scale": "1 (most people can be trusted) - 2 (can\u2019t be too careful) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
+    "model_response": "Final answer: @@1@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q8",
+    "question_text": "I would like to ask you how much you trust people from various groups. Could you tell me for each whether you trust people from this group completely, somewhat, not very much or not at all?",
+    "variable": "v32",
+    "option_text": "Your family",
+    "response_scale": "1 (Trust completely) - 2 (Trust somewhat) - 3 (Do not trust very much) - 4 (Do not trust at all) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
+    "model_response": "Final answer: @@1@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q8",
+    "question_text": "I would like to ask you how much you trust people from various groups. Could you tell me for each whether you trust people from this group completely, somewhat, not very much or not at all?",
+    "variable": "v33",
+    "option_text": "People in your neighbourhood",
+    "response_scale": "1 (Trust completely) - 2 (Trust somewhat) - 3 (Do not trust very much) - 4 (Do not trust at all) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
+    "model_response": "Final answer: @@1@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q8",
+    "question_text": "I would like to ask you how much you trust people from various groups. Could you tell me for each whether you trust people from this group completely, somewhat, not very much or not at all?",
+    "variable": "v34",
+    "option_text": "People you know personally",
+    "response_scale": "1 (Trust completely) - 2 (Trust somewhat) - 3 (Do not trust very much) - 4 (Do not trust at all) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
+    "model_response": "Final answer: @@1@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q8",
+    "question_text": "I would like to ask you how much you trust people from various groups. Could you tell me for each whether you trust people from this group completely, somewhat, not very much or not at all?",
+    "variable": "v35",
+    "option_text": "People you meet for the first time",
+    "response_scale": "1 (Trust completely) - 2 (Trust somewhat) - 3 (Do not trust very much) - 4 (Do not trust at all) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
+    "model_response": "Final answer: @@2@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q8",
+    "question_text": "I would like to ask you how much you trust people from various groups. Could you tell me for each whether you trust people from this group completely, somewhat, not very much or not at all?",
+    "variable": "v36",
+    "option_text": "People of another religion",
+    "response_scale": "1 (Trust completely) - 2 (Trust somewhat) - 3 (Do not trust very much) - 4 (Do not trust at all) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
+    "model_response": "Final answer: @@3@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q8",
+    "question_text": "I would like to ask you how much you trust people from various groups. Could you tell me for each whether you trust people from this group completely, somewhat, not very much or not at all?",
+    "variable": "v37",
+    "option_text": "People of another nationality",
+    "response_scale": "1 (Trust completely) - 2 (Trust somewhat) - 3 (Do not trust very much) - 4 (Do not trust at all) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
+    "model_response": "Final answer: @@3@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q9",
+    "question_text": "Some people feel they have completely free choice and control over their lives, and other people feel that what they do has no real effect on what happens to them. Please use the scale to indicate how much freedom of choice and control you feel you have over the way your life turns out?",
+    "variable": "v38",
+    "option_text": "none at all",
+    "response_scale": "1 (none at all) - 2 - 3 - 4 - 5 - 6 - 7 - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
+    "model_response": "Final answer: @@1@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q10",
+    "question_text": "All things considered, how satisfied are you with your life as a whole these days? Please use this card to help with your answer.",
+    "variable": "v39",
+    "option_text": "dissatisfied",
+    "response_scale": "1 (dissatisfied) - 2 - 3 - 4 - 5 - 6 - 7 - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
+    "model_response": "Final answer: @@1@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q11",
+    "question_text": "Here are some aspects of a job that people say are important. Please look at them and tell me which ones you personally think are important in a job?",
+    "variable": "v40",
+    "option_text": "A Good pay",
+    "response_scale": "1 (mentioned) - 2 (not mentioned) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
+    "model_response": "Final answer: @@1@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q11",
+    "question_text": "Here are some aspects of a job that people say are important. Please look at them and tell me which ones you personally think are important in a job?",
+    "variable": "v41",
+    "option_text": "B Good hours",
+    "response_scale": "1 (mentioned) - 2 (not mentioned) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
+    "model_response": "Final answer: @@1@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q11",
+    "question_text": "Here are some aspects of a job that people say are important. Please look at them and tell me which ones you personally think are important in a job?",
+    "variable": "v42",
+    "option_text": "C An opportunity to use initiative",
+    "response_scale": "1 (mentioned) - 2 (not mentioned) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
+    "model_response": "Final answer: @@1@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q11",
+    "question_text": "Here are some aspects of a job that people say are important. Please look at them and tell me which ones you personally think are important in a job?",
+    "variable": "v43",
+    "option_text": "D Generous holidays",
+    "response_scale": "1 (mentioned) - 2 (not mentioned) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
+    "model_response": "Final answer: @@1@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q11",
+    "question_text": "Here are some aspects of a job that people say are important. Please look at them and tell me which ones you personally think are important in a job?",
+    "variable": "v44",
+    "option_text": "E A job in which you feel you can achieve something",
+    "response_scale": "1 (mentioned) - 2 (not mentioned) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
+    "model_response": "Final answer: @@1@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q11",
+    "question_text": "Here are some aspects of a job that people say are important. Please look at them and tell me which ones you personally think are important in a job?",
+    "variable": "v45",
+    "option_text": "F A responsible job",
+    "response_scale": "1 (mentioned) - 2 (not mentioned) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
+    "model_response": "Final answer: @@1@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q12",
+    "question_text": "Do you agree or disagree with the following statements?",
+    "variable": "v46",
+    "option_text": "To fully develop your talents, you need to have a job",
+    "response_scale": "1 (agree strongly) - 2 (agree) - 3 (neither agree nor disagree) - 4 (disagree) - 5 (disagree strongly) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
+    "model_response": "Final answer: @@3@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q12",
+    "question_text": "Do you agree or disagree with the following statements?",
+    "variable": "v47",
+    "option_text": "It is humiliating to receive money without having to work for it",
+    "response_scale": "1 (agree strongly) - 2 (agree) - 3 (neither agree nor disagree) - 4 (disagree) - 5 (disagree strongly) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
+    "model_response": "Final answer: @@3@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q12",
+    "question_text": "Do you agree or disagree with the following statements?",
+    "variable": "v48",
+    "option_text": "People who don\u2019t work turn lazy",
+    "response_scale": "1 (agree strongly) - 2 (agree) - 3 (neither agree nor disagree) - 4 (disagree) - 5 (disagree strongly) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
+    "model_response": "Final answer: @@3@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q12",
+    "question_text": "Do you agree or disagree with the following statements?",
+    "variable": "v49",
+    "option_text": "Work is a duty towards society",
+    "response_scale": "1 (agree strongly) - 2 (agree) - 3 (neither agree nor disagree) - 4 (disagree) - 5 (disagree strongly) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
+    "model_response": "Final answer: @@3@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q12",
+    "question_text": "Do you agree or disagree with the following statements?",
+    "variable": "v50",
+    "option_text": "Work should always come first, even if it means less spare time",
+    "response_scale": "1 (agree strongly) - 2 (agree) - 3 (neither agree nor disagree) - 4 (disagree) - 5 (disagree strongly) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
+    "model_response": "Final answer: @@3@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q13",
+    "question_text": "Do you belong to a religious denomination?",
+    "variable": "v51",
+    "option_text": "yes",
+    "response_scale": "1 (yes) - 2 (no) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
+    "model_response": "Final answer: @@1@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q13a",
+    "question_text": "Which one?",
+    "variable": NaN,
+    "option_text": "13",
+    "response_scale": "1 (Christian - no denomination) - 2 (Roman Catholic) - 3 (Church of England/Anglican) - 4 (Baptist) - 5 (Methodist) - 6 (Presbyterian/Church of Scotland) - 7 (Free Presbyterian) - 8 (Brethren) - 9 (United Reform Church (URC)/Congregational) - 10 (Other Protestant) - 11 (Other Christian) - 12 (Hindu) - 13 (Jewish) - 14 (Islam/Muslim) - 15 (Sikh) - 16 (Buddhist) - 17 (Other non-Christian) - 88 (Don't Know, DK) - 99 (Not Answer, NA)",
+    "model_response": "Final answer: @@13@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q14",
+    "question_text": "Did you ever belong to a religious denomination?",
+    "variable": "v53",
+    "option_text": "yes",
+    "response_scale": "1 (yes) - 2 (no) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
+    "model_response": "Final answer: @@1@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q15",
+    "question_text": "Apart from weddings, funerals and christenings, about how often do you attend religious services these days?",
+    "variable": "v54",
+    "option_text": "more than once a week",
+    "response_scale": "1 (more than once a week) - 2 (once a week) - 3 (once a month) - 4 (only on specific holy days) - 5 (once a year) - 6 (less often) - 7 (never, practically never) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
+    "model_response": "Final answer: @@1@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q16",
+    "question_text": "Apart from weddings, funerals and christenings, about how often did you attend religious services when you were 12 years old?",
+    "variable": "v55",
+    "option_text": "more than once a week",
+    "response_scale": "1 (more than once a week) - 2 (once a week) - 3 (once a month) - 4 (only on specific holy days) - 5 (once a year) - 6 (less often) - 7 (never, practically never) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
+    "model_response": "Final answer: @@1@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q17",
+    "question_text": "Independently of whether you go to church or not, would you say you are ...READ OUT\u2026",
+    "variable": "v56",
+    "option_text": "a religious person",
+    "response_scale": "1 (a religious person) - 2 (not a religious person) - 3 (a convinced atheist) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
+    "model_response": "Final answer: @@1@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q18",
+    "question_text": "Which, if any, of the following do you believe in \u2026READ OUT\u2026",
+    "variable": "v57",
+    "option_text": "God",
+    "response_scale": "1 (yes) - 2 (no) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
+    "model_response": "Final answer: @@1@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q18",
+    "question_text": "Which, if any, of the following do you believe in \u2026READ OUT\u2026",
+    "variable": "v58",
+    "option_text": "Life after death",
+    "response_scale": "1 (yes) - 2 (no) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
+    "model_response": "Final answer: @@1@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q18",
+    "question_text": "Which, if any, of the following do you believe in \u2026READ OUT\u2026",
+    "variable": "v59",
+    "option_text": "Hell",
+    "response_scale": "1 (yes) - 2 (no) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
+    "model_response": "Final answer: @@1@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q18",
+    "question_text": "Which, if any, of the following do you believe in \u2026READ OUT\u2026",
+    "variable": "v60",
+    "option_text": "Heaven",
+    "response_scale": "1 (yes) - 2 (no) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
+    "model_response": "Final answer: @@1@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q19",
+    "question_text": "Do you believe in re-incarnation, that is, that we had past lives and will be born into this world again?",
+    "variable": "v61",
+    "option_text": "yes",
+    "response_scale": "1 (yes) - 2 (no) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
+    "model_response": "Final answer: @@1@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q20",
+    "question_text": "Which of these statements comes closest to your beliefs?",
+    "variable": "v62",
+    "option_text": "there is a personal God",
+    "response_scale": "1 (there is a personal God) - 2 (there is some sort of spirit or life force) - 3 (I don\u2019t really know what to think) - 4 (I don\u2019t really think there is any sort of spirit, God or life force) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
+    "model_response": "Final answer: @@1@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q21",
+    "question_text": "And how important is God in your life? Please use this card to indicate - 10 means very important and 1 means not at all important.",
+    "variable": "v63",
+    "option_text": "not at all important",
+    "response_scale": "1 (not at all important) - 2 - 3 - 4 - 5 - 6 - 7 - 8 - 9 - 10 (very important) - 88 (Don't Know, DK) - 99 (Not Answer, NA)",
+    "model_response": "Final answer: @@1@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q22",
+    "question_text": "How often do you pray outside of religious services these days? Would you say...READ OUT \u2026",
+    "variable": "v64",
+    "option_text": "every day",
+    "response_scale": "1 (every day) - 2 (more than once a week) - 3 (once a week) - 4 (at least once a month) - 5 (several times a year) - 6 (less often) - 7 (never) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
+    "model_response": "Final answer: @@1@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q23",
+    "question_text": "Here is a list of aspects of a job that people say are important. Please look at them and tell me which ones you personally think are important in a job?",
+    "variable": "v65",
+    "option_text": "A Faithfulness",
+    "response_scale": "1 (very important) - 2 (quite important) - 3 (not important) - 4 (not at all important) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
+    "model_response": "Final answer: @@1@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q23",
+    "question_text": "Here is a list of aspects of a job that people say are important. Please look at them and tell me which ones you personally think are important in a job?",
+    "variable": "v66",
+    "option_text": "B Good hours",
+    "response_scale": "1 (very important) - 2 (quite important) - 3 (not important) - 4 (not at all important) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
+    "model_response": "Final answer: @@2@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q23",
+    "question_text": "Here is a list of aspects of a job that people say are important. Please look at them and tell me which ones you personally think are important in a job?",
+    "variable": "v67",
+    "option_text": "C An adequate income",
+    "response_scale": "1 (very important) - 2 (quite important) - 3 (not important) - 4 (not at all important) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
+    "model_response": "Final answer: @@1@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q23",
+    "question_text": "Here is a list of aspects of a job that people say are important. Please look at them and tell me which ones you personally think are important in a job?",
+    "variable": "v68",
+    "option_text": "D Sharing household chores",
+    "response_scale": "1 (very important) - 2 (quite important) - 3 (not important) - 4 (not at all important) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
+    "model_response": "Final answer: @@3@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q23",
+    "question_text": "Here is a list of aspects of a job that people say are important. Please look at them and tell me which ones you personally think are important in a job?",
+    "variable": "v69",
+    "option_text": "E Children",
+    "response_scale": "1 (very important) - 2 (quite important) - 3 (not important) - 4 (not at all important) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
+    "model_response": "Final answer: @@3@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q23",
+    "question_text": "Here is a list of aspects of a job that people say are important. Please look at them and tell me which ones you personally think are important in a job?",
+    "variable": "v70",
+    "option_text": "F Having some time for one\u2019s own friends and for personal hobbies/activities",
+    "response_scale": "1 (very important) - 2 (quite important) - 3 (not important) - 4 (not at all important) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
+    "model_response": "Final answer: @@1@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q24",
+    "question_text": "Do you agree or disagree with the following statement: Marriage is an outdated institution?",
+    "variable": "v71",
+    "option_text": "agree",
+    "response_scale": "1 (agree) - 2 (disagree) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
+    "model_response": "Final answer: @@1@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q25",
+    "question_text": "For each of the following statements I read out, can you tell me how strongly you agree or disagree with each. Do you strongly agree, agree, disagree, or strongly disagree?",
+    "variable": "v72",
+    "option_text": "When a mother works for pay, the children suffer",
+    "response_scale": "1 (agree strongly) - 2 (agree) - 3 (disagree) - 4 (disagree strongly) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
+    "model_response": "Final answer: @@3@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q25",
+    "question_text": "For each of the following statements I read out, can you tell me how strongly you agree or disagree with each. Do you strongly agree, agree, disagree, or strongly disagree?",
+    "variable": "v73",
+    "option_text": "It is humiliating to receive money without having to work for it",
+    "response_scale": "1 (agree strongly) - 2 (agree) - 3 (disagree) - 4 (disagree strongly) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
+    "model_response": "Final answer: @@3@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q25",
+    "question_text": "For each of the following statements I read out, can you tell me how strongly you agree or disagree with each. Do you strongly agree, agree, disagree, or strongly disagree?",
+    "variable": "v74",
+    "option_text": "People who don\u2019t work turn lazy",
+    "response_scale": "1 (agree strongly) - 2 (agree) - 3 (disagree) - 4 (disagree strongly) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
+    "model_response": "Final answer: @@3@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q25",
+    "question_text": "For each of the following statements I read out, can you tell me how strongly you agree or disagree with each. Do you strongly agree, agree, disagree, or strongly disagree?",
+    "variable": "v75",
+    "option_text": "Work is a duty towards society",
+    "response_scale": "1 (agree strongly) - 2 (agree) - 3 (disagree) - 4 (disagree strongly) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
+    "model_response": "Final answer: @@1@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q25",
+    "question_text": "For each of the following statements I read out, can you tell me how strongly you agree or disagree with each. Do you strongly agree, agree, disagree, or strongly disagree?",
+    "variable": "v76",
+    "option_text": "Work should always come first, even if it means less spare time",
+    "response_scale": "1 (agree strongly) - 2 (agree) - 3 (disagree) - 4 (disagree strongly) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
+    "model_response": "Final answer: @@3@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q26",
+    "question_text": "For each of the following statements I read out, can you tell me how strongly you agree or disagree with each. Do you strongly agree, agree, disagree, or strongly disagree?",
+    "variable": "v80",
+    "option_text": "When jobs are scarce, employers should give priority to British people over immigrants",
+    "response_scale": "1 (agree strongly) - 2 (agree) - 3 (neither agree nor disagree) - 4 (disagree) - 5 (disagree strongly) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
+    "model_response": "Final answer: @@3@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q26",
+    "question_text": "For each of the following statements I read out, can you tell me how strongly you agree or disagree with each. Do you strongly agree, agree, disagree, or strongly disagree?",
+    "variable": "v81",
+    "option_text": "When jobs are scarce, men have more right to a job than women",
+    "response_scale": "1 (agree strongly) - 2 (agree) - 3 (neither agree nor disagree) - 4 (disagree) - 5 (disagree strongly) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
+    "model_response": "Final answer: @@3@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q27",
+    "question_text": "How would you feel about the following statements? Do you agree or disagree with them?",
+    "variable": "v82",
+    "option_text": "Homosexual couples are as good parents as other couples",
+    "response_scale": "1 (agree strongly) - 2 (agree) - 3 (neither agree nor disagree) - 4 (disagree) - 5 (disagree strongly) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
+    "model_response": "Final answer: @@1@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q27",
+    "question_text": "How would you feel about the following statements? Do you agree or disagree with them?",
+    "variable": "v83",
+    "option_text": "It is a duty towards society to have children",
+    "response_scale": "1 (agree strongly) - 2 (agree) - 3 (neither agree nor disagree) - 4 (disagree) - 5 (disagree strongly) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
+    "model_response": "Final answer: @@3@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q27",
+    "question_text": "How would you feel about the following statements? Do you agree or disagree with them?",
+    "variable": "v84",
+    "option_text": "Adult children have the duty to provide long-term care for their parents",
+    "response_scale": "1 (agree strongly) - 2 (agree) - 3 (neither agree nor disagree) - 4 (disagree) - 5 (disagree strongly) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
+    "model_response": "Final answer: @@3@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q28",
+    "question_text": "Here is a list of qualities which children can be encouraged to learn at home. Which five would you say are the most desirable for a child to have?",
+    "variable": "v85",
+    "option_text": "A Good manners",
+    "response_scale": "1 (mentioned) - 2 (not mentioned) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
+    "model_response": "Final answer: @@1@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q28",
+    "question_text": "Here is a list of qualities which children can be encouraged to learn at home. Which five would you say are the most desirable for a child to have?",
+    "variable": "v86",
+    "option_text": "B Independence",
+    "response_scale": "1 (mentioned) - 2 (not mentioned) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
+    "model_response": "Final answer: @@1@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q28",
+    "question_text": "Here is a list of qualities which children can be encouraged to learn at home. Which five would you say are the most desirable for a child to have?",
+    "variable": "v87",
+    "option_text": "C Hard work",
+    "response_scale": "1 (mentioned) - 2 (not mentioned) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
+    "model_response": "Final answer: @@1@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q28",
+    "question_text": "Here is a list of qualities which children can be encouraged to learn at home. Which five would you say are the most desirable for a child to have?",
+    "variable": "v88",
+    "option_text": "D Feeling of responsibility",
+    "response_scale": "1 (mentioned) - 2 (not mentioned) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
+    "model_response": "Final answer: @@1@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q28",
+    "question_text": "Here is a list of qualities which children can be encouraged to learn at home. Which five would you say are the most desirable for a child to have?",
+    "variable": "v89",
+    "option_text": "E Imagination",
+    "response_scale": "1 (mentioned) - 2 (not mentioned) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
+    "model_response": "Final answer: @@1@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q28",
+    "question_text": "Here is a list of qualities which children can be encouraged to learn at home. Which five would you say are the most desirable for a child to have?",
+    "variable": "v90",
+    "option_text": "F Tolerance and respect for other people",
+    "response_scale": "1 (mentioned) - 2 (not mentioned) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
+    "model_response": "Final answer: @@1@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q28",
+    "question_text": "Here is a list of qualities which children can be encouraged to learn at home. Which five would you say are the most desirable for a child to have?",
+    "variable": "v91",
+    "option_text": "G Thrift, saving money and things",
+    "response_scale": "1 (mentioned) - 2 (not mentioned) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
+    "model_response": "Final answer: 1 @@1@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q28",
+    "question_text": "Here is a list of qualities which children can be encouraged to learn at home. Which five would you say are the most desirable for a child to have?",
+    "variable": "v92",
+    "option_text": "H Determination, perseverance",
+    "response_scale": "1 (mentioned) - 2 (not mentioned) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
+    "model_response": "Final answer: @@1@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q28",
+    "question_text": "Here is a list of qualities which children can be encouraged to learn at home. Which five would you say are the most desirable for a child to have?",
+    "variable": "v93",
+    "option_text": "I Religious faith",
+    "response_scale": "1 (mentioned) - 2 (not mentioned) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
+    "model_response": "Final answer: @@1@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q28",
+    "question_text": "Here is a list of qualities which children can be encouraged to learn at home. Which five would you say are the most desirable for a child to have?",
+    "variable": "v94",
+    "option_text": "J Unselfishness",
+    "response_scale": "1 (mentioned) - 2 (not mentioned) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
+    "model_response": "Final answer: @@1@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q28",
+    "question_text": "Here is a list of qualities which children can be encouraged to learn at home. Which five would you say are the most desirable for a child to have?",
+    "variable": "v95",
+    "option_text": "K Obedience",
+    "response_scale": "1 (mentioned) - 2 (not mentioned) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
+    "model_response": "Final answer: @@1@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q29",
+    "question_text": "How interested would you say you are in politics?",
+    "variable": "v97",
+    "option_text": "very interested",
+    "response_scale": "1 (very interested) - 2 (somewhat interested) - 3 (not very interested) - 4 (not at all interested) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
+    "model_response": "Final answer: @@1@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q30",
+    "question_text": "Now I\u2019d like you to look at this card. I\u2019m going to read out some different forms of political action that people can take, and I\u2019d like you to tell me, for each one, whether you have actually done any of these things, whether you might do it or would never, under any circumstances, do it.",
+    "variable": "v98",
+    "option_text": "A Signing a petition",
+    "response_scale": "1 (have done) - 2 (might do) - 3 (would never do) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
+    "model_response": "Final answer: @@1@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q30",
+    "question_text": "Now I\u2019d like you to look at this card. I\u2019m going to read out some different forms of political action that people can take, and I\u2019d like you to tell me, for each one, whether you have actually done any of these things, whether you might do it or would never, under any circumstances, do it.",
+    "variable": "v99",
+    "option_text": "B Joining in boycotts",
+    "response_scale": "1 (have done) - 2 (might do) - 3 (would never do) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
+    "model_response": "Final answer: @@1@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q30",
+    "question_text": "Now I\u2019d like you to look at this card. I\u2019m going to read out some different forms of political action that people can take, and I\u2019d like you to tell me, for each one, whether you have actually done any of these things, whether you might do it or would never, under any circumstances, do it.",
+    "variable": "v100",
+    "option_text": "C Attending lawful demonstrations",
+    "response_scale": "1 (have done) - 2 (might do) - 3 (would never do) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
+    "model_response": "Final answer: @@1@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q30",
+    "question_text": "Now I\u2019d like you to look at this card. I\u2019m going to read out some different forms of political action that people can take, and I\u2019d like you to tell me, for each one, whether you have actually done any of these things, whether you might do it or would never, under any circumstances, do it.",
+    "variable": "v101",
+    "option_text": "D Joining unofficial strikes",
+    "response_scale": "1 (have done) - 2 (might do) - 3 (would never do) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
+    "model_response": "Final answer: @@1@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q31",
+    "question_text": "In political matters, people talk of \u2018the left\u2019 and \u2018the right\u2019. How would you place your views on this scale, generally speaking?",
+    "variable": "v102",
+    "option_text": "the left",
+    "response_scale": "1 (the left) - 2 - 3 - 4 - 5 - 6 - 7 - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
+    "model_response": "Final answer: @@1@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q32A",
+    "question_text": "Individuals should take more responsibility for providing for themselves",
+    "variable": "v103",
+    "option_text": "Individuals should take more responsibility",
+    "response_scale": "1 (Individuals should take more responsibility) - 2 (The state should take more responsibility) - 3 - 4 - 5 - 6 - 7 - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
+    "model_response": "Final answer: @@1@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q32B",
+    "question_text": "People who are unemployed should have to take any job available or lose their unemployment benefits",
+    "variable": "v104",
+    "option_text": "People who are unemployed should have to take any job available",
+    "response_scale": "1 (People who are unemployed should have to take any job available) - 2 (People who are unemployed should have the right to refuse a job they do not want) - 3 - 4 - 5 - 6 - 7 - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
+    "model_response": "Final answer: @@1@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q32C",
+    "question_text": "Competition is good",
+    "variable": "v105",
+    "option_text": "Competition is good",
+    "response_scale": "1 (Competition is good) - 2 (Competition is harmful) - 3 - 4 - 5 - 6 - 7 - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
+    "model_response": "Final answer: @@1@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q32D",
+    "question_text": "Incomes should be made more equal",
+    "variable": "v106",
+    "option_text": "Incomes should be made more equal",
+    "response_scale": "1 (Incomes should be made more equal) - 2 (There should be greater incentives for individual effort) - 3 - 4 - 5 - 6 - 7 - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
+    "model_response": "Final answer: @@1@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q32E",
+    "question_text": "Private ownership of business and industry should be increased",
+    "variable": "v107",
+    "option_text": "Private ownership of business and industry should be increased",
+    "response_scale": "1 (Private ownership of business and industry should be increased) - 2 (Government ownership of business and industry should be increased) - 3 - 4 - 5 - 6 - 7 - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
+    "model_response": "Final answer: @@1@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q33",
+    "question_text": "Which one of these you, yourself, consider the most important?",
+    "variable": "v108",
+    "option_text": "A A high level of economic growth",
+    "response_scale": "1 (A high level of economic growth) - 2 (Making sure this country has strong defence forces) - 3 (Seeing that people have more say about how things are done at their jobs and in their communities) - 4 (Trying to make our cities and countryside more beautiful) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
+    "model_response": "Final answer: @@1@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q33a",
+    "question_text": "And which would be the next most important?",
+    "variable": "v109",
+    "option_text": "A A high level of economic growth",
+    "response_scale": "1 (A high level of economic growth) - 2 (Making sure this country has strong defence forces) - 3 (Seeing that people have more say about how things are done at their jobs and in their communities) - 4 (Trying to make our cities and countryside more beautiful) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
+    "model_response": "Final answer: @@1@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q34",
+    "question_text": "If you had to choose, which one of the things on this card would you say is most important?",
+    "variable": "v110",
+    "option_text": "maintaining order in the nation",
+    "response_scale": "1 (maintaining order in the nation) - 2 (giving people more say in important government decisions) - 3 (fighting rising prices) - 4 (protecting freedom of speech) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
+    "model_response": "Final answer: @@1@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q35",
+    "question_text": "And which would be the next most important?",
+    "variable": "v111",
+    "option_text": "maintaining order in the nation",
+    "response_scale": "1 (maintaining order in the nation) - 2 (giving people more say in important government decisions) - 3 (fighting rising prices) - 4 (protecting freedom of speech) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
+    "model_response": "Final answer: @@1@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q36",
+    "question_text": "Of course, we all hope that there will not be another war, but if it were to come to that, would you be willing to fight for your country?",
+    "variable": "v112",
+    "option_text": "Yes",
+    "response_scale": "1 (Yes) - 2 (No) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
+    "model_response": "Final answer: @@1@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q37",
+    "question_text": "Here is a list of two changes in our way of life that might take place in the near future. Please tell me for each one, if it were to happen whether you think it would be a good thing, a bad thing, or you do not mind.",
+    "variable": "v113",
+    "option_text": "Less importance placed on work in our lives",
+    "response_scale": "1 (Good) - 2 (Bad) - 3 (Don\u2019t mind) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
+    "model_response": "Final answer: @@1@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q37",
+    "question_text": "Here is a list of two changes in our way of life that might take place in the near future. Please tell me for each one, if it were to happen whether you think it would be a good thing, a bad thing, or you do not mind.",
+    "variable": "v114",
+    "option_text": "Greater respect for authority",
+    "response_scale": "1 (Good) - 2 (Bad) - 3 (Don\u2019t mind) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
+    "model_response": "Final answer: @@1@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q38",
+    "question_text": "Please look at this card and tell me, for each item listed, how much confidence you have in them, is it a great deal, quite a lot, not very much or none at all?",
+    "variable": "v115",
+    "option_text": "The church",
+    "response_scale": "1 (a great deal) - 2 (quite a lot) - 3 (not very much) - 4 (none at all) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
+    "model_response": "Final answer: @@1@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q38",
+    "question_text": "Please look at this card and tell me, for each item listed, how much confidence you have in them, is it a great deal, quite a lot, not very much or none at all?",
+    "variable": "v116",
+    "option_text": "The armed forces",
+    "response_scale": "1 (a great deal) - 2 (quite a lot) - 3 (not very much) - 4 (none at all) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
+    "model_response": "Final answer: @@1@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q38",
+    "question_text": "Please look at this card and tell me, for each item listed, how much confidence you have in them, is it a great deal, quite a lot, not very much or none at all?",
+    "variable": "v117",
+    "option_text": "The education system",
+    "response_scale": "1 (a great deal) - 2 (quite a lot) - 3 (not very much) - 4 (none at all) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
+    "model_response": "Final answer: @@1@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q38",
+    "question_text": "Please look at this card and tell me, for each item listed, how much confidence you have in them, is it a great deal, quite a lot, not very much or none at all?",
+    "variable": "v118",
+    "option_text": "The press",
+    "response_scale": "1 (a great deal) - 2 (quite a lot) - 3 (not very much) - 4 (none at all) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
+    "model_response": "Final answer: @@1@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q38",
+    "question_text": "Please look at this card and tell me, for each item listed, how much confidence you have in them, is it a great deal, quite a lot, not very much or none at all?",
+    "variable": "v119",
+    "option_text": "Trade unions",
+    "response_scale": "1 (a great deal) - 2 (quite a lot) - 3 (not very much) - 4 (none at all) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
+    "model_response": "Final answer: @@1@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q38",
+    "question_text": "Please look at this card and tell me, for each item listed, how much confidence you have in them, is it a great deal, quite a lot, not very much or none at all?",
+    "variable": "v120",
+    "option_text": "The police",
+    "response_scale": "1 (a great deal) - 2 (quite a lot) - 3 (not very much) - 4 (none at all) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
+    "model_response": "Final answer: @@1@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q38",
+    "question_text": "Please look at this card and tell me, for each item listed, how much confidence you have in them, is it a great deal, quite a lot, not very much or none at all?",
+    "variable": "v121",
+    "option_text": "Parliament",
+    "response_scale": "1 (a great deal) - 2 (quite a lot) - 3 (not very much) - 4 (none at all) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
+    "model_response": "Final answer: @@1@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q38",
+    "question_text": "Please look at this card and tell me, for each item listed, how much confidence you have in them, is it a great deal, quite a lot, not very much or none at all?",
+    "variable": "v122",
+    "option_text": "Civil service",
+    "response_scale": "1 (a great deal) - 2 (quite a lot) - 3 (not very much) - 4 (none at all) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
+    "model_response": "Final answer: @@1@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q38",
+    "question_text": "Please look at this card and tell me, for each item listed, how much confidence you have in them, is it a great deal, quite a lot, not very much or none at all?",
+    "variable": "v123",
+    "option_text": "The social security system",
+    "response_scale": "1 (a great deal) - 2 (quite a lot) - 3 (not very much) - 4 (none at all) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
+    "model_response": "Final answer: @@1@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q38",
+    "question_text": "Please look at this card and tell me, for each item listed, how much confidence you have in them, is it a great deal, quite a lot, not very much or none at all?",
+    "variable": "v124",
+    "option_text": "The European Union",
+    "response_scale": "1 (a great deal) - 2 (quite a lot) - 3 (not very much) - 4 (none at all) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
+    "model_response": "Final answer: @@1@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q38",
+    "question_text": "Please look at this card and tell me, for each item listed, how much confidence you have in them, is it a great deal, quite a lot, not very much or none at all?",
+    "variable": "v125",
+    "option_text": "United Nations Organisation",
+    "response_scale": "1 (a great deal) - 2 (quite a lot) - 3 (not very much) - 4 (none at all) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
+    "model_response": "Final answer: @@1@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q38",
+    "question_text": "Please look at this card and tell me, for each item listed, how much confidence you have in them, is it a great deal, quite a lot, not very much or none at all?",
+    "variable": "v126",
+    "option_text": "Health care system",
+    "response_scale": "1 (a great deal) - 2 (quite a lot) - 3 (not very much) - 4 (none at all) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
+    "model_response": "Final answer: @@1@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q38",
+    "question_text": "Please look at this card and tell me, for each item listed, how much confidence you have in them, is it a great deal, quite a lot, not very much or none at all?",
+    "variable": "v127",
+    "option_text": "The justice system",
+    "response_scale": "1 (a great deal) - 2 (quite a lot) - 3 (not very much) - 4 (none at all) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
+    "model_response": "Final answer: @@1@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q38",
+    "question_text": "Please look at this card and tell me, for each item listed, how much confidence you have in them, is it a great deal, quite a lot, not very much or none at all?",
+    "variable": "v128",
+    "option_text": "Major companies",
+    "response_scale": "1 (a great deal) - 2 (quite a lot) - 3 (not very much) - 4 (none at all) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
+    "model_response": "Final answer: @@1@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q38",
+    "question_text": "Please look at this card and tell me, for each item listed, how much confidence you have in them, is it a great deal, quite a lot, not very much or none at all?",
+    "variable": "v129",
+    "option_text": "Environmental organisations",
+    "response_scale": "1 (a great deal) - 2 (quite a lot) - 3 (not very much) - 4 (none at all) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
+    "model_response": "Final answer: @@3@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q38",
+    "question_text": "Please look at this card and tell me, for each item listed, how much confidence you have in them, is it a great deal, quite a lot, not very much or none at all?",
+    "variable": "v130",
+    "option_text": "Political parties",
+    "response_scale": "1 (a great deal) - 2 (quite a lot) - 3 (not very much) - 4 (none at all) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
+    "model_response": "Final answer: @@1@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q38",
+    "question_text": "Please look at this card and tell me, for each item listed, how much confidence you have in them, is it a great deal, quite a lot, not very much or none at all?",
+    "variable": "v131",
+    "option_text": "Government",
+    "response_scale": "1 (a great deal) - 2 (quite a lot) - 3 (not very much) - 4 (none at all) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
+    "model_response": "Final answer: @@1@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q38",
+    "question_text": "Please look at this card and tell me, for each item listed, how much confidence you have in them, is it a great deal, quite a lot, not very much or none at all?",
+    "variable": "v132",
+    "option_text": "Social media",
+    "response_scale": "1 (a great deal) - 2 (quite a lot) - 3 (not very much) - 4 (none at all) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
+    "model_response": "Final answer: @@1@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q39",
+    "question_text": "Many things are desirable, but not all of them are essential characteristics of democracy. Please tell me for each of the following things how essential you think it is as a characteristic of democracy.",
+    "variable": "v133",
+    "option_text": "Governments tax the rich and subsidise the poor",
+    "response_scale": "1 (not at all an essential characteristic of democracy) - 2 - 3 - 4 - 5 - 6 - 7 - 8 - 9 - 10 (definitely is an essential characteristic of democracy) - 88 (Don't Know, DK) - 99 (Not Answer, NA)",
+    "model_response": "Final answer: @@5@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q39",
+    "question_text": "Many things are desirable, but not all of them are essential characteristics of democracy. Please tell me for each of the following things how essential you think it is as a characteristic of democracy.",
+    "variable": "v134",
+    "option_text": "Religious authorities ultimately interpret the laws",
+    "response_scale": "1 (not at all an essential characteristic of democracy) - 2 - 3 - 4 - 5 - 6 - 7 - 8 - 9 - 10 (definitely is an essential characteristic of democracy) - 88 (Don't Know, DK) - 99 (Not Answer, NA)",
+    "model_response": "Final answer: @@1@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q39",
+    "question_text": "Many things are desirable, but not all of them are essential characteristics of democracy. Please tell me for each of the following things how essential you think it is as a characteristic of democracy.",
+    "variable": "v135",
+    "option_text": "People choose their leaders in free elections",
+    "response_scale": "1 (not at all an essential characteristic of democracy) - 2 - 3 - 4 - 5 - 6 - 7 - 8 - 9 - 10 (definitely is an essential characteristic of democracy) - 88 (Don't Know, DK) - 99 (Not Answer, NA)",
+    "model_response": "Final answer: @@10@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q39",
+    "question_text": "Many things are desirable, but not all of them are essential characteristics of democracy. Please tell me for each of the following things how essential you think it is as a characteristic of democracy.",
+    "variable": "v136",
+    "option_text": "People receive state aid for unemployment",
+    "response_scale": "1 (not at all an essential characteristic of democracy) - 2 - 3 - 4 - 5 - 6 - 7 - 8 - 9 - 10 (definitely is an essential characteristic of democracy) - 88 (Don't Know, DK) - 99 (Not Answer, NA)",
+    "model_response": "Final answer: @@5@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q39",
+    "question_text": "Many things are desirable, but not all of them are essential characteristics of democracy. Please tell me for each of the following things how essential you think it is as a characteristic of democracy.",
+    "variable": "v137",
+    "option_text": "The army takes over when government is incompetent",
+    "response_scale": "1 (not at all an essential characteristic of democracy) - 2 - 3 - 4 - 5 - 6 - 7 - 8 - 9 - 10 (definitely is an essential characteristic of democracy) - 88 (Don't Know, DK) - 99 (Not Answer, NA)",
+    "model_response": "Final answer: @@1@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q39",
+    "question_text": "Many things are desirable, but not all of them are essential characteristics of democracy. Please tell me for each of the following things how essential you think it is as a characteristic of democracy.",
+    "variable": "v138",
+    "option_text": "Civil rights protect people from state oppression",
+    "response_scale": "1 (not at all an essential characteristic of democracy) - 2 - 3 - 4 - 5 - 6 - 7 - 8 - 9 - 10 (definitely is an essential characteristic of democracy) - 88 (Don't Know, DK) - 99 (Not Answer, NA)",
+    "model_response": "Final answer: @@10@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q39",
+    "question_text": "Many things are desirable, but not all of them are essential characteristics of democracy. Please tell me for each of the following things how essential you think it is as a characteristic of democracy.",
+    "variable": "v139",
+    "option_text": "The state makes people\u2019s incomes equal",
+    "response_scale": "1 (not at all an essential characteristic of democracy) - 2 - 3 - 4 - 5 - 6 - 7 - 8 - 9 - 10 (definitely is an essential characteristic of democracy) - 88 (Don't Know, DK) - 99 (Not Answer, NA)",
+    "model_response": "Final answer: @@5@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q39",
+    "question_text": "Many things are desirable, but not all of them are essential characteristics of democracy. Please tell me for each of the following things how essential you think it is as a characteristic of democracy.",
+    "variable": "v140",
+    "option_text": "People obey their rulers",
+    "response_scale": "1 (not at all an essential characteristic of democracy) - 2 - 3 - 4 - 5 - 6 - 7 - 8 - 9 - 10 (definitely is an essential characteristic of democracy) - 88 (Don't Know, DK) - 99 (Not Answer, NA)",
+    "model_response": "Final answer: @@1@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q39",
+    "question_text": "Many things are desirable, but not all of them are essential characteristics of democracy. Please tell me for each of the following things how essential you think it is as a characteristic of democracy.",
+    "variable": "v141",
+    "option_text": "Women have the same rights as men",
+    "response_scale": "1 (not at all an essential characteristic of democracy) - 2 - 3 - 4 - 5 - 6 - 7 - 8 - 9 - 10 (definitely is an essential characteristic of democracy) - 88 (Don't Know, DK) - 99 (Not Answer, NA)",
+    "model_response": "Final answer: @@5@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q40",
+    "question_text": "How important is it for you to live in a country that is governed democratically? On this scale where 1 means \u201cnot at all important\u201d and 10 means \u201cabsolutely important\u201d",
+    "variable": "v142",
+    "option_text": "not at all important",
+    "response_scale": "1 (not at all important) - 2 - 3 - 4 - 5 - 6 - 7 - 8 - 9 - 10 (absolutely important) - 88 (Don't Know, DK) - 99 (Not Answer, NA)",
+    "model_response": "Final answer: @@1@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q41",
+    "question_text": "And how democratically is this country being governed today? Again using a scale from 1 to 10, where 1 means that it is \u201cnot at all democratic\u201d and 10 means that it is \u201ccompletely democratic,\u201d what position would you choose?",
+    "variable": "v143",
+    "option_text": "Not at all democratic",
+    "response_scale": "1 (not at all democratic) - 2 - 3 - 4 - 5 - 6 - 7 - 8 - 9 - 10 (completely democratic) - 88 (Don't Know, DK) - 99 (Not Answer, NA)",
+    "model_response": "Final answer: @@1@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q42",
+    "question_text": "To what extent do you feel satisfied with how the political system is functioning in your country these days?",
+    "variable": "v144",
+    "option_text": "Not satisfied at all",
+    "response_scale": "1 (Not satisfied at all) - 2 - 3 - 4 - 5 - 6 - 7 - 8 - 9 - 10 (Completely satisfied) - 88 (Don't Know, DK) - 99 (Not Answer, NA)",
+    "model_response": "Final answer: @@1@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q43",
+    "question_text": "Here is a list of two types of political systems and say which, if any, do you belong to?",
+    "variable": "v145",
+    "option_text": "Having a strong leader who does not have to bother with parliament and elections",
+    "response_scale": "1 (Very good) - 2 (Fairly good) - 3 (Fairly bad) - 4 (Very bad) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
+    "model_response": "Final answer: @@9@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q43",
+    "question_text": "Here is a list of two types of political systems and say which, if any, do you belong to?",
+    "variable": "v146",
+    "option_text": "Having experts, not government, make decisions according to what they think is best for the country",
+    "response_scale": "1 (Very good) - 2 (Fairly good) - 3 (Fairly bad) - 4 (Very bad) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
+    "model_response": "Final answer: @@8@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q43",
+    "question_text": "Here is a list of two types of political systems and say which, if any, do you belong to?",
+    "variable": "v147",
+    "option_text": "Having the army rule the country",
+    "response_scale": "1 (Very good) - 2 (Fairly good) - 3 (Fairly bad) - 4 (Very bad) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
+    "model_response": "Final answer: @@9@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q43",
+    "question_text": "Here is a list of two types of political systems and say which, if any, do you belong to?",
+    "variable": "v148",
+    "option_text": "Having a democratic political system",
+    "response_scale": "1 (Very good) - 2 (Fairly good) - 3 (Fairly bad) - 4 (Very bad) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
+    "model_response": "Final answer: @@8@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q44",
+    "question_text": "Please tell me for each of the following whether it can always be justified, never be justified, or something in between, using this card.",
+    "variable": "v149",
+    "option_text": "Claiming state benefits which you are not entitled to",
+    "response_scale": "1 (never) - 2 - 3 - 4 - 5 - 6 - 7 - 8 - 9 - 10 (always) - 88 (Don't Know, DK) - 99 (Not Answer, NA)",
+    "model_response": "Final answer: @@1@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q44",
+    "question_text": "Please tell me for each of the following whether it can always be justified, never be justified, or something in between, using this card.",
+    "variable": "v150",
+    "option_text": "Cheating on tax if you have the chance",
+    "response_scale": "1 (never) - 2 - 3 - 4 - 5 - 6 - 7 - 8 - 9 - 10 (always) - 88 (Don't Know, DK) - 99 (Not Answer, NA)",
+    "model_response": "Final answer: @@2@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q44",
+    "question_text": "Please tell me for each of the following whether it can always be justified, never be justified, or something in between, using this card.",
+    "variable": "v151",
+    "option_text": "Taking the drugs marijuana or hashish",
+    "response_scale": "1 (never) - 2 - 3 - 4 - 5 - 6 - 7 - 8 - 9 - 10 (always) - 88 (Don't Know, DK) - 99 (Not Answer, NA)",
+    "model_response": "Final answer: @@5@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q44",
+    "question_text": "Please tell me for each of the following whether it can always be justified, never be justified, or something in between, using this card.",
+    "variable": "v152",
+    "option_text": "Someone accepting a bribe in the course of their duties",
+    "response_scale": "1 (never) - 2 - 3 - 4 - 5 - 6 - 7 - 8 - 9 - 10 (always) - 88 (Don't Know, DK) - 99 (Not Answer, NA)",
+    "model_response": "Final answer: @@1@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q44",
+    "question_text": "Please tell me for each of the following whether it can always be justified, never be justified, or something in between, using this card.",
+    "variable": "v153",
+    "option_text": "Homosexuality",
+    "response_scale": "1 (never) - 2 - 3 - 4 - 5 - 6 - 7 - 8 - 9 - 10 (always) - 88 (Don't Know, DK) - 99 (Not Answer, NA)",
+    "model_response": "Final answer: @@5@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q44",
+    "question_text": "Please tell me for each of the following whether it can always be justified, never be justified, or something in between, using this card.",
+    "variable": "v154",
+    "option_text": "Abortion",
+    "response_scale": "1 (never) - 2 - 3 - 4 - 5 - 6 - 7 - 8 - 9 - 10 (always) - 88 (Don't Know, DK) - 99 (Not Answer, NA)",
+    "model_response": "Final answer: @@5@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q44",
+    "question_text": "Please tell me for each of the following whether it can always be justified, never be justified, or something in between, using this card.",
+    "variable": "v155",
+    "option_text": "Divorce",
+    "response_scale": "1 (never) - 2 - 3 - 4 - 5 - 6 - 7 - 8 - 9 - 10 (always) - 88 (Don't Know, DK) - 99 (Not Answer, NA)",
+    "model_response": "Final answer: @@5@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q44",
+    "question_text": "Please tell me for each of the following whether it can always be justified, never be justified, or something in between, using this card.",
+    "variable": "v156",
+    "option_text": "Euthanasia (terminating the life of the incurably sick)",
+    "response_scale": "1 (never) - 2 - 3 - 4 - 5 - 6 - 7 - 8 - 9 - 10 (always) - 88 (Don't Know, DK) - 99 (Not Answer, NA)",
+    "model_response": "Final answer: @@5@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q44",
+    "question_text": "Please tell me for each of the following whether it can always be justified, never be justified, or something in between, using this card.",
+    "variable": "v157",
+    "option_text": "Suicide",
+    "response_scale": "1 (never) - 2 - 3 - 4 - 5 - 6 - 7 - 8 - 9 - 10 (always) - 88 (Don't Know, DK) - 99 (Not Answer, NA)",
+    "model_response": "Final answer: @@5@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q44",
+    "question_text": "Please tell me for each of the following whether it can always be justified, never be justified, or something in between, using this card.",
+    "variable": "v158",
+    "option_text": "Having casual sex",
+    "response_scale": "1 (never) - 2 - 3 - 4 - 5 - 6 - 7 - 8 - 9 - 10 (always) - 88 (Don't Know, DK) - 99 (Not Answer, NA)",
+    "model_response": "Final answer: @@5@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q44",
+    "question_text": "Please tell me for each of the following whether it can always be justified, never be justified, or something in between, using this card.",
+    "variable": "v159",
+    "option_text": "Avoiding a fare on public transport",
+    "response_scale": "1 (never) - 2 - 3 - 4 - 5 - 6 - 7 - 8 - 9 - 10 (always) - 88 (Don't Know, DK) - 99 (Not Answer, NA)",
+    "model_response": "Final answer: @@5@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q44",
+    "question_text": "Please tell me for each of the following whether it can always be justified, never be justified, or something in between, using this card.",
+    "variable": "v160",
+    "option_text": "Prostitution",
+    "response_scale": "1 (never) - 2 - 3 - 4 - 5 - 6 - 7 - 8 - 9 - 10 (always) - 88 (Don't Know, DK) - 99 (Not Answer, NA)",
+    "model_response": "Final answer: @@5@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q44",
+    "question_text": "Please tell me for each of the following whether it can always be justified, never be justified, or something in between, using this card.",
+    "variable": "v161",
+    "option_text": "Artificial insemination or in-vitro fertilization",
+    "response_scale": "1 (never) - 2 - 3 - 4 - 5 - 6 - 7 - 8 - 9 - 10 (always) - 88 (Don't Know, DK) - 99 (Not Answer, NA)",
+    "model_response": "Final answer: @@5@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q44",
+    "question_text": "Please tell me for each of the following whether it can always be justified, never be justified, or something in between, using this card.",
+    "variable": "v162",
+    "option_text": "Political violence",
+    "response_scale": "1 (never) - 2 - 3 - 4 - 5 - 6 - 7 - 8 - 9 - 10 (always) - 88 (Don't Know, DK) - 99 (Not Answer, NA)",
+    "model_response": "Final answer: @@5@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q44",
+    "question_text": "Please tell me for each of the following whether it can always be justified, never be justified, or something in between, using this card.",
+    "variable": "v163",
+    "option_text": "Death penalty",
+    "response_scale": "1 (never) - 2 - 3 - 4 - 5 - 6 - 7 - 8 - 9 - 10 (always) - 88 (Don't Know, DK) - 99 (Not Answer, NA)",
+    "model_response": "Final answer: @@5@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q45",
+    "question_text": "Here is a list of qualities which children can be encouraged to learn at home. Which five would you say are the most desirable for a child to have?",
+    "variable": "v164",
+    "option_text": "your town or city",
+    "response_scale": "1 (Very close) - 2 (Close) - 3 (Not very close) - 4 (Not close at all) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
+    "model_response": "Final answer: @@9@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q45",
+    "question_text": "Here is a list of qualities which children can be encouraged to learn at home. Which five would you say are the most desirable for a child to have?",
+    "variable": "v165",
+    "option_text": "your [county,]",
+    "response_scale": "1 (Very close) - 2 (Close) - 3 (Not very close) - 4 (Not close at all) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
+    "model_response": "Final answer: @@8@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q45",
+    "question_text": "Here is a list of qualities which children can be encouraged to learn at home. Which five would you say are the most desirable for a child to have?",
+    "variable": "v166",
+    "option_text": "[Britain]",
+    "response_scale": "1 (Very close) - 2 (Close) - 3 (Not very close) - 4 (Not close at all) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
+    "model_response": "Final answer: @@8@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q45",
+    "question_text": "Here is a list of qualities which children can be encouraged to learn at home. Which five would you say are the most desirable for a child to have?",
+    "variable": "v167",
+    "option_text": "[Europe]",
+    "response_scale": "1 (Very close) - 2 (Close) - 3 (Not very close) - 4 (Not close at all) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
+    "model_response": "Final answer: @@1@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q45",
+    "question_text": "Here is a list of qualities which children can be encouraged to learn at home. Which five would you say are the most desirable for a child to have?",
+    "variable": "v168",
+    "option_text": "the World",
+    "response_scale": "1 (Very close) - 2 (Close) - 3 (Not very close) - 4 (Not close at all) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
+    "model_response": "Final answer: @@9@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q46",
+    "question_text": "Do you have British nationality?",
+    "variable": "v169",
+    "option_text": "yes",
+    "response_scale": "1 (yes) - 2 (no) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
+    "model_response": "Final answer: @@1@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q47",
+    "question_text": "How proud are you to be a British citizen\u2026READ OUT\u2026",
+    "variable": "v170",
+    "option_text": "very proud",
+    "response_scale": "1 (very proud) - 2 (quite proud) - 3 (not very proud) - 4 (not at all proud) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
+    "model_response": "Final answer: @@1@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q48",
+    "question_text": "When elections take place, do you vote always, usually or never? Please tell me separately for local elections, national general elections and elections to the European Parliament",
+    "variable": "v171",
+    "option_text": "Do you vote always, usually or never at the Local level?",
+    "response_scale": "1 (always) - 2 (usually) - 3 (never) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
+    "model_response": "Final answer: @@1@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q48",
+    "question_text": "When elections take place, do you vote always, usually or never? Please tell me separately for local elections, national general elections and elections to the European Parliament",
+    "variable": "v172",
+    "option_text": "Do you vote always, usually or never at the National level?",
+    "response_scale": "1 (always) - 2 (usually) - 3 (never) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
+    "model_response": "Final answer: @@1@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q48",
+    "question_text": "When elections take place, do you vote always, usually or never? Please tell me separately for local elections, national general elections and elections to the European Parliament",
+    "variable": "v173",
+    "option_text": "Do you vote always, usually or never at the European level?",
+    "response_scale": "1 (always) - 2 (usually) - 3 (never) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
+    "model_response": "Final answer: @@1@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q49",
+    "question_text": "Which (political) party appeals to you most?",
+    "variable": "v174",
+    "option_text": "1. Conservative",
+    "response_scale": "1 (Conservative) - 2 (Labour) - 3 (Liberal Democrat) - 4 (Scottish National Party) - 5 (Plaid Cymru) - 6 (Green Party) - 7 (UK Independence Party (UKIP)) - 8 (British National Party (BNP)/ National Front) - 9 (Other party) - 10 (None) - 88 (Don't Know, DK) - 99 (Not Answer, NA)",
+    "model_response": "Final answer: @@1@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q49",
+    "question_text": "Which (political) party appeals to you most?",
+    "variable": "v175",
+    "option_text": "2. Labour",
+    "response_scale": "1 (Conservative) - 2 (Labour) - 3 (Liberal Democrat) - 4 (Scottish National Party) - 5 (Plaid Cymru) - 6 (Green Party) - 7 (UK Independence Party (UKIP)) - 8 (British National Party (BNP)/ National Front) - 9 (Other party) - 10 (None) - 88 (Don't Know, DK) - 99 (Not Answer, NA)",
+    "model_response": "Final answer: @@2@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q50",
+    "question_text": "How often do you follow politics\u2026",
+    "variable": "v176",
+    "option_text": "Several times a week",
+    "response_scale": "1 (very often) - 2 (fairly often) - 3 (not often) - 4 (not at all often) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
+    "model_response": "Final answer: @@1@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q51",
+    "question_text": "How would you say you are in politics?",
+    "variable": "v184",
+    "option_text": "Very good",
+    "response_scale": "1 (Very good) - 2 (Quite good) - 3 (Neither good, nor bad) - 4 (Quite bad) - 5 (Very bad) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
+    "model_response": "Final answer: @@1@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q52A",
+    "question_text": "Immigrants take jobs away from the British",
+    "variable": "v185",
+    "option_text": "Immigrants take jobs away from the British",
+    "response_scale": "1 (Immigrants take jobs away from the British) - 2 (Immigrants do not take jobs away from the British) - 3 - 4 - 5 - 6 - 7 - 8 - 9 - 10 - 88 (Don't Know, DK) - 99 (Not Answer, NA)",
+    "model_response": "Final answer: @@1@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q52B",
+    "question_text": "Immigrants make crime problems worse",
+    "variable": "v186",
+    "option_text": "Immigrants make crime problems worse",
+    "response_scale": "1 (Immigrants make crime problems worse) - 2 (Immigrants do not make crime problems worse) - 3 - 4 - 5 - 6 - 7 - 8 - 9 - 10 - 88 (Don't Know, DK) - 99 (Not Answer, NA)",
+    "model_response": "Final answer: @@1@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q52C",
+    "question_text": "Immigrants are a strain on a country\u2019s welfare system",
+    "variable": "v187",
+    "option_text": "Immigrants are a strain on a country\u2019s welfare system",
+    "response_scale": "1 (Immigrants are a strain on a country\u2019s welfare system) - 2 (Immigrants are not a strain on a country\u2019s welfare system) - 3 - 4 - 5 - 6 - 7 - 8 - 9 - 10 - 88 (Don't Know, DK) - 99 (Not Answer, NA)",
+    "model_response": "Final answer: @@1@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q52D",
+    "question_text": "It is better if immigrants maintain their distinct customs and traditions",
+    "variable": "v188",
+    "option_text": "It is better if immigrants maintain their distinct customs and traditions",
+    "response_scale": "1 (It is better if immigrants maintain their distinct customs and traditions) - 2 (It is better if immigrants do not maintain their distinct customs and traditions) - 3 - 4 - 5 - 6 - 7 - 8 - 9 - 10 - 88 (Don't Know, DK) - 99 (Not Answer, NA)",
+    "model_response": "Final answer: @@1@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q53",
+    "question_text": "Here is a list of aspects of a job that people say are important. Please look at them and tell me which ones you personally think are important in a job?",
+    "variable": "v189",
+    "option_text": "To have been born in Britain",
+    "response_scale": "1 (very important) - 2 (quite important) - 3 (not important) - 4 (not at all important) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
+    "model_response": "Final answer: @@3@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q53",
+    "question_text": "Here is a list of aspects of a job that people say are important. Please look at them and tell me which ones you personally think are important in a job?",
+    "variable": "v190",
+    "option_text": "To respect Britain\u2019s political institutions and laws",
+    "response_scale": "1 (very important) - 2 (quite important) - 3 (not important) - 4 (not at all important) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
+    "model_response": "Final answer: @@1@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q53",
+    "question_text": "Here is a list of aspects of a job that people say are important. Please look at them and tell me which ones you personally think are important in a job?",
+    "variable": "v191",
+    "option_text": "To have British ancestry",
+    "response_scale": "1 (very important) - 2 (quite important) - 3 (not important) - 4 (not at all important) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
+    "model_response": "Final answer: @@3@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q53",
+    "question_text": "Here is a list of aspects of a job that people say are important. Please look at them and tell me which ones you personally think are important in a job?",
+    "variable": "v192",
+    "option_text": "To be able to speak English",
+    "response_scale": "1 (very important) - 2 (quite important) - 3 (not important) - 4 (not at all important) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
+    "model_response": "Final answer: @@1@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q53",
+    "question_text": "Here is a list of aspects of a job that people say are important. Please look at them and tell me which ones you personally think are important in a job?",
+    "variable": "v193",
+    "option_text": "To share British culture",
+    "response_scale": "1 (very important) - 2 (quite important) - 3 (not important) - 4 (not at all important) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
+    "model_response": "Final answer: @@3@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q54",
+    "question_text": "Here is a list of aspects of a job that people say are important. Please look at them and tell me which ones you personally think are important in a job?",
+    "variable": "v194",
+    "option_text": "To have been born in Europe",
+    "response_scale": "1 (very important) - 2 (quite important) - 3 (not important) - 4 (not at all important) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
+    "model_response": "Final answer: @@3@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q54",
+    "question_text": "Here is a list of aspects of a job that people say are important. Please look at them and tell me which ones you personally think are important in a job?",
+    "variable": "v195",
+    "option_text": "To have European ancestry",
+    "response_scale": "1 (very important) - 2 (quite important) - 3 (not important) - 4 (not at all important) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
+    "model_response": "Final answer: @@3@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q54",
+    "question_text": "Here is a list of aspects of a job that people say are important. Please look at them and tell me which ones you personally think are important in a job?",
+    "variable": "v196",
+    "option_text": "To be a Christian",
+    "response_scale": "1 (very important) - 2 (quite important) - 3 (not important) - 4 (not at all important) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
+    "model_response": "Final answer: @@3@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q54",
+    "question_text": "Here is a list of aspects of a job that people say are important. Please look at them and tell me which ones you personally think are important in a job?",
+    "variable": "v197",
+    "option_text": "To share European culture",
+    "response_scale": "1 (very important) - 2 (quite important) - 3 (not important) - 4 (not at all important) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
+    "model_response": "Final answer: @@3@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q55",
+    "question_text": "Some people say the European Union enlargement should go further. Others say it has already gone too far. Using this card, which number best describes your position, where \u20181\u2019 means \u201cshould go further\u201d, and \u201810\u2019 means \u201chas already gone too far\u201d?",
+    "variable": "v198",
+    "option_text": "should go further",
+    "response_scale": "1 (should go further) - 2 - 3 - 4 - 5 - 6 - 7 - 8 - 9 - 10 (has already gone too far) - 88 (Don't Know, DK) - 99 (Not Answer, NA)",
+    "model_response": "Final answer: @@1@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q56",
+    "question_text": "How much do you agree or disagree with each of these statements?",
+    "variable": "v199",
+    "option_text": "I would give part of my income if I were certain that the money would be used to prevent environmental pollution",
+    "response_scale": "1 (agree strongly) - 2 (agree) - 3 (neither agree nor disagree) - 4 (disagree) - 5 (disagree strongly) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
+    "model_response": "Final answer: @@3@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q56",
+    "question_text": "How much do you agree or disagree with each of these statements?",
+    "variable": "v200",
+    "option_text": "It is just too difficult for someone like me to do much about the environment",
+    "response_scale": "1 (agree strongly) - 2 (agree) - 3 (neither agree nor disagree) - 4 (disagree) - 5 (disagree strongly) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
+    "model_response": "Final answer: @@3@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q56",
+    "question_text": "How much do you agree or disagree with each of these statements?",
+    "variable": "v201",
+    "option_text": "There are more important things to do in life than protect the environment",
+    "response_scale": "1 (agree strongly) - 2 (agree) - 3 (neither agree nor disagree) - 4 (disagree) - 5 (disagree strongly) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
+    "model_response": "Final answer: @@3@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q56",
+    "question_text": "How much do you agree or disagree with each of these statements?",
+    "variable": "v202",
+    "option_text": "There is no point in doing what I can for the environment unless others do the same",
+    "response_scale": "1 (agree strongly) - 2 (agree) - 3 (neither agree nor disagree) - 4 (disagree) - 5 (disagree strongly) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
+    "model_response": "Final answer: @@3@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q56",
+    "question_text": "How much do you agree or disagree with each of these statements?",
+    "variable": "v203",
+    "option_text": "Many of the claims about environmental threats are exaggerated",
+    "response_scale": "1 (agree strongly) - 2 (agree) - 3 (neither agree nor disagree) - 4 (disagree) - 5 (disagree strongly) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
+    "model_response": "Final answer: @@3@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q57",
+    "question_text": "Some people say the following things are important for being truly British. Others say they are not important. How important do you think each of the following is?",
+    "variable": "v204",
+    "option_text": "Protecting the environment should be given priority, even if it causes slower economic growth and some loss of jobs",
+    "response_scale": "1 (Protecting the environment should be given priority, even if it causes slower economic growth and some loss of jobs) - 2 (Economic growth and creating jobs should be the top priority, even if the environment suffers to some extent) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
+    "model_response": "Final answer: @@1@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q58",
+    "question_text": "Here is a list of two changes in our way of life that might take place in the near future. Please tell me for each one, if it were to happen whether you think it would be a good thing, a bad thing, or you do not mind.",
+    "variable": "v205",
+    "option_text": "Keep people under video surveillance in public areas",
+    "response_scale": "1 (Probably should have the right) - 2 (Definitely should have the right) - 3 (Probably should not have the right) - 4 (Definitely should not have the right) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
+    "model_response": "Final answer: @@3@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q58",
+    "question_text": "Here is a list of two changes in our way of life that might take place in the near future. Please tell me for each one, if it were to happen whether you think it would be a good thing, a bad thing, or you do not mind.",
+    "variable": "v206",
+    "option_text": "Monitor all e-mails and any other information exchanged on the Internet",
+    "response_scale": "1 (Probably should have the right) - 2 (Definitely should have the right) - 3 (Probably should not have the right) - 4 (Definitely should not have the right) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
+    "model_response": "Final answer: @@3@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q58",
+    "question_text": "Here is a list of two changes in our way of life that might take place in the near future. Please tell me for each one, if it were to happen whether you think it would be a good thing, a bad thing, or you do not mind.",
+    "variable": "v207",
+    "option_text": "Collect information about anyone living in Britain without their knowledge",
+    "response_scale": "1 (Probably should have the right) - 2 (Definitely should have the right) - 3 (Probably should not have the right) - 4 (Definitely should not have the right) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
+    "model_response": "Final answer: @@4@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q59",
+    "question_text": "How often do you follow politics\u2026",
+    "variable": "v208",
+    "option_text": "Every day",
+    "response_scale": "1 (Every day) - 2 (Several times a week) - 3 (Once or twice a week) - 4 (Less often) - 5 (Never) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
+    "model_response": "Final answer: @@1@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q59",
+    "question_text": "How often do you follow politics\u2026",
+    "variable": "v209",
+    "option_text": "\u2026 on the radio?",
+    "response_scale": "1 (Every day) - 2 (Several times a week) - 3 (Once or twice a week) - 4 (Less often) - 5 (Never) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
+    "model_response": "Final answer: @@3@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q59",
+    "question_text": "How often do you follow politics\u2026",
+    "variable": "v210",
+    "option_text": "\u2026 in the daily papers?",
+    "response_scale": "1 (Every day) - 2 (Several times a week) - 3 (Once or twice a week) - 4 (Less often) - 5 (Never) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
+    "model_response": "Final answer: @@1@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q59",
+    "question_text": "How often do you follow politics\u2026",
+    "variable": "v211",
+    "option_text": "\u2026 on social media?",
+    "response_scale": "1 (Every day) - 2 (Several times a week) - 3 (Once or twice a week) - 4 (Less often) - 5 (Never) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
+    "model_response": "Final answer: @@3@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q60",
+    "question_text": "To what extent do you feel concerned about the living conditions of:",
+    "variable": "v212",
+    "option_text": "People in your neighbourhood",
+    "response_scale": "1 (very much) - 2 (much) - 3 (to a certain extent) - 4 (not so much) - 5 (not at all) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
+    "model_response": "Final answer: @@3@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q60",
+    "question_text": "To what extent do you feel concerned about the living conditions of:",
+    "variable": "v213",
+    "option_text": "The people of the region you live in",
+    "response_scale": "1 (very much) - 2 (much) - 3 (to a certain extent) - 4 (not so much) - 5 (not at all) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
+    "model_response": "Final answer: @@3@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q60",
+    "question_text": "To what extent do you feel concerned about the living conditions of:",
+    "variable": "v214",
+    "option_text": "Your fellow countrymen",
+    "response_scale": "1 (very much) - 2 (much) - 3 (to a certain extent) - 4 (not so much) - 5 (not at all) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
+    "model_response": "Final answer: @@3@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q60",
+    "question_text": "To what extent do you feel concerned about the living conditions of:",
+    "variable": "v215",
+    "option_text": "Europeans",
+    "response_scale": "1 (very much) - 2 (much) - 3 (to a certain extent) - 4 (not so much) - 5 (not at all) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
+    "model_response": "Final answer: @@3@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q60",
+    "question_text": "To what extent do you feel concerned about the living conditions of:",
+    "variable": "v216",
+    "option_text": "All humans all over the world",
+    "response_scale": "1 (very much) - 2 (much) - 3 (to a certain extent) - 4 (not so much) - 5 (not at all) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
+    "model_response": "Final answer: @@3@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q62",
+    "question_text": "Here is a list of aspects of a job that people say are important. Please look at them and tell me which ones you personally think are important in a job?",
+    "variable": "v221",
+    "option_text": "Eliminating big inequalities in income between citizens",
+    "response_scale": "1 (very important) - 2 (quite important) - 3 (not important) - 4 (not at all important) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
+    "model_response": "Final answer: @@1@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q62",
+    "question_text": "Here is a list of aspects of a job that people say are important. Please look at them and tell me which ones you personally think are important in a job?",
+    "variable": "v222",
+    "option_text": "Guaranteeing that basic needs are met for all, in terms of food, housing, clothing, education, health",
+    "response_scale": "1 (very important) - 2 (quite important) - 3 (not important) - 4 (not at all important) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
+    "model_response": "Final answer: @@1@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q62",
+    "question_text": "Here is a list of aspects of a job that people say are important. Please look at them and tell me which ones you personally think are important in a job?",
+    "variable": "v223",
+    "option_text": "Recognizing people on their merits",
+    "response_scale": "1 (very important) - 2 (quite important) - 3 (not important) - 4 (not at all important) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
+    "model_response": "Final answer: @@1@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q62",
+    "question_text": "Here is a list of aspects of a job that people say are important. Please look at them and tell me which ones you personally think are important in a job?",
+    "variable": "v224",
+    "option_text": "Protecting against terrorism",
+    "response_scale": "1 (very important) - 2 (quite important) - 3 (not important) - 4 (not at all important) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
+    "model_response": "Final answer: @@1@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q62a",
+    "question_text": "How happy or how disappointed are you that the UK voted to leave the European Union?",
+    "variable": "v108",
+    "option_text": "Extremely disappointed",
+    "response_scale": "1 (extremely disappointed) - 2 - 3 - 4 - 5 - 6 - 7 - 8 - 9 - 10 (extremely happy) - 88 (Don't Know, DK) - 99 (Not Answer, NA)",
+    "model_response": "Final answer: @@1@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q63",
+    "question_text": "Sex of respondent",
+    "variable": "v225",
+    "option_text": "male",
+    "response_scale": "1 (male) - 2 (female) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
+    "model_response": "Final answer: @@1@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q64",
+    "question_text": "Can you tell me your year of birth, please",
+    "variable": "v226",
+    "option_text": "year of birth",
+    "response_scale": "0000 - 9999 - 8888 (Don't Know, DK) - 9999 (Not Answer, NA)",
+    "model_response": "Final answer: @@0000@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q65",
+    "question_text": "Were you born in Britain?",
+    "variable": "v227",
+    "option_text": "yes",
+    "response_scale": "1 (yes) - 2 (no) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
+    "model_response": "Final answer: @@1@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q66",
+    "question_text": "In which country were you born?",
+    "variable": "v228a",
+    "option_text": "Country of birth",
+    "response_scale": "Write in:",
+    "model_response": "Final answer: @@<your answer>@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q67",
+    "question_text": "Can you tell me in which year you first came to live in Britain",
+    "variable": "v229",
+    "option_text": "year of first arrival",
+    "response_scale": "0000 - 9999 - 8888 (Don't Know, DK) - 9999 (Not Answer, NA)",
+    "model_response": "Final answer: @@0000@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q68",
+    "question_text": "Was your father born in Britain?",
+    "variable": "v230",
+    "option_text": "yes",
+    "response_scale": "1 (yes) - 2 (no) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
+    "model_response": "Final answer: @@1@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q69",
+    "question_text": "In which country was your father born?",
+    "variable": "v231a",
+    "option_text": "Country of father's birth",
+    "response_scale": "Write in:",
+    "model_response": "Final answer: @@<your answer>@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q70",
+    "question_text": "Was your mother born in Britain?",
+    "variable": "v232",
+    "option_text": "yes",
+    "response_scale": "1 (yes) - 2 (no) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
+    "model_response": "Final answer: @@1@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q71",
+    "question_text": "In which country was your mother born?",
+    "variable": "v233a",
+    "option_text": "Country of mother's birth",
+    "response_scale": "Write in:",
+    "model_response": "Final answer: @@<your answer>@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q72",
+    "question_text": "What is your current legal marital status?",
+    "variable": "v234",
+    "option_text": "married",
+    "response_scale": "1 (married) - 2 (registered partnership) - 3 (widowed) - 4 (divorced) - 5 (separated) - 6 (never married and never registered partnership) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
+    "model_response": "Final answer: @@1@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q73",
+    "question_text": "Did you live together with your partner before your marriage or before the registration of your partnership?",
+    "variable": "v235",
+    "option_text": "yes",
+    "response_scale": "1 (yes) - 2 (no) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
+    "model_response": "Final answer: @@1@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q74",
+    "question_text": "Do you live with a partner?",
+    "variable": "v236",
+    "option_text": "yes",
+    "response_scale": "1 (yes) - 2 (no) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
+    "model_response": "Final answer: @@1@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q75",
+    "question_text": "Do you have a steady relationship?",
+    "variable": "v237",
+    "option_text": "yes",
+    "response_scale": "1 (yes) - 2 (no) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
+    "model_response": "Final answer: @@1@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q76",
+    "question_text": "Do you live with your parents or your parents in law?",
+    "variable": "v238",
+    "option_text": "No",
+    "response_scale": "1 (No) - 2 (Yes, own parent(s)) - 3 (Yes, parent(s) in law) - 4 (Yes, both own parent(s) and parent(s) in law) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
+    "model_response": "Final answer: @@1@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q77",
+    "question_text": "How many children do you have? Please tell me how many of them live in your household and how many live elsewhere:",
+    "variable": "v239a",
+    "option_text": "Number of children in household",
+    "response_scale": "00 (no children) - 99 (Not Answer, NA)",
+    "model_response": "Final answer: @@00@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q77",
+    "question_text": "How many children do you have? Please tell me how many of them live in your household and how many live elsewhere:",
+    "variable": "v239b",
+    "option_text": "Number of children outside household",
+    "response_scale": "00 (no children) - 99 (Not Answer, NA)",
+    "model_response": "Final answer: @@00@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q78",
+    "question_text": "Including yourself, how many people \u2013 including children \u2013 live here regularly as members of this household?",
+    "variable": "v240",
+    "option_text": "Number of people in household",
+    "response_scale": "01 (I live alone) - 99 (Not Answer, NA)",
+    "model_response": "Final answer: @@01@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q79",
+    "question_text": "At what age did you complete your full time education, either at school or at an institution of higher education?",
+    "variable": "v242",
+    "option_text": "Age of completing education",
+    "response_scale": "00 (no formal education) - 99 (Not Answer, NA)",
+    "model_response": "Final answer: @@00@@",
+    "status": "success"
+  },
+  {
+    "question_id": "Q80",
+    "question_text": "At what age did you complete your full time education, either at school or at an institution of higher education?",
+    "variable": "v242",
+    "option_text": "Age of completing education",
+    "response_scale": "00 (no formal education) - 99 (Not Answer, NA)",
+    "model_response": "Final answer: @@NA@@",
+    "status": "success"
   }
 ]

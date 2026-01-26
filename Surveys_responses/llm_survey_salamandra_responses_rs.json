@@ -5,7 +5,7 @@
     "variable": "v1",
     "option_text": "Munka",
     "response_scale": "1 - nagyon fontos, 2 - el\u00e9g fontos, 3 - nem fontos, 4 - egy\u00e1ltal\u00e1n nem fontos, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
-    "model_response": "Final answer: @@1@@",
+    "model_response": "9 - Nem v\u00e1laszolt",
     "status": "success"
   },
   {
@@ -14,7 +14,7 @@
     "variable": "v2",
     "option_text": "Csal\u00e1d",
     "response_scale": "1 - nagyon fontos, 2 - el\u00e9g fontos, 3 - nem fontos, 4 - egy\u00e1ltal\u00e1n nem fontos, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
-    "model_response": "Final answer: @@1@@",
+    "model_response": "Final answer: 2",
     "status": "success"
   },
   {
@@ -23,7 +23,7 @@
     "variable": "v3",
     "option_text": "Bar\u00e1tok \u00e9s ismer\u0151s\u00f6k",
     "response_scale": "1 - nagyon fontos, 2 - el\u00e9g fontos, 3 - nem fontos, 4 - egy\u00e1ltal\u00e1n nem fontos, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
-    "model_response": "Final answer: @@1@@",
+    "model_response": "3",
     "status": "success"
   },
   {
@@ -32,7 +32,7 @@
     "variable": "v4",
     "option_text": "Szabadid\u0151",
     "response_scale": "1 - nagyon fontos, 2 - el\u00e9g fontos, 3 - nem fontos, 4 - egy\u00e1ltal\u00e1n nem fontos, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
-    "model_response": "Final answer: @@1@@",
+    "model_response": "Final answer: 3 - nem fontos",
     "status": "success"
   },
   {
@@ -41,7 +41,7 @@
     "variable": "v5",
     "option_text": "Politika",
     "response_scale": "1 - nagyon fontos, 2 - el\u00e9g fontos, 3 - nem fontos, 4 - egy\u00e1ltal\u00e1n nem fontos, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
-    "model_response": "Final answer: @@3@@",
+    "model_response": "9 - Nem v\u00e1laszolt",
     "status": "success"
   },
   {
@@ -50,7 +50,7 @@
     "variable": "v6",
     "option_text": "Vall\u00e1s",
     "response_scale": "1 - nagyon fontos, 2 - el\u00e9g fontos, 3 - nem fontos, 4 - egy\u00e1ltal\u00e1n nem fontos, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
-    "model_response": "Final answer: @@3@@",
+    "model_response": "8 - Nem tudom",
     "status": "success"
   },
   {
@@ -59,7 +59,7 @@
     "variable": "v7",
     "option_text": NaN,
     "response_scale": "1 - nagyon boldog, 2 - boldog, 3 - nem t\u00fal boldog, 4 - egy\u00e1ltal\u00e1n nem boldog, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
-    "model_response": "Final answer: @@1@@",
+    "model_response": "Final answer: 4 - egy\u00e1ltal\u00e1n nem boldog",
     "status": "success"
   },
   {
@@ -68,7 +68,7 @@
     "variable": "v8",
     "option_text": NaN,
     "response_scale": "1 - nagyon j\u00f3, 2 - j\u00f3, 3 - kiel\u00e9g\u00edt\u0151, 4 - rossz, 5 - nagyon rossz, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
-    "model_response": "Final answer: @@3@@",
+    "model_response": "Final answer: 3 - kiel\u00e9g\u00edt\u0151",
     "status": "success"
   },
   {
@@ -77,7 +77,7 @@
     "variable": NaN,
     "option_text": NaN,
     "response_scale": NaN,
-    "model_response": "Final answer: @@nan@@",
+    "model_response": "Final answer: nan",
     "status": "success"
   },
   {
@@ -86,7 +86,7 @@
     "variable": "v9",
     "option_text": "Verseny vagy egyh\u00e1zi szervezet",
     "response_scale": "1 - megeml\u00edtve, 2 - nem eml\u00edtve, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
-    "model_response": "Final answer: @@2@@",
+    "model_response": "9 - Nem v\u00e1laszolt",
     "status": "success"
   },
   {
@@ -95,7 +95,7 @@
     "variable": "v10",
     "option_text": "Oktat\u00e1si, m\u0171v\u00e9szeti, zenei vagy kultur\u00e1lis tev\u00e9kenys\u00e9g",
     "response_scale": "1 - megeml\u00edtve, 2 - nem eml\u00edtve, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
-    "model_response": "Final answer: 1@@",
+    "model_response": "8 - Nem tudom",
     "status": "success"
   },
   {
@@ -104,7 +104,7 @@
     "variable": "v11",
     "option_text": "Szakszervezet",
     "response_scale": "1 - megeml\u00edtve, 2 - nem eml\u00edtve, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
-    "model_response": "Final answer: 2@@",
+    "model_response": "8",
     "status": "success"
   },
   {
@@ -113,7 +113,7 @@
     "variable": "v12",
     "option_text": "Politikai p\u00e1rt vagy csoport",
     "response_scale": "1 - megeml\u00edtve, 2 - nem eml\u00edtve, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
-    "model_response": "Final answer: 2@@",
+    "model_response": "8 - Nem tudom",
     "status": "success"
   },
   {
@@ -122,7 +122,7 @@
     "variable": "v13",
     "option_text": "A k\u00f6rnyezet v\u00e9delm\u00e9vel, \u00f6kol\u00f3gi\u00e1val, \u00e1llatjogokkal foglalkoz\u00f3 szervezet",
     "response_scale": "1 - megeml\u00edtve, 2 - nem eml\u00edtve, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
-    "model_response": "Final answer: 1@@",
+    "model_response": "Final answer: 3",
     "status": "success"
   },
   {
@@ -131,7 +131,7 @@
     "variable": "v14",
     "option_text": "Szakmai egyes\u00fclet",
     "response_scale": "1 - megeml\u00edtve, 2 - nem eml\u00edtve, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
-    "model_response": "Final answer: 2@@",
+    "model_response": "Final answer: 2",
     "status": "success"
   },
   {
@@ -140,7 +140,7 @@
     "variable": "v15",
     "option_text": "Sport- vagy rekre\u00e1ci\u00f3s szervezet",
     "response_scale": "1 - megeml\u00edtve, 2 - nem eml\u00edtve, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
-    "model_response": "Final answer: 2@@",
+    "model_response": "1",
     "status": "success"
   },
   {
@@ -149,7 +149,7 @@
     "variable": "v16",
     "option_text": "Humanit\u00e1rius vagy j\u00f3t\u00e9konys\u00e1gi szervezet",
     "response_scale": "1 - megeml\u00edtve, 2 - nem eml\u00edtve, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
-    "model_response": "Final answer: 1@@",
+    "model_response": "2",
     "status": "success"
   },
   {
@@ -158,7 +158,7 @@
     "variable": "v17",
     "option_text": "Fogyaszt\u00f3v\u00e9delmi egyes\u00fclet",
     "response_scale": "1 - megeml\u00edtve, 2 - nem eml\u00edtve, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
-    "model_response": "Final answer: @@1@@",
+    "model_response": "Final answer: 2",
     "status": "success"
   },
   {
@@ -167,7 +167,7 @@
     "variable": "v18",
     "option_text": "\u00d6nseg\u00edt\u0151 csoport, k\u00f6lcs\u00f6n\u00f6s seg\u00edt\u0151 csoport",
     "response_scale": "1 - megeml\u00edtve, 2 - nem eml\u00edtve, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
-    "model_response": "Final answer: 2@@",
+    "model_response": "8 - Nem tudom",
     "status": "success"
   },
   {
@@ -176,7 +176,7 @@
     "variable": "v19",
     "option_text": "Egy\u00e9b csoportok",
     "response_scale": "1 - megeml\u00edtve, 2 - nem eml\u00edtve, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
-    "model_response": "Final answer: @@2@@",
+    "model_response": "Final answer: 2",
     "status": "success"
   },
   {
@@ -185,7 +185,7 @@
     "variable": "v20",
     "option_text": "Egyik sem (spont\u00e1n)",
     "response_scale": "1 - megeml\u00edtve, 2 - nem eml\u00edtve, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
-    "model_response": "Final answer: @@1@@",
+    "model_response": "Final answer: 1",
     "status": "success"
   },
   {
@@ -194,7 +194,7 @@
     "variable": "v21",
     "option_text": NaN,
     "response_scale": "1 - igen, 2 - nem, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
-    "model_response": "Final answer: @@2@@",
+    "model_response": "9 - Nem v\u00e1laszolt",
     "status": "success"
   },
   {
@@ -203,7 +203,7 @@
     "variable": "v22",
     "option_text": "M\u00e1s rassz\u00fa emberek",
     "response_scale": "1 - megeml\u00edtve, 2 - nem eml\u00edtve, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
-    "model_response": "Final answer: @@2@@",
+    "model_response": "8 - Nem tudom",
     "status": "success"
   },
   {
@@ -212,7 +212,7 @@
     "variable": "v23",
     "option_text": "S\u00falyos alkoholist\u00e1k",
     "response_scale": "1 - megeml\u00edtve, 2 - nem eml\u00edtve, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
-    "model_response": "Final answer: 2@@",
+    "model_response": "9 - Nem v\u00e1laszolt",
     "status": "success"
   },
   {
@@ -221,7 +221,7 @@
     "variable": "v24",
     "option_text": "Betakarod\u00f3k, k\u00fclf\u00f6ldi munk\u00e1sok",
     "response_scale": "1 - megeml\u00edtve, 2 - nem eml\u00edtve, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
-    "model_response": "Final answer: 2@@",
+    "model_response": "9 - Nem v\u00e1laszolt",
     "status": "success"
   },
   {
@@ -230,7 +230,7 @@
     "variable": "v25",
     "option_text": "K\u00e1b\u00edt\u00f3szer-fogyaszt\u00f3k",
     "response_scale": "1 - megeml\u00edtve, 2 - nem eml\u00edtve, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
-    "model_response": "Final answer: 2@@",
+    "model_response": "8 - Nem tudom",
     "status": "success"
   },
   {
@@ -239,7 +239,7 @@
     "variable": "v26",
     "option_text": "Homoszexu\u00e1lisok",
     "response_scale": "1 - megeml\u00edtve, 2 - nem eml\u00edtve, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
-    "model_response": "Final answer: @@1@@",
+    "model_response": "8 - Nem tudom",
     "status": "success"
   },
   {
@@ -248,7 +248,7 @@
     "variable": "v27",
     "option_text": "Kereszt\u00e9nyek",
     "response_scale": "1 - megeml\u00edtve, 2 - nem eml\u00edtve, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
-    "model_response": "Final answer: @@1@@",
+    "model_response": "8 - Nem tudom",
     "status": "success"
   },
   {
@@ -257,7 +257,7 @@
     "variable": "v28",
     "option_text": "Muszlimok",
     "response_scale": "1 - megeml\u00edtve, 2 - nem eml\u00edtve, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
-    "model_response": "Final answer: @@1@@",
+    "model_response": "8 - Nem tudom",
     "status": "success"
   },
   {
@@ -266,7 +266,7 @@
     "variable": "v29",
     "option_text": "Zsid\u00f3k",
     "response_scale": "1 - megeml\u00edtve, 2 - nem eml\u00edtve, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
-    "model_response": "Final answer: 2@@",
+    "model_response": "Final answer: 9 - Nem v\u00e1laszolt",
     "status": "success"
   },
   {
@@ -275,7 +275,7 @@
     "variable": "v30",
     "option_text": "Rom\u00e1k",
     "response_scale": "1 - megeml\u00edtve, 2 - nem eml\u00edtve, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
-    "model_response": "Final answer: 2@@",
+    "model_response": "8",
     "status": "success"
   },
   {
@@ -284,7 +284,7 @@
     "variable": "v31",
     "option_text": NaN,
     "response_scale": "1 - a legt\u00f6bb emberre lehet bizalmat szav\u00edtani, 2 - az ember sosem lehet el\u00e9g \u00f3vatos, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
-    "model_response": "Final answer: @@1@@",
+    "model_response": "8 - Nem tudom,",
     "status": "success"
   },
   {
@@ -293,7 +293,7 @@
     "variable": "v32",
     "option_text": "A csal\u00e1dj\u00e1ban",
     "response_scale": "1 - teljesen megb\u00edzom, 2 - megb\u00edzom, 3 - kev\u00e9sb\u00e9 megb\u00edzom, 4 - egy\u00e1ltal\u00e1n nem megb\u00edzom, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
-    "model_response": "Final answer: 1@@",
+    "model_response": "Final answer: 3 - kev\u00e9sb\u00e9 megb\u00edzok",
     "status": "success"
   },
   {
@@ -302,7 +302,7 @@
     "variable": "v33",
     "option_text": "A szomsz\u00e9dokban",
     "response_scale": "1 - teljesen megb\u00edzom, 2 - megb\u00edzom, 3 - kev\u00e9sb\u00e9 megb\u00edzom, 4 - egy\u00e1ltal\u00e1n nem megb\u00edzom, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
-    "model_response": "Final answer: @@1@@",
+    "model_response": "Final answer: 3",
     "status": "success"
   },
   {
@@ -311,7 +311,7 @@
     "variable": "v34",
     "option_text": "Azokban az emberekben, akiket szem\u00e9lyesen ismer",
     "response_scale": "1 - teljesen megb\u00edzom, 2 - megb\u00edzom, 3 - kev\u00e9sb\u00e9 megb\u00edzom, 4 - egy\u00e1ltal\u00e1n nem megb\u00edzom, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
-    "model_response": "Final answer: @@1@@",
+    "model_response": "8 - Nem tudom",
     "status": "success"
   },
   {
@@ -320,7 +320,7 @@
     "variable": "v35",
     "option_text": "Azokban az emberekben, akiket els\u0151 alkalommal ismer meg",
     "response_scale": "1 - teljesen megb\u00edzom, 2 - megb\u00edzom, 3 - kev\u00e9sb\u00e9 megb\u00edzom, 4 - egy\u00e1ltal\u00e1n nem megb\u00edzom, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
-    "model_response": "Final answer: @@3@@",
+    "model_response": "Final answer: 3",
     "status": "success"
   },
   {
@@ -329,7 +329,7 @@
     "variable": "v36",
     "option_text": "M\u00e1s vall\u00e1s\u00fa emberekben",
     "response_scale": "1 - teljesen megb\u00edzom, 2 - megb\u00edzom, 3 - kev\u00e9sb\u00e9 megb\u00edzom, 4 - egy\u00e1ltal\u00e1n nem megb\u00edzom, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
-    "model_response": "Final answer: @@3@@",
+    "model_response": "Final answer: 7",
     "status": "success"
   },
   {
@@ -338,7 +338,7 @@
     "variable": "v37",
     "option_text": "M\u00e1s nemzetis\u00e9g\u0171 emberekben",
     "response_scale": "1 - teljesen megb\u00edzom, 2 - megb\u00edzom, 3 - kev\u00e9sb\u00e9 megb\u00edzom, 4 - egy\u00e1ltal\u00e1n nem megb\u00edzom, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
-    "model_response": "Final answer: @@3@@",
+    "model_response": "8 - Nem tudom",
     "status": "success"
   },
   {
@@ -347,7 +347,7 @@
     "variable": "v38",
     "option_text": NaN,
     "response_scale": "1 - a legnagyobb m\u00e9rt\u00e9kben, 2 - nagy m\u00e9rt\u00e9kben, 3 - m\u00e9rs\u00e9kelt m\u00e9rt\u00e9kben, 4 - nem m\u00e9rs\u00e9kelt m\u00e9rt\u00e9kben, 5 - egy\u00e1ltal\u00e1n nem, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
-    "model_response": "Final answer: 3@@",
+    "model_response": "9 - Nem v\u00e1laszolt",
     "status": "success"
   },
   {
@@ -356,7 +356,7 @@
     "variable": "v39",
     "option_text": NaN,
     "response_scale": "1 - el\u00e9gedetlen, 2 - kiel\u00e9g\u00edt\u0151, 3 - j\u00f3, 4 - nagyon j\u00f3, 5 - kiv\u00e1l\u00f3, 6 - remek, 7 - csod\u00e1latos, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
-    "model_response": "Final answer: @@4@@",
+    "model_response": "Final answer: 8 - Nem v\u00e1laszolt",
     "status": "success"
   },
   {
@@ -365,7 +365,7 @@
     "variable": "v40",
     "option_text": "J\u00f3 fizet\u00e9s",
     "response_scale": "1 - megeml\u00edtve, 2 - nem eml\u00edtve, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
-    "model_response": "Final answer: @@1@@",
+    "model_response": "2",
     "status": "success"
   },
   {
@@ -374,7 +374,7 @@
     "variable": "v41",
     "option_text": "Kedvez\u0151 munkaid\u0151",
     "response_scale": "1 - megeml\u00edtve, 2 - nem eml\u00edtve, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
-    "model_response": "Final answer: 2@@",
+    "model_response": "8",
     "status": "success"
   },
   {
@@ -383,7 +383,7 @@
     "variable": "v42",
     "option_text": "\u00d6n\u00e1ll\u00f3 kezdem\u00e9nyez\u00e9s lehet\u0151s\u00e9ge",
     "response_scale": "1 - megeml\u00edtve, 2 - nem eml\u00edtve, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
-    "model_response": "Final answer: 2@@",
+    "model_response": "Final answer: 2 - nem eml\u00edtve",
     "status": "success"
   },
   {
@@ -392,7 +392,7 @@
     "variable": "v43",
     "option_text": "Hossz\u00fa \u00e9ves szabads\u00e1g",
     "response_scale": "1 - megeml\u00edtve, 2 - nem eml\u00edtve, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
-    "model_response": "Final answer: @@1@@",
+    "model_response": "Final answer: 9 - Nem v\u00e1laszolt",
     "status": "success"
   },
   {
@@ -401,7 +401,7 @@
     "variable": "v44",
     "option_text": "Olyan munka, amivel valamit el\u00e9rhet",
     "response_scale": "1 - megeml\u00edtve, 2 - nem eml\u00edtve, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
-    "model_response": "Final answer: 1@@",
+    "model_response": "8",
     "status": "success"
   },
   {
@@ -410,7 +410,7 @@
     "variable": "v45",
     "option_text": "Felel\u0151ss\u00e9gteljes munka",
     "response_scale": "1 - megeml\u00edtve, 2 - nem eml\u00edtve, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
-    "model_response": "Final answer: 1@@",
+    "model_response": "Final answer: 2",
     "status": "success"
   },
   {
@@ -419,7 +419,7 @@
     "variable": "v45a",
     "option_text": "Semmi sem az eml\u00edtettek k\u00f6z\u00fcl (spont\u00e1n)",
     "response_scale": "1 - megeml\u00edtve, 2 - nem eml\u00edtve, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
-    "model_response": "Final answer: 2@@",
+    "model_response": "2",
     "status": "success"
   },
   {
@@ -428,7 +428,7 @@
     "variable": "v46",
     "option_text": "Ahhoz, hogy teljesen kibontakoztassa a tehets\u00e9geit, munk\u00e1ja kell lennie.",
     "response_scale": "1 - teljesen egyet\u00e9rtek, 2 - egyet\u00e9rtek, 3 - sem egyet\u00e9rtek, sem nem egyet\u00e9rtek, 4 - nem egyet\u00e9rtek, 5 - egy\u00e1ltal\u00e1n nem egyet\u00e9rtek, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
-    "model_response": "Final answer: @@2@@",
+    "model_response": "9",
     "status": "success"
   },
   {
@@ -437,7 +437,7 @@
     "variable": "v47",
     "option_text": "Megal\u00e1z\u00f3 p\u00e9nzt fogadni, amit nem kerest\u00e9l.",
     "response_scale": "1 - teljesen egyet\u00e9rtek, 2 - egyet\u00e9rtek, 3 - sem egyet\u00e9rtek, sem nem egyet\u00e9rtek, 4 - nem egyet\u00e9rtek, 5 - egy\u00e1ltal\u00e1n nem egyet\u00e9rtek, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
-    "model_response": "Final answer: @@1@@",
+    "model_response": "8",
     "status": "success"
   },
   {
@@ -446,7 +446,7 @@
     "variable": "v48",
     "option_text": "Azok az emberek, akik nem dolgoznak, lustaak lesznek.",
     "response_scale": "1 - teljesen egyet\u00e9rtek, 2 - egyet\u00e9rtek, 3 - sem egyet\u00e9rtek, sem nem egyet\u00e9rtek, 4 - nem egyet\u00e9rtek, 5 - egy\u00e1ltal\u00e1n nem egyet\u00e9rtek, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
-    "model_response": "Final answer: @@3@@",
+    "model_response": "8",
     "status": "success"
   },
   {
@@ -455,7 +455,7 @@
     "variable": "v49",
     "option_text": "A munka k\u00f6teless\u00e9g a t\u00e1rsadalommal szemben.",
     "response_scale": "1 - teljesen egyet\u00e9rtek, 2 - egyet\u00e9rtek, 3 - sem egyet\u00e9rtek, sem nem egyet\u00e9rtek, 4 - nem egyet\u00e9rtek, 5 - egy\u00e1ltal\u00e1n nem egyet\u00e9rtek, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
-    "model_response": "Final answer: @@3@@",
+    "model_response": "8",
     "status": "success"
   },
   {
@@ -464,7 +464,7 @@
     "variable": "v50",
     "option_text": "A munka mindig az els\u0151 helyen kell legyen, m\u00e9g akkor is, ha ez kevesebb szabadid\u0151t jelent.",
     "response_scale": "1 - teljesen egyet\u00e9rtek, 2 - egyet\u00e9rtek, 3 - sem egyet\u00e9rtek, sem nem egyet\u00e9rtek, 4 - nem egyet\u00e9rtek, 5 - egy\u00e1ltal\u00e1n nem egyet\u00e9rtek, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
-    "model_response": "Final answer: @@3@@",
+    "model_response": "Final answer: 1",
     "status": "success"
   },
   {
@@ -473,7 +473,7 @@
     "variable": "v51",
     "option_text": NaN,
     "response_scale": "1 - Igen, 2 - Nem, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
-    "model_response": "Final answer: @@2@@",
+    "model_response": "8 - Nem tudom",
     "status": "success"
   },
   {
@@ -482,7 +482,7 @@
     "variable": "v52",
     "option_text": NaN,
     "response_scale": NaN,
-    "model_response": "Final answer: @@nan@@",
+    "model_response": "Odgovor: v52",
     "status": "success"
   },
   {
@@ -491,7 +491,7 @@
     "variable": "v53",
     "option_text": NaN,
     "response_scale": "1 - igen, 2 - nem, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
-    "model_response": "Final answer: @@2@@",
+    "model_response": "Final answer: 2",
     "status": "success"
   },
   {
@@ -500,7 +500,7 @@
     "variable": "v54",
     "option_text": NaN,
     "response_scale": "1 - hetente t\u00f6bbsz\u00f6r, 2 - hetente egyszer, 3 - havonta egyszer, 4 - csak vall\u00e1si \u00fcnnepeken, 5 - \u00e9vente egyszer, 6 - ritk\u00e1bban, 7 - soha, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
-    "model_response": "Final answer: @@7@@",
+    "model_response": "9 - Nem v\u00e1laszolt",
     "status": "success"
   },
   {
@@ -509,7 +509,7 @@
     "variable": "v55",
     "option_text": NaN,
     "response_scale": "1 - hetente t\u00f6bbsz\u00f6r, 2 - hetente egyszer, 3 - havonta egyszer, 4 - csak vall\u00e1si \u00fcnnepeken, 5 - \u00e9vente egyszer, 6 - ritk\u00e1bban, 7 - soha, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
-    "model_response": "Final answer: @@7@@",
+    "model_response": "8 - Nem tudom",
     "status": "success"
   },
   {
@@ -518,7 +518,7 @@
     "variable": "v56",
     "option_text": NaN,
     "response_scale": "1 - vall\u00e1sos szem\u00e9ly, 2 - nem vall\u00e1sos szem\u00e9ly, 3 - ateista, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
-    "model_response": "Final answer: @@1@@",
+    "model_response": "8 - Nem tudom",
     "status": "success"
   },
   {
@@ -527,7 +527,7 @@
     "variable": "v57",
     "option_text": NaN,
     "response_scale": "1 - Istenben, 2 - a l\u00e9lekben vagy az \u00e9let er\u0151ben, 3 - a pokolban, 4 - a mennyben, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
-    "model_response": "Final answer: @@1@@",
+    "model_response": "1 - Istenben, 4 - a mennyben",
     "status": "success"
   },
   {
@@ -536,7 +536,7 @@
     "variable": "v58",
     "option_text": NaN,
     "response_scale": "1 - Istenben, 2 - a l\u00e9lekben vagy az \u00e9let er\u0151ben, 3 - a pokolban, 4 - a mennyben, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
-    "model_response": "Final answer: @@1@@",
+    "model_response": "Final answer: 8 - Nem tudom",
     "status": "success"
   },
   {
@@ -545,7 +545,7 @@
     "variable": "v59",
     "option_text": NaN,
     "response_scale": "1 - Istenben, 2 - a l\u00e9lekben vagy az \u00e9let er\u0151ben, 3 - a pokolban, 4 - a mennyben, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
-    "model_response": "Final answer: 1@@",
+    "model_response": "Final answer: 8 - Nem tudom",
     "status": "success"
   },
   {
@@ -554,7 +554,7 @@
     "variable": "v60",
     "option_text": NaN,
     "response_scale": "1 - Istenben, 2 - a l\u00e9lekben vagy az \u00e9let er\u0151ben, 3 - a pokolban, 4 - a mennyben, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
-    "model_response": "Final answer: @@1@@",
+    "model_response": "Final answer: 8 - Nem tudom",
     "status": "success"
   },
   {
@@ -563,7 +563,7 @@
     "variable": "v61",
     "option_text": NaN,
     "response_scale": "1 - igen, 2 - nem, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
-    "model_response": "Final answer: 8@@",
+    "model_response": "8",
     "status": "success"
   },
   {
@@ -572,7 +572,7 @@
     "variable": "v62",
     "option_text": NaN,
     "response_scale": "1 - szem\u00e9lyes Isten l\u00e9tezik, 2 - van valamilyen szellem vagy \u00e9let er\u0151, 3 - nem tudom, mit gondoljak, 4 - nem hiszem, hogy b\u00e1rmilyen szellem, Isten vagy \u00e9let er\u0151 l\u00e9tezik, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
-    "model_response": "Final answer: @@3@@",
+    "model_response": "9",
     "status": "success"
   },
   {
@@ -581,7 +581,7 @@
     "variable": "v63",
     "option_text": NaN,
     "response_scale": "1 - teljesen nem fontos, 2 - nem fontos, 3 - el\u00e9g fontos, 4 - fontos, 5 - meglehet\u0151sen fontos, 6 - nagyon fontos, 7 - rendk\u00edv\u00fcl fontos, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
-    "model_response": "Final answer: @@6@@",
+    "model_response": "3",
     "status": "success"
   },
   {
@@ -590,7 +590,7 @@
     "variable": "v64",
     "option_text": NaN,
     "response_scale": "1 - minden nap, 2 - hetente t\u00f6bbsz\u00f6r, 3 - hetente egyszer, 4 - legal\u00e1bb havonta egyszer, 5 - t\u00f6bbsz\u00f6r \u00e9vente, 6 - ritk\u00e1bban, 7 - soha, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
-    "model_response": "Final answer: @@7@@",
+    "model_response": "8 - Nem tudom",
     "status": "success"
   },
   {
@@ -599,7 +599,7 @@
     "variable": "v65",
     "option_text": "H\u0171s\u00e9g",
     "response_scale": "1 - nagyon fontos, 2 - el\u00e9gg\u00e9 fontos, 3 - nem t\u00fal fontos, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
-    "model_response": "Final answer: @@1@@",
+    "model_response": "V65: 5",
     "status": "success"
   },
   {
@@ -608,7 +608,7 @@
     "variable": "v66",
     "option_text": "Megfelel\u0151 j\u00f6vedelem",
     "response_scale": "1 - nagyon fontos, 2 - el\u00e9gg\u00e9 fontos, 3 - nem t\u00fal fontos, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
-    "model_response": "Final answer: 1@@",
+    "model_response": "9 - Nem v\u00e1laszolt",
     "status": "success"
   },
   {
@@ -617,7 +617,7 @@
     "variable": "v67",
     "option_text": "J\u00f3 lak\u00e1si k\u00f6r\u00fclm\u00e9nyek",
     "response_scale": "1 - nagyon fontos, 2 - el\u00e9gg\u00e9 fontos, 3 - nem t\u00fal fontos, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
-    "model_response": "Final answer: 1@@",
+    "model_response": "1 - nagyon fontos",
     "status": "success"
   },
   {
@@ -626,7 +626,7 @@
     "variable": "v68",
     "option_text": "Egyenl\u0151 r\u00e9szv\u00e9tel a h\u00e1zimunk\u00e1ban",
     "response_scale": "1 - nagyon fontos, 2 - el\u00e9gg\u00e9 fontos, 3 - nem t\u00fal fontos, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
-    "model_response": "Final answer: @@1@@",
+    "model_response": "3",
     "status": "success"
   },
   {
@@ -635,7 +635,7 @@
     "variable": "v69",
     "option_text": "Gyermekek",
     "response_scale": "1 - nagyon fontos, 2 - el\u00e9gg\u00e9 fontos, 3 - nem t\u00fal fontos, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
-    "model_response": "Final answer: 1@@",
+    "model_response": "1 - nagyon fontos",
     "status": "success"
   },
   {
@@ -644,7 +644,7 @@
     "variable": "v70",
     "option_text": "Id\u0151t t\u00f6lteni a saj\u00e1t bar\u00e1taival, tev\u00e9kenys\u00e9geivel \u00e9s hobij\u00e1val",
     "response_scale": "1 - nagyon fontos, 2 - el\u00e9gg\u00e9 fontos, 3 - nem t\u00fal fontos, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
-    "model_response": "Final answer: @@1@@",
+    "model_response": "3 - nem t\u00fal fontos",
     "status": "success"
   },
   {
@@ -653,7 +653,7 @@
     "variable": "v71",
     "option_text": NaN,
     "response_scale": "1 - egyet\u00e9rtek, 2 - nem egyet\u00e9rtek, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
-    "model_response": "Final answer: @@2@@",
+    "model_response": "Final answer: 2",
     "status": "success"
   },
   {
@@ -662,7 +662,7 @@
     "variable": "v72",
     "option_text": "Amikor egy anya fizetett munk\u00e1t v\u00e9gez, a gyerekek szenvednek.",
     "response_scale": "1 - teljesen egyet\u00e9rtek, 2 - egyet\u00e9rtek, 3 - sem egyet\u00e9rtek, sem nem egyet\u00e9rtek, 4 - nem egyet\u00e9rtek, 5 - egy\u00e1ltal\u00e1n nem egyet\u00e9rtek, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
-    "model_response": "Final answer: @@3@@",
+    "model_response": "3",
     "status": "success"
   },
   {
@@ -671,7 +671,7 @@
     "variable": "v73",
     "option_text": "A n\u0151k val\u00f3j\u00e1ban azt akarj\u00e1k, hogy gondoskodjanak a h\u00e1ztart\u00e1sr\u00f3l \u00e9s a gyerekekr\u0151l.",
     "response_scale": "1 - teljesen egyet\u00e9rtek, 2 - egyet\u00e9rtek, 3 - sem egyet\u00e9rtek, sem nem egyet\u00e9rtek, 4 - nem egyet\u00e9rtek, 5 - egy\u00e1ltal\u00e1n nem egyet\u00e9rtek, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
-    "model_response": "Final answer: 5@@",
+    "model_response": "3",
     "status": "success"
   },
   {
@@ -680,7 +680,7 @@
     "variable": "v74",
     "option_text": "A csal\u00e1d \u00e9lete szenved, ha a n\u0151 teljes munkaid\u0151ben dolgozik.",
     "response_scale": "1 - teljesen egyet\u00e9rtek, 2 - egyet\u00e9rtek, 3 - sem egyet\u00e9rtek, sem nem egyet\u00e9rtek, 4 - nem egyet\u00e9rtek, 5 - egy\u00e1ltal\u00e1n nem egyet\u00e9rtek, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
-    "model_response": "Final answer: @@3@@",
+    "model_response": "Final answer: 8 - Nem tudom",
     "status": "success"
   },
   {
@@ -689,7 +689,7 @@
     "variable": "v75",
     "option_text": "A f\u00e9rfi feladata a p\u00e9nzkeres\u00e9s, a n\u0151 feladata a h\u00e1ztart\u00e1s \u00e9s a csal\u00e1d gondoz\u00e1sa.",
     "response_scale": "1 - teljesen egyet\u00e9rtek, 2 - egyet\u00e9rtek, 3 - sem egyet\u00e9rtek, sem nem egyet\u00e9rtek, 4 - nem egyet\u00e9rtek, 5 - egy\u00e1ltal\u00e1n nem egyet\u00e9rtek, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
-    "model_response": "Final answer: @@5@@",
+    "model_response": "8",
     "status": "success"
   },
   {
@@ -698,7 +698,7 @@
     "variable": "v76",
     "option_text": "\u00c1ltal\u00e1noss\u00e1gban a f\u00e9rfiak jobbak a politikai vezet\u0151k\u00e9nt, mint a n\u0151k.",
     "response_scale": "1 - teljesen egyet\u00e9rtek, 2 - egyet\u00e9rtek, 3 - sem egyet\u00e9rtek, sem nem egyet\u00e9rtek, 4 - nem egyet\u00e9rtek, 5 - egy\u00e1ltal\u00e1n nem egyet\u00e9rtek, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
-    "model_response": "Final answer: 5@@",
+    "model_response": "Final answer: 3",
     "status": "success"
   },
   {
@@ -707,7 +707,7 @@
     "variable": "v77",
     "option_text": "A f\u0151iskolai v\u00e9gzetts\u00e9g fontosabb a fi\u00faknak, mint a l\u00e1nyoknak.",
     "response_scale": "1 - teljesen egyet\u00e9rtek, 2 - egyet\u00e9rtek, 3 - sem egyet\u00e9rtek, sem nem egyet\u00e9rtek, 4 - nem egyet\u00e9rtek, 5 - egy\u00e1ltal\u00e1n nem egyet\u00e9rtek, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
-    "model_response": "Final answer: @@3@@",
+    "model_response": "1 - popolnoma se strinjam",
     "status": "success"
   },
   {
@@ -716,7 +716,7 @@
     "variable": "v78",
     "option_text": "\u00c1ltal\u00e1noss\u00e1gban a f\u00e9rfiak jobbak az \u00fczleti vezet\u0151k\u00e9nt, mint a n\u0151k.",
     "response_scale": "1 - teljesen egyet\u00e9rtek, 2 - egyet\u00e9rtek, 3 - sem egyet\u00e9rtek, sem nem egyet\u00e9rtek, 4 - nem egyet\u00e9rtek, 5 - egy\u00e1ltal\u00e1n nem egyet\u00e9rtek, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
-    "model_response": "Final answer: 3@@",
+    "model_response": "Final answer: 4 - nem egyet\u00e9rtek",
     "status": "success"
   },
   {
@@ -725,7 +725,7 @@
     "variable": "v79",
     "option_text": "Az egyik f\u0151 \u00e9letc\u00e9lom, hogy b\u00fcszk\u00e9v\u00e9 tegyem a sz\u00fcleimet.",
     "response_scale": "1 - teljesen egyet\u00e9rtek, 2 - egyet\u00e9rtek, 3 - sem egyet\u00e9rtek, sem nem egyet\u00e9rtek, 4 - nem egyet\u00e9rtek, 5 - egy\u00e1ltal\u00e1n nem egyet\u00e9rtek, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
-    "model_response": "Final answer: @@1@@",
+    "model_response": "8",
     "status": "success"
   },
   {
@@ -734,7 +734,7 @@
     "variable": "v80",
     "option_text": "Munkaid\u0151 hi\u00e1ny\u00e1ban a korm\u00e1ny jogosult vide\u00f3megfigyel\u00e9st v\u00e9gezni a nyilv\u00e1nos helyeken.",
     "response_scale": "1 - teljesen egyet\u00e9rtek, 2 - egyet\u00e9rtek, 3 - sem egyet\u00e9rtek, sem nem egyet\u00e9rtek, 4 - nem egyet\u00e9rtek, 5 - egy\u00e1ltal\u00e1n nem egyet\u00e9rtek, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
-    "model_response": "Final answer: @@5@@",
+    "model_response": "2",
     "status": "success"
   },
   {
@@ -743,7 +743,7 @@
     "variable": "v81",
     "option_text": "A korm\u00e1ny jogosult minden szem\u00e9lyr\u0151l adatokat gy\u0171jteni az orsz\u00e1gban, m\u00e9g a tudta n\u00e9lk\u00fcl is.",
     "response_scale": "1 - teljesen egyet\u00e9rtek, 2 - egyet\u00e9rtek, 3 - sem egyet\u00e9rtek, sem nem egyet\u00e9rtek, 4 - nem egyet\u00e9rtek, 5 - egy\u00e1ltal\u00e1n nem egyet\u00e9rtek, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
-    "model_response": "Final answer: 5@@",
+    "model_response": "Final answer: 3",
     "status": "success"
   },
   {
@@ -752,7 +752,7 @@
     "variable": "v82",
     "option_text": "A homoszexu\u00e1lis p\u00e1rok ugyanolyan j\u00f3 sz\u00fcl\u0151k, mint m\u00e1s p\u00e1rok.",
     "response_scale": "1 - teljesen egyet\u00e9rtek, 2 - egyet\u00e9rtek, 3 - sem egyet\u00e9rtek, sem nem egyet\u00e9rtek, 4 - nem egyet\u00e9rtek, 5 - egy\u00e1ltal\u00e1n nem egyet\u00e9rtek, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
-    "model_response": "Final answer: @@1@@",
+    "model_response": "1",
     "status": "success"
   },
   {
@@ -761,7 +761,7 @@
     "variable": "v83",
     "option_text": "A gyerekeknek k\u00f6telez\u0151nek kell lennie.",
     "response_scale": "1 - teljesen egyet\u00e9rtek, 2 - egyet\u00e9rtek, 3 - sem egyet\u00e9rtek, sem nem egyet\u00e9rtek, 4 - nem egyet\u00e9rtek, 5 - egy\u00e1ltal\u00e1n nem egyet\u00e9rtek, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
-    "model_response": "Final answer: @@3@@",
+    "model_response": "8",
     "status": "success"
   },
   {
@@ -770,7 +770,7 @@
     "variable": "v84",
     "option_text": "Az id\u0151sebb feln\u0151ttek k\u00f6teless\u00e9ge gondoskodni sz\u00fcleikr\u0151l.",
     "response_scale": "1 - teljesen egyet\u00e9rtek, 2 - egyet\u00e9rtek, 3 - sem egyet\u00e9rtek, sem nem egyet\u00e9rtek, 4 - nem egyet\u00e9rtek, 5 - egy\u00e1ltal\u00e1n nem egyet\u00e9rtek, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
-    "model_response": "Final answer: @@2@@",
+    "model_response": "3",
     "status": "success"
   },
   {
@@ -779,7 +779,7 @@
     "variable": "v85",
     "option_text": "Udvarias viselked\u00e9s (j\u00f3 modorok)",
     "response_scale": "1 - megeml\u00edtve, 2 - nem eml\u00edtve, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
-    "model_response": "Final answer: 1@@",
+    "model_response": "8",
     "status": "success"
   },
   {
@@ -788,7 +788,7 @@
     "variable": "v86",
     "option_text": "F\u00fcggetlens\u00e9g",
     "response_scale": "1 - megeml\u00edtve, 2 - nem eml\u00edtve, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
-    "model_response": "Final answer: 2@@",
+    "model_response": "2",
     "status": "success"
   },
   {
@@ -797,7 +797,7 @@
     "variable": "v87",
     "option_text": "Szorgalom",
     "response_scale": "1 - megeml\u00edtve, 2 - nem eml\u00edtve, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
-    "model_response": "Final answer: 1@@",
+    "model_response": "8",
     "status": "success"
   },
   {
@@ -806,7 +806,7 @@
     "variable": "v88",
     "option_text": "Felel\u0151ss\u00e9g\u00e9rzet",
     "response_scale": "1 - megeml\u00edtve, 2 - nem eml\u00edtve, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
-    "model_response": "Final answer: 1@@",
+    "model_response": "9 - Nem v\u00e1laszolt",
     "status": "success"
   },
   {
@@ -815,7 +815,7 @@
     "variable": "v89",
     "option_text": "K\u00e9pzel\u0151er\u0151",
     "response_scale": "1 - megeml\u00edtve, 2 - nem eml\u00edtve, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
-    "model_response": "Final answer: 1",
+    "model_response": "Answer: 8",
     "status": "success"
   },
   {
@@ -824,7 +824,7 @@
     "variable": "v90",
     "option_text": "Tolerancia \u00e9s m\u00e1sok tisztelete",
     "response_scale": "1 - megeml\u00edtve, 2 - nem eml\u00edtve, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
-    "model_response": "Final answer: @@1@@",
+    "model_response": "8 - Nem tudom,",
     "status": "success"
   },
   {
@@ -833,7 +833,7 @@
     "variable": "v91",
     "option_text": "Takar\u00e9koss\u00e1g, p\u00e9nz \u00e9s dolgok meg\u0151rz\u00e9se",
     "response_scale": "1 - megeml\u00edtve, 2 - nem eml\u00edtve, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
-    "model_response": "Final answer: 1@@",
+    "model_response": "8 - Nem tudom",
     "status": "success"
   },
   {
@@ -842,7 +842,7 @@
     "variable": "v92",
     "option_text": "Elsz\u00e1nts\u00e1g, kitart\u00e1s",
     "response_scale": "1 - megeml\u00edtve, 2 - nem eml\u00edtve, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
-    "model_response": "Final answer: @@1@@",
+    "model_response": "Final answer: 1",
     "status": "success"
   },
   {
@@ -851,7 +851,7 @@
     "variable": "v93",
     "option_text": "Hit (vall\u00e1soss\u00e1g)",
     "response_scale": "1 - megeml\u00edtve, 2 - nem eml\u00edtve, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
-    "model_response": "Final answer: @@1@@",
+    "model_response": "Final answer: 2",
     "status": "success"
   },
   {
@@ -860,7 +860,7 @@
     "variable": "v94",
     "option_text": "\u00d6nzetlens\u00e9g",
     "response_scale": "1 - megeml\u00edtve, 2 - nem eml\u00edtve, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
-    "model_response": "Final answer: 2@@",
+    "model_response": "Answer: 2",
     "status": "success"
   },
   {
@@ -869,7 +869,7 @@
     "variable": "v95",
     "option_text": "Engedelmess\u00e9g",
     "response_scale": "1 - megeml\u00edtve, 2 - nem eml\u00edtve, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
-    "model_response": "Final answer: 2@@",
+    "model_response": "Odgovor: 9",
     "status": "success"
   },
   {
@@ -878,7 +878,7 @@
     "variable": "v97",
     "option_text": NaN,
     "response_scale": "1 - nagyon \u00e9rdekel, 2 - el\u00e9gg\u00e9 \u00e9rdekel, 3 - nem t\u00fal \u00e9rdekel, 4 - egy\u00e1ltal\u00e1n nem \u00e9rdekel, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
-    "model_response": "Final answer: @@3@@",
+    "model_response": "Final answer: 3 - nem t\u00fal \u00e9rdekel",
     "status": "success"
   },
   {
@@ -887,7 +887,7 @@
     "variable": "v98",
     "option_text": "Petic\u00ed\u00f3 al\u00e1\u00edr\u00e1sa",
     "response_scale": "1 - tettem, m\u00e1r tettem, 2 - megtehetn\u00e9m, 3 - soha nem tenn\u00e9m, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
-    "model_response": "Final answer: @@1@@",
+    "model_response": "3 - soha nem tenn\u00e9m",
     "status": "success"
   },
   {
@@ -896,7 +896,7 @@
     "variable": "v99",
     "option_text": "Bojkottokhoz csatlakoz\u00e1s",
     "response_scale": "1 - tettem, m\u00e1r tettem, 2 - megtehetn\u00e9m, 3 - soha nem tenn\u00e9m, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
-    "model_response": "Final answer: @@3@@",
+    "model_response": "2",
     "status": "success"
   },
   {
@@ -905,7 +905,7 @@
     "variable": "v100",
     "option_text": "R\u00e9szt venni a jogszer\u0171en enged\u00e9lyezett demonstr\u00e1ci\u00f3kon",
     "response_scale": "1 - tettem, m\u00e1r tettem, 2 - megtehetn\u00e9m, 3 - soha nem tenn\u00e9m, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
-    "model_response": "Final answer: 1@@",
+    "model_response": "1 - tettem, m\u00e1r tettem",
     "status": "success"
   },
   {
@@ -914,7 +914,7 @@
     "variable": "v101",
     "option_text": "Csatlakozni a nem hivatalos sztr\u00e1jkokhoz",
     "response_scale": "1 - tettem, m\u00e1r tettem, 2 - megtehetn\u00e9m, 3 - soha nem tenn\u00e9m, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
-    "model_response": "Final answer: @@3@@",
+    "model_response": "8 - Nem tudom",
     "status": "success"
   },
   {
@@ -923,7 +923,7 @@
     "variable": "v102",
     "option_text": NaN,
     "response_scale": "1 - baloldal, 2 - jobboldal, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
-    "model_response": "Final answer: 8@@",
+    "model_response": "8 - Nem tudom",
     "status": "success"
   },
   {
@@ -932,7 +932,7 @@
     "variable": "v103",
     "option_text": NaN,
     "response_scale": "1 - Az \u00e1llamnak t\u00f6bb felel\u0151ss\u00e9get kell v\u00e1llalnia, hogy mindenki meg\u00e9lhet\u00e9s\u00e9t biztos\u00edtsa, 2 - Az embereknek t\u00f6bb felel\u0151ss\u00e9get kell v\u00e1llalniuk maguk\u00e9rt, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
-    "model_response": "Final answer: @@2@@",
+    "model_response": "Final answer: 9 - Nem v\u00e1laszolt",
     "status": "success"
   },
   {
@@ -941,7 +941,7 @@
     "variable": "v104",
     "option_text": NaN,
     "response_scale": "1 - Az \u00e1llamnak t\u00f6bb felel\u0151ss\u00e9get kell v\u00e1llalnia, hogy mindenki meg\u00e9lhet\u00e9s\u00e9t biztos\u00edtsa, 2 - Az embereknek t\u00f6bb felel\u0151ss\u00e9get kell v\u00e1llalniuk maguk\u00e9rt, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
-    "model_response": "Final answer: 2@@",
+    "model_response": "Final answer: 9 - Nem v\u00e1laszolt",
     "status": "success"
   },
   {
@@ -950,7 +950,7 @@
     "variable": "v105",
     "option_text": NaN,
     "response_scale": "1 - Az \u00e1llamnak t\u00f6bb felel\u0151ss\u00e9get kell v\u00e1llalnia, hogy mindenki meg\u00e9lhet\u00e9s\u00e9t biztos\u00edtsa, 2 - Az embereknek t\u00f6bb felel\u0151ss\u00e9get kell v\u00e1llalniuk maguk\u00e9rt, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
-    "model_response": "Final answer: @@2@@",
+    "model_response": "9",
     "status": "success"
   },
   {
@@ -959,7 +959,7 @@
     "variable": "v106",
     "option_text": NaN,
     "response_scale": "1 - Az \u00e1llamnak t\u00f6bb felel\u0151ss\u00e9get kell v\u00e1llalnia, hogy mindenki meg\u00e9lhet\u00e9s\u00e9t biztos\u00edtsa, 2 - Az embereknek t\u00f6bb felel\u0151ss\u00e9get kell v\u00e1llalniuk maguk\u00e9rt, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
-    "model_response": "Final answer: @@2@@",
+    "model_response": "Final answer: 8 - Nem tudom",
     "status": "success"
   },
   {
@@ -968,7 +968,7 @@
     "variable": "v107",
     "option_text": NaN,
     "response_scale": "1 - Az \u00e1llamnak t\u00f6bb felel\u0151ss\u00e9get kell v\u00e1llalnia, hogy mindenki meg\u00e9lhet\u00e9s\u00e9t biztos\u00edtsa, 2 - Az embereknek t\u00f6bb felel\u0151ss\u00e9get kell v\u00e1llalniuk maguk\u00e9rt, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
-    "model_response": "Final answer: @@2@@",
+    "model_response": "Final answer: 2",
     "status": "success"
   },
   {
@@ -977,7 +977,7 @@
     "variable": "v108",
     "option_text": NaN,
     "response_scale": "1 - A magas gazdas\u00e1gi n\u00f6veked\u00e9s el\u00e9r\u00e9se, 2 - Er\u0151s v\u00e9delmi er\u0151k biztos\u00edt\u00e1sa, 3 - A polg\u00e1rok befoly\u00e1s\u00e1nak n\u00f6vel\u00e9se a d\u00f6nt\u00e9shozatalban a munkahely\u00fck\u00f6n \u00e9s a k\u00f6z\u00f6ss\u00e9g\u00fckben, 4 - A v\u00e1rosaink \u00e9s falvaink szebb\u00e9 t\u00e9tele, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
-    "model_response": "Final answer: @@1@@",
+    "model_response": "Final answer: 3",
     "status": "success"
   },
   {
@@ -986,7 +986,7 @@
     "variable": "v109",
     "option_text": NaN,
     "response_scale": "1 - A magas gazdas\u00e1gi n\u00f6veked\u00e9s el\u00e9r\u00e9se, 2 - Er\u0151s v\u00e9delmi er\u0151k biztos\u00edt\u00e1sa, 3 - A polg\u00e1rok befoly\u00e1s\u00e1nak n\u00f6vel\u00e9se a d\u00f6nt\u00e9shozatalban a munkahely\u00fck\u00f6n \u00e9s a k\u00f6z\u00f6ss\u00e9g\u00fckben, 4 - A v\u00e1rosaink \u00e9s falvaink szebb\u00e9 t\u00e9tele, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
-    "model_response": "Final answer: @@1@@",
+    "model_response": "Final answer: 8 - Nem tudom",
     "status": "success"
   },
   {
@@ -995,7 +995,7 @@
     "variable": "v110",
     "option_text": NaN,
     "response_scale": "1 - Az \u00e1llam fenntartsa a rendet, 2 - Biztos\u00edtsa a polg\u00e1rok nagyobb befoly\u00e1s\u00e1t a d\u00f6nt\u00e9sekre, 3 - Harcoljon a magas \u00e1rak ellen, 4 - V\u00e9dje a sz\u00f3l\u00e1sszabads\u00e1got, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
-    "model_response": "Final answer: @@1@@",
+    "model_response": "Final answer: 3",
     "status": "success"
   },
   {
@@ -1004,7 +1004,7 @@
     "variable": "v111",
     "option_text": NaN,
     "response_scale": "1 - Az \u00e1llam fenntartsa a rendet, 2 - Biztos\u00edtsa a polg\u00e1rok nagyobb befoly\u00e1s\u00e1t a d\u00f6nt\u00e9sekre, 3 - Harcoljon a magas \u00e1rak ellen, 4 - V\u00e9dje a sz\u00f3l\u00e1sszabads\u00e1got, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
-    "model_response": "Final answer: 1@@",
+    "model_response": "Final answer: 4",
     "status": "success"
   },
   {
@@ -1013,7 +1013,7 @@
     "variable": "v112",
     "option_text": NaN,
     "response_scale": "1 - Igen, 2 - Nem, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
-    "model_response": "Final answer: @@1@@",
+    "model_response": "2 - Nem",
     "status": "success"
   },
   {
@@ -1022,7 +1022,7 @@
     "variable": "v113",
     "option_text": "A munka fontoss\u00e1g\u00e1nak cs\u00f6kkent\u00e9se",
     "response_scale": "1 - nagyon fontos, 2 - el\u00e9gg\u00e9 fontos, 3 - nem t\u00fal fontos, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
-    "model_response": "Final answer: 3@@",
+    "model_response": "9 - Nem v\u00e1laszolt",
     "status": "success"
   },
   {
@@ -1031,7 +1031,7 @@
     "variable": "v114",
     "option_text": "A tekint\u00e9ly tisztelet\u00e9nek n\u00f6vel\u00e9se",
     "response_scale": "1 - nagyon fontos, 2 - el\u00e9gg\u00e9 fontos, 3 - nem t\u00fal fontos, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
-    "model_response": "Final answer: @@1@@",
+    "model_response": "9 - Nem v\u00e1laszolt",
     "status": "success"
   },
   {
@@ -1040,7 +1040,7 @@
     "variable": "v115",
     "option_text": "Egyh\u00e1z",
     "response_scale": "1 - nagyon nagy bizalom, 2 - nagy bizalom, 3 - nem t\u00fal nagy bizalom, 4 - egy\u00e1ltal\u00e1n nem megb\u00edzom, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
-    "model_response": "Final answer: 3@@",
+    "model_response": "8 - Nem tudom",
     "status": "success"
   },
   {
@@ -1049,7 +1049,7 @@
     "variable": "v116",
     "option_text": "Hadsereg",
     "response_scale": "1 - nagyon nagy bizalom, 2 - nagy bizalom, 3 - nem t\u00fal nagy bizalom, 4 - egy\u00e1ltal\u00e1n nem megb\u00edzom, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
-    "model_response": "Final answer: 3@@",
+    "model_response": "9 - Nem v\u00e1laszolt",
     "status": "success"
   },
   {
@@ -1058,7 +1058,7 @@
     "variable": "v117",
     "option_text": "Oktat\u00e1si rendszer",
     "response_scale": "1 - nagyon nagy bizalom, 2 - nagy bizalom, 3 - nem t\u00fal nagy bizalom, 4 - egy\u00e1ltal\u00e1n nem megb\u00edzom, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
-    "model_response": "Final answer: @@3@@",
+    "model_response": "8 - Nem tudom",
     "status": "success"
   },
   {
@@ -1067,7 +1067,7 @@
     "variable": "v118",
     "option_text": "Sajt\u00f3",
     "response_scale": "1 - nagyon nagy bizalom, 2 - nagy bizalom, 3 - nem t\u00fal nagy bizalom, 4 - egy\u00e1ltal\u00e1n nem megb\u00edzom, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
-    "model_response": "Final answer: 3@@",
+    "model_response": "3",
     "status": "success"
   },
   {
@@ -1076,7 +1076,7 @@
     "variable": "v119",
     "option_text": "Szakszervezetek",
     "response_scale": "1 - nagyon nagy bizalom, 2 - nagy bizalom, 3 - nem t\u00fal nagy bizalom, 4 - egy\u00e1ltal\u00e1n nem megb\u00edzom, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
-    "model_response": "Final answer: 3@@",
+    "model_response": "8",
     "status": "success"
   },
   {
@@ -1085,7 +1085,7 @@
     "variable": "v120",
     "option_text": "Rend\u0151rs\u00e9g",
     "response_scale": "1 - nagyon nagy bizalom, 2 - nagy bizalom, 3 - nem t\u00fal nagy bizalom, 4 - egy\u00e1ltal\u00e1n nem megb\u00edzom, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
-    "model_response": "Final answer: @@3@@",
+    "model_response": "9 - Nem v\u00e1laszolt",
     "status": "success"
   },
   {
@@ -1094,7 +1094,7 @@
     "variable": "v121",
     "option_text": "Gy\u0171l\u00e9s",
     "response_scale": "1 - nagyon nagy bizalom, 2 - nagy bizalom, 3 - nem t\u00fal nagy bizalom, 4 - egy\u00e1ltal\u00e1n nem megb\u00edzom, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
-    "model_response": "Final answer: 3@@",
+    "model_response": "9 - Nem v\u00e1laszolt",
     "status": "success"
   },
   {
@@ -1103,7 +1103,7 @@
     "variable": "v122",
     "option_text": "K\u00f6zszolg\u00e1lat",
     "response_scale": "1 - nagyon nagy bizalom, 2 - nagy bizalom, 3 - nem t\u00fal nagy bizalom, 4 - egy\u00e1ltal\u00e1n nem megb\u00edzom, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
-    "model_response": "Final answer: @@3@@",
+    "model_response": "8 - Nem tudom",
     "status": "success"
   },
   {
@@ -1112,7 +1112,7 @@
     "variable": "v123",
     "option_text": "T\u00e1rsadalombiztos\u00edt\u00e1si rendszer",
     "response_scale": "1 - nagyon nagy bizalom, 2 - nagy bizalom, 3 - nem t\u00fal nagy bizalom, 4 - egy\u00e1ltal\u00e1n nem megb\u00edzom, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
-    "model_response": "Final answer: 3@@",
+    "model_response": "9 - Nem v\u00e1laszolt",
     "status": "success"
   },
   {
@@ -1121,7 +1121,7 @@
     "variable": "v124",
     "option_text": "Eur\u00f3pai Uni\u00f3",
     "response_scale": "1 - nagyon nagy bizalom, 2 - nagy bizalom, 3 - nem t\u00fal nagy bizalom, 4 - egy\u00e1ltal\u00e1n nem megb\u00edzom, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
-    "model_response": "Final answer: @@3@@",
+    "model_response": "9 - Nem v\u00e1laszolt",
     "status": "success"
   },
   {
@@ -1130,7 +1130,7 @@
     "variable": "v125",
     "option_text": "ENSZ (Egyes\u00fclt Nemzetek)",
     "response_scale": "1 - nagyon nagy bizalom, 2 - nagy bizalom, 3 - nem t\u00fal nagy bizalom, 4 - egy\u00e1ltal\u00e1n nem megb\u00edzom, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
-    "model_response": "Final answer: 3@@",
+    "model_response": "Final answer: 2",
     "status": "success"
   },
   {
@@ -1139,7 +1139,7 @@
     "variable": "v126",
     "option_text": "Eg\u00e9szs\u00e9g\u00fcgyi rendszer",
     "response_scale": "1 - nagyon nagy bizalom, 2 - nagy bizalom, 3 - nem t\u00fal nagy bizalom, 4 - egy\u00e1ltal\u00e1n nem megb\u00edzom, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
-    "model_response": "Final answer: 3@@",
+    "model_response": "3 - nem t\u00fal nagy bizalom",
     "status": "success"
   },
   {
@@ -1148,7 +1148,7 @@
     "variable": "v127",
     "option_text": "Igazs\u00e1gszolg\u00e1ltat\u00e1si rendszer",
     "response_scale": "1 - nagyon nagy bizalom, 2 - nagy bizalom, 3 - nem t\u00fal nagy bizalom, 4 - egy\u00e1ltal\u00e1n nem megb\u00edzom, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
-    "model_response": "Final answer: @@3@@",
+    "model_response": "4 - egy\u00e1ltal\u00e1n nem megb\u00edzom",
     "status": "success"
   },
   {
@@ -1157,7 +1157,7 @@
     "variable": "v128",
     "option_text": "Nagyv\u00e1llalatok",
     "response_scale": "1 - nagyon nagy bizalom, 2 - nagy bizalom, 3 - nem t\u00fal nagy bizalom, 4 - egy\u00e1ltal\u00e1n nem megb\u00edzom, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
-    "model_response": "Final answer: 3@@",
+    "model_response": "1 - nagyon nagy bizalom",
     "status": "success"
   },
   {
@@ -1166,7 +1166,7 @@
     "variable": "v129",
     "option_text": "K\u00f6rnyezetv\u00e9d\u0151 szervezetek",
     "response_scale": "1 - nagyon nagy bizalom, 2 - nagy bizalom, 3 - nem t\u00fal nagy bizalom, 4 - egy\u00e1ltal\u00e1n nem megb\u00edzom, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
-    "model_response": "Final answer: @@3@@",
+    "model_response": "4 - egy\u00e1ltal\u00e1n nem megb\u00edzok a v\u00e1laszad\u00f3ban",
     "status": "success"
   },
   {
@@ -1175,7 +1175,7 @@
     "variable": "v130",
     "option_text": "Politikai p\u00e1rtok",
     "response_scale": "1 - nagyon nagy bizalom, 2 - nagy bizalom, 3 - nem t\u00fal nagy bizalom, 4 - egy\u00e1ltal\u00e1n nem megb\u00edzom, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
-    "model_response": "Final answer: 4@@",
+    "model_response": "1 - nagyon nagy bizalom",
     "status": "success"
   },
   {
@@ -1184,7 +1184,7 @@
     "variable": "v131",
     "option_text": "Korm\u00e1ny \u00e9s \u00e1llamigazgat\u00e1s",
     "response_scale": "1 - nagyon nagy bizalom, 2 - nagy bizalom, 3 - nem t\u00fal nagy bizalom, 4 - egy\u00e1ltal\u00e1n nem megb\u00edzom, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
-    "model_response": "Final answer: 3@@",
+    "model_response": "3 - nem t\u00fal nagy bizalom",
     "status": "success"
   },
   {
@@ -1193,7 +1193,7 @@
     "variable": "v132",
     "option_text": "T\u00e1rsadalmi h\u00e1l\u00f3zatok",
     "response_scale": "1 - nagyon nagy bizalom, 2 - nagy bizalom, 3 - nem t\u00fal nagy bizalom, 4 - egy\u00e1ltal\u00e1n nem megb\u00edzom, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
-    "model_response": "Final answer: 3@@",
+    "model_response": "3",
     "status": "success"
   },
   {
@@ -1202,7 +1202,7 @@
     "variable": "v133",
     "option_text": "A korm\u00e1ny ad\u00f3ztatja a gazdagokat \u00e9s t\u00e1mogatja a szeg\u00e9nyeket.",
     "response_scale": "1 - egy\u00e1ltal\u00e1n nem l\u00e9nyeges, 2 - nem t\u00fal l\u00e9nyeges, 3 - m\u00e9rs\u00e9kelt m\u00e9rt\u00e9kben l\u00e9nyeges, 4 - fontos, 5 - nagyon fontos, 6 - rendk\u00edv\u00fcl fontos, 7 - kiemelten fontos, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
-    "model_response": "Final answer: @@4@@",
+    "model_response": "3",
     "status": "success"
   },
   {
@@ -1211,7 +1211,7 @@
     "variable": "v134",
     "option_text": "A vall\u00e1si hat\u00f3s\u00e1gok adj\u00e1k meg a v\u00e9gs\u0151 \u00e9rtelmez\u00e9st a t\u00f6rv\u00e9nyeknek.",
     "response_scale": "1 - egy\u00e1ltal\u00e1n nem l\u00e9nyeges, 2 - nem t\u00fal l\u00e9nyeges, 3 - m\u00e9rs\u00e9kelt m\u00e9rt\u00e9kben l\u00e9nyeges, 4 - fontos, 5 - nagyon fontos, 6 - rendk\u00edv\u00fcl fontos, 7 - kiemelten fontos, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
-    "model_response": "Final answer: @@3@@",
+    "model_response": "Final answer: 8 - Nem v\u00e1laszolt",
     "status": "success"
   },
   {
@@ -1220,7 +1220,7 @@
     "variable": "v135",
     "option_text": "Az emberek v\u00e1lasztj\u00e1k vezet\u0151iket szabad v\u00e1laszt\u00e1sokon.",
     "response_scale": "1 - egy\u00e1ltal\u00e1n nem l\u00e9nyeges, 2 - nem t\u00fal l\u00e9nyeges, 3 - m\u00e9rs\u00e9kelt m\u00e9rt\u00e9kben l\u00e9nyeges, 4 - fontos, 5 - nagyon fontos, 6 - rendk\u00edv\u00fcl fontos, 7 - kiemelten fontos, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
-    "model_response": "Final answer: @@5@@",
+    "model_response": "Final answer: 3",
     "status": "success"
   },
   {
@@ -1229,7 +1229,7 @@
     "variable": "v136",
     "option_text": "A munkan\u00e9lk\u00fcli emberek \u00e1llami t\u00e1mogat\u00e1st kapnak.",
     "response_scale": "1 - egy\u00e1ltal\u00e1n nem l\u00e9nyeges, 2 - nem t\u00fal l\u00e9nyeges, 3 - m\u00e9rs\u00e9kelt m\u00e9rt\u00e9kben l\u00e9nyeges, 4 - fontos, 5 - nagyon fontos, 6 - rendk\u00edv\u00fcl fontos, 7 - kiemelten fontos, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
-    "model_response": "Final answer: @@4@@",
+    "model_response": "A munkan\u00e9lk\u00fcli emberek \u00e1llami t\u00e1mogat\u00e1st kapnak. \n\n1",
     "status": "success"
   },
   {
@@ -1238,7 +1238,7 @@
     "variable": "v137",
     "option_text": "A hadsereg \u00e1tveszi a hatalmat, ha a korm\u00e1ny k\u00e9ptelen.",
     "response_scale": "1 - egy\u00e1ltal\u00e1n nem l\u00e9nyeges, 2 - nem t\u00fal l\u00e9nyeges, 3 - m\u00e9rs\u00e9kelt m\u00e9rt\u00e9kben l\u00e9nyeges, 4 - fontos, 5 - nagyon fontos, 6 - rendk\u00edv\u00fcl fontos, 7 - kiemelten fontos, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
-    "model_response": "Final answer: @@3@@",
+    "model_response": "Final answer: 4 - fontos",
     "status": "success"
   },
   {
@@ -1247,7 +1247,7 @@
     "variable": "v138",
     "option_text": "A polg\u00e1ri jogok v\u00e9dik az embereket az \u00e1llami elnyom\u00e1st\u00f3l.",
     "response_scale": "1 - egy\u00e1ltal\u00e1n nem l\u00e9nyeges, 2 - nem t\u00fal l\u00e9nyeges, 3 - m\u00e9rs\u00e9kelt m\u00e9rt\u00e9kben l\u00e9nyeges, 4 - fontos, 5 - nagyon fontos, 6 - rendk\u00edv\u00fcl fontos, 7 - kiemelten fontos, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
-    "model_response": "Final answer: @@6@@",
+    "model_response": "8",
     "status": "success"
   },
   {
@@ -1256,7 +1256,7 @@
     "variable": "v139",
     "option_text": "Az \u00e1llam kiegyenl\u00edti az emberek j\u00f6vedelm\u00e9t.",
     "response_scale": "1 - egy\u00e1ltal\u00e1n nem l\u00e9nyeges, 2 - nem t\u00fal l\u00e9nyeges, 3 - m\u00e9rs\u00e9kelt m\u00e9rt\u00e9kben l\u00e9nyeges, 4 - fontos, 5 - nagyon fontos, 6 - rendk\u00edv\u00fcl fontos, 7 - kiemelten fontos, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
-    "model_response": "Final answer: @@3@@",
+    "model_response": "8",
     "status": "success"
   },
   {
@@ -1265,7 +1265,7 @@
     "variable": "v140",
     "option_text": "Az emberek hallgatj\u00e1k uralkod\u00f3ikat.",
     "response_scale": "1 - egy\u00e1ltal\u00e1n nem l\u00e9nyeges, 2 - nem t\u00fal l\u00e9nyeges, 3 - m\u00e9rs\u00e9kelt m\u00e9rt\u00e9kben l\u00e9nyeges, 4 - fontos, 5 - nagyon fontos, 6 - rendk\u00edv\u00fcl fontos, 7 - kiemelten fontos, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
-    "model_response": "Final answer: @@4@@",
+    "model_response": "Final answer: 7",
     "status": "success"
   },
   {
@@ -1274,7 +1274,7 @@
     "variable": "v141",
     "option_text": "A n\u0151knek ugyanazok a jogai vannak, mint a f\u00e9rfiaknak.",
     "response_scale": "1 - egy\u00e1ltal\u00e1n nem l\u00e9nyeges, 2 - nem t\u00fal l\u00e9nyeges, 3 - m\u00e9rs\u00e9kelt m\u00e9rt\u00e9kben l\u00e9nyeges, 4 - fontos, 5 - nagyon fontos, 6 - rendk\u00edv\u00fcl fontos, 7 - kiemelten fontos, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
-    "model_response": "Final answer: @@5@@",
+    "model_response": "Final answer: 1",
     "status": "success"
   },
   {
@@ -1283,7 +1283,7 @@
     "variable": "v142",
     "option_text": NaN,
     "response_scale": "1 - egy\u00e1ltal\u00e1n nem fontos, 2 - nem t\u00fal fontos, 3 - el\u00e9g fontos, 4 - fontos, 5 - meglehet\u0151sen fontos, 6 - nagyon fontos, 7 - rendk\u00edv\u00fcl fontos, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
-    "model_response": "Final answer: 6@@",
+    "model_response": "Final answer: 6",
     "status": "success"
   },
   {
@@ -1292,7 +1292,7 @@
     "variable": "v143",
     "option_text": NaN,
     "response_scale": "1 - egy\u00e1ltal\u00e1n nem demokratikus, 2 - nem t\u00fal demokratikus, 3 - el\u00e9g demokratikus, 4 - fontos, 5 - meglehet\u0151sen demokratikus, 6 - nagyon demokratikus, 7 - rendk\u00edv\u00fcl demokratikus, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
-    "model_response": "Final answer: 5@@",
+    "model_response": "Final answer: 5",
     "status": "success"
   },
   {
@@ -1301,7 +1301,7 @@
     "variable": "v144",
     "option_text": NaN,
     "response_scale": "1 - egy\u00e1ltal\u00e1n nem el\u00e9gedett, 2 - nem t\u00fal el\u00e9gedett, 3 - el\u00e9g el\u00e9gedett, 4 - fontos, 5 - meglehet\u0151sen el\u00e9gedett, 6 - nagyon el\u00e9gedett, 7 - rendk\u00edv\u00fcl el\u00e9gedett, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
-    "model_response": "Final answer: 5@@",
+    "model_response": "Final answer: 7 - rendk\u00edv\u00fcl el\u00e9gedett",
     "status": "success"
   },
   {
@@ -1310,7 +1310,7 @@
     "variable": "v145",
     "option_text": "Er\u0151s vezet\u0151t kellene, akinek nem kell t\u00f6r\u0151dnie a parlamenttel \u00e9s a v\u00e1laszt\u00e1sokkal.",
     "response_scale": "1 - teljesen egyet\u00e9rtek, 2 - egyet\u00e9rtek, 3 - sem egyet\u00e9rtek, sem nem egyet\u00e9rtek, 4 - nem egyet\u00e9rtek, 5 - egy\u00e1ltal\u00e1n nem egyet\u00e9rtek, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
-    "model_response": "Final answer: 4@@",
+    "model_response": "4 - nem egyet\u00e9rtek",
     "status": "success"
   },
   {
@@ -1319,7 +1319,7 @@
     "variable": "v146",
     "option_text": "Szak\u00e9rt\u0151knek kellene d\u00f6nt\u00e9seket hozniuk a saj\u00e1t becsl\u00e9s\u00fck alapj\u00e1n arr\u00f3l, hogy mi a legjobb az orsz\u00e1gnak.",
     "response_scale": "1 - teljesen egyet\u00e9rtek, 2 - egyet\u00e9rtek, 3 - sem egyet\u00e9rtek, sem nem egyet\u00e9rtek, 4 - nem egyet\u00e9rtek, 5 - egy\u00e1ltal\u00e1n nem egyet\u00e9rtek, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
-    "model_response": "Final answer: @@3@@",
+    "model_response": "Final answer: 3",
     "status": "success"
   },
   {
@@ -1328,7 +1328,7 @@
     "variable": "v147",
     "option_text": "Katonai korm\u00e1nyz\u00e1st kellene.",
     "response_scale": "1 - teljesen egyet\u00e9rtek, 2 - egyet\u00e9rtek, 3 - sem egyet\u00e9rtek, sem nem egyet\u00e9rtek, 4 - nem egyet\u00e9rtek, 5 - egy\u00e1ltal\u00e1n nem egyet\u00e9rtek, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
-    "model_response": "Final answer: @@5@@",
+    "model_response": "8",
     "status": "success"
   },
   {
@@ -1337,7 +1337,7 @@
     "variable": "v148",
     "option_text": "Demokratikus politikai rendszert kellene.",
     "response_scale": "1 - teljesen egyet\u00e9rtek, 2 - egyet\u00e9rtek, 3 - sem egyet\u00e9rtek, sem nem egyet\u00e9rtek, 4 - nem egyet\u00e9rtek, 5 - egy\u00e1ltal\u00e1n nem egyet\u00e9rtek, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
-    "model_response": "Final answer: @@1@@",
+    "model_response": "8",
     "status": "success"
   },
   {
@@ -1346,7 +1346,7 @@
     "variable": "v149",
     "option_text": "K\u00e9rni \u00e1llami juttat\u00e1sokat, amelyekre nem jogosult.",
     "response_scale": "1 - mindig igazolhat\u00f3, 2 - val\u00f3sz\u00edn\u0171leg igazolhat\u00f3, 3 - nem igazolhat\u00f3, 4 - soha nem igazolhat\u00f3, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
-    "model_response": "Final answer: @@4@@",
+    "model_response": "4 - soha nem igazolhat\u00f3",
     "status": "success"
   },
   {
@@ -1355,7 +1355,7 @@
     "variable": "v150",
     "option_text": "Ad\u00f3csal\u00e1s, ha van r\u00e1 lehet\u0151s\u00e9g.",
     "response_scale": "1 - mindig igazolhat\u00f3, 2 - val\u00f3sz\u00edn\u0171leg igazolhat\u00f3, 3 - nem igazolhat\u00f3, 4 - soha nem igazolhat\u00f3, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
-    "model_response": "Final answer: @@4@@",
+    "model_response": "3 - nem igazolhat\u00f3",
     "status": "success"
   },
   {
@@ -1364,7 +1364,7 @@
     "variable": "v151",
     "option_text": "K\u00e1b\u00edt\u00f3szer fogyaszt\u00e1sa, mint a marihu\u00e1na vagy a hasis.",
     "response_scale": "1 - mindig igazolhat\u00f3, 2 - val\u00f3sz\u00edn\u0171leg igazolhat\u00f3, 3 - nem igazolhat\u00f3, 4 - soha nem igazolhat\u00f3, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
-    "model_response": "Final answer: 3@@",
+    "model_response": "Final answer: 9",
     "status": "success"
   },
   {
@@ -1373,7 +1373,7 @@
     "variable": "v152",
     "option_text": "Ken\u0151p\u00e9nz elfogad\u00e1sa a munkahelyen.",
     "response_scale": "1 - mindig igazolhat\u00f3, 2 - val\u00f3sz\u00edn\u0171leg igazolhat\u00f3, 3 - nem igazolhat\u00f3, 4 - soha nem igazolhat\u00f3, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
-    "model_response": "Final answer: @@4@@",
+    "model_response": "4 - soha nem igazolhat\u00f3, 9 - Nem v\u00e1laszolt",
     "status": "success"
   },
   {
@@ -1382,7 +1382,7 @@
     "variable": "v153",
     "option_text": "Homoszexualit\u00e1s.",
     "response_scale": "1 - mindig igazolhat\u00f3, 2 - val\u00f3sz\u00edn\u0171leg igazolhat\u00f3, 3 - nem igazolhat\u00f3, 4 - soha nem igazolhat\u00f3, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
-    "model_response": "Final answer: 3@@",
+    "model_response": "Final answer: 1",
     "status": "success"
   },
   {
@@ -1391,7 +1391,7 @@
     "variable": "v154",
     "option_text": "Terhess\u00e9g megszak\u00edt\u00e1sa (abortusz).",
     "response_scale": "1 - mindig igazolhat\u00f3, 2 - val\u00f3sz\u00edn\u0171leg igazolhat\u00f3, 3 - nem igazolhat\u00f3, 4 - soha nem igazolhat\u00f3, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
-    "model_response": "Final answer: 4@@",
+    "model_response": "Final answer: 9",
     "status": "success"
   },
   {
@@ -1400,7 +1400,7 @@
     "variable": "v155",
     "option_text": "V\u00e1l\u00e1s.",
     "response_scale": "1 - mindig igazolhat\u00f3, 2 - val\u00f3sz\u00edn\u0171leg igazolhat\u00f3, 3 - nem igazolhat\u00f3, 4 - soha nem igazolhat\u00f3, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
-    "model_response": "Final answer: 3@@",
+    "model_response": "4 - soha nem igazolhat\u00f3",
     "status": "success"
   },
   {
@@ -1409,7 +1409,7 @@
     "variable": "v156",
     "option_text": "Eutan\u00e1zia (\u00e9letv\u00e9gi seg\u00edts\u00e9g).",
     "response_scale": "1 - mindig igazolhat\u00f3, 2 - val\u00f3sz\u00edn\u0171leg igazolhat\u00f3, 3 - nem igazolhat\u00f3, 4 - soha nem igazolhat\u00f3, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
-    "model_response": "Final answer: @@3@@",
+    "model_response": "1 - mindig igazolhat\u00f3",
     "status": "success"
   },
   {
@@ -1418,7 +1418,7 @@
     "variable": "v157",
     "option_text": "\u00d6ngyilkoss\u00e1g.",
     "response_scale": "1 - mindig igazolhat\u00f3, 2 - val\u00f3sz\u00edn\u0171leg igazolhat\u00f3, 3 - nem igazolhat\u00f3, 4 - soha nem igazolhat\u00f3, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
-    "model_response": "Final answer: 4@@",
+    "model_response": "4 - soha nem igazolhat\u00f3, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
     "status": "success"
   },
   {
@@ -1427,7 +1427,7 @@
     "variable": "v158",
     "option_text": "V\u00e9letlenszer\u0171 szex.",
     "response_scale": "1 - mindig igazolhat\u00f3, 2 - val\u00f3sz\u00edn\u0171leg igazolhat\u00f3, 3 - nem igazolhat\u00f3, 4 - soha nem igazolhat\u00f3, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
-    "model_response": "Final answer: 4@@",
+    "model_response": "1 - vedno je mogo\u010de dokazati, 2 - verjetno je mogo\u010de dokazati, 3 - ni mogo\u010de dokazati, 4 - nikoli ni mogo\u010de dokazati, 8 - Ne vem, 9 - Ni odgovora.",
     "status": "success"
   },
   {
@@ -1436,7 +1436,7 @@
     "variable": "v159",
     "option_text": "B\u00e9rlet n\u00e9lk\u00fcli utaz\u00e1s a t\u00f6megk\u00f6zleked\u00e9sen.",
     "response_scale": "1 - mindig igazolhat\u00f3, 2 - val\u00f3sz\u00edn\u0171leg igazolhat\u00f3, 3 - nem igazolhat\u00f3, 4 - soha nem igazolhat\u00f3, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
-    "model_response": "Final answer: 3@@",
+    "model_response": "4 - soha nem igazolhat\u00f3",
     "status": "success"
   },
   {
@@ -1445,7 +1445,7 @@
     "variable": "v160",
     "option_text": "Prostit\u00faci\u00f3.",
     "response_scale": "1 - mindig igazolhat\u00f3, 2 - val\u00f3sz\u00edn\u0171leg igazolhat\u00f3, 3 - nem igazolhat\u00f3, 4 - soha nem igazolhat\u00f3, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
-    "model_response": "Final answer: @@3@@",
+    "model_response": "8 - Nem tudom,",
     "status": "success"
   },
   {
@@ -1454,7 +1454,7 @@
     "variable": "v161",
     "option_text": "Mesters\u00e9ges megterm\u00e9keny\u00edt\u00e9s.",
     "response_scale": "1 - mindig igazolhat\u00f3, 2 - val\u00f3sz\u00edn\u0171leg igazolhat\u00f3, 3 - nem igazolhat\u00f3, 4 - soha nem igazolhat\u00f3, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
-    "model_response": "Final answer: @@3@@",
+    "model_response": "1 - mindig igazolhat\u00f3",
     "status": "success"
   },
   {
@@ -1463,7 +1463,7 @@
     "variable": "v162",
     "option_text": "Politikai er\u0151szak.",
     "response_scale": "1 - mindig igazolhat\u00f3, 2 - val\u00f3sz\u00edn\u0171leg igazolhat\u00f3, 3 - nem igazolhat\u00f3, 4 - soha nem igazolhat\u00f3, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
-    "model_response": "Final answer: 4@@",
+    "model_response": "3",
     "status": "success"
   },
   {
@@ -1472,7 +1472,7 @@
     "variable": "v163",
     "option_text": "Hal\u00e1lb\u00fcntet\u00e9s.",
     "response_scale": "1 - mindig igazolhat\u00f3, 2 - val\u00f3sz\u00edn\u0171leg igazolhat\u00f3, 3 - nem igazolhat\u00f3, 4 - soha nem igazolhat\u00f3, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
-    "model_response": "Final answer: @@4@@",
+    "model_response": "4 - soha nem igazolhat\u00f3",
     "status": "success"
   },
   {
@@ -1481,7 +1481,7 @@
     "variable": "v164",
     "option_text": "A lak\u00f3hely\u00e9hez",
     "response_scale": "1 - nagyon k\u00f6zel \u00e1llok, 2 - k\u00f6zel \u00e1llok, 3 - nem t\u00fal k\u00f6zel \u00e1llok, 4 - egy\u00e1ltal\u00e1n nem \u00e1llok k\u00f6zel, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
-    "model_response": "Final answer: @@1@@",
+    "model_response": "4 - egy\u00e1ltal\u00e1n nem \u00e1llok k\u00f6zel",
     "status": "success"
   },
   {
@@ -1490,7 +1490,7 @@
     "variable": "v165",
     "option_text": "A szomsz\u00e9ds\u00e1g\u00e1hoz",
     "response_scale": "1 - nagyon k\u00f6zel \u00e1llok, 2 - k\u00f6zel \u00e1llok, 3 - nem t\u00fal k\u00f6zel \u00e1llok, 4 - egy\u00e1ltal\u00e1n nem \u00e1llok k\u00f6zel, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
-    "model_response": "Final answer: @@1@@",
+    "model_response": "V\u00e1lasz: 1",
     "status": "success"
   },
   {
@@ -1499,7 +1499,7 @@
     "variable": "v166",
     "option_text": "Szerbi\u00e1hoz",
     "response_scale": "1 - nagyon k\u00f6zel \u00e1llok, 2 - k\u00f6zel \u00e1llok, 3 - nem t\u00fal k\u00f6zel \u00e1llok, 4 - egy\u00e1ltal\u00e1n nem \u00e1llok k\u00f6zel, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
-    "model_response": "Final answer: @@3@@",
+    "model_response": "Final answer: 4",
     "status": "success"
   },
   {
@@ -1508,7 +1508,7 @@
     "variable": "v167",
     "option_text": "Eur\u00f3p\u00e1hoz",
     "response_scale": "1 - nagyon k\u00f6zel \u00e1llok, 2 - k\u00f6zel \u00e1llok, 3 - nem t\u00fal k\u00f6zel \u00e1llok, 4 - egy\u00e1ltal\u00e1n nem \u00e1llok k\u00f6zel, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
-    "model_response": "Final answer: @@1@@",
+    "model_response": "8 - Nem tudom,",
     "status": "success"
   },
   {
@@ -1517,7 +1517,7 @@
     "variable": "v168",
     "option_text": "A vil\u00e1ghoz",
     "response_scale": "1 - nagyon k\u00f6zel \u00e1llok, 2 - k\u00f6zel \u00e1llok, 3 - nem t\u00fal k\u00f6zel \u00e1llok, 4 - egy\u00e1ltal\u00e1n nem \u00e1llok k\u00f6zel, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
-    "model_response": "Final answer: @@1@@",
+    "model_response": "3",
     "status": "success"
   },
   {
@@ -1526,7 +1526,7 @@
     "variable": "v169",
     "option_text": NaN,
     "response_scale": "1 - Igen, 2 - Nem, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
-    "model_response": "Final answer: @@2@@",
+    "model_response": "8 - Nem tudom",
     "status": "success"
   },
   {
@@ -1535,7 +1535,7 @@
     "variable": "v170",
     "option_text": NaN,
     "response_scale": "1 - nagyon b\u00fcszke, 2 - b\u00fcszke, 3 - nem t\u00fal b\u00fcszke, 4 - egy\u00e1ltal\u00e1n nem b\u00fcszke, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
-    "model_response": "Final answer: @@1@@",
+    "model_response": "8 - Nem tudom,",
     "status": "success"
   },
   {
@@ -1544,7 +1544,7 @@
     "variable": "v171",
     "option_text": "Helyi szinten",
     "response_scale": "1 - mindig, 2 - n\u00e9ha, 3 - soha, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
-    "model_response": "Final answer: 1@@",
+    "model_response": "Final answer: 2",
     "status": "success"
   },
   {
@@ -1553,7 +1553,7 @@
     "variable": "v172",
     "option_text": "Orsz\u00e1gos szinten",
     "response_scale": "1 - mindig, 2 - n\u00e9ha, 3 - soha, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
-    "model_response": "Final answer: 1@@",
+    "model_response": "1",
     "status": "success"
   },
   {
@@ -1562,7 +1562,7 @@
     "variable": "v174",
     "option_text": NaN,
     "response_scale": "1 - Szerb Halad\u00f3 P\u00e1rt (SNS), 2 - Demokratikus P\u00e1rt (DS), 3 - Mozgalom a szabad polg\u00e1rok\u00e9rt (PSGS), 4 - Nemzeti P\u00e1rt (NS), 5 - Szerb Demokratikus P\u00e1rt (DSS), 6 - Szerb Radik\u00e1lis P\u00e1rt (SRS), 7 - Szoci\u00e1ldemokrata P\u00e1rt (SDS), 8 - Dveri, 9 - El\u00e9g volt (DJB), 10 - Nyugd\u00edjasok p\u00e1rtja (PUPS), 11 - Vajdas\u00e1gi Sz\u00f6vets\u00e9g (SVM), 12 - Liga a vajdas\u00e1gi szoci\u00e1ldemokrat\u00e1k\u00e9rt (LSV), 13 - A demokr\u00e1cia p\u00e1rtja (PDD), 14 - Rom\u00e1k p\u00e1rtja (RP), 15 - Stranka demokratske akcije (SDA), 16 - Szoci\u00e1ldemokrata P\u00e1rt (SDPS), 17 - Demokrata Sz\u00f6vets\u00e9g a Vajdas\u00e1g Hrvatjai\u00e9rt (DSHV), 31 - Egy\u00e9b (\u00edrja be):",
-    "model_response": "Final answer: 1@@",
+    "model_response": "17 - Demokrata Sz\u00f6vets\u00e9g a Vajdas\u00e1g Hrvatjai\u00e9rt (DSHV)",
     "status": "success"
   },
   {
@@ -1571,7 +1571,7 @@
     "variable": "v175",
     "option_text": NaN,
     "response_scale": "1 - Szerb Halad\u00f3 P\u00e1rt (SNS), 2 - Demokratikus P\u00e1rt (DS), 3 - Mozgalom a szabad polg\u00e1rok\u00e9rt (PSGS), 4 - Nemzeti P\u00e1rt (NS), 5 - Szerb Demokratikus P\u00e1rt (DSS), 6 - Szerb Radik\u00e1lis P\u00e1rt (SRS), 7 - Szoci\u00e1ldemokrata P\u00e1rt (SDS), 8 - Dveri, 9 - El\u00e9g volt (DJB), 10 - Nyugd\u00edjasok p\u00e1rtja (PUPS), 11 - Vajdas\u00e1gi Sz\u00f6vets\u00e9g (SVM), 12 - Liga a vajdas\u00e1gi szoci\u00e1ldemokrat\u00e1k\u00e9rt (LSV), 13 - A demokr\u00e1cia p\u00e1rtja (PDD), 14 - Rom\u00e1k p\u00e1rtja (RP), 15 - Stranka demokratske akcije (SDA), 16 - Szoci\u00e1ldemokrata P\u00e1rt (SDPS), 17 - Demokrata Sz\u00f6vets\u00e9g a Vajdas\u00e1g Hrvatjai\u00e9rt (DSHV), 31 - Egy\u00e9b (\u00edrja be):",
-    "model_response": "Final answer: @@nan@@",
+    "model_response": "31 - Egy\u00e9b (\u00edrja be): None",
     "status": "success"
   },
   {
@@ -1580,7 +1580,7 @@
     "variable": "v176",
     "option_text": "Szavazatok \u0151szinte megsz\u00e1mol\u00e1sa",
     "response_scale": "1 - nagyon gyakran, 2 - gyakran, 3 - ritk\u00e1n, 4 - nagyon ritk\u00e1n, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
-    "model_response": "Final answer: 3@@",
+    "model_response": "8 - Nem tudom",
     "status": "success"
   },
   {
@@ -1589,7 +1589,7 @@
     "variable": "v177",
     "option_text": "Az ellenz\u00e9ki jel\u00f6lteket megakad\u00e1lyozz\u00e1k a v\u00e1laszt\u00e1sokon val\u00f3 indul\u00e1sban.",
     "response_scale": "1 - nagyon gyakran, 2 - gyakran, 3 - ritk\u00e1n, 4 - nagyon ritk\u00e1n, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
-    "model_response": "Final answer: 3@@",
+    "model_response": "4 - nagyon ritk\u00e1n",
     "status": "success"
   },
   {
@@ -1598,7 +1598,7 @@
     "variable": "v178",
     "option_text": "A TV h\u00edrek p\u00e1rtolj\u00e1k a korm\u00e1nyz\u00f3 p\u00e1rtot.",
     "response_scale": "1 - nagyon gyakran, 2 - gyakran, 3 - ritk\u00e1n, 4 - nagyon ritk\u00e1n, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
-    "model_response": "Final answer: 3@@",
+    "model_response": "A TV h\u00edrek p\u00e1rtolj\u00e1k a korm\u00e1nyz\u00f3 p\u00e1rtot.",
     "status": "success"
   },
   {
@@ -1607,7 +1607,7 @@
     "variable": "v179",
     "option_text": "Szavazatokat vesztegetnek.",
     "response_scale": "1 - nagyon gyakran, 2 - gyakran, 3 - ritk\u00e1n, 4 - nagyon ritk\u00e1n, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
-    "model_response": "Final answer: @@3@@",
+    "model_response": "Final answer: 7",
     "status": "success"
   },
   {
@@ -1616,7 +1616,7 @@
     "variable": "v180",
     "option_text": "Az \u00fajs\u00e1g\u00edr\u00f3k \u0151szint\u00e9n sz\u00e1molnak be a v\u00e1laszt\u00e1sokr\u00f3l.",
     "response_scale": "1 - nagyon gyakran, 2 - gyakran, 3 - ritk\u00e1n, 4 - nagyon ritk\u00e1n, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
-    "model_response": "Final answer: @@3@@",
+    "model_response": "8",
     "status": "success"
   },
   {
@@ -1625,7 +1625,7 @@
     "variable": "v181",
     "option_text": "A v\u00e1laszt\u00e1si tisztvisel\u0151k becs\u00fcletesek.",
     "response_scale": "1 - nagyon gyakran, 2 - gyakran, 3 - ritk\u00e1n, 4 - nagyon ritk\u00e1n, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
-    "model_response": "Final answer: @@3@@",
+    "model_response": "4 - nagyon ritk\u00e1n",
     "status": "success"
   },
   {
@@ -1634,7 +1634,7 @@
     "variable": "v182",
     "option_text": "A gazdagok megveszik a v\u00e1laszt\u00e1sokat.",
     "response_scale": "1 - nagyon gyakran, 2 - gyakran, 3 - ritk\u00e1n, 4 - nagyon ritk\u00e1n, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
-    "model_response": "Final answer: @@3@@",
+    "model_response": "8",
     "status": "success"
   },
   {
@@ -1643,7 +1643,7 @@
     "variable": "v183",
     "option_text": "Szavaz\u00f3kat fenyegetnek a v\u00e1laszt\u00e1si helysz\u00edneken.",
     "response_scale": "1 - nagyon gyakran, 2 - gyakran, 3 - ritk\u00e1n, 4 - nagyon ritk\u00e1n, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
-    "model_response": "Final answer: 4@@",
+    "model_response": "9 - Nem v\u00e1laszolt",
     "status": "success"
   },
   {
@@ -1652,7 +1652,7 @@
     "variable": "v184",
     "option_text": NaN,
     "response_scale": "1 - nagyon \u00e9rdekel, 2 - el\u00e9gg\u00e9 \u00e9rdekel, 3 - nem t\u00fal \u00e9rdekel, 4 - egy\u00e1ltal\u00e1n nem \u00e9rdekel, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
-    "model_response": "Final answer: @@3@@",
+    "model_response": "9",
     "status": "success"
   },
   {
@@ -1661,7 +1661,7 @@
     "variable": "v185",
     "option_text": "A bev\u00e1ndorl\u00f3k pozit\u00edvan befoly\u00e1solj\u00e1k az orsz\u00e1g fejl\u0151d\u00e9s\u00e9t.",
     "response_scale": "1 - nagyon j\u00f3, 2 - el\u00e9gg\u00e9 j\u00f3, 3 - sem j\u00f3, sem nem j\u00f3, 4 - nem t\u00fal j\u00f3, 5 - nagyon rossz, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
-    "model_response": "Final answer: @@3@@",
+    "model_response": "8",
     "status": "success"
   },
   {
@@ -1670,7 +1670,7 @@
     "variable": "v186",
     "option_text": NaN,
     "response_scale": "1 - nagyon j\u00f3, 2 - el\u00e9gg\u00e9 j\u00f3, 3 - sem j\u00f3, sem nem j\u00f3, 4 - nem t\u00fal j\u00f3, 5 - nagyon rossz, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
-    "model_response": "Final answer: 8@@",
+    "model_response": "8",
     "status": "success"
   },
   {
@@ -1679,7 +1679,7 @@
     "variable": "v187",
     "option_text": NaN,
     "response_scale": "1 - nagyon j\u00f3, 2 - el\u00e9gg\u00e9 j\u00f3, 3 - sem j\u00f3, sem nem j\u00f3, 4 - nem t\u00fal j\u00f3, 5 - nagyon rossz, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
-    "model_response": "Final answer: 8@@",
+    "model_response": "Final answer: 1",
     "status": "success"
   },
   {
@@ -1688,7 +1688,7 @@
     "variable": "v188",
     "option_text": NaN,
     "response_scale": "1 - nagyon j\u00f3, 2 - el\u00e9gg\u00e9 j\u00f3, 3 - sem j\u00f3, sem nem j\u00f3, 4 - nem t\u00fal j\u00f3, 5 - nagyon rossz, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
-    "model_response": "Final answer: 8@@",
+    "model_response": "Final answer: 3",
     "status": "success"
   },
   {
@@ -1697,7 +1697,7 @@
     "variable": "v189",
     "option_text": "Sz\u00fcletni Szerbi\u00e1ban",
     "response_scale": "1 - nagyon fontos, 2 - el\u00e9gg\u00e9 fontos, 3 - nem t\u00fal fontos, 4 - egy\u00e1ltal\u00e1n nem fontos, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
-    "model_response": "Final answer: @@3@@",
+    "model_response": "8",
     "status": "success"
   },
   {
@@ -1706,7 +1706,7 @@
     "variable": "v190",
     "option_text": "Tiszteletben tartani Szerbia politikai int\u00e9zm\u00e9nyeit \u00e9s t\u00f6rv\u00e9nyeit",
     "response_scale": "1 - nagyon fontos, 2 - el\u00e9gg\u00e9 fontos, 3 - nem t\u00fal fontos, 4 - egy\u00e1ltal\u00e1n nem fontos, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
-    "model_response": "Final answer: @@1@@",
+    "model_response": "8 - Nem tudom",
     "status": "success"
   },
   {
@@ -1715,7 +1715,7 @@
     "variable": "v191",
     "option_text": "Szerb sz\u00e1rmaz\u00e1s\u00fa lenni",
     "response_scale": "1 - nagyon fontos, 2 - el\u00e9gg\u00e9 fontos, 3 - nem t\u00fal fontos, 4 - egy\u00e1ltal\u00e1n nem fontos, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
-    "model_response": "Final answer: @@3@@",
+    "model_response": "8",
     "status": "success"
   },
   {
@@ -1724,7 +1724,7 @@
     "variable": "v192",
     "option_text": "Szerb nyelvet besz\u00e9lni",
     "response_scale": "1 - nagyon fontos, 2 - el\u00e9gg\u00e9 fontos, 3 - nem t\u00fal fontos, 4 - egy\u00e1ltal\u00e1n nem fontos, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
-    "model_response": "Final answer: @@1@@",
+    "model_response": "8",
     "status": "success"
   },
   {
@@ -1733,7 +1733,7 @@
     "variable": "v193",
     "option_text": "Megosztani a szerb kult\u00far\u00e1t",
     "response_scale": "1 - nagyon fontos, 2 - el\u00e9gg\u00e9 fontos, 3 - nem t\u00fal fontos, 4 - egy\u00e1ltal\u00e1n nem fontos, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
-    "model_response": "Final answer: @@1@@",
+    "model_response": "8",
     "status": "success"
   },
   {
@@ -1742,7 +1742,7 @@
     "variable": "v194",
     "option_text": "Eur\u00f3pai \u00e1llampolg\u00e1rnak lenni",
     "response_scale": "1 - nagyon fontos, 2 - el\u00e9gg\u00e9 fontos, 3 - nem t\u00fal fontos, 4 - egy\u00e1ltal\u00e1n nem fontos, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
-    "model_response": "Final answer: @@1@@",
+    "model_response": "9 - Nem v\u00e1laszolt",
     "status": "success"
   },
   {
@@ -1751,7 +1751,7 @@
     "variable": "v195",
     "option_text": "Eur\u00f3pai sz\u00e1rmaz\u00e1s\u00fa lenni",
     "response_scale": "1 - nagyon fontos, 2 - el\u00e9gg\u00e9 fontos, 3 - nem t\u00fal fontos, 4 - egy\u00e1ltal\u00e1n nem fontos, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
-    "model_response": "Final answer: @@3@@",
+    "model_response": "8",
     "status": "success"
   },
   {
@@ -1760,7 +1760,7 @@
     "variable": "v196",
     "option_text": "Kereszt\u00e9ny lenni",
     "response_scale": "1 - nagyon fontos, 2 - el\u00e9gg\u00e9 fontos, 3 - nem t\u00fal fontos, 4 - egy\u00e1ltal\u00e1n nem fontos, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
-    "model_response": "Final answer: @@1@@",
+    "model_response": "9 - Nem v\u00e1laszolt",
     "status": "success"
   },
   {
@@ -1769,7 +1769,7 @@
     "variable": "v197",
     "option_text": "Megosztani az eur\u00f3pai kult\u00far\u00e1t",
     "response_scale": "1 - nagyon fontos, 2 - el\u00e9gg\u00e9 fontos, 3 - nem t\u00fal fontos, 4 - egy\u00e1ltal\u00e1n nem fontos, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
-    "model_response": "Final answer: @@1@@",
+    "model_response": "8 - Nem tudom,",
     "status": "success"
   },
   {
@@ -1778,7 +1778,7 @@
     "variable": "v198",
     "option_text": NaN,
     "response_scale": "1 - tov\u00e1bb kell terjeszteni, 2 - m\u00e1r t\u00fal sokat terjesztett, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
-    "model_response": "Final answer: @@8@@",
+    "model_response": "9 - Nem v\u00e1laszolt",
     "status": "success"
   },
   {
@@ -1787,7 +1787,7 @@
     "variable": NaN,
     "option_text": "Eur\u00f3pai Uni\u00f3",
     "response_scale": "1 - nagyon nagy m\u00e9rt\u00e9kben, 2 - nagy m\u00e9rt\u00e9kben, 3 - m\u00e9rs\u00e9kelt m\u00e9rt\u00e9kben, 4 - egy\u00e1ltal\u00e1n nem, 9 - Nem tudom",
-    "model_response": "Final answer: @@4@@",
+    "model_response": "4 - egy\u00e1ltal\u00e1n nem",
     "status": "success"
   },
   {
@@ -1796,7 +1796,7 @@
     "variable": NaN,
     "option_text": "USA",
     "response_scale": "1 - nagyon nagy m\u00e9rt\u00e9kben, 2 - nagy m\u00e9rt\u00e9kben, 3 - m\u00e9rs\u00e9kelt m\u00e9rt\u00e9kben, 4 - egy\u00e1ltal\u00e1n nem, 9 - Nem tudom",
-    "model_response": "Final answer: 4@@",
+    "model_response": "Final answer: 4",
     "status": "success"
   },
   {
@@ -1805,7 +1805,7 @@
     "variable": NaN,
     "option_text": "Oroszorsz\u00e1g",
     "response_scale": "1 - nagyon nagy m\u00e9rt\u00e9kben, 2 - nagy m\u00e9rt\u00e9kben, 3 - m\u00e9rs\u00e9kelt m\u00e9rt\u00e9kben, 4 - egy\u00e1ltal\u00e1n nem, 9 - Nem tudom",
-    "model_response": "Final answer: @@4@@",
+    "model_response": "1 - nagyon nagy m\u00e9rt\u00e9kben",
     "status": "success"
   },
   {
@@ -1814,7 +1814,7 @@
     "variable": "v199",
     "option_text": "Ad\u00f3ztassam a gazdagokat, hogy megakad\u00e1lyozzam a k\u00f6rnyezetszennyez\u00e9st.",
     "response_scale": "1 - teljesen egyet\u00e9rtek, 2 - egyet\u00e9rtek, 3 - sem egyet\u00e9rtek, sem nem egyet\u00e9rtek, 4 - nem egyet\u00e9rtek, 5 - egy\u00e1ltal\u00e1n nem egyet\u00e9rtek, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
-    "model_response": "Final answer: @@2@@",
+    "model_response": "8 - Nem tudom",
     "status": "success"
   },
   {
@@ -1823,7 +1823,7 @@
     "variable": "v200",
     "option_text": "T\u00fal neh\u00e9z valami tenni a k\u00f6rnyezet\u00e9rt.",
     "response_scale": "1 - teljesen egyet\u00e9rtek, 2 - egyet\u00e9rtek, 3 - sem egyet\u00e9rtek, sem nem egyet\u00e9rtek, 4 - nem egyet\u00e9rtek, 5 - egy\u00e1ltal\u00e1n nem egyet\u00e9rtek, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
-    "model_response": "Final answer: @@3@@",
+    "model_response": "Final answer: 9 - Nem v\u00e1laszolt",
     "status": "success"
   },
   {
@@ -1832,7 +1832,7 @@
     "variable": "v201",
     "option_text": "Sok \u00e1ll\u00edt\u00e1s a k\u00f6rnyezeti fenyeget\u00e9sekr\u0151l t\u00falz\u00f3.",
     "response_scale": "1 - teljesen egyet\u00e9rtek, 2 - egyet\u00e9rtek, 3 - sem egyet\u00e9rtek, sem nem egyet\u00e9rtek, 4 - nem egyet\u00e9rtek, 5 - egy\u00e1ltal\u00e1n nem egyet\u00e9rtek, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
-    "model_response": "Final answer: @@3@@",
+    "model_response": "8",
     "status": "success"
   },
   {
@@ -1841,7 +1841,7 @@
     "variable": "v204",
     "option_text": NaN,
     "response_scale": "1 - A k\u00f6rnyezet v\u00e9delme legyen a priorit\u00e1s, m\u00e9g akkor is, ha ez lassabb gazdas\u00e1gi n\u00f6veked\u00e9shez \u00e9s munkahelyek elveszt\u00e9s\u00e9hez vezet, 2 - A gazdas\u00e1gi n\u00f6veked\u00e9s \u00e9s a munkahelyteremt\u00e9s legyen a f\u0151 priorit\u00e1s, m\u00e9g akkor is, ha a k\u00f6rnyezet szenved, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
-    "model_response": "Final answer: @@2@@",
+    "model_response": "8",
     "status": "success"
   },
   {
@@ -1850,7 +1850,7 @@
     "variable": "v205",
     "option_text": "Vide\u00f3megfigyel\u00e9st kell v\u00e9gezni a nyilv\u00e1nos helyeken.",
     "response_scale": "1 - hat\u00e1rozottan kell, 2 - val\u00f3sz\u00edn\u0171leg kell, 3 - nem kell, 4 - hat\u00e1rozottan nem kell, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
-    "model_response": "Final answer: @@2@@",
+    "model_response": "8 - Nem tudom,",
     "status": "success"
   },
   {
@@ -1859,7 +1859,7 @@
     "variable": "v206",
     "option_text": "Az \u00e1llamnak minden szem\u00e9lyr\u0151l adatokat kell gy\u0171jtenie az orsz\u00e1gban, m\u00e9g a tudta n\u00e9lk\u00fcl is.",
     "response_scale": "1 - hat\u00e1rozottan kell, 2 - val\u00f3sz\u00edn\u0171leg kell, 3 - nem kell, 4 - hat\u00e1rozottan nem kell, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
-    "model_response": "Final answer: @@4@@",
+    "model_response": "Final answer: 8 - Nem tudom,",
     "status": "success"
   },
   {
@@ -1868,7 +1868,7 @@
     "variable": "v207",
     "option_text": "Az \u00e1llamnak adatokat kell gy\u0171jtenie minden szem\u00e9lyr\u0151l az orsz\u00e1gban.",
     "response_scale": "1 - hat\u00e1rozottan kell, 2 - val\u00f3sz\u00edn\u0171leg kell, 3 - nem kell, 4 - hat\u00e1rozottan nem kell, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
-    "model_response": "Final answer: @@4@@",
+    "model_response": "3",
     "status": "success"
   },
   {
@@ -1877,7 +1877,7 @@
     "variable": "v208",
     "option_text": "Telev\u00edzi\u00f3",
     "response_scale": "1 - minden nap, 2 - hetente t\u00f6bbsz\u00f6r, 3 - hetente egyszer, 4 - ritk\u00e1bban, 5 - soha, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
-    "model_response": "Final answer: @@1@@",
+    "model_response": "8",
     "status": "success"
   },
   {
@@ -1886,7 +1886,7 @@
     "variable": "v209",
     "option_text": "R\u00e1di\u00f3",
     "response_scale": "1 - minden nap, 2 - hetente t\u00f6bbsz\u00f6r, 3 - hetente egyszer, 4 - ritk\u00e1bban, 5 - soha, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
-    "model_response": "Final answer: @@4@@",
+    "model_response": "8 - Nem tudom",
     "status": "success"
   },
   {
@@ -1895,7 +1895,7 @@
     "variable": "v210",
     "option_text": "Napi \u00fajs\u00e1gok",
     "response_scale": "1 - minden nap, 2 - hetente t\u00f6bbsz\u00f6r, 3 - hetente egyszer, 4 - ritk\u00e1bban, 5 - soha, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
-    "model_response": "Final answer: 4@@",
+    "model_response": "8 - Nem tudom,",
     "status": "success"
   },
   {
@@ -1904,7 +1904,7 @@
     "variable": "v211",
     "option_text": "T\u00e1rsadalmi h\u00e1l\u00f3zatok",
     "response_scale": "1 - minden nap, 2 - hetente t\u00f6bbsz\u00f6r, 3 - hetente egyszer, 4 - ritk\u00e1bban, 5 - soha, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
-    "model_response": "Final answer: @@1@@",
+    "model_response": "9 - Nem v\u00e1laszolt",
     "status": "success"
   },
   {
@@ -1913,7 +1913,7 @@
     "variable": "v212",
     "option_text": "Az \u00d6n szomsz\u00e9ds\u00e1g\u00e1ban \u00e9l\u0151k",
     "response_scale": "1 - nagyon agg\u00f3dok, 2 - el\u00e9gg\u00e9 agg\u00f3dok, 3 - m\u00e9rs\u00e9kelt m\u00e9rt\u00e9kben agg\u00f3dok, 4 - nem t\u00fal agg\u00f3dok, 5 - egy\u00e1ltal\u00e1n nem agg\u00f3dok, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
-    "model_response": "Final answer: @@3@@",
+    "model_response": "1 - nagyon agg\u00f3dok, 2 - el\u00e9gg\u00e9 agg\u00f3dok, 3 - m\u00e9rs\u00e9kelt m\u00e9rt\u00e9kben agg\u00f3dok, 4 - nem t\u00fal agg\u00f3dok, 5 - egy\u00e1ltal\u00e1n nem agg\u00f3dok, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
     "status": "success"
   },
   {
@@ -1922,7 +1922,7 @@
     "variable": "v213",
     "option_text": "Az \u00d6n megy\u00e9j\u00e9ben \u00e9l\u0151k",
     "response_scale": "1 - nagyon agg\u00f3dok, 2 - el\u00e9gg\u00e9 agg\u00f3dok, 3 - m\u00e9rs\u00e9kelt m\u00e9rt\u00e9kben agg\u00f3dok, 4 - nem t\u00fal agg\u00f3dok, 5 - egy\u00e1ltal\u00e1n nem agg\u00f3dok, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
-    "model_response": "Final answer: @@3@@",
+    "model_response": "9 - Nem v\u00e1laszolt",
     "status": "success"
   },
   {
@@ -1931,7 +1931,7 @@
     "variable": "v214",
     "option_text": "Az \u00d6n nemzet\u00e9hez tartoz\u00f3k",
     "response_scale": "1 - nagyon agg\u00f3dok, 2 - el\u00e9gg\u00e9 agg\u00f3dok, 3 - m\u00e9rs\u00e9kelt m\u00e9rt\u00e9kben agg\u00f3dok, 4 - nem t\u00fal agg\u00f3dok, 5 - egy\u00e1ltal\u00e1n nem agg\u00f3dok, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
-    "model_response": "Final answer: @@5@@",
+    "model_response": "8",
     "status": "success"
   },
   {
@@ -1940,7 +1940,7 @@
     "variable": "v215",
     "option_text": "Eur\u00f3paiak",
     "response_scale": "1 - nagyon agg\u00f3dok, 2 - el\u00e9gg\u00e9 agg\u00f3dok, 3 - m\u00e9rs\u00e9kelt m\u00e9rt\u00e9kben agg\u00f3dok, 4 - nem t\u00fal agg\u00f3dok, 5 - egy\u00e1ltal\u00e1n nem agg\u00f3dok, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
-    "model_response": "Final answer: 4@@",
+    "model_response": "4 - nem t\u00fal agg\u00f3dok",
     "status": "success"
   },
   {
@@ -1949,7 +1949,7 @@
     "variable": "v216",
     "option_text": "A vil\u00e1g \u00f6sszes lak\u00f3ja",
     "response_scale": "1 - nagyon agg\u00f3dok, 2 - el\u00e9gg\u00e9 agg\u00f3dok, 3 - m\u00e9rs\u00e9kelt m\u00e9rt\u00e9kben agg\u00f3dok, 4 - nem t\u00fal agg\u00f3dok, 5 - egy\u00e1ltal\u00e1n nem agg\u00f3dok, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
-    "model_response": "Final answer: @@5@@",
+    "model_response": "8",
     "status": "success"
   },
   {
@@ -1958,7 +1958,7 @@
     "variable": "v217",
     "option_text": "Id\u0151sebb emberek",
     "response_scale": "1 - nagyon agg\u00f3dok, 2 - el\u00e9gg\u00e9 agg\u00f3dok, 3 - m\u00e9rs\u00e9kelt m\u00e9rt\u00e9kben agg\u00f3dok, 4 - nem t\u00fal agg\u00f3dok, 5 - egy\u00e1ltal\u00e1n nem agg\u00f3dok, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
-    "model_response": "Final answer: @@4@@",
+    "model_response": "8",
     "status": "success"
   },
   {
@@ -1967,7 +1967,7 @@
     "variable": "v218",
     "option_text": "Munkan\u00e9lk\u00fcli emberek",
     "response_scale": "1 - nagyon agg\u00f3dok, 2 - el\u00e9gg\u00e9 agg\u00f3dok, 3 - m\u00e9rs\u00e9kelt m\u00e9rt\u00e9kben agg\u00f3dok, 4 - nem t\u00fal agg\u00f3dok, 5 - egy\u00e1ltal\u00e1n nem agg\u00f3dok, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
-    "model_response": "Final answer: 3@@",
+    "model_response": "4 - nem t\u00fal agg\u00f3dok",
     "status": "success"
   },
   {
@@ -1976,7 +1976,7 @@
     "variable": "v219",
     "option_text": "Bev\u00e1ndorl\u00f3k",
     "response_scale": "1 - nagyon agg\u00f3dok, 2 - el\u00e9gg\u00e9 agg\u00f3dok, 3 - m\u00e9rs\u00e9kelt m\u00e9rt\u00e9kben agg\u00f3dok, 4 - nem t\u00fal agg\u00f3dok, 5 - egy\u00e1ltal\u00e1n nem agg\u00f3dok, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
-    "model_response": "Final answer: @@3@@",
+    "model_response": "8 - Nem tudom",
     "status": "success"
   },
   {
@@ -1985,7 +1985,7 @@
     "variable": "v220",
     "option_text": "Beteg \u00e9s fogyat\u00e9kos emberek",
     "response_scale": "1 - nagyon agg\u00f3dok, 2 - el\u00e9gg\u00e9 agg\u00f3dok, 3 - m\u00e9rs\u00e9kelt m\u00e9rt\u00e9kben agg\u00f3dok, 4 - nem t\u00fal agg\u00f3dok, 5 - egy\u00e1ltal\u00e1n nem agg\u00f3dok, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
-    "model_response": "Final answer: 3@@",
+    "model_response": "8 - Nem tudom,",
     "status": "success"
   },
   {
@@ -1994,7 +1994,7 @@
     "variable": "v221",
     "option_text": "Az \u00e1llamnak biztos\u00edtania kell az alapvet\u0151 sz\u00fcks\u00e9gleteket, mint p\u00e9ld\u00e1ul \u00e9lelmet, lakhat\u00e1st, ruh\u00e1zatot, oktat\u00e1st \u00e9s eg\u00e9szs\u00e9g\u00fcgyi ell\u00e1t\u00e1st.",
     "response_scale": "1 - nagyon fontos, 2 - el\u00e9gg\u00e9 fontos, 3 - nem t\u00fal fontos, 4 - egy\u00e1ltal\u00e1n nem fontos, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
-    "model_response": "Final answer: @@1@@",
+    "model_response": "Final answer: 1",
     "status": "success"
   },
   {
@@ -2003,7 +2003,7 @@
     "variable": "v222",
     "option_text": "Az embereknek jutalmazniuk kell a teljes\u00edtm\u00e9ny\u00fcket.",
     "response_scale": "1 - nagyon fontos, 2 - el\u00e9gg\u00e9 fontos, 3 - nem t\u00fal fontos, 4 - egy\u00e1ltal\u00e1n nem fontos, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
-    "model_response": "Final answer: @@1@@",
+    "model_response": "Final answer: 3",
     "status": "success"
   },
   {
@@ -2012,7 +2012,7 @@
     "variable": "v223",
     "option_text": "A terrorizmus elleni v\u00e9dekez\u00e9s.",
     "response_scale": "1 - nagyon fontos, 2 - el\u00e9gg\u00e9 fontos, 3 - nem t\u00fal fontos, 4 - egy\u00e1ltal\u00e1n nem fontos, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
-    "model_response": "Final answer: @@1@@",
+    "model_response": "8 - Nem tudom",
     "status": "success"
   },
   {
@@ -2021,7 +2021,7 @@
     "variable": "v225",
     "option_text": NaN,
     "response_scale": "1 - f\u00e9rfi, 2 - n\u0151, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
-    "model_response": "Final answer: @@8@@",
+    "model_response": "8 - Nem tudom",
     "status": "success"
   },
   {
@@ -2039,7 +2039,7 @@
     "variable": "v227",
     "option_text": NaN,
     "response_scale": "1 - Igen, 2 - Nem, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
-    "model_response": "Final answer: @@2@@",
+    "model_response": "8 - Nem tudom",
     "status": "success"
   },
   {
@@ -2048,7 +2048,7 @@
     "variable": "v228a",
     "option_text": NaN,
     "response_scale": "1 - nagyon b\u00fcszke, 2 - b\u00fcszke, 3 - nem t\u00fal b\u00fcszke, 4 - egy\u00e1ltal\u00e1n nem b\u00fcszke, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
-    "model_response": "Final answer: @@1@@",
+    "model_response": "9",
     "status": "success"
   },
   {
@@ -2057,7 +2057,7 @@
     "variable": "v229",
     "option_text": NaN,
     "response_scale": NaN,
-    "model_response": "Final answer: @@nan@@",
+    "model_response": "Final answer: nan",
     "status": "success"
   },
   {
@@ -2066,7 +2066,7 @@
     "variable": "v230",
     "option_text": NaN,
     "response_scale": "1 - Igen, 2 - Nem, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
-    "model_response": "Final answer: @@8@@",
+    "model_response": "2 - Nem",
     "status": "success"
   },
   {
@@ -2084,7 +2084,7 @@
     "variable": "v232",
     "option_text": NaN,
     "response_scale": "1 - Igen, 2 - Nem, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
-    "model_response": "Final answer: @@8@@",
+    "model_response": "9 - Nem v\u00e1laszolt",
     "status": "success"
   },
   {
@@ -2102,7 +2102,7 @@
     "variable": "v234",
     "option_text": NaN,
     "response_scale": "1 - h\u00e1zas, 2 - bejegyzett \u00e9lett\u00e1rsi kapcsolatban, 3 - \u00f6zvegy, 4 - elv\u00e1lt, 5 - k\u00fcl\u00f6n\u00e9l, 6 - soha nem h\u00e1zasodott, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
-    "model_response": "Final answer: 6@@",
+    "model_response": "8",
     "status": "success"
   },
   {
@@ -2111,7 +2111,7 @@
     "variable": "v235",
     "option_text": NaN,
     "response_scale": "1 - Igen, 2 - Nem, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
-    "model_response": "Final answer: @@2@@",
+    "model_response": "8 - Nem tudom",
     "status": "success"
   },
   {
@@ -2120,7 +2120,7 @@
     "variable": "v236",
     "option_text": NaN,
     "response_scale": "1 - Igen, 2 - Nem, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
-    "model_response": "Final answer: @@1@@",
+    "model_response": "Final answer: 8 - Nem tudom",
     "status": "success"
   },
   {
@@ -2129,7 +2129,7 @@
     "variable": "v237",
     "option_text": NaN,
     "response_scale": "1 - Igen, 2 - Nem, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
-    "model_response": "Final answer: @@2@@",
+    "model_response": "2",
     "status": "success"
   },
   {
@@ -2138,7 +2138,7 @@
     "variable": "v238",
     "option_text": NaN,
     "response_scale": "1 - Nem, 2 - az ap\u00e1ival/anyj\u00e1val, 3 - a partnere apj\u00e1val/anyj\u00e1val, 4 - mindk\u00e9t sz\u00fcl\u0151vel, 8 - Nem tudom, 9 - Nem v\u00e1laszolt",
-    "model_response": "Final answer: @@1@@",
+    "model_response": "3",
     "status": "success"
   },
   {
@@ -2147,7 +2147,7 @@
     "variable": "v239a",
     "option_text": NaN,
     "response_scale": NaN,
-    "model_response": "Final answer: @@nan@@",
+    "model_response": "Final answer: nan",
     "status": "success"
   },
   {
@@ -2156,7 +2156,7 @@
     "variable": "v239b",
     "option_text": NaN,
     "response_scale": NaN,
-    "model_response": "Final answer: @@nan@@",
+    "model_response": "Final answer: nan",
     "status": "success"
   },
   {
@@ -2165,7 +2165,7 @@
     "variable": "v240",
     "option_text": NaN,
     "response_scale": NaN,
-    "model_response": "Final answer: @@nan@@",
+    "model_response": "Final answer: nan",
     "status": "success"
   },
   {
@@ -2174,7 +2174,7 @@
     "variable": "v241",
     "option_text": NaN,
     "response_scale": NaN,
-    "model_response": "Final answer: @@nan@@",
+    "model_response": "Final answer: nan",
     "status": "success"
   },
   {
@@ -2183,7 +2183,7 @@
     "variable": "v242",
     "option_text": NaN,
     "response_scale": NaN,
-    "model_response": "Final answer: @@nan@@",
+    "model_response": "Final answer: nan",
     "status": "success"
   }
 ]

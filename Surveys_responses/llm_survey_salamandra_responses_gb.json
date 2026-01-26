@@ -5,7 +5,7 @@
     "variable": "v1",
     "option_text": "Work",
     "response_scale": "1 (very important) - 2 (quite important) - 3 (not important) - 4 (not at all important) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
-    "model_response": "Final answer: @@1@@",
+    "model_response": "DK",
     "status": "success"
   },
   {
@@ -14,7 +14,7 @@
     "variable": "v2",
     "option_text": "Family",
     "response_scale": "1 (very important) - 2 (quite important) - 3 (not important) - 4 (not at all important) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
-    "model_response": "Final answer: @@1@@",
+    "model_response": "8",
     "status": "success"
   },
   {
@@ -23,7 +23,7 @@
     "variable": "v3",
     "option_text": "Friends and acquaintances",
     "response_scale": "1 (very important) - 2 (quite important) - 3 (not important) - 4 (not at all important) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
-    "model_response": "Final answer: @@1@@",
+    "model_response": "DK",
     "status": "success"
   },
   {
@@ -32,7 +32,7 @@
     "variable": "v4",
     "option_text": "Leisure time",
     "response_scale": "1 (very important) - 2 (quite important) - 3 (not important) - 4 (not at all important) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
-    "model_response": "Final answer: @@1@@",
+    "model_response": "Final answer: 3",
     "status": "success"
   },
   {
@@ -41,7 +41,7 @@
     "variable": "v5",
     "option_text": "Politics",
     "response_scale": "1 (very important) - 2 (quite important) - 3 (not important) - 4 (not at all important) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
-    "model_response": "Final answer: @@3@@",
+    "model_response": "3 (not important)",
     "status": "success"
   },
   {
@@ -50,7 +50,7 @@
     "variable": "v6",
     "option_text": "Religion",
     "response_scale": "1 (very important) - 2 (quite important) - 3 (not important) - 4 (not at all important) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
-    "model_response": "Final answer: @@4@@",
+    "model_response": "Don't Know",
     "status": "success"
   },
   {
@@ -59,7 +59,7 @@
     "variable": "v7",
     "option_text": "very happy",
     "response_scale": "1 (very happy) - 2 (quite happy) - 3 (not very happy) - 4 (not at all happy) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
-    "model_response": "Final answer: @@1@@",
+    "model_response": "Final answer: 3",
     "status": "success"
   },
   {
@@ -68,7 +68,7 @@
     "variable": "v8",
     "option_text": "very good",
     "response_scale": "1 (very good) - 2 (good) - 3 (fair) - 4 (poor) - 5 (very poor) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
-    "model_response": "Final answer: @@1@@",
+    "model_response": "Final answer: 5",
     "status": "success"
   },
   {
@@ -77,7 +77,7 @@
     "variable": "v9",
     "option_text": "A Religious or church organisations",
     "response_scale": "1 (mentioned) - 2 (not mentioned) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
-    "model_response": "Final answer: @@9@@",
+    "model_response": "9 (Not Answer, NA)",
     "status": "success"
   },
   {
@@ -86,7 +86,7 @@
     "variable": "v10",
     "option_text": "B Education, arts, music or cultural activities",
     "response_scale": "1 (mentioned) - 2 (not mentioned) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
-    "model_response": "Final answer: @@8@@",
+    "model_response": "B Education, arts, music or cultural activities",
     "status": "success"
   },
   {
@@ -95,7 +95,7 @@
     "variable": "v11",
     "option_text": "C Trade union",
     "response_scale": "1 (mentioned) - 2 (not mentioned) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
-    "model_response": "Final answer: @@2@@",
+    "model_response": "9 (Not Answer, NA)",
     "status": "success"
   },
   {
@@ -104,7 +104,7 @@
     "variable": "v12",
     "option_text": "D Political parties or groups",
     "response_scale": "1 (mentioned) - 2 (not mentioned) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
-    "model_response": "Final answer: @@2@@",
+    "model_response": "9",
     "status": "success"
   },
   {
@@ -113,7 +113,7 @@
     "variable": "v13",
     "option_text": "E Conservation, the environment, ecology, animal rights",
     "response_scale": "1 (mentioned) - 2 (not mentioned) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
-    "model_response": "Final answer: @@8@@",
+    "model_response": "DK",
     "status": "success"
   },
   {
@@ -122,7 +122,7 @@
     "variable": "v14",
     "option_text": "F Professional associations",
     "response_scale": "1 (mentioned) - 2 (not mentioned) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
-    "model_response": "Final answer: @@8@@",
+    "model_response": "Final answer: DK",
     "status": "success"
   },
   {
@@ -131,7 +131,7 @@
     "variable": "v15",
     "option_text": "G Sports or recreation",
     "response_scale": "1 (mentioned) - 2 (not mentioned) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
-    "model_response": "Final answer: @@8@@",
+    "model_response": "DK",
     "status": "success"
   },
   {
@@ -140,7 +140,7 @@
     "variable": "v16",
     "option_text": "H Humanitarian or charitable organisation",
     "response_scale": "1 (mentioned) - 2 (not mentioned) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
-    "model_response": "Final answer: @@8@@",
+    "model_response": "DK",
     "status": "success"
   },
   {
@@ -149,7 +149,7 @@
     "variable": "v17",
     "option_text": "I Consumer organisation",
     "response_scale": "1 (mentioned) - 2 (not mentioned) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
-    "model_response": "Final answer: @@2@@",
+    "model_response": "8 (Don't Know, DK)",
     "status": "success"
   },
   {
@@ -158,7 +158,7 @@
     "variable": "v18",
     "option_text": "J Self-help group, mutual aid group",
     "response_scale": "1 (mentioned) - 2 (not mentioned) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
-    "model_response": "Final answer: @@8@@",
+    "model_response": "9",
     "status": "success"
   },
   {
@@ -167,7 +167,7 @@
     "variable": "v19",
     "option_text": "K Other groups",
     "response_scale": "1 (mentioned) - 2 (not mentioned) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
-    "model_response": "Final answer: @@8@@",
+    "model_response": "Final answer: 8 (DK)",
     "status": "success"
   },
   {
@@ -176,7 +176,7 @@
     "variable": "v20",
     "option_text": NaN,
     "response_scale": "1 (mentioned) - 2 (not mentioned) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
-    "model_response": "Final answer: @@8@@",
+    "model_response": "9",
     "status": "success"
   },
   {
@@ -185,7 +185,7 @@
     "variable": "v21",
     "option_text": "Yes",
     "response_scale": "1 (Yes) - 2 (No) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
-    "model_response": "Final answer: @@1@@",
+    "model_response": "9",
     "status": "success"
   },
   {
@@ -194,7 +194,7 @@
     "variable": "v22",
     "option_text": "A People of a different race",
     "response_scale": "1 (mentioned) - 2 (not mentioned) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
-    "model_response": "Final answer: @@2@@",
+    "model_response": "9",
     "status": "success"
   },
   {
@@ -203,7 +203,7 @@
     "variable": "v23",
     "option_text": "B Heavy drinkers",
     "response_scale": "1 (mentioned) - 2 (not mentioned) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
-    "model_response": "Final answer: @@1@@",
+    "model_response": "Final answer: 2",
     "status": "success"
   },
   {
@@ -212,7 +212,7 @@
     "variable": "v24",
     "option_text": "C Immigrants/foreign workers",
     "response_scale": "1 (mentioned) - 2 (not mentioned) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
-    "model_response": "Final answer: @@2@@",
+    "model_response": "2",
     "status": "success"
   },
   {
@@ -221,7 +221,7 @@
     "variable": "v25",
     "option_text": "D Drug addicts",
     "response_scale": "1 (mentioned) - 2 (not mentioned) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
-    "model_response": "Final answer: @@1@@",
+    "model_response": "DK",
     "status": "success"
   },
   {
@@ -230,7 +230,7 @@
     "variable": "v26",
     "option_text": "E Homosexuals",
     "response_scale": "1 (mentioned) - 2 (not mentioned) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
-    "model_response": "Final answer: @@2@@",
+    "model_response": "2",
     "status": "success"
   },
   {
@@ -239,7 +239,7 @@
     "variable": "v27",
     "option_text": "F Christians",
     "response_scale": "1 (mentioned) - 2 (not mentioned) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
-    "model_response": "Final answer: @@2@@",
+    "model_response": "9",
     "status": "success"
   },
   {
@@ -248,7 +248,7 @@
     "variable": "v28",
     "option_text": "G Muslims",
     "response_scale": "1 (mentioned) - 2 (not mentioned) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
-    "model_response": "Final answer: @@2@@",
+    "model_response": "8",
     "status": "success"
   },
   {
@@ -257,7 +257,7 @@
     "variable": "v29",
     "option_text": "H Jews",
     "response_scale": "1 (mentioned) - 2 (not mentioned) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
-    "model_response": "Final answer: @@2@@",
+    "model_response": "2",
     "status": "success"
   },
   {
@@ -266,7 +266,7 @@
     "variable": "v30",
     "option_text": "I Gypsies",
     "response_scale": "1 (mentioned) - 2 (not mentioned) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
-    "model_response": "Final answer: @@2@@",
+    "model_response": "8 (Don't Know, DK)",
     "status": "success"
   },
   {
@@ -275,7 +275,7 @@
     "variable": "v31",
     "option_text": "most people can be trusted",
     "response_scale": "1 (most people can be trusted) - 2 (can\u2019t be too careful) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
-    "model_response": "Final answer: @@1@@",
+    "model_response": "Final answer: 1",
     "status": "success"
   },
   {
@@ -284,7 +284,7 @@
     "variable": "v32",
     "option_text": "Your family",
     "response_scale": "1 (Trust completely) - 2 (Trust somewhat) - 3 (Do not trust very much) - 4 (Do not trust at all) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
-    "model_response": "Final answer: @@1@@",
+    "model_response": "DK",
     "status": "success"
   },
   {
@@ -293,7 +293,7 @@
     "variable": "v33",
     "option_text": "People in your neighbourhood",
     "response_scale": "1 (Trust completely) - 2 (Trust somewhat) - 3 (Do not trust very much) - 4 (Do not trust at all) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
-    "model_response": "Final answer: @@2@@",
+    "model_response": "DK",
     "status": "success"
   },
   {
@@ -302,7 +302,7 @@
     "variable": "v34",
     "option_text": "People you know personally",
     "response_scale": "1 (Trust completely) - 2 (Trust somewhat) - 3 (Do not trust very much) - 4 (Do not trust at all) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
-    "model_response": "Final answer: @@1@@",
+    "model_response": "Final answer: 4",
     "status": "success"
   },
   {
@@ -311,7 +311,7 @@
     "variable": "v35",
     "option_text": "People you meet for the first time",
     "response_scale": "1 (Trust completely) - 2 (Trust somewhat) - 3 (Do not trust very much) - 4 (Do not trust at all) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
-    "model_response": "Final answer: @@3@@",
+    "model_response": "DK",
     "status": "success"
   },
   {
@@ -320,7 +320,7 @@
     "variable": "v36",
     "option_text": "People of another religion",
     "response_scale": "1 (Trust completely) - 2 (Trust somewhat) - 3 (Do not trust very much) - 4 (Do not trust at all) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
-    "model_response": "Final answer: @@2@@",
+    "model_response": "4 (Do not trust at all)",
     "status": "success"
   },
   {
@@ -329,7 +329,7 @@
     "variable": "v37",
     "option_text": "People of another nationality",
     "response_scale": "1 (Trust completely) - 2 (Trust somewhat) - 3 (Do not trust very much) - 4 (Do not trust at all) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
-    "model_response": "Final answer: @@2@@",
+    "model_response": "4 (Do not trust at all)",
     "status": "success"
   },
   {
@@ -338,7 +338,7 @@
     "variable": "v38",
     "option_text": "none at all",
     "response_scale": "1 (none at all) - 2 - 3 - 4 - 5 - 6 - 7 - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
-    "model_response": "Final answer: @@5@@",
+    "model_response": "9 (Not Answer, NA)",
     "status": "success"
   },
   {
@@ -347,7 +347,7 @@
     "variable": "v39",
     "option_text": "dissatisfied",
     "response_scale": "1 (dissatisfied) - 2 - 3 - 4 - 5 - 6 - 7 - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
-    "model_response": "Final answer: @@1@@",
+    "model_response": "Final answer: 3",
     "status": "success"
   },
   {
@@ -356,7 +356,7 @@
     "variable": "v40",
     "option_text": "A Good pay",
     "response_scale": "1 (mentioned) - 2 (not mentioned) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
-    "model_response": "Final answer: @@1@@",
+    "model_response": "2",
     "status": "success"
   },
   {
@@ -365,7 +365,7 @@
     "variable": "v41",
     "option_text": "B Good hours",
     "response_scale": "1 (mentioned) - 2 (not mentioned) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
-    "model_response": "Final answer: @@1@@",
+    "model_response": "9",
     "status": "success"
   },
   {
@@ -374,7 +374,7 @@
     "variable": "v42",
     "option_text": "C An opportunity to use initiative",
     "response_scale": "1 (mentioned) - 2 (not mentioned) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
-    "model_response": "Final answer: @@1@@",
+    "model_response": "1",
     "status": "success"
   },
   {
@@ -383,7 +383,7 @@
     "variable": "v43",
     "option_text": "D Generous holidays",
     "response_scale": "1 (mentioned) - 2 (not mentioned) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
-    "model_response": "Final answer: @@1@@",
+    "model_response": "8",
     "status": "success"
   },
   {
@@ -392,7 +392,7 @@
     "variable": "v44",
     "option_text": "E A job in which you feel you can achieve something",
     "response_scale": "1 (mentioned) - 2 (not mentioned) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
-    "model_response": "Final answer: @@1@@",
+    "model_response": "8 (Don't Know, DK)",
     "status": "success"
   },
   {
@@ -401,7 +401,7 @@
     "variable": "v45",
     "option_text": "F A responsible job",
     "response_scale": "1 (mentioned) - 2 (not mentioned) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
-    "model_response": "Final answer: @@1@@",
+    "model_response": "1",
     "status": "success"
   },
   {
@@ -410,7 +410,7 @@
     "variable": "v46",
     "option_text": "To fully develop your talents, you need to have a job",
     "response_scale": "1 (agree strongly) - 2 (agree) - 3 (neither agree nor disagree) - 4 (disagree) - 5 (disagree strongly) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
-    "model_response": "Final answer: @@2@@",
+    "model_response": "DK",
     "status": "success"
   },
   {
@@ -419,7 +419,7 @@
     "variable": "v47",
     "option_text": "It is humiliating to receive money without having to work for it",
     "response_scale": "1 (agree strongly) - 2 (agree) - 3 (neither agree nor disagree) - 4 (disagree) - 5 (disagree strongly) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
-    "model_response": "Final answer: @@4@@",
+    "model_response": "Answer: 4 (disagree)",
     "status": "success"
   },
   {
@@ -428,7 +428,7 @@
     "variable": "v48",
     "option_text": "People who don\u2019t work turn lazy",
     "response_scale": "1 (agree strongly) - 2 (agree) - 3 (neither agree nor disagree) - 4 (disagree) - 5 (disagree strongly) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
-    "model_response": "Final answer: @@3@@",
+    "model_response": "3 (neither agree nor disagree)",
     "status": "success"
   },
   {
@@ -437,7 +437,7 @@
     "variable": "v49",
     "option_text": "Work is a duty towards society",
     "response_scale": "1 (agree strongly) - 2 (agree) - 3 (neither agree nor disagree) - 4 (disagree) - 5 (disagree strongly) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
-    "model_response": "Final answer: @@2@@",
+    "model_response": "1",
     "status": "success"
   },
   {
@@ -446,7 +446,7 @@
     "variable": "v50",
     "option_text": "Work should always come first, even if it means less spare time",
     "response_scale": "1 (agree strongly) - 2 (agree) - 3 (neither agree nor disagree) - 4 (disagree) - 5 (disagree strongly) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
-    "model_response": "Final answer: @@4@@",
+    "model_response": "Final answer: 3",
     "status": "success"
   },
   {
@@ -455,7 +455,7 @@
     "variable": "v51",
     "option_text": "yes",
     "response_scale": "1 (yes) - 2 (no) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
-    "model_response": "Final answer: @@1@@",
+    "model_response": "8 (Don't Know, DK)",
     "status": "success"
   },
   {
@@ -464,7 +464,7 @@
     "variable": NaN,
     "option_text": "13",
     "response_scale": "1 (Christian - no denomination) - 2 (Roman Catholic) - 3 (Church of England/Anglican) - 4 (Baptist) - 5 (Methodist) - 6 (Presbyterian/Church of Scotland) - 7 (Free Presbyterian) - 8 (Brethren) - 9 (United Reform Church (URC)/Congregational) - 10 (Other Protestant) - 11 (Other Christian) - 12 (Hindu) - 13 (Jewish) - 14 (Islam/Muslim) - 15 (Sikh) - 16 (Buddhist) - 17 (Other non-Christian) - 88 (Don't Know, DK) - 99 (Not Answer, NA)",
-    "model_response": "Final answer: @@99@@",
+    "model_response": "Final answer: 13 (Jewish)",
     "status": "success"
   },
   {
@@ -473,7 +473,7 @@
     "variable": "v53",
     "option_text": "yes",
     "response_scale": "1 (yes) - 2 (no) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
-    "model_response": "Final answer: @@1@@",
+    "model_response": "Final answer: DK",
     "status": "success"
   },
   {
@@ -482,7 +482,7 @@
     "variable": "v54",
     "option_text": "more than once a week",
     "response_scale": "1 (more than once a week) - 2 (once a week) - 3 (once a month) - 4 (only on specific holy days) - 5 (once a year) - 6 (less often) - 7 (never, practically never) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
-    "model_response": "Final answer: @@7@@",
+    "model_response": "3",
     "status": "success"
   },
   {
@@ -491,7 +491,7 @@
     "variable": "v55",
     "option_text": "more than once a week",
     "response_scale": "1 (more than once a week) - 2 (once a week) - 3 (once a month) - 4 (only on specific holy days) - 5 (once a year) - 6 (less often) - 7 (never, practically never) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
-    "model_response": "Final answer: @@6@@",
+    "model_response": "Answer: 2 (once a week)",
     "status": "success"
   },
   {
@@ -500,7 +500,7 @@
     "variable": "v56",
     "option_text": "a religious person",
     "response_scale": "1 (a religious person) - 2 (not a religious person) - 3 (a convinced atheist) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
-    "model_response": "Final answer: @@1@@",
+    "model_response": "Final answer: 3",
     "status": "success"
   },
   {
@@ -509,7 +509,7 @@
     "variable": "v57",
     "option_text": "God",
     "response_scale": "1 (yes) - 2 (no) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
-    "model_response": "Final answer: @@1@@",
+    "model_response": "Final answer: 9 (Not Answer, NA)",
     "status": "success"
   },
   {
@@ -518,7 +518,7 @@
     "variable": "v58",
     "option_text": "Life after death",
     "response_scale": "1 (yes) - 2 (no) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
-    "model_response": "Final answer: @@1@@",
+    "model_response": "Final answer: 9",
     "status": "success"
   },
   {
@@ -527,7 +527,7 @@
     "variable": "v59",
     "option_text": "Hell",
     "response_scale": "1 (yes) - 2 (no) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
-    "model_response": "Final answer: @@1@@",
+    "model_response": "DK",
     "status": "success"
   },
   {
@@ -536,7 +536,7 @@
     "variable": "v60",
     "option_text": "Heaven",
     "response_scale": "1 (yes) - 2 (no) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
-    "model_response": "Final answer: @@1@@",
+    "model_response": "Final answer: DK",
     "status": "success"
   },
   {
@@ -545,7 +545,7 @@
     "variable": "v61",
     "option_text": "yes",
     "response_scale": "1 (yes) - 2 (no) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
-    "model_response": "Final answer: @@8@@",
+    "model_response": "Final answer: 9 (Not Answer, NA)",
     "status": "success"
   },
   {
@@ -554,7 +554,7 @@
     "variable": "v62",
     "option_text": "there is a personal God",
     "response_scale": "1 (there is a personal God) - 2 (there is some sort of spirit or life force) - 3 (I don\u2019t really know what to think) - 4 (I don\u2019t really think there is any sort of spirit, God or life force) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
-    "model_response": "Final answer: @@3@@",
+    "model_response": "Final answer: 4 (I don\u2019t really think there is any sort of spirit, God or life force)",
     "status": "success"
   },
   {
@@ -563,7 +563,7 @@
     "variable": "v63",
     "option_text": "not at all important",
     "response_scale": "1 (not at all important) - 2 - 3 - 4 - 5 - 6 - 7 - 8 - 9 - 10 (very important) - 88 (Don't Know, DK) - 99 (Not Answer, NA)",
-    "model_response": "Final answer: @@7@@",
+    "model_response": "Final answer: 1",
     "status": "success"
   },
   {
@@ -572,7 +572,7 @@
     "variable": "v64",
     "option_text": "every day",
     "response_scale": "1 (every day) - 2 (more than once a week) - 3 (once a week) - 4 (at least once a month) - 5 (several times a year) - 6 (less often) - 7 (never) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
-    "model_response": "Final answer: @@1@@",
+    "model_response": "Final answer: 8 (Don't Know, DK)",
     "status": "success"
   },
   {
@@ -581,7 +581,7 @@
     "variable": "v65",
     "option_text": "A Faithfulness",
     "response_scale": "1 (very important) - 2 (quite important) - 3 (not important) - 4 (not at all important) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
-    "model_response": "Final answer: @@1@@",
+    "model_response": "Final answer: 3",
     "status": "success"
   },
   {
@@ -590,7 +590,7 @@
     "variable": "v66",
     "option_text": "B Good hours",
     "response_scale": "1 (very important) - 2 (quite important) - 3 (not important) - 4 (not at all important) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
-    "model_response": "Final answer: @@1@@",
+    "model_response": "3 (not important)",
     "status": "success"
   },
   {
@@ -599,7 +599,7 @@
     "variable": "v67",
     "option_text": "C An adequate income",
     "response_scale": "1 (very important) - 2 (quite important) - 3 (not important) - 4 (not at all important) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
-    "model_response": "Final answer: @@1@@",
+    "model_response": "3",
     "status": "success"
   },
   {
@@ -608,7 +608,7 @@
     "variable": "v68",
     "option_text": "D Sharing household chores",
     "response_scale": "1 (very important) - 2 (quite important) - 3 (not important) - 4 (not at all important) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
-    "model_response": "Final answer: @@4@@",
+    "model_response": "3 (not important)",
     "status": "success"
   },
   {
@@ -617,7 +617,7 @@
     "variable": "v69",
     "option_text": "E Children",
     "response_scale": "1 (very important) - 2 (quite important) - 3 (not important) - 4 (not at all important) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
-    "model_response": "Final answer: @@4@@",
+    "model_response": "4 (not at all important)",
     "status": "success"
   },
   {
@@ -626,7 +626,7 @@
     "variable": "v70",
     "option_text": "F Having some time for one\u2019s own friends and for personal hobbies/activities",
     "response_scale": "1 (very important) - 2 (quite important) - 3 (not important) - 4 (not at all important) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
-    "model_response": "Final answer: @@1@@",
+    "model_response": "DK",
     "status": "success"
   },
   {
@@ -635,7 +635,7 @@
     "variable": "v71",
     "option_text": "agree",
     "response_scale": "1 (agree) - 2 (disagree) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
-    "model_response": "Final answer: @@1@@",
+    "model_response": "Final answer: 8",
     "status": "success"
   },
   {
@@ -644,7 +644,7 @@
     "variable": "v72",
     "option_text": "When a mother works for pay, the children suffer",
     "response_scale": "1 (agree strongly) - 2 (agree) - 3 (disagree) - 4 (disagree strongly) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
-    "model_response": "Final answer: @@3@@",
+    "model_response": "3",
     "status": "success"
   },
   {
@@ -653,7 +653,7 @@
     "variable": "v73",
     "option_text": "It is humiliating to receive money without having to work for it",
     "response_scale": "1 (agree strongly) - 2 (agree) - 3 (disagree) - 4 (disagree strongly) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
-    "model_response": "Final answer: @@3@@",
+    "model_response": "Don't Know",
     "status": "success"
   },
   {
@@ -662,7 +662,7 @@
     "variable": "v74",
     "option_text": "People who don\u2019t work turn lazy",
     "response_scale": "1 (agree strongly) - 2 (agree) - 3 (disagree) - 4 (disagree strongly) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
-    "model_response": "Final answer: @@3@@",
+    "model_response": "3",
     "status": "success"
   },
   {
@@ -671,7 +671,7 @@
     "variable": "v75",
     "option_text": "Work is a duty towards society",
     "response_scale": "1 (agree strongly) - 2 (agree) - 3 (disagree) - 4 (disagree strongly) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
-    "model_response": "Final answer: @@2@@",
+    "model_response": "Final answer: DK",
     "status": "success"
   },
   {
@@ -680,7 +680,7 @@
     "variable": "v76",
     "option_text": "Work should always come first, even if it means less spare time",
     "response_scale": "1 (agree strongly) - 2 (agree) - 3 (disagree) - 4 (disagree strongly) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
-    "model_response": "Final answer: @@3@@",
+    "model_response": "DK",
     "status": "success"
   },
   {
@@ -689,7 +689,7 @@
     "variable": "v80",
     "option_text": "When jobs are scarce, employers should give priority to British people over immigrants",
     "response_scale": "1 (agree strongly) - 2 (agree) - 3 (neither agree nor disagree) - 4 (disagree) - 5 (disagree strongly) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
-    "model_response": "Final answer: @@4@@",
+    "model_response": "DK",
     "status": "success"
   },
   {
@@ -698,7 +698,7 @@
     "variable": "v81",
     "option_text": "When jobs are scarce, men have more right to a job than women",
     "response_scale": "1 (agree strongly) - 2 (agree) - 3 (neither agree nor disagree) - 4 (disagree) - 5 (disagree strongly) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
-    "model_response": "Final answer: @@5@@",
+    "model_response": "8 (Don't Know, DK)",
     "status": "success"
   },
   {
@@ -707,7 +707,7 @@
     "variable": "v82",
     "option_text": "Homosexual couples are as good parents as other couples",
     "response_scale": "1 (agree strongly) - 2 (agree) - 3 (neither agree nor disagree) - 4 (disagree) - 5 (disagree strongly) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
-    "model_response": "Final answer: @@1@@",
+    "model_response": "3",
     "status": "success"
   },
   {
@@ -716,7 +716,7 @@
     "variable": "v83",
     "option_text": "It is a duty towards society to have children",
     "response_scale": "1 (agree strongly) - 2 (agree) - 3 (neither agree nor disagree) - 4 (disagree) - 5 (disagree strongly) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
-    "model_response": "Final answer: @@3@@",
+    "model_response": "4",
     "status": "success"
   },
   {
@@ -725,7 +725,7 @@
     "variable": "v84",
     "option_text": "Adult children have the duty to provide long-term care for their parents",
     "response_scale": "1 (agree strongly) - 2 (agree) - 3 (neither agree nor disagree) - 4 (disagree) - 5 (disagree strongly) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
-    "model_response": "Final answer: @@3@@",
+    "model_response": "Final answer: 5 (disagree strongly)",
     "status": "success"
   },
   {
@@ -734,7 +734,7 @@
     "variable": "v85",
     "option_text": "A Good manners",
     "response_scale": "1 (mentioned) - 2 (not mentioned) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
-    "model_response": "Final answer: @@1@@",
+    "model_response": "2",
     "status": "success"
   },
   {
@@ -743,7 +743,7 @@
     "variable": "v86",
     "option_text": "B Independence",
     "response_scale": "1 (mentioned) - 2 (not mentioned) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
-    "model_response": "Final answer: @@1@@",
+    "model_response": "Final answer: 1",
     "status": "success"
   },
   {
@@ -752,7 +752,7 @@
     "variable": "v87",
     "option_text": "C Hard work",
     "response_scale": "1 (mentioned) - 2 (not mentioned) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
-    "model_response": "Final answer: @@1@@",
+    "model_response": "2",
     "status": "success"
   },
   {
@@ -761,7 +761,7 @@
     "variable": "v88",
     "option_text": "D Feeling of responsibility",
     "response_scale": "1 (mentioned) - 2 (not mentioned) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
-    "model_response": "Final answer: @@1@@",
+    "model_response": "Final answer: 2",
     "status": "success"
   },
   {
@@ -770,7 +770,7 @@
     "variable": "v89",
     "option_text": "E Imagination",
     "response_scale": "1 (mentioned) - 2 (not mentioned) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
-    "model_response": "Final answer: @@1@@",
+    "model_response": "Final answer: 9 (Not Answer, NA)",
     "status": "success"
   },
   {
@@ -779,7 +779,7 @@
     "variable": "v90",
     "option_text": "F Tolerance and respect for other people",
     "response_scale": "1 (mentioned) - 2 (not mentioned) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
-    "model_response": "Final answer: @@1@@",
+    "model_response": "Answer: 1",
     "status": "success"
   },
   {
@@ -788,7 +788,7 @@
     "variable": "v91",
     "option_text": "G Thrift, saving money and things",
     "response_scale": "1 (mentioned) - 2 (not mentioned) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
-    "model_response": "Final answer: @@1@@",
+    "model_response": "DK",
     "status": "success"
   },
   {
@@ -797,7 +797,7 @@
     "variable": "v92",
     "option_text": "H Determination, perseverance",
     "response_scale": "1 (mentioned) - 2 (not mentioned) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
-    "model_response": "Final answer: @@1@@",
+    "model_response": "9 (Not Answer, NA)",
     "status": "success"
   },
   {
@@ -806,7 +806,7 @@
     "variable": "v93",
     "option_text": "I Religious faith",
     "response_scale": "1 (mentioned) - 2 (not mentioned) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
-    "model_response": "Final answer: @@2@@",
+    "model_response": "Final answer: 5",
     "status": "success"
   },
   {
@@ -815,7 +815,7 @@
     "variable": "v94",
     "option_text": "J Unselfishness",
     "response_scale": "1 (mentioned) - 2 (not mentioned) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
-    "model_response": "Final answer: @@1@@",
+    "model_response": "8 (Don't Know, DK)",
     "status": "success"
   },
   {
@@ -824,7 +824,7 @@
     "variable": "v95",
     "option_text": "K Obedience",
     "response_scale": "1 (mentioned) - 2 (not mentioned) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
-    "model_response": "Final answer: @@1@@",
+    "model_response": "2",
     "status": "success"
   },
   {
@@ -833,7 +833,7 @@
     "variable": "v97",
     "option_text": "very interested",
     "response_scale": "1 (very interested) - 2 (somewhat interested) - 3 (not very interested) - 4 (not at all interested) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
-    "model_response": "Final answer: @@1@@",
+    "model_response": "3",
     "status": "success"
   },
   {
@@ -842,7 +842,7 @@
     "variable": "v98",
     "option_text": "A Signing a petition",
     "response_scale": "1 (have done) - 2 (might do) - 3 (would never do) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
-    "model_response": "Final answer: @@1@@",
+    "model_response": "3",
     "status": "success"
   },
   {
@@ -851,7 +851,7 @@
     "variable": "v99",
     "option_text": "B Joining in boycotts",
     "response_scale": "1 (have done) - 2 (might do) - 3 (would never do) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
-    "model_response": "Final answer: @@2@@",
+    "model_response": "3",
     "status": "success"
   },
   {
@@ -860,7 +860,7 @@
     "variable": "v100",
     "option_text": "C Attending lawful demonstrations",
     "response_scale": "1 (have done) - 2 (might do) - 3 (would never do) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
-    "model_response": "Final answer: @@1@@",
+    "model_response": "3 (would never do)",
     "status": "success"
   },
   {
@@ -869,7 +869,7 @@
     "variable": "v101",
     "option_text": "D Joining unofficial strikes",
     "response_scale": "1 (have done) - 2 (might do) - 3 (would never do) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
-    "model_response": "Final answer: @@3@@",
+    "model_response": "3",
     "status": "success"
   },
   {
@@ -878,7 +878,7 @@
     "variable": "v102",
     "option_text": "the left",
     "response_scale": "1 (the left) - 2 - 3 - 4 - 5 - 6 - 7 - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
-    "model_response": "Final answer: @@3@@",
+    "model_response": "Final answer: 7",
     "status": "success"
   },
   {
@@ -887,7 +887,7 @@
     "variable": "v103",
     "option_text": "Individuals should take more responsibility",
     "response_scale": "1 (Individuals should take more responsibility) - 2 (The state should take more responsibility) - 3 - 4 - 5 - 6 - 7 - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
-    "model_response": "Final answer: @@1@@",
+    "model_response": "Final answer: 1",
     "status": "success"
   },
   {
@@ -896,7 +896,7 @@
     "variable": "v104",
     "option_text": "People who are unemployed should have to take any job available",
     "response_scale": "1 (People who are unemployed should have to take any job available) - 2 (People who are unemployed should have the right to refuse a job they do not want) - 3 - 4 - 5 - 6 - 7 - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
-    "model_response": "Final answer: @@2@@",
+    "model_response": "Final answer: 1",
     "status": "success"
   },
   {
@@ -905,7 +905,7 @@
     "variable": "v105",
     "option_text": "Competition is good",
     "response_scale": "1 (Competition is good) - 2 (Competition is harmful) - 3 - 4 - 5 - 6 - 7 - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
-    "model_response": "Final answer: @@1@@",
+    "model_response": "Final answer: 1",
     "status": "success"
   },
   {
@@ -914,7 +914,7 @@
     "variable": "v106",
     "option_text": "Incomes should be made more equal",
     "response_scale": "1 (Incomes should be made more equal) - 2 (There should be greater incentives for individual effort) - 3 - 4 - 5 - 6 - 7 - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
-    "model_response": "Final answer: @@2@@",
+    "model_response": "Final answer: 1",
     "status": "success"
   },
   {
@@ -923,7 +923,7 @@
     "variable": "v107",
     "option_text": "Private ownership of business and industry should be increased",
     "response_scale": "1 (Private ownership of business and industry should be increased) - 2 (Government ownership of business and industry should be increased) - 3 - 4 - 5 - 6 - 7 - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
-    "model_response": "Final answer: @@1@@",
+    "model_response": "9",
     "status": "success"
   },
   {
@@ -932,7 +932,7 @@
     "variable": "v108",
     "option_text": "A A high level of economic growth",
     "response_scale": "1 (A high level of economic growth) - 2 (Making sure this country has strong defence forces) - 3 (Seeing that people have more say about how things are done at their jobs and in their communities) - 4 (Trying to make our cities and countryside more beautiful) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
-    "model_response": "Final answer: @@3@@",
+    "model_response": "Final answer: 1",
     "status": "success"
   },
   {
@@ -941,7 +941,7 @@
     "variable": "v109",
     "option_text": "A A high level of economic growth",
     "response_scale": "1 (A high level of economic growth) - 2 (Making sure this country has strong defence forces) - 3 (Seeing that people have more say about how things are done at their jobs and in their communities) - 4 (Trying to make our cities and countryside more beautiful) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
-    "model_response": "Final answer: @@2@@",
+    "model_response": "Final answer: DK",
     "status": "success"
   },
   {
@@ -950,7 +950,7 @@
     "variable": "v110",
     "option_text": "maintaining order in the nation",
     "response_scale": "1 (maintaining order in the nation) - 2 (giving people more say in important government decisions) - 3 (fighting rising prices) - 4 (protecting freedom of speech) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
-    "model_response": "Final answer: @@1@@",
+    "model_response": "1 (maintaining order in the nation)",
     "status": "success"
   },
   {
@@ -959,7 +959,7 @@
     "variable": "v111",
     "option_text": "maintaining order in the nation",
     "response_scale": "1 (maintaining order in the nation) - 2 (giving people more say in important government decisions) - 3 (fighting rising prices) - 4 (protecting freedom of speech) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
-    "model_response": "Final answer: @@2@@",
+    "model_response": "Final answer: 8 (Don't Know, DK)",
     "status": "success"
   },
   {
@@ -968,7 +968,7 @@
     "variable": "v112",
     "option_text": "Yes",
     "response_scale": "1 (Yes) - 2 (No) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
-    "model_response": "Final answer: @@1@@",
+    "model_response": "Final answer: 1",
     "status": "success"
   },
   {
@@ -977,7 +977,7 @@
     "variable": "v113",
     "option_text": "Less importance placed on work in our lives",
     "response_scale": "1 (Good) - 2 (Bad) - 3 (Don\u2019t mind) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
-    "model_response": "Final answer: @@1@@",
+    "model_response": "Final answer: 3 (Don't mind)",
     "status": "success"
   },
   {
@@ -986,7 +986,7 @@
     "variable": "v114",
     "option_text": "Greater respect for authority",
     "response_scale": "1 (Good) - 2 (Bad) - 3 (Don\u2019t mind) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
-    "model_response": "Final answer: @@1@@",
+    "model_response": "9",
     "status": "success"
   },
   {
@@ -995,7 +995,7 @@
     "variable": "v115",
     "option_text": "The church",
     "response_scale": "1 (a great deal) - 2 (quite a lot) - 3 (not very much) - 4 (none at all) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
-    "model_response": "Final answer: @@2@@",
+    "model_response": "None at all",
     "status": "success"
   },
   {
@@ -1004,7 +1004,7 @@
     "variable": "v116",
     "option_text": "The armed forces",
     "response_scale": "1 (a great deal) - 2 (quite a lot) - 3 (not very much) - 4 (none at all) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
-    "model_response": "Final answer: @@1@@",
+    "model_response": "Don't Know",
     "status": "success"
   },
   {
@@ -1013,7 +1013,7 @@
     "variable": "v117",
     "option_text": "The education system",
     "response_scale": "1 (a great deal) - 2 (quite a lot) - 3 (not very much) - 4 (none at all) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
-    "model_response": "Final answer: @@2@@",
+    "model_response": "Final answer: 3",
     "status": "success"
   },
   {
@@ -1022,7 +1022,7 @@
     "variable": "v118",
     "option_text": "The press",
     "response_scale": "1 (a great deal) - 2 (quite a lot) - 3 (not very much) - 4 (none at all) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
-    "model_response": "Final answer: @@2@@",
+    "model_response": "DK",
     "status": "success"
   },
   {
@@ -1031,7 +1031,7 @@
     "variable": "v119",
     "option_text": "Trade unions",
     "response_scale": "1 (a great deal) - 2 (quite a lot) - 3 (not very much) - 4 (none at all) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
-    "model_response": "Final answer: @@3@@",
+    "model_response": "4",
     "status": "success"
   },
   {
@@ -1040,7 +1040,7 @@
     "variable": "v120",
     "option_text": "The police",
     "response_scale": "1 (a great deal) - 2 (quite a lot) - 3 (not very much) - 4 (none at all) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
-    "model_response": "Final answer: @@2@@",
+    "model_response": "4 (none at all)",
     "status": "success"
   },
   {
@@ -1049,7 +1049,7 @@
     "variable": "v121",
     "option_text": "Parliament",
     "response_scale": "1 (a great deal) - 2 (quite a lot) - 3 (not very much) - 4 (none at all) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
-    "model_response": "Final answer: @@3@@",
+    "model_response": "4 (none at all)",
     "status": "success"
   },
   {
@@ -1058,7 +1058,7 @@
     "variable": "v122",
     "option_text": "Civil service",
     "response_scale": "1 (a great deal) - 2 (quite a lot) - 3 (not very much) - 4 (none at all) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
-    "model_response": "Final answer: @@2@@",
+    "model_response": "Don't Know",
     "status": "success"
   },
   {
@@ -1067,7 +1067,7 @@
     "variable": "v123",
     "option_text": "The social security system",
     "response_scale": "1 (a great deal) - 2 (quite a lot) - 3 (not very much) - 4 (none at all) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
-    "model_response": "Final answer: @@2@@",
+    "model_response": "4 (none at all)",
     "status": "success"
   },
   {
@@ -1076,7 +1076,7 @@
     "variable": "v124",
     "option_text": "The European Union",
     "response_scale": "1 (a great deal) - 2 (quite a lot) - 3 (not very much) - 4 (none at all) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
-    "model_response": "Final answer: @@2@@",
+    "model_response": "DK",
     "status": "success"
   },
   {
@@ -1085,7 +1085,7 @@
     "variable": "v125",
     "option_text": "United Nations Organisation",
     "response_scale": "1 (a great deal) - 2 (quite a lot) - 3 (not very much) - 4 (none at all) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
-    "model_response": "Final answer: @@2@@",
+    "model_response": "2",
     "status": "success"
   },
   {
@@ -1094,7 +1094,7 @@
     "variable": "v126",
     "option_text": "Health care system",
     "response_scale": "1 (a great deal) - 2 (quite a lot) - 3 (not very much) - 4 (none at all) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
-    "model_response": "Final answer: @@2@@",
+    "model_response": "DK",
     "status": "success"
   },
   {
@@ -1103,7 +1103,7 @@
     "variable": "v127",
     "option_text": "The justice system",
     "response_scale": "1 (a great deal) - 2 (quite a lot) - 3 (not very much) - 4 (none at all) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
-    "model_response": "Final answer: @@3@@",
+    "model_response": "4 (none at all)",
     "status": "success"
   },
   {
@@ -1112,7 +1112,7 @@
     "variable": "v128",
     "option_text": "Major companies",
     "response_scale": "1 (a great deal) - 2 (quite a lot) - 3 (not very much) - 4 (none at all) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
-    "model_response": "Final answer: @@2@@",
+    "model_response": "8 (Don't Know, DK)",
     "status": "success"
   },
   {
@@ -1121,7 +1121,7 @@
     "variable": "v129",
     "option_text": "Environmental organisations",
     "response_scale": "1 (a great deal) - 2 (quite a lot) - 3 (not very much) - 4 (none at all) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
-    "model_response": "Final answer: @@2@@",
+    "model_response": "4 (none at all)",
     "status": "success"
   },
   {
@@ -1130,7 +1130,7 @@
     "variable": "v130",
     "option_text": "Political parties",
     "response_scale": "1 (a great deal) - 2 (quite a lot) - 3 (not very much) - 4 (none at all) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
-    "model_response": "Final answer: @@3@@",
+    "model_response": "None at all",
     "status": "success"
   },
   {
@@ -1139,7 +1139,7 @@
     "variable": "v131",
     "option_text": "Government",
     "response_scale": "1 (a great deal) - 2 (quite a lot) - 3 (not very much) - 4 (none at all) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
-    "model_response": "Final answer: @@3@@",
+    "model_response": "DK",
     "status": "success"
   },
   {
@@ -1148,7 +1148,7 @@
     "variable": "v132",
     "option_text": "Social media",
     "response_scale": "1 (a great deal) - 2 (quite a lot) - 3 (not very much) - 4 (none at all) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
-    "model_response": "Final answer: @@3@@",
+    "model_response": "3 (not very much)",
     "status": "success"
   },
   {
@@ -1157,7 +1157,7 @@
     "variable": "v133",
     "option_text": "Governments tax the rich and subsidise the poor",
     "response_scale": "1 (not at all an essential characteristic of democracy) - 2 - 3 - 4 - 5 - 6 - 7 - 8 - 9 - 10 (definitely is an essential characteristic of democracy) - 88 (Don't Know, DK) - 99 (Not Answer, NA)",
-    "model_response": "Final answer: @@6@@",
+    "model_response": "Final answer: 8",
     "status": "success"
   },
   {
@@ -1166,7 +1166,7 @@
     "variable": "v134",
     "option_text": "Religious authorities ultimately interpret the laws",
     "response_scale": "1 (not at all an essential characteristic of democracy) - 2 - 3 - 4 - 5 - 6 - 7 - 8 - 9 - 10 (definitely is an essential characteristic of democracy) - 88 (Don't Know, DK) - 99 (Not Answer, NA)",
-    "model_response": "Final answer: @@1@@",
+    "model_response": "DK",
     "status": "success"
   },
   {
@@ -1175,7 +1175,7 @@
     "variable": "v135",
     "option_text": "People choose their leaders in free elections",
     "response_scale": "1 (not at all an essential characteristic of democracy) - 2 - 3 - 4 - 5 - 6 - 7 - 8 - 9 - 10 (definitely is an essential characteristic of democracy) - 88 (Don't Know, DK) - 99 (Not Answer, NA)",
-    "model_response": "Final answer: 10@@",
+    "model_response": "9",
     "status": "success"
   },
   {
@@ -1184,7 +1184,7 @@
     "variable": "v136",
     "option_text": "People receive state aid for unemployment",
     "response_scale": "1 (not at all an essential characteristic of democracy) - 2 - 3 - 4 - 5 - 6 - 7 - 8 - 9 - 10 (definitely is an essential characteristic of democracy) - 88 (Don't Know, DK) - 99 (Not Answer, NA)",
-    "model_response": "Final answer: @@3@@",
+    "model_response": "8",
     "status": "success"
   },
   {
@@ -1193,7 +1193,7 @@
     "variable": "v137",
     "option_text": "The army takes over when government is incompetent",
     "response_scale": "1 (not at all an essential characteristic of democracy) - 2 - 3 - 4 - 5 - 6 - 7 - 8 - 9 - 10 (definitely is an essential characteristic of democracy) - 88 (Don't Know, DK) - 99 (Not Answer, NA)",
-    "model_response": "Final answer: @@1@@",
+    "model_response": "8",
     "status": "success"
   },
   {
@@ -1202,7 +1202,7 @@
     "variable": "v138",
     "option_text": "Civil rights protect people from state oppression",
     "response_scale": "1 (not at all an essential characteristic of democracy) - 2 - 3 - 4 - 5 - 6 - 7 - 8 - 9 - 10 (definitely is an essential characteristic of democracy) - 88 (Don't Know, DK) - 99 (Not Answer, NA)",
-    "model_response": "Final answer: @@10@@",
+    "model_response": "88",
     "status": "success"
   },
   {
@@ -1211,7 +1211,7 @@
     "variable": "v139",
     "option_text": "The state makes people\u2019s incomes equal",
     "response_scale": "1 (not at all an essential characteristic of democracy) - 2 - 3 - 4 - 5 - 6 - 7 - 8 - 9 - 10 (definitely is an essential characteristic of democracy) - 88 (Don't Know, DK) - 99 (Not Answer, NA)",
-    "model_response": "Final answer: @@1@@",
+    "model_response": "9",
     "status": "success"
   },
   {
@@ -1220,7 +1220,7 @@
     "variable": "v140",
     "option_text": "People obey their rulers",
     "response_scale": "1 (not at all an essential characteristic of democracy) - 2 - 3 - 4 - 5 - 6 - 7 - 8 - 9 - 10 (definitely is an essential characteristic of democracy) - 88 (Don't Know, DK) - 99 (Not Answer, NA)",
-    "model_response": "Final answer: @@3@@",
+    "model_response": "2",
     "status": "success"
   },
   {
@@ -1229,7 +1229,7 @@
     "variable": "v141",
     "option_text": "Women have the same rights as men",
     "response_scale": "1 (not at all an essential characteristic of democracy) - 2 - 3 - 4 - 5 - 6 - 7 - 8 - 9 - 10 (definitely is an essential characteristic of democracy) - 88 (Don't Know, DK) - 99 (Not Answer, NA)",
-    "model_response": "Final answer: 10@@",
+    "model_response": "5",
     "status": "success"
   },
   {
@@ -1238,7 +1238,7 @@
     "variable": "v142",
     "option_text": "not at all important",
     "response_scale": "1 (not at all important) - 2 - 3 - 4 - 5 - 6 - 7 - 8 - 9 - 10 (absolutely important) - 88 (Don't Know, DK) - 99 (Not Answer, NA)",
-    "model_response": "Final answer: @@10@@",
+    "model_response": "88 (Don't Know, DK)",
     "status": "success"
   },
   {
@@ -1247,7 +1247,7 @@
     "variable": "v143",
     "option_text": "Not at all democratic",
     "response_scale": "1 (not at all democratic) - 2 - 3 - 4 - 5 - 6 - 7 - 8 - 9 - 10 (completely democratic) - 88 (Don't Know, DK) - 99 (Not Answer, NA)",
-    "model_response": "Final answer: @@6@@",
+    "model_response": "Final answer: 1 (not at all democratic)",
     "status": "success"
   },
   {
@@ -1256,7 +1256,7 @@
     "variable": "v144",
     "option_text": "Not satisfied at all",
     "response_scale": "1 (Not satisfied at all) - 2 - 3 - 4 - 5 - 6 - 7 - 8 - 9 - 10 (Completely satisfied) - 88 (Don't Know, DK) - 99 (Not Answer, NA)",
-    "model_response": "Final answer: 3",
+    "model_response": "Final answer: 1",
     "status": "success"
   },
   {
@@ -1265,7 +1265,7 @@
     "variable": "v145",
     "option_text": "Having a strong leader who does not have to bother with parliament and elections",
     "response_scale": "1 (Very good) - 2 (Fairly good) - 3 (Fairly bad) - 4 (Very bad) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
-    "model_response": "Final answer: @@4@@",
+    "model_response": "9",
     "status": "success"
   },
   {
@@ -1274,7 +1274,7 @@
     "variable": "v146",
     "option_text": "Having experts, not government, make decisions according to what they think is best for the country",
     "response_scale": "1 (Very good) - 2 (Fairly good) - 3 (Fairly bad) - 4 (Very bad) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
-    "model_response": "Final answer: @@4@@",
+    "model_response": "DK",
     "status": "success"
   },
   {
@@ -1283,7 +1283,7 @@
     "variable": "v147",
     "option_text": "Having the army rule the country",
     "response_scale": "1 (Very good) - 2 (Fairly good) - 3 (Fairly bad) - 4 (Very bad) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
-    "model_response": "Final answer: @@4@@",
+    "model_response": "DK",
     "status": "success"
   },
   {
@@ -1292,7 +1292,7 @@
     "variable": "v148",
     "option_text": "Having a democratic political system",
     "response_scale": "1 (Very good) - 2 (Fairly good) - 3 (Fairly bad) - 4 (Very bad) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
-    "model_response": "Final answer: @@1@@",
+    "model_response": "9 (Not Answer, NA)",
     "status": "success"
   },
   {
@@ -1301,7 +1301,7 @@
     "variable": "v149",
     "option_text": "Claiming state benefits which you are not entitled to",
     "response_scale": "1 (never) - 2 - 3 - 4 - 5 - 6 - 7 - 8 - 9 - 10 (always) - 88 (Don't Know, DK) - 99 (Not Answer, NA)",
-    "model_response": "Final answer: @@1@@",
+    "model_response": "Response: 8",
     "status": "success"
   },
   {
@@ -1310,7 +1310,7 @@
     "variable": "v150",
     "option_text": "Cheating on tax if you have the chance",
     "response_scale": "1 (never) - 2 - 3 - 4 - 5 - 6 - 7 - 8 - 9 - 10 (always) - 88 (Don't Know, DK) - 99 (Not Answer, NA)",
-    "model_response": "Final answer: @@1@@",
+    "model_response": "8",
     "status": "success"
   },
   {
@@ -1319,7 +1319,7 @@
     "variable": "v151",
     "option_text": "Taking the drugs marijuana or hashish",
     "response_scale": "1 (never) - 2 - 3 - 4 - 5 - 6 - 7 - 8 - 9 - 10 (always) - 88 (Don't Know, DK) - 99 (Not Answer, NA)",
-    "model_response": "Final answer: @@3@@",
+    "model_response": "88 (DK)",
     "status": "success"
   },
   {
@@ -1328,7 +1328,7 @@
     "variable": "v152",
     "option_text": "Someone accepting a bribe in the course of their duties",
     "response_scale": "1 (never) - 2 - 3 - 4 - 5 - 6 - 7 - 8 - 9 - 10 (always) - 88 (Don't Know, DK) - 99 (Not Answer, NA)",
-    "model_response": "Final answer: @@1@@",
+    "model_response": "8 (always)",
     "status": "success"
   },
   {
@@ -1337,7 +1337,7 @@
     "variable": "v153",
     "option_text": "Homosexuality",
     "response_scale": "1 (never) - 2 - 3 - 4 - 5 - 6 - 7 - 8 - 9 - 10 (always) - 88 (Don't Know, DK) - 99 (Not Answer, NA)",
-    "model_response": "Final answer: @@6@@",
+    "model_response": "88 (DK)",
     "status": "success"
   },
   {
@@ -1346,7 +1346,7 @@
     "variable": "v154",
     "option_text": "Abortion",
     "response_scale": "1 (never) - 2 - 3 - 4 - 5 - 6 - 7 - 8 - 9 - 10 (always) - 88 (Don't Know, DK) - 99 (Not Answer, NA)",
-    "model_response": "Final answer: @@3@@",
+    "model_response": "Don't Know",
     "status": "success"
   },
   {
@@ -1355,7 +1355,7 @@
     "variable": "v155",
     "option_text": "Divorce",
     "response_scale": "1 (never) - 2 - 3 - 4 - 5 - 6 - 7 - 8 - 9 - 10 (always) - 88 (Don't Know, DK) - 99 (Not Answer, NA)",
-    "model_response": "Final answer: @@5@@",
+    "model_response": "8",
     "status": "success"
   },
   {
@@ -1364,7 +1364,7 @@
     "variable": "v156",
     "option_text": "Euthanasia (terminating the life of the incurably sick)",
     "response_scale": "1 (never) - 2 - 3 - 4 - 5 - 6 - 7 - 8 - 9 - 10 (always) - 88 (Don't Know, DK) - 99 (Not Answer, NA)",
-    "model_response": "Final answer: 6@@",
+    "model_response": "8",
     "status": "success"
   },
   {
@@ -1373,7 +1373,7 @@
     "variable": "v157",
     "option_text": "Suicide",
     "response_scale": "1 (never) - 2 - 3 - 4 - 5 - 6 - 7 - 8 - 9 - 10 (always) - 88 (Don't Know, DK) - 99 (Not Answer, NA)",
-    "model_response": "Final answer: 1@@",
+    "model_response": "Final answer: 1 (never)",
     "status": "success"
   },
   {
@@ -1382,7 +1382,7 @@
     "variable": "v158",
     "option_text": "Having casual sex",
     "response_scale": "1 (never) - 2 - 3 - 4 - 5 - 6 - 7 - 8 - 9 - 10 (always) - 88 (Don't Know, DK) - 99 (Not Answer, NA)",
-    "model_response": "Final answer: @@3@@",
+    "model_response": "88",
     "status": "success"
   },
   {
@@ -1391,7 +1391,7 @@
     "variable": "v159",
     "option_text": "Avoiding a fare on public transport",
     "response_scale": "1 (never) - 2 - 3 - 4 - 5 - 6 - 7 - 8 - 9 - 10 (always) - 88 (Don't Know, DK) - 99 (Not Answer, NA)",
-    "model_response": "Final answer: @@3@@",
+    "model_response": "9 (Not Answer, NA)",
     "status": "success"
   },
   {
@@ -1400,7 +1400,7 @@
     "variable": "v160",
     "option_text": "Prostitution",
     "response_scale": "1 (never) - 2 - 3 - 4 - 5 - 6 - 7 - 8 - 9 - 10 (always) - 88 (Don't Know, DK) - 99 (Not Answer, NA)",
-    "model_response": "Final answer: @@3@@",
+    "model_response": "88 (Don't Know, DK)",
     "status": "success"
   },
   {
@@ -1409,7 +1409,7 @@
     "variable": "v161",
     "option_text": "Artificial insemination or in-vitro fertilization",
     "response_scale": "1 (never) - 2 - 3 - 4 - 5 - 6 - 7 - 8 - 9 - 10 (always) - 88 (Don't Know, DK) - 99 (Not Answer, NA)",
-    "model_response": "Final answer: @@7@@",
+    "model_response": "Final answer: 3",
     "status": "success"
   },
   {
@@ -1418,7 +1418,7 @@
     "variable": "v162",
     "option_text": "Political violence",
     "response_scale": "1 (never) - 2 - 3 - 4 - 5 - 6 - 7 - 8 - 9 - 10 (always) - 88 (Don't Know, DK) - 99 (Not Answer, NA)",
-    "model_response": "Final answer: 1@@",
+    "model_response": "8",
     "status": "success"
   },
   {
@@ -1427,7 +1427,7 @@
     "variable": "v163",
     "option_text": "Death penalty",
     "response_scale": "1 (never) - 2 - 3 - 4 - 5 - 6 - 7 - 8 - 9 - 10 (always) - 88 (Don't Know, DK) - 99 (Not Answer, NA)",
-    "model_response": "Final answer: 3",
+    "model_response": "88 (Don't Know, DK)",
     "status": "success"
   },
   {
@@ -1436,7 +1436,7 @@
     "variable": "v164",
     "option_text": "your town or city",
     "response_scale": "1 (Very close) - 2 (Close) - 3 (Not very close) - 4 (Not close at all) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
-    "model_response": "Final answer: 8@@",
+    "model_response": "1",
     "status": "success"
   },
   {
@@ -1445,7 +1445,7 @@
     "variable": "v165",
     "option_text": "your [county,]",
     "response_scale": "1 (Very close) - 2 (Close) - 3 (Not very close) - 4 (Not close at all) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
-    "model_response": "Final answer: @@1@@",
+    "model_response": "Final answer: 9",
     "status": "success"
   },
   {
@@ -1454,7 +1454,7 @@
     "variable": "v166",
     "option_text": "[Britain]",
     "response_scale": "1 (Very close) - 2 (Close) - 3 (Not very close) - 4 (Not close at all) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
-    "model_response": "Final answer: @@1@@",
+    "model_response": "Don't Know, DK",
     "status": "success"
   },
   {
@@ -1463,7 +1463,7 @@
     "variable": "v167",
     "option_text": "[Europe]",
     "response_scale": "1 (Very close) - 2 (Close) - 3 (Not very close) - 4 (Not close at all) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
-    "model_response": "Final answer: @@1@@",
+    "model_response": "Final answer: DK",
     "status": "success"
   },
   {
@@ -1472,7 +1472,7 @@
     "variable": "v168",
     "option_text": "the World",
     "response_scale": "1 (Very close) - 2 (Close) - 3 (Not very close) - 4 (Not close at all) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
-    "model_response": "Final answer: @@3@@",
+    "model_response": "Final answer: DK",
     "status": "success"
   },
   {
@@ -1481,7 +1481,7 @@
     "variable": "v169",
     "option_text": "yes",
     "response_scale": "1 (yes) - 2 (no) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
-    "model_response": "Final answer: @@1@@",
+    "model_response": "Final answer: 1",
     "status": "success"
   },
   {
@@ -1490,7 +1490,7 @@
     "variable": "v170",
     "option_text": "very proud",
     "response_scale": "1 (very proud) - 2 (quite proud) - 3 (not very proud) - 4 (not at all proud) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
-    "model_response": "Final answer: @@1@@",
+    "model_response": "Don't Know",
     "status": "success"
   },
   {
@@ -1499,7 +1499,7 @@
     "variable": "v171",
     "option_text": "Do you vote always, usually or never at the Local level?",
     "response_scale": "1 (always) - 2 (usually) - 3 (never) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
-    "model_response": "Final answer: @@2@@",
+    "model_response": "Final answer: 3 (never)",
     "status": "success"
   },
   {
@@ -1508,7 +1508,7 @@
     "variable": "v172",
     "option_text": "Do you vote always, usually or never at the National level?",
     "response_scale": "1 (always) - 2 (usually) - 3 (never) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
-    "model_response": "Final answer: @@1@@",
+    "model_response": "3",
     "status": "success"
   },
   {
@@ -1517,7 +1517,7 @@
     "variable": "v173",
     "option_text": "Do you vote always, usually or never at the European level?",
     "response_scale": "1 (always) - 2 (usually) - 3 (never) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
-    "model_response": "Final answer: @@2@@",
+    "model_response": "Final answer: 3 (never)",
     "status": "success"
   },
   {
@@ -1526,7 +1526,7 @@
     "variable": "v174",
     "option_text": "1. Conservative",
     "response_scale": "1 (Conservative) - 2 (Labour) - 3 (Liberal Democrat) - 4 (Scottish National Party) - 5 (Plaid Cymru) - 6 (Green Party) - 7 (UK Independence Party (UKIP)) - 8 (British National Party (BNP)/ National Front) - 9 (Other party) - 10 (None) - 88 (Don't Know, DK) - 99 (Not Answer, NA)",
-    "model_response": "Final answer: @@10@@",
+    "model_response": "9 (Other party)",
     "status": "success"
   },
   {
@@ -1535,7 +1535,7 @@
     "variable": "v175",
     "option_text": "2. Labour",
     "response_scale": "1 (Conservative) - 2 (Labour) - 3 (Liberal Democrat) - 4 (Scottish National Party) - 5 (Plaid Cymru) - 6 (Green Party) - 7 (UK Independence Party (UKIP)) - 8 (British National Party (BNP)/ National Front) - 9 (Other party) - 10 (None) - 88 (Don't Know, DK) - 99 (Not Answer, NA)",
-    "model_response": "Final answer: @@2@@",
+    "model_response": "Final answer: 2",
     "status": "success"
   },
   {
@@ -1544,7 +1544,7 @@
     "variable": "v176",
     "option_text": "Several times a week",
     "response_scale": "1 (very often) - 2 (fairly often) - 3 (not often) - 4 (not at all often) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
-    "model_response": "Final answer: @@2@@",
+    "model_response": "3",
     "status": "success"
   },
   {
@@ -1553,7 +1553,7 @@
     "variable": "v184",
     "option_text": "Very good",
     "response_scale": "1 (Very good) - 2 (Quite good) - 3 (Neither good, nor bad) - 4 (Quite bad) - 5 (Very bad) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
-    "model_response": "Final answer: @@1@@",
+    "model_response": "Final answer: 5 (Very bad)",
     "status": "success"
   },
   {
@@ -1562,7 +1562,7 @@
     "variable": "v185",
     "option_text": "Immigrants take jobs away from the British",
     "response_scale": "1 (Immigrants take jobs away from the British) - 2 (Immigrants do not take jobs away from the British) - 3 - 4 - 5 - 6 - 7 - 8 - 9 - 10 - 88 (Don't Know, DK) - 99 (Not Answer, NA)",
-    "model_response": "Final answer: @@2@@",
+    "model_response": "1",
     "status": "success"
   },
   {
@@ -1571,7 +1571,7 @@
     "variable": "v186",
     "option_text": "Immigrants make crime problems worse",
     "response_scale": "1 (Immigrants make crime problems worse) - 2 (Immigrants do not make crime problems worse) - 3 - 4 - 5 - 6 - 7 - 8 - 9 - 10 - 88 (Don't Know, DK) - 99 (Not Answer, NA)",
-    "model_response": "Final answer: @@2@@",
+    "model_response": "88 (Don't Know)",
     "status": "success"
   },
   {
@@ -1580,7 +1580,7 @@
     "variable": "v187",
     "option_text": "Immigrants are a strain on a country\u2019s welfare system",
     "response_scale": "1 (Immigrants are a strain on a country\u2019s welfare system) - 2 (Immigrants are not a strain on a country\u2019s welfare system) - 3 - 4 - 5 - 6 - 7 - 8 - 9 - 10 - 88 (Don't Know, DK) - 99 (Not Answer, NA)",
-    "model_response": "Final answer: @@3@@",
+    "model_response": "8",
     "status": "success"
   },
   {
@@ -1589,7 +1589,7 @@
     "variable": "v188",
     "option_text": "It is better if immigrants maintain their distinct customs and traditions",
     "response_scale": "1 (It is better if immigrants maintain their distinct customs and traditions) - 2 (It is better if immigrants do not maintain their distinct customs and traditions) - 3 - 4 - 5 - 6 - 7 - 8 - 9 - 10 - 88 (Don't Know, DK) - 99 (Not Answer, NA)",
-    "model_response": "Final answer: @@3@@",
+    "model_response": "1 (It is better if immigrants maintain their distinct customs and traditions)",
     "status": "success"
   },
   {
@@ -1598,7 +1598,7 @@
     "variable": "v189",
     "option_text": "To have been born in Britain",
     "response_scale": "1 (very important) - 2 (quite important) - 3 (not important) - 4 (not at all important) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
-    "model_response": "Final answer: @@4@@",
+    "model_response": "9",
     "status": "success"
   },
   {
@@ -1607,7 +1607,7 @@
     "variable": "v190",
     "option_text": "To respect Britain\u2019s political institutions and laws",
     "response_scale": "1 (very important) - 2 (quite important) - 3 (not important) - 4 (not at all important) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
-    "model_response": "Final answer: @@3@@",
+    "model_response": "4 (not at all important)",
     "status": "success"
   },
   {
@@ -1616,7 +1616,7 @@
     "variable": "v191",
     "option_text": "To have British ancestry",
     "response_scale": "1 (very important) - 2 (quite important) - 3 (not important) - 4 (not at all important) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
-    "model_response": "Final answer: @@4@@",
+    "model_response": "DK",
     "status": "success"
   },
   {
@@ -1625,7 +1625,7 @@
     "variable": "v192",
     "option_text": "To be able to speak English",
     "response_scale": "1 (very important) - 2 (quite important) - 3 (not important) - 4 (not at all important) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
-    "model_response": "Final answer: @@1@@",
+    "model_response": "3",
     "status": "success"
   },
   {
@@ -1634,7 +1634,7 @@
     "variable": "v193",
     "option_text": "To share British culture",
     "response_scale": "1 (very important) - 2 (quite important) - 3 (not important) - 4 (not at all important) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
-    "model_response": "Final answer: @@3@@",
+    "model_response": "DK",
     "status": "success"
   },
   {
@@ -1643,7 +1643,7 @@
     "variable": "v194",
     "option_text": "To have been born in Europe",
     "response_scale": "1 (very important) - 2 (quite important) - 3 (not important) - 4 (not at all important) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
-    "model_response": "Final answer: @@4@@",
+    "model_response": "Don't Know",
     "status": "success"
   },
   {
@@ -1652,7 +1652,7 @@
     "variable": "v195",
     "option_text": "To have European ancestry",
     "response_scale": "1 (very important) - 2 (quite important) - 3 (not important) - 4 (not at all important) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
-    "model_response": "Final answer: @@4@@",
+    "model_response": "9 (Not Answer, NA)",
     "status": "success"
   },
   {
@@ -1661,7 +1661,7 @@
     "variable": "v196",
     "option_text": "To be a Christian",
     "response_scale": "1 (very important) - 2 (quite important) - 3 (not important) - 4 (not at all important) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
-    "model_response": "Final answer: @@4@@",
+    "model_response": "DK",
     "status": "success"
   },
   {
@@ -1670,7 +1670,7 @@
     "variable": "v197",
     "option_text": "To share European culture",
     "response_scale": "1 (very important) - 2 (quite important) - 3 (not important) - 4 (not at all important) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
-    "model_response": "Final answer: @@3@@",
+    "model_response": "8 (Don't Know, DK)",
     "status": "success"
   },
   {
@@ -1679,7 +1679,7 @@
     "variable": "v198",
     "option_text": "should go further",
     "response_scale": "1 (should go further) - 2 - 3 - 4 - 5 - 6 - 7 - 8 - 9 - 10 (has already gone too far) - 88 (Don't Know, DK) - 99 (Not Answer, NA)",
-    "model_response": "Final answer: @@5@@",
+    "model_response": "Answer: 1",
     "status": "success"
   },
   {
@@ -1688,7 +1688,7 @@
     "variable": "v199",
     "option_text": "I would give part of my income if I were certain that the money would be used to prevent environmental pollution",
     "response_scale": "1 (agree strongly) - 2 (agree) - 3 (neither agree nor disagree) - 4 (disagree) - 5 (disagree strongly) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
-    "model_response": "Final answer: @@1@@",
+    "model_response": "3",
     "status": "success"
   },
   {
@@ -1697,7 +1697,7 @@
     "variable": "v200",
     "option_text": "It is just too difficult for someone like me to do much about the environment",
     "response_scale": "1 (agree strongly) - 2 (agree) - 3 (neither agree nor disagree) - 4 (disagree) - 5 (disagree strongly) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
-    "model_response": "Final answer: @@4@@",
+    "model_response": "Final answer: 3",
     "status": "success"
   },
   {
@@ -1706,7 +1706,7 @@
     "variable": "v201",
     "option_text": "There are more important things to do in life than protect the environment",
     "response_scale": "1 (agree strongly) - 2 (agree) - 3 (neither agree nor disagree) - 4 (disagree) - 5 (disagree strongly) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
-    "model_response": "Final answer: @@4@@",
+    "model_response": "Final answer: 3",
     "status": "success"
   },
   {
@@ -1715,7 +1715,7 @@
     "variable": "v202",
     "option_text": "There is no point in doing what I can for the environment unless others do the same",
     "response_scale": "1 (agree strongly) - 2 (agree) - 3 (neither agree nor disagree) - 4 (disagree) - 5 (disagree strongly) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
-    "model_response": "Final answer: @@4@@",
+    "model_response": "Final answer: 2",
     "status": "success"
   },
   {
@@ -1724,7 +1724,7 @@
     "variable": "v203",
     "option_text": "Many of the claims about environmental threats are exaggerated",
     "response_scale": "1 (agree strongly) - 2 (agree) - 3 (neither agree nor disagree) - 4 (disagree) - 5 (disagree strongly) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
-    "model_response": "Final answer: @@3@@",
+    "model_response": "Final answer: 4 (disagree)",
     "status": "success"
   },
   {
@@ -1733,7 +1733,7 @@
     "variable": "v204",
     "option_text": "Protecting the environment should be given priority, even if it causes slower economic growth and some loss of jobs",
     "response_scale": "1 (Protecting the environment should be given priority, even if it causes slower economic growth and some loss of jobs) - 2 (Economic growth and creating jobs should be the top priority, even if the environment suffers to some extent) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
-    "model_response": "Final answer: @@1@@",
+    "model_response": "Final answer: DK",
     "status": "success"
   },
   {
@@ -1742,7 +1742,7 @@
     "variable": "v205",
     "option_text": "Keep people under video surveillance in public areas",
     "response_scale": "1 (Probably should have the right) - 2 (Definitely should have the right) - 3 (Probably should not have the right) - 4 (Definitely should not have the right) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
-    "model_response": "Final answer: @@3@@",
+    "model_response": "Answer: 8 (Don't Know, DK)",
     "status": "success"
   },
   {
@@ -1751,7 +1751,7 @@
     "variable": "v206",
     "option_text": "Monitor all e-mails and any other information exchanged on the Internet",
     "response_scale": "1 (Probably should have the right) - 2 (Definitely should have the right) - 3 (Probably should not have the right) - 4 (Definitely should not have the right) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
-    "model_response": "Final answer: @@4@@",
+    "model_response": "Final answer: DK",
     "status": "success"
   },
   {
@@ -1760,7 +1760,7 @@
     "variable": "v207",
     "option_text": "Collect information about anyone living in Britain without their knowledge",
     "response_scale": "1 (Probably should have the right) - 2 (Definitely should have the right) - 3 (Probably should not have the right) - 4 (Definitely should not have the right) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
-    "model_response": "Final answer: @@4@@",
+    "model_response": "Not Answer",
     "status": "success"
   },
   {
@@ -1769,7 +1769,7 @@
     "variable": "v208",
     "option_text": "Every day",
     "response_scale": "1 (Every day) - 2 (Several times a week) - 3 (Once or twice a week) - 4 (Less often) - 5 (Never) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
-    "model_response": "Final answer: @@1@@",
+    "model_response": "Don't Know, DK",
     "status": "success"
   },
   {
@@ -1778,7 +1778,7 @@
     "variable": "v209",
     "option_text": "\u2026 on the radio?",
     "response_scale": "1 (Every day) - 2 (Several times a week) - 3 (Once or twice a week) - 4 (Less often) - 5 (Never) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
-    "model_response": "Final answer: @@4@@",
+    "model_response": "Final answer: 4 (Less often)",
     "status": "success"
   },
   {
@@ -1787,7 +1787,7 @@
     "variable": "v210",
     "option_text": "\u2026 in the daily papers?",
     "response_scale": "1 (Every day) - 2 (Several times a week) - 3 (Once or twice a week) - 4 (Less often) - 5 (Never) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
-    "model_response": "Final answer: @@3@@",
+    "model_response": "4 (Less often)",
     "status": "success"
   },
   {
@@ -1796,7 +1796,7 @@
     "variable": "v211",
     "option_text": "\u2026 on social media?",
     "response_scale": "1 (Every day) - 2 (Several times a week) - 3 (Once or twice a week) - 4 (Less often) - 5 (Never) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
-    "model_response": "Final answer: @@3@@",
+    "model_response": "4 (Less often)",
     "status": "success"
   },
   {
@@ -1805,7 +1805,7 @@
     "variable": "v212",
     "option_text": "People in your neighbourhood",
     "response_scale": "1 (very much) - 2 (much) - 3 (to a certain extent) - 4 (not so much) - 5 (not at all) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
-    "model_response": "Final answer: @@3@@",
+    "model_response": "3 (to a certain extent)",
     "status": "success"
   },
   {
@@ -1814,7 +1814,7 @@
     "variable": "v213",
     "option_text": "The people of the region you live in",
     "response_scale": "1 (very much) - 2 (much) - 3 (to a certain extent) - 4 (not so much) - 5 (not at all) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
-    "model_response": "Final answer: @@2@@",
+    "model_response": "4 (not so much)",
     "status": "success"
   },
   {
@@ -1823,7 +1823,7 @@
     "variable": "v214",
     "option_text": "Your fellow countrymen",
     "response_scale": "1 (very much) - 2 (much) - 3 (to a certain extent) - 4 (not so much) - 5 (not at all) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
-    "model_response": "Final answer: @@2@@",
+    "model_response": "3 (to a certain extent)",
     "status": "success"
   },
   {
@@ -1832,7 +1832,7 @@
     "variable": "v215",
     "option_text": "Europeans",
     "response_scale": "1 (very much) - 2 (much) - 3 (to a certain extent) - 4 (not so much) - 5 (not at all) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
-    "model_response": "Final answer: @@3@@",
+    "model_response": "4 (not so much)",
     "status": "success"
   },
   {
@@ -1841,7 +1841,7 @@
     "variable": "v216",
     "option_text": "All humans all over the world",
     "response_scale": "1 (very much) - 2 (much) - 3 (to a certain extent) - 4 (not so much) - 5 (not at all) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
-    "model_response": "Final answer: @@1@@",
+    "model_response": "Final answer: 7",
     "status": "success"
   },
   {
@@ -1850,7 +1850,7 @@
     "variable": "v221",
     "option_text": "Eliminating big inequalities in income between citizens",
     "response_scale": "1 (very important) - 2 (quite important) - 3 (not important) - 4 (not at all important) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
-    "model_response": "Final answer: @@3@@",
+    "model_response": "4",
     "status": "success"
   },
   {
@@ -1859,7 +1859,7 @@
     "variable": "v222",
     "option_text": "Guaranteeing that basic needs are met for all, in terms of food, housing, clothing, education, health",
     "response_scale": "1 (very important) - 2 (quite important) - 3 (not important) - 4 (not at all important) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
-    "model_response": "Final answer: @@1@@",
+    "model_response": "4 (not at all important)",
     "status": "success"
   },
   {
@@ -1868,7 +1868,7 @@
     "variable": "v223",
     "option_text": "Recognizing people on their merits",
     "response_scale": "1 (very important) - 2 (quite important) - 3 (not important) - 4 (not at all important) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
-    "model_response": "Final answer: @@1@@",
+    "model_response": "DK",
     "status": "success"
   },
   {
@@ -1877,7 +1877,7 @@
     "variable": "v224",
     "option_text": "Protecting against terrorism",
     "response_scale": "1 (very important) - 2 (quite important) - 3 (not important) - 4 (not at all important) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
-    "model_response": "Final answer: @@3@@",
+    "model_response": "4 (not at all important)",
     "status": "success"
   },
   {
@@ -1886,7 +1886,7 @@
     "variable": "v108",
     "option_text": "Extremely disappointed",
     "response_scale": "1 (extremely disappointed) - 2 - 3 - 4 - 5 - 6 - 7 - 8 - 9 - 10 (extremely happy) - 88 (Don't Know, DK) - 99 (Not Answer, NA)",
-    "model_response": "Final answer: @@1@@",
+    "model_response": "Answer: 3",
     "status": "success"
   },
   {
@@ -1895,7 +1895,7 @@
     "variable": "v225",
     "option_text": "male",
     "response_scale": "1 (male) - 2 (female) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
-    "model_response": "Final answer: @@1@@",
+    "model_response": "2",
     "status": "success"
   },
   {
@@ -1904,7 +1904,7 @@
     "variable": "v226",
     "option_text": "year of birth",
     "response_scale": "0000 - 9999 - 8888 (Don't Know, DK) - 9999 (Not Answer, NA)",
-    "model_response": "Final answer: @@1990@@",
+    "model_response": "8888",
     "status": "success"
   },
   {
@@ -1913,7 +1913,7 @@
     "variable": "v227",
     "option_text": "yes",
     "response_scale": "1 (yes) - 2 (no) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
-    "model_response": "Final answer: @@1@@",
+    "model_response": "9 (Not Answer, NA)",
     "status": "success"
   },
   {
@@ -1922,7 +1922,7 @@
     "variable": "v228a",
     "option_text": "Country of birth",
     "response_scale": "Write in:",
-    "model_response": "Final answer: @@United States@@",
+    "model_response": "Country of birth: Spain",
     "status": "success"
   },
   {
@@ -1931,7 +1931,7 @@
     "variable": "v229",
     "option_text": "year of first arrival",
     "response_scale": "0000 - 9999 - 8888 (Don't Know, DK) - 9999 (Not Answer, NA)",
-    "model_response": "Final answer: @@1990@@",
+    "model_response": "1999",
     "status": "success"
   },
   {
@@ -1940,7 +1940,7 @@
     "variable": "v230",
     "option_text": "yes",
     "response_scale": "1 (yes) - 2 (no) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
-    "model_response": "Final answer: @@1@@",
+    "model_response": "9 (Not Answer, NA)",
     "status": "success"
   },
   {
@@ -1949,7 +1949,7 @@
     "variable": "v231a",
     "option_text": "Country of father's birth",
     "response_scale": "Write in:",
-    "model_response": "Final answer: @@United States@@",
+    "model_response": "Final answer: Spain",
     "status": "success"
   },
   {
@@ -1958,7 +1958,7 @@
     "variable": "v232",
     "option_text": "yes",
     "response_scale": "1 (yes) - 2 (no) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
-    "model_response": "Final answer: @@1@@",
+    "model_response": "Answer: 8",
     "status": "success"
   },
   {
@@ -1967,7 +1967,7 @@
     "variable": "v233a",
     "option_text": "Country of mother's birth",
     "response_scale": "Write in:",
-    "model_response": "Final answer: @@United States@@",
+    "model_response": "Final answer: \nCountry of mother's birth: Spain",
     "status": "success"
   },
   {
@@ -1976,7 +1976,7 @@
     "variable": "v234",
     "option_text": "married",
     "response_scale": "1 (married) - 2 (registered partnership) - 3 (widowed) - 4 (divorced) - 5 (separated) - 6 (never married and never registered partnership) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
-    "model_response": "Final answer: @@6@@",
+    "model_response": "4 (divorced)",
     "status": "success"
   },
   {
@@ -1985,7 +1985,7 @@
     "variable": "v235",
     "option_text": "yes",
     "response_scale": "1 (yes) - 2 (no) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
-    "model_response": "Final answer: @@1@@",
+    "model_response": "Final answer: 1",
     "status": "success"
   },
   {
@@ -1994,7 +1994,7 @@
     "variable": "v236",
     "option_text": "yes",
     "response_scale": "1 (yes) - 2 (no) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
-    "model_response": "Final answer: @@1@@",
+    "model_response": "Final answer: 1",
     "status": "success"
   },
   {
@@ -2003,7 +2003,7 @@
     "variable": "v237",
     "option_text": "yes",
     "response_scale": "1 (yes) - 2 (no) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
-    "model_response": "Final answer: @@1@@",
+    "model_response": "Don't Know, DK",
     "status": "success"
   },
   {
@@ -2012,7 +2012,7 @@
     "variable": "v238",
     "option_text": "No",
     "response_scale": "1 (No) - 2 (Yes, own parent(s)) - 3 (Yes, parent(s) in law) - 4 (Yes, both own parent(s) and parent(s) in law) - 8 (Don't Know, DK) - 9 (Not Answer, NA)",
-    "model_response": "Final answer: @@1@@",
+    "model_response": "Final answer: 3",
     "status": "success"
   },
   {
@@ -2021,7 +2021,7 @@
     "variable": "v239a",
     "option_text": "Number of children in household",
     "response_scale": "00 (no children) - 99 (Not Answer, NA)",
-    "model_response": "Final answer: 00",
+    "model_response": "00",
     "status": "success"
   },
   {
@@ -2030,7 +2030,7 @@
     "variable": "v239b",
     "option_text": "Number of children outside household",
     "response_scale": "00 (no children) - 99 (Not Answer, NA)",
-    "model_response": "Final answer: @@00@@",
+    "model_response": "NA",
     "status": "success"
   },
   {
@@ -2039,7 +2039,7 @@
     "variable": "v240",
     "option_text": "Number of people in household",
     "response_scale": "01 (I live alone) - 99 (Not Answer, NA)",
-    "model_response": "Final answer: 01",
+    "model_response": "01 (I live alone)",
     "status": "success"
   },
   {
@@ -2048,7 +2048,7 @@
     "variable": "v242",
     "option_text": "Age of completing education",
     "response_scale": "00 (no formal education) - 99 (Not Answer, NA)",
-    "model_response": "Final answer: @@22@@",
+    "model_response": "00",
     "status": "success"
   },
   {
@@ -2057,7 +2057,7 @@
     "variable": "v242",
     "option_text": "Age of completing education",
     "response_scale": "00 (no formal education) - 99 (Not Answer, NA)",
-    "model_response": "Final answer: @@22@@",
+    "model_response": "00",
     "status": "success"
   }
 ]

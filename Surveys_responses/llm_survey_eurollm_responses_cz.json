@@ -5,7 +5,7 @@
     "variable": "v1",
     "option_text": "Pr\u00e1ce",
     "response_scale": "1 (velmi d\u016fle\u017eit\u00e9) - 2 (docela d\u016fle\u017eit\u00e9) - 3 (ned\u016fle\u017eit\u00e9) - 4 (v\u016fbec ned\u016fle\u017eit\u00e9) - 8 (Nev\u00edm, NS) - 9 (Bez odpov\u011bdi, SR)",
-    "model_response": "Final answer: @@1@@",
+    "model_response": "Final answer: 3 (ned\u016fle\u017eit\u00e9)",
     "status": "success"
   },
   {
@@ -14,7 +14,7 @@
     "variable": "v2",
     "option_text": "Rodina",
     "response_scale": "1 (velmi d\u016fle\u017eit\u00e9) - 2 (docela d\u016fle\u017eit\u00e9) - 3 (ned\u016fle\u017eit\u00e9) - 4 (v\u016fbec ned\u016fle\u017eit\u00e9) - 8 (Nev\u00edm, NS) - 9 (Bez odpov\u011bdi, SR)",
-    "model_response": "Final answer: @@1@@",
+    "model_response": "Final answer: 4 (v\u016fbec ned\u016fle\u017eit\u00e9)",
     "status": "success"
   },
   {
@@ -23,7 +23,7 @@
     "variable": "v3",
     "option_text": "P\u0159\u00e1tel\u00e9 a zn\u00e1m\u00ed",
     "response_scale": "1 (velmi d\u016fle\u017eit\u00e9) - 2 (docela d\u016fle\u017eit\u00e9) - 3 (ned\u016fle\u017eit\u00e9) - 4 (v\u016fbec ned\u016fle\u017eit\u00e9) - 8 (Nev\u00edm, NS) - 9 (Bez odpov\u011bdi, SR)",
-    "model_response": "Final answer: @@1@@",
+    "model_response": "Final answer: 2 (docela d\u016fle\u017eit\u00e9)",
     "status": "success"
   },
   {
@@ -32,7 +32,7 @@
     "variable": "v4",
     "option_text": "Voln\u00fd \u010das",
     "response_scale": "1 (velmi d\u016fle\u017eit\u00e9) - 2 (docela d\u016fle\u017eit\u00e9) - 3 (ned\u016fle\u017eit\u00e9) - 4 (v\u016fbec ned\u016fle\u017eit\u00e9) - 8 (Nev\u00edm, NS) - 9 (Bez odpov\u011bdi, SR)",
-    "model_response": "Final answer: @@1@@",
+    "model_response": "Final answer: 3 (ned\u016fle\u017eit\u00e9)",
     "status": "success"
   },
   {
@@ -41,7 +41,7 @@
     "variable": "v5",
     "option_text": "Politika",
     "response_scale": "1 (velmi d\u016fle\u017eit\u00e9) - 2 (docela d\u016fle\u017eit\u00e9) - 3 (ned\u016fle\u017eit\u00e9) - 4 (v\u016fbec ned\u016fle\u017eit\u00e9) - 8 (Nev\u00edm, NS) - 9 (Bez odpov\u011bdi, SR)",
-    "model_response": "Final answer: 3",
+    "model_response": "Final answer: 3 (ned\u016fle\u017eit\u00e9)",
     "status": "success"
   },
   {
@@ -50,7 +50,7 @@
     "variable": "v6",
     "option_text": "N\u00e1bo\u017eenstv\u00ed",
     "response_scale": "1 (velmi d\u016fle\u017eit\u00e9) - 2 (docela d\u016fle\u017eit\u00e9) - 3 (ned\u016fle\u017eit\u00e9) - 4 (v\u016fbec ned\u016fle\u017eit\u00e9) - 8 (Nev\u00edm, NS) - 9 (Bez odpov\u011bdi, SR)",
-    "model_response": "Final answer: 4@@",
+    "model_response": "Final answer: 1",
     "status": "success"
   },
   {
@@ -59,7 +59,7 @@
     "variable": "v7",
     "option_text": NaN,
     "response_scale": "1 (Velmi \u0161\u0165astn\u00fd/\u00e1) - 2 (Celkem \u0161\u0165astn\u00fd/\u00e1) - 3 (Ne moc \u0161\u0165astn\u00fd/\u00e1) - 4 (V\u016fbec ne \u0161\u0165astn\u00fd/\u00e1) - 8 (Nev\u00ed) - 9 (Neodpov\u00eddl/a)",
-    "model_response": "Final answer: 1",
+    "model_response": "Final answer: 5",
     "status": "success"
   },
   {
@@ -68,7 +68,7 @@
     "variable": "v8",
     "option_text": NaN,
     "response_scale": "1 (Velmi dobr\u00fd) - 2 (Dobr\u00fd) - 3 (Uch\u00e1zej\u00edc\u00ed) - 4 (\u0160patn\u00fd) - 5 (Velmi \u0161patn\u00fd) - 8 (Nev\u00ed) - 9 (Neodpov\u00eddl/a)",
-    "model_response": "Final answer: @@3@@",
+    "model_response": "Final answer: 5 (Velmi \u0161patn\u00fd)",
     "status": "success"
   },
   {
@@ -77,7 +77,7 @@
     "variable": "v9",
     "option_text": "A N\u00e1bo\u017eensk\u00e9 nebo c\u00edrkevn\u00ed organizace",
     "response_scale": "1 (Zm\u00ednil/a) - 2 (Nezm\u00ednil/a) - 8 (Nev\u00ed) - 9 (Bez odpov\u011bdi)",
-    "model_response": "Final answer: @@2@@",
+    "model_response": "Final answer: 2 (Nezm\u00ednil/a)",
     "status": "success"
   },
   {
@@ -86,7 +86,7 @@
     "variable": "v10",
     "option_text": "B Vzd\u011bl\u00e1vac\u00ed, um\u011bleck\u00e9, hudebn\u00ed nebo kulturn\u00ed aktivity",
     "response_scale": "1 (Zm\u00ednil/a) - 2 (Nezm\u00ednil/a) - 8 (Nev\u00ed) - 9 (Bez odpov\u011bdi)",
-    "model_response": "Final answer: 1",
+    "model_response": "Final answer: 1 (Zm\u00ednil/a)",
     "status": "success"
   },
   {
@@ -95,7 +95,7 @@
     "variable": "v11",
     "option_text": "C Odbory",
     "response_scale": "1 (Zm\u00ednil/a) - 2 (Nezm\u00ednil/a) - 8 (Nev\u00ed) - 9 (Bez odpov\u011bdi)",
-    "model_response": "Final answer: @@2@@",
+    "model_response": "Final answer: 1",
     "status": "success"
   },
   {
@@ -104,7 +104,7 @@
     "variable": "v12",
     "option_text": "D Politick\u00e9 strany nebo hnut\u00ed",
     "response_scale": "1 (Zm\u00ednil/a) - 2 (Nezm\u00ednil/a) - 8 (Nev\u00ed) - 9 (Bez odpov\u011bdi)",
-    "model_response": "Final answer: 2@@",
+    "model_response": "Final answer: 2",
     "status": "success"
   },
   {
@@ -113,7 +113,7 @@
     "variable": "v13",
     "option_text": "E Ochrana \u017eivotn\u00edho prost\u0159ed\u00ed, ekologick\u00e1 hnut\u00ed, pr\u00e1va zv\u00ed\u0159at",
     "response_scale": "1 (Zm\u00ednil/a) - 2 (Nezm\u00ednil/a) - 8 (Nev\u00ed) - 9 (Bez odpov\u011bdi)",
-    "model_response": "Final answer: @@1@@",
+    "model_response": "Final answer: 8 (Nev\u00ed)",
     "status": "success"
   },
   {
@@ -122,7 +122,7 @@
     "variable": "v14",
     "option_text": "F Sdru\u017een\u00ed podle povol\u00e1n\u00ed, profesn\u00ed asociace",
     "response_scale": "1 (Zm\u00ednil/a) - 2 (Nezm\u00ednil/a) - 8 (Nev\u00ed) - 9 (Bez odpov\u011bdi)",
-    "model_response": "Final answer: 2@@",
+    "model_response": "Final answer: 1",
     "status": "success"
   },
   {
@@ -131,7 +131,7 @@
     "variable": "v15",
     "option_text": "G Sport nebo z\u00e1bava",
     "response_scale": "1 (Zm\u00ednil/a) - 2 (Nezm\u00ednil/a) - 8 (Nev\u00ed) - 9 (Bez odpov\u011bdi)",
-    "model_response": "Final answer: 8@@",
+    "model_response": "Final answer: 2",
     "status": "success"
   },
   {
@@ -140,7 +140,7 @@
     "variable": "v16",
     "option_text": "H Humanit\u00e1rn\u00ed nebo charitativn\u00ed organizace",
     "response_scale": "1 (Zm\u00ednil/a) - 2 (Nezm\u00ednil/a) - 8 (Nev\u00ed) - 9 (Bez odpov\u011bdi)",
-    "model_response": "Final answer: @@1@@",
+    "model_response": "Final answer: 8",
     "status": "success"
   },
   {
@@ -149,7 +149,7 @@
     "variable": "v17",
     "option_text": "I Spot\u0159ebitelsk\u00e9 organizace (nap\u0159. Sdru\u017een\u00ed obrany spot\u0159ebitel)",
     "response_scale": "1 (Zm\u00ednil/a) - 2 (Nezm\u00ednil/a) - 8 (Nev\u00ed) - 9 (Bez odpov\u011bdi)",
-    "model_response": "Final answer: @@8@@",
+    "model_response": "Final answer: 1 - I Spot\u0159ebitelsk\u00e9 organizace (nap\u0159. Sdru\u017een\u00ed obrany spot\u0159ebitel)",
     "status": "success"
   },
   {
@@ -158,7 +158,7 @@
     "variable": "v18",
     "option_text": "J Skupiny sv\u00e9pomoci a vz\u00e1jemn\u00e9 pomoci",
     "response_scale": "1 (Zm\u00ednil/a) - 2 (Nezm\u00ednil/a) - 8 (Nev\u00ed) - 9 (Bez odpov\u011bdi)",
-    "model_response": "Final answer: @@1@@",
+    "model_response": "Final answer: 1",
     "status": "success"
   },
   {
@@ -167,7 +167,7 @@
     "variable": "v19",
     "option_text": "K Jin\u00e9 skupiny",
     "response_scale": "1 (Zm\u00ednil/a) - 2 (Nezm\u00ednil/a) - 8 (Nev\u00ed) - 9 (Bez odpov\u011bdi)",
-    "model_response": "Final answer: @@8@@",
+    "model_response": "Final answer: 8 (Nev\u00ed)",
     "status": "success"
   },
   {
@@ -176,7 +176,7 @@
     "variable": "v20",
     "option_text": "L \u017d\u00e1dn\u00e9",
     "response_scale": "1 (Zm\u00ednil/a) - 2 (Nezm\u00ednil/a) - 8 (Nev\u00ed) - 9 (Bez odpov\u011bdi)",
-    "model_response": "Final answer: @@1@@",
+    "model_response": "Final answer: 8 (Nev\u00ed)",
     "status": "success"
   },
   {
@@ -185,7 +185,7 @@
     "variable": "v21",
     "option_text": NaN,
     "response_scale": "1 (Ano) - 2 (Ne) - 8 (Nev\u00ed) - 9 (Neodpov\u00eddl/a)",
-    "model_response": "Final answer: @@2@@",
+    "model_response": "Final answer: 1",
     "status": "success"
   },
   {
@@ -194,7 +194,7 @@
     "variable": "v22",
     "option_text": "A Lid\u00e9 odli\u0161n\u00e9 rasy",
     "response_scale": "1 (Zm\u00ednil/a) - 2 (Nezm\u00ednil/a) - 8 (Nev\u00ed) - 9 (Bez odpov\u011bdi)",
-    "model_response": "Final answer: 2@@",
+    "model_response": "Final answer: 7",
     "status": "success"
   },
   {
@@ -203,7 +203,7 @@
     "variable": "v23",
     "option_text": "B T\u011b\u017ec\u00ed alkoholici",
     "response_scale": "1 (Zm\u00ednil/a) - 2 (Nezm\u00ednil/a) - 8 (Nev\u00ed) - 9 (Bez odpov\u011bdi)",
-    "model_response": "Final answer: 1",
+    "model_response": "Final answer: 2",
     "status": "success"
   },
   {
@@ -212,7 +212,7 @@
     "variable": "v24",
     "option_text": "C P\u0159ist\u011bhovalci (imigranti) / ciz\u00ed d\u011bln\u00edci",
     "response_scale": "1 (Zm\u00ednil/a) - 2 (Nezm\u00ednil/a) - 8 (Nev\u00ed) - 9 (Bez odpov\u011bdi)",
-    "model_response": "Final answer: 2@@",
+    "model_response": "Final answer: 2 (Nezm\u00ednil/a)",
     "status": "success"
   },
   {
@@ -221,7 +221,7 @@
     "variable": "v25",
     "option_text": "D Lid\u00e9 z\u00e1visl\u00ed na drog\u00e1ch",
     "response_scale": "1 (Zm\u00ednil/a) - 2 (Nezm\u00ednil/a) - 8 (Nev\u00ed) - 9 (Bez odpov\u011bdi)",
-    "model_response": "Final answer: @@1@@",
+    "model_response": "Final answer: 1 (Zm\u00ednil/a)",
     "status": "success"
   },
   {
@@ -230,7 +230,7 @@
     "variable": "v26",
     "option_text": "E Homosexu\u00e1lov\u00e9",
     "response_scale": "1 (Zm\u00ednil/a) - 2 (Nezm\u00ednil/a) - 8 (Nev\u00ed) - 9 (Bez odpov\u011bdi)",
-    "model_response": "Final answer: 2@@",
+    "model_response": "Final answer: 1 Homosexu\u00e1lov\u00e9",
     "status": "success"
   },
   {
@@ -239,7 +239,7 @@
     "variable": "v27",
     "option_text": "F K\u0159es\u0165an\u00e9",
     "response_scale": "1 (Zm\u00ednil/a) - 2 (Nezm\u00ednil/a) - 8 (Nev\u00ed) - 9 (Bez odpov\u011bdi)",
-    "model_response": "Final answer: 2@@",
+    "model_response": "Final answer: 2 (Nezm\u00ednil/a)",
     "status": "success"
   },
   {
@@ -248,7 +248,7 @@
     "variable": "v28",
     "option_text": "G Muslimov\u00e9",
     "response_scale": "1 (Zm\u00ednil/a) - 2 (Nezm\u00ednil/a) - 8 (Nev\u00ed) - 9 (Bez odpov\u011bdi)",
-    "model_response": "Final answer: 2@@",
+    "model_response": "Final answer: 1",
     "status": "success"
   },
   {
@@ -257,7 +257,7 @@
     "variable": "v29",
     "option_text": "H \u017did\u00e9",
     "response_scale": "1 (Zm\u00ednil/a) - 2 (Nezm\u00ednil/a) - 8 (Nev\u00ed) - 9 (Bez odpov\u011bdi)",
-    "model_response": "Final answer: 2@@",
+    "model_response": "Final answer: 1",
     "status": "success"
   },
   {
@@ -266,7 +266,7 @@
     "variable": "v30",
     "option_text": "I Romov\u00e9",
     "response_scale": "1 (Zm\u00ednil/a) - 2 (Nezm\u00ednil/a) - 8 (Nev\u00ed) - 9 (Bez odpov\u011bdi)",
-    "model_response": "Final answer: @@2@@",
+    "model_response": "Final answer: 8 (Nev\u00ed)",
     "status": "success"
   },
   {
@@ -275,7 +275,7 @@
     "variable": "v31",
     "option_text": NaN,
     "response_scale": "1 (V\u011bt\u0161inu lid\u00ed je mo\u017eno d\u016fv\u011b\u0159ovat) - 2 (\u010clov\u011bk mus\u00ed b\u00fdt ve styku s ostatn\u00edmi velmi opatrn\u00fd) - 8 (Nev\u00ed) - 9 (Neodpov\u00eddl/a)",
-    "model_response": "Final answer: 2@@",
+    "model_response": "Final answer: 1",
     "status": "success"
   },
   {
@@ -284,7 +284,7 @@
     "variable": "v32",
     "option_text": "Va\u0161e rodina",
     "response_scale": "1 (Zcela v(cid:268)\u0159\u00edte) - 2 (\u010c\u00e1ste\u010dn\u011b v(cid:268)\u0159\u00edte) - 3 (M\u00e1lo v(cid:268)\u0159\u00edte) - 4 (V\u016fbec nev(cid:268)\u0159\u00edte) - 8 (Nev\u00ed) - 9 (Bez odpov\u011bdi)",
-    "model_response": "Final answer: 1@@",
+    "model_response": "Final answer: 4 (V\u016fbec nev(cid:268)\u0159\u00edte)",
     "status": "success"
   },
   {
@@ -293,7 +293,7 @@
     "variable": "v33",
     "option_text": "Lid\u00e9 ve va\u0161em sousedstv\u00ed",
     "response_scale": "1 (Zcela v(cid:268)\u0159\u00edte) - 2 (\u010c\u00e1ste\u010dn\u011b v(cid:268)\u0159\u00edte) - 3 (M\u00e1lo v(cid:268)\u0159\u00edte) - 4 (V\u016fbec nev(cid:268)\u0159\u00edte) - 8 (Nev\u00ed) - 9 (Bez odpov\u011bdi)",
-    "model_response": "Final answer: 1@@",
+    "model_response": "Final answer: 4 (V\u016fbec nev(cid:268)\u0159\u00edte)",
     "status": "success"
   },
   {
@@ -302,7 +302,7 @@
     "variable": "v34",
     "option_text": "Lid\u00e9, kter\u00e9 osobn\u011b zn\u00e1te",
     "response_scale": "1 (Zcela v(cid:268)\u0159\u00edte) - 2 (\u010c\u00e1ste\u010dn\u011b v(cid:268)\u0159\u00edte) - 3 (M\u00e1lo v(cid:268)\u0159\u00edte) - 4 (V\u016fbec nev(cid:268)\u0159\u00edte) - 8 (Nev\u00ed) - 9 (Bez odpov\u011bdi)",
-    "model_response": "Final answer: 1@@",
+    "model_response": "Final answer: 4 (V\u016fbec nev(cid:268)\u0159\u00edte)",
     "status": "success"
   },
   {
@@ -311,7 +311,7 @@
     "variable": "v35",
     "option_text": "Lid\u00e9, s kter\u00fdmi jste se pr\u00e1vn\u011b sezn\u00e1mil/a",
     "response_scale": "1 (Zcela v(cid:268)\u0159\u00edte) - 2 (\u010c\u00e1ste\u010dn\u011b v(cid:268)\u0159\u00edte) - 3 (M\u00e1lo v(cid:268)\u0159\u00edte) - 4 (V\u016fbec nev(cid:268)\u0159\u00edte) - 8 (Nev\u00ed) - 9 (Bez odpov\u011bdi)",
-    "model_response": "Final answer: 1@@",
+    "model_response": "Final answer: 4 (V\u016fbec nev(cid:268)\u0159\u00edte)",
     "status": "success"
   },
   {
@@ -320,7 +320,7 @@
     "variable": "v36",
     "option_text": "Lid\u00e9 jin\u00e9ho vyzn\u00e1n\u00ed",
     "response_scale": "1 (Zcela v(cid:268)\u0159\u00edte) - 2 (\u010c\u00e1ste\u010dn\u011b v(cid:268)\u0159\u00edte) - 3 (M\u00e1lo v(cid:268)\u0159\u00edte) - 4 (V\u016fbec nev(cid:268)\u0159\u00edte) - 8 (Nev\u00ed) - 9 (Bez odpov\u011bdi)",
-    "model_response": "Final answer: @@2@@",
+    "model_response": "Final answer: 4 (V\u016fbec nev(cid:268)\u0159\u00edte)",
     "status": "success"
   },
   {
@@ -329,7 +329,7 @@
     "variable": "v37",
     "option_text": "Lid\u00e9 odli\u0161n\u00e9 n\u00e1rodnosti",
     "response_scale": "1 (Zcela v(cid:268)\u0159\u00edte) - 2 (\u010c\u00e1ste\u010dn\u011b v(cid:268)\u0159\u00edte) - 3 (M\u00e1lo v(cid:268)\u0159\u00edte) - 4 (V\u016fbec nev(cid:268)\u0159\u00edte) - 8 (Nev\u00ed) - 9 (Bez odpov\u011bdi)",
-    "model_response": "Final answer: @@2@@",
+    "model_response": "Final answer: 2",
     "status": "success"
   },
   {
@@ -338,7 +338,7 @@
     "variable": "v38",
     "option_text": NaN,
     "response_scale": "1 (V\u016fbec ne) - 2 - 3 - 4 - 5 - 6 - 7 - 8 - 9 - 10 (Pln(cid:268)) - 88 (Nev\u00edm) - 99 (Bez odpov\u011bdi)",
-    "model_response": "Final answer: 7@@",
+    "model_response": "Final answer: 6",
     "status": "success"
   },
   {
@@ -347,7 +347,7 @@
     "variable": "v39",
     "option_text": NaN,
     "response_scale": "1 (Nespokojen(a)) - 2 - 3 - 4 - 5 - 6 - 7 - 8 - 9 - 10 (Spokojen(a)) - 88 (Nev\u00edm) - 99 (Bez odpov\u011bdi)",
-    "model_response": "Final answer: 7@@",
+    "model_response": "Final answer: 5",
     "status": "success"
   },
   {
@@ -365,7 +365,7 @@
     "variable": "v41",
     "option_text": "B Dobr\u00e1 pracovn\u00ed doba",
     "response_scale": "1 (Zm\u00ednil/a) - 2 (Nezm\u00ednil/a) - 8 (Nev\u00ed) - 9 (Bez odpov\u011bdi)",
-    "model_response": "Final answer: @@1@@",
+    "model_response": "Final answer: 1",
     "status": "success"
   },
   {
@@ -374,7 +374,7 @@
     "variable": "v42",
     "option_text": "C P(cid:284)\u00edle\u017eitost uplatnit iniciativu",
     "response_scale": "1 (Zm\u00ednil/a) - 2 (Nezm\u00ednil/a) - 8 (Nev\u00ed) - 9 (Bez odpov\u011bdi)",
-    "model_response": "Final answer: 1@@",
+    "model_response": "Final answer: 1",
     "status": "success"
   },
   {
@@ -383,7 +383,7 @@
     "variable": "v43",
     "option_text": "D \u0160t(cid:268)dr\u00e1 dovolen\u00e1 (dlouh\u00e1)",
     "response_scale": "1 (Zm\u00ednil/a) - 2 (Nezm\u00ednil/a) - 8 (Nev\u00ed) - 9 (Bez odpov\u011bdi)",
-    "model_response": "Final answer: 1@@",
+    "model_response": "Final answer: 1",
     "status": "success"
   },
   {
@@ -392,7 +392,7 @@
     "variable": "v44",
     "option_text": "E Pr\u00e1ce, ve kter\u00e9 m\u016f\u017eete n(cid:268)\u010deho dos\u00e1hnout",
     "response_scale": "1 (Zm\u00ednil/a) - 2 (Nezm\u00ednil/a) - 8 (Nev\u00ed) - 9 (Bez odpov\u011bdi)",
-    "model_response": "Final answer: @@1@@",
+    "model_response": "Final answer: 1",
     "status": "success"
   },
   {
@@ -401,7 +401,7 @@
     "variable": "v45",
     "option_text": "F Zodpov(cid:268)dn\u00e1 pr\u00e1ce",
     "response_scale": "1 (Zm\u00ednil/a) - 2 (Nezm\u00ednil/a) - 8 (Nev\u00ed) - 9 (Bez odpov\u011bdi)",
-    "model_response": "Final answer: 1@@",
+    "model_response": "Final answer: 8 (Nev\u00ed)",
     "status": "success"
   },
   {
@@ -410,7 +410,7 @@
     "variable": "v45a",
     "option_text": "\u017d\u00e1dn\u00fd",
     "response_scale": "1 (Zm\u00ednil/a) - 2 (Nezm\u00ednil/a) - 8 (Nev\u00ed) - 9 (Bez odpov\u011bdi)",
-    "model_response": "Final answer: @@1@@",
+    "model_response": "Final answer: 2",
     "status": "success"
   },
   {
@@ -419,7 +419,7 @@
     "variable": "v46",
     "option_text": "\u010clov(cid:268)k mus\u00ed m\u00edt zam(cid:268)stn\u00e1n\u00ed (pr\u00e1ci), aby mohl pln(cid:268) rozvinout sv\u00e9 vlohy.",
     "response_scale": "1 (Rozhodn(cid:268) souhlas\u00edm) - 2 (Souhlas\u00edm) - 3 (Ani souhlas ani nesouhlas) - 4 (Nesouhlas\u00edm) - 5 (Rozhodn(cid:268) nesouhlas\u00edm) - 8 (Nev\u00ed) - 9 (Bez odpov\u011bdi)",
-    "model_response": "Final answer: 4@@",
+    "model_response": "Final answer: 4",
     "status": "success"
   },
   {
@@ -428,7 +428,7 @@
     "variable": "v47",
     "option_text": "Je poni\u017euj\u00edc\u00ed dost\u00e1vat pen\u00edze, ani\u017e by si je \u010dlov(cid:268)k musel odpracovat",
     "response_scale": "1 (Rozhodn(cid:268) souhlas\u00edm) - 2 (Souhlas\u00edm) - 3 (Ani souhlas ani nesouhlas) - 4 (Nesouhlas\u00edm) - 5 (Rozhodn(cid:268) nesouhlas\u00edm) - 8 (Nev\u00ed) - 9 (Bez odpov\u011bdi)",
-    "model_response": "Final answer: @@1@@",
+    "model_response": "Final answer: 3 (Ani souhlas ani nesouhlas)",
     "status": "success"
   },
   {
@@ -446,7 +446,7 @@
     "variable": "v49",
     "option_text": "Pracovat je povinnost\u00ed v(cid:292)\u010di spole\u010dnosti.",
     "response_scale": "1 (Rozhodn(cid:268) souhlas\u00edm) - 2 (Souhlas\u00edm) - 3 (Ani souhlas ani nesouhlas) - 4 (Nesouhlas\u00edm) - 5 (Rozhodn(cid:268) nesouhlas\u00edm) - 8 (Nev\u00ed) - 9 (Bez odpov\u011bdi)",
-    "model_response": "Final answer: 3@@",
+    "model_response": "Final answer: 4 (Nesouhlas\u00edm)",
     "status": "success"
   },
   {
@@ -455,7 +455,7 @@
     "variable": "v50",
     "option_text": "Pr\u00e1ce by m(cid:268)la m\u00edt v\u017edy p(cid:284)ednost, i kdy\u017e to znamen\u00e1 m\u00edt m\u00e9n(cid:268) voln\u00e9ho \u010dasu.",
     "response_scale": "1 (Rozhodn(cid:268) souhlas\u00edm) - 2 (Souhlas\u00edm) - 3 (Ani souhlas ani nesouhlas) - 4 (Nesouhlas\u00edm) - 5 (Rozhodn(cid:268) nesouhlas\u00edm) - 8 (Nev\u00ed) - 9 (Bez odpov\u011bdi)",
-    "model_response": "Final answer: @@4@@",
+    "model_response": "Final answer: 3 (Ani souhlas ani nesouhlas)",
     "status": "success"
   },
   {
@@ -464,7 +464,7 @@
     "variable": "v51",
     "option_text": NaN,
     "response_scale": "1 (Ano) - 2 (Ne) - 8 (Nev\u00ed) - 9 (Neodpov\u00eddl/a)",
-    "model_response": "Final answer: @@2@@",
+    "model_response": "Final answer: 1 (Ano)",
     "status": "success"
   },
   {
@@ -473,7 +473,7 @@
     "variable": "v52",
     "option_text": NaN,
     "response_scale": NaN,
-    "model_response": "Final answer: @@nan@@",
+    "model_response": "Final answer: @@Nev\u00edm@@",
     "status": "success"
   },
   {
@@ -482,7 +482,7 @@
     "variable": "v53",
     "option_text": NaN,
     "response_scale": "1 (Ano) - 2 (Ne) - 8 (Nev\u00ed) - 9 (Neodpov\u00eddl/a)",
-    "model_response": "Final answer: @@1@@",
+    "model_response": "Final answer: 2 (Ne)",
     "status": "success"
   },
   {
@@ -491,7 +491,7 @@
     "variable": "v54",
     "option_text": NaN,
     "response_scale": "1 (\u010cast(cid:268)ji ne\u017e jednou t\u00fddn(cid:268)) - 2 (Jednou t\u00fddn(cid:268)) - 3 (Jednou za m(cid:268)s\u00edc) - 4 (Pouze p(cid:284)i p(cid:284)\u00edle\u017eitosti zvl\u00e1\u0161tn\u00edch c\u00edrkevn\u00edch sv\u00e1tk\u016f) - 5 (Jednou za rok) - 6 (M\u00e9n(cid:268) \u010dasto) - 7 (Nikdy, v podstat(cid:268) nikdy) - 8 (Nev\u00ed) - 9 (Neodpov\u00eddl/a)",
-    "model_response": "Final answer: @@6@@",
+    "model_response": "Final answer: 6",
     "status": "success"
   },
   {
@@ -500,7 +500,7 @@
     "variable": "v55",
     "option_text": NaN,
     "response_scale": "1 (\u010cast(cid:268)ji ne\u017e jednou t\u00fddn(cid:268)) - 2 (Jednou t\u00fddn(cid:268)) - 3 (Jednou za m(cid:268)s\u00edc) - 4 (Pouze p(cid:284)i p(cid:284)\u00edle\u017eitosti zvl\u00e1\u0161tn\u00edch c\u00edrkevn\u00edch sv\u00e1tk\u016f) - 5 (Jednou za rok) - 6 (M\u00e9n(cid:268) \u010dasto) - 7 (Nikdy, v podstat(cid:268) nikdy) - 8 (Nev\u00ed) - 9 (Neodpov\u00eddl/a)",
-    "model_response": "Final answer: @@6@@",
+    "model_response": "Final answer: 6",
     "status": "success"
   },
   {
@@ -509,7 +509,7 @@
     "variable": "v56",
     "option_text": NaN,
     "response_scale": "1 (V(cid:268)(cid:284)\u00edc\u00ed) - 2 (Nev(cid:268)(cid:284)\u00edc\u00ed) - 3 (P(cid:284)esv(cid:268)d\u010den\u00fd ateista) - 8 (Nev\u00ed) - 9 (Neodpov\u00eddl/a)",
-    "model_response": "Final answer: @@1@@",
+    "model_response": "Final answer: 9 (Neodpov\u011bd\u011bl/a)",
     "status": "success"
   },
   {
@@ -518,7 +518,7 @@
     "variable": "v57",
     "option_text": NaN,
     "response_scale": "1 (B(cid:292)h) - 2 (Posmrtn\u00fd \u017eivot) - 3 (Peklo) - 4 (Nebe) - 8 (Nev\u00ed) - 9 (Neodpov\u00eddl/a)",
-    "model_response": "Final answer: @@8@@",
+    "model_response": "Final answer: 8 (Nev\u00ed)",
     "status": "success"
   },
   {
@@ -527,7 +527,7 @@
     "variable": "v58",
     "option_text": NaN,
     "response_scale": "1 (B(cid:292)h) - 2 (Posmrtn\u00fd \u017eivot) - 3 (Peklo) - 4 (Nebe) - 8 (Nev\u00ed) - 9 (Neodpov\u00eddl/a)",
-    "model_response": "Final answer: @@8@@",
+    "model_response": "Final answer: 8 (Nev\u00ed)",
     "status": "success"
   },
   {
@@ -536,7 +536,7 @@
     "variable": "v59",
     "option_text": NaN,
     "response_scale": "1 (B(cid:292)h) - 2 (Posmrtn\u00fd \u017eivot) - 3 (Peklo) - 4 (Nebe) - 8 (Nev\u00ed) - 9 (Neodpov\u00eddl/a)",
-    "model_response": "Final answer: @@8@@",
+    "model_response": "Final answer: 8 (Nev\u00ed)",
     "status": "success"
   },
   {
@@ -545,7 +545,7 @@
     "variable": "v60",
     "option_text": NaN,
     "response_scale": "1 (B(cid:292)h) - 2 (Posmrtn\u00fd \u017eivot) - 3 (Peklo) - 4 (Nebe) - 8 (Nev\u00ed) - 9 (Neodpov\u00eddl/a)",
-    "model_response": "Final answer: @@8@@",
+    "model_response": "Final answer: 9 (Neodpov\u011bd\u011bl/a)",
     "status": "success"
   },
   {
@@ -554,7 +554,7 @@
     "variable": "v61",
     "option_text": NaN,
     "response_scale": "1 (Ano) - 2 (Ne) - 8 (Nev\u00ed) - 9 (Neodpov\u00eddl/a)",
-    "model_response": "Final answer: 8@@",
+    "model_response": "Final answer: 1",
     "status": "success"
   },
   {
@@ -563,7 +563,7 @@
     "variable": "v62",
     "option_text": NaN,
     "response_scale": "1 (Existuje B(cid:292)h jako Osoba) - 2 (Existuje cosi jako duch nebo vy\u0161\u0161\u00ed moc) - 3 (Nev\u00edm, co si m\u00e1m myslet) - 4 (Skute\u010dn(cid:268) si nemysl\u00edm, \u017ee existuje n(cid:268)jak\u00fd druh duchovn\u00ed, bo\u017esk\u00e9 nebo vy\u0161\u0161\u00ed s\u00edly) - 8 (Nev\u00ed) - 9 (Neodpov\u00eddl/a)",
-    "model_response": "Final answer: 4",
+    "model_response": "Final answer: 2 (Existuje cosi jako duch nebo vy\u0161\u0161\u00ed moc)",
     "status": "success"
   },
   {
@@ -572,7 +572,7 @@
     "variable": "v63",
     "option_text": NaN,
     "response_scale": "1 (V(cid:292)bec ne d(cid:268)le\u017eit\u00fd) - 2 - 3 - 4 - 5 - 6 - 7 - 8 - 9 - 10 (Velmi d(cid:268)le\u017eit\u00fd) - 88 (Nev\u00ed) - 99 (Bez odpov\u011bdi)",
-    "model_response": "Final answer: @@5@@",
+    "model_response": "Final answer: 10 (Velmi d(cid:268)le\u017eit\u00fd)",
     "status": "success"
   },
   {
@@ -581,7 +581,7 @@
     "variable": "v64",
     "option_text": NaN,
     "response_scale": "1 (Ka\u017ed\u00fd den) - 2 (\u010cast(cid:268)ji ne\u017e jednou za t\u00fdden) - 3 (Jednou za t\u00fdden) - 4 (Alespo\u0148 jednou za m(cid:268)s\u00edc) - 5 (N(cid:268)kolikr\u00e1t za rok) - 6 (M\u00e9n(cid:268) \u010dasto) - 7 (Nikdy) - 8 (Nev\u00ed) - 9 (Neodpov\u00eddl/a)",
-    "model_response": "Final answer: @@5@@",
+    "model_response": "Final answer: 8",
     "status": "success"
   },
   {
@@ -590,7 +590,7 @@
     "variable": "v65",
     "option_text": "A V(cid:268)rnost",
     "response_scale": "1 (Velmi d(cid:268)le\u017eit\u00e1) - 2 (Docela d(cid:268)le\u017eit\u00e1) - 3 (Nep(cid:284)\u00edli\u0161 d(cid:268)le\u017eit\u00e1) - 8 (Nev\u00ed) - 9 (Bez odpov\u011bdi)",
-    "model_response": "Final answer: 1@@",
+    "model_response": "A V(cid:268)rnost\n\nFinal answer: 3",
     "status": "success"
   },
   {
@@ -599,7 +599,7 @@
     "variable": "v66",
     "option_text": "B P(cid:284)im(cid:268)(cid:284)en\u00fd p(cid:284)\u00edjem",
     "response_scale": "1 (Velmi d(cid:268)le\u017eit\u00e1) - 2 (Docela d(cid:268)le\u017eit\u00e1) - 3 (Nep(cid:284)\u00edli\u0161 d(cid:268)le\u017eit\u00e1) - 8 (Nev\u00ed) - 9 (Bez odpov\u011bdi)",
-    "model_response": "Final answer: 2@@",
+    "model_response": "Final answer: 2 (Docela d(cid:268)le\u017eit\u00e1)",
     "status": "success"
   },
   {
@@ -608,7 +608,7 @@
     "variable": "v67",
     "option_text": "C Dobr\u00e9 bydlen\u00ed",
     "response_scale": "1 (Velmi d(cid:268)le\u017eit\u00e1) - 2 (Docela d(cid:268)le\u017eit\u00e1) - 3 (Nep(cid:284)\u00edli\u0161 d(cid:268)le\u017eit\u00e1) - 8 (Nev\u00ed) - 9 (Bez odpov\u011bdi)",
-    "model_response": "Final answer: @@1@@",
+    "model_response": "Final answer: 3 (Nep(cid:284)\u00edli\u0161 d(cid:268)le\u017eit\u00e1)",
     "status": "success"
   },
   {
@@ -617,7 +617,7 @@
     "variable": "v68",
     "option_text": "D Sd\u00edlen\u00ed dom\u00e1c\u00edch prac\u00ed",
     "response_scale": "1 (Velmi d(cid:268)le\u017eit\u00e1) - 2 (Docela d(cid:268)le\u017eit\u00e1) - 3 (Nep(cid:284)\u00edli\u0161 d(cid:268)le\u017eit\u00e1) - 8 (Nev\u00ed) - 9 (Bez odpov\u011bdi)",
-    "model_response": "Final answer: @@1@@",
+    "model_response": "Final answer: 3 (Nep\u0159\u00edli\u0161 d\u016fle\u017eit\u00e1)",
     "status": "success"
   },
   {
@@ -626,7 +626,7 @@
     "variable": "v69",
     "option_text": "E D(cid:268)ti",
     "response_scale": "1 (Velmi d(cid:268)le\u017eit\u00e1) - 2 (Docela d(cid:268)le\u017eit\u00e1) - 3 (Nep(cid:284)\u00edli\u0161 d(cid:268)le\u017eit\u00e1) - 8 (Nev\u00ed) - 9 (Bez odpov\u011bdi)",
-    "model_response": "Final answer: 3@@",
+    "model_response": "Final answer: 2",
     "status": "success"
   },
   {
@@ -635,7 +635,7 @@
     "variable": "v70",
     "option_text": "F M\u00edt n(cid:268)jak\u00fd \u010das pro sv\u00e9 vlastn\u00ed p(cid:284)\u00e1tele a pro sv\u00e9 vlastn\u00ed kon\u00ed\u010dky/\u010dinnosti",
     "response_scale": "1 (Velmi d(cid:268)le\u017eit\u00e1) - 2 (Docela d(cid:268)le\u017eit\u00e1) - 3 (Nep(cid:284)\u00edli\u0161 d(cid:268)le\u017eit\u00e1) - 8 (Nev\u00ed) - 9 (Bez odpov\u011bdi)",
-    "model_response": "Final answer: 1@@",
+    "model_response": "Final answer: 2 (Docela d(cid:268)le\u017eit\u00e1)",
     "status": "success"
   },
   {
@@ -644,7 +644,7 @@
     "variable": "v71",
     "option_text": NaN,
     "response_scale": "1 (Souhlas\u00ed) - 2 (Nesouhlas\u00ed) - 8 (Nev\u00ed) - 9 (Neodpov\u00eddl/a)",
-    "model_response": "Final answer: @@2@@",
+    "model_response": "Final answer: 2 (Nesouhlas\u00ed)",
     "status": "success"
   },
   {
@@ -653,7 +653,7 @@
     "variable": "v72",
     "option_text": "D(cid:268)ti trp\u00ed, jestli\u017ee jejich matka je zam(cid:268)stnan\u00e1.",
     "response_scale": "1 (Rozhodn(cid:268) souhlas\u00edm) - 2 (Souhlas\u00edm) - 3 (Ani souhlas ani nesouhlas) - 4 (Nesouhlas\u00edm) - 5 (Rozhodn(cid:268) nesouhlas\u00edm) - 8 (Nev\u00ed) - 9 (Bez odpov\u011bdi)",
-    "model_response": "Final answer: @@5@@",
+    "model_response": "Final answer: 4 (Nesouhlas\u00edm)",
     "status": "success"
   },
   {
@@ -662,7 +662,7 @@
     "variable": "v73",
     "option_text": "Zam(cid:268)stn\u00e1n\u00ed je dobr\u00e1 v(cid:268)c, po \u010dem v\u0161ak v(cid:268)t\u0161ina \u017een opravdu tou\u017e\u00ed, je domov a d(cid:268)ti.",
     "response_scale": "1 (Rozhodn(cid:268) souhlas\u00edm) - 2 (Souhlas\u00edm) - 3 (Ani souhlas ani nesouhlas) - 4 (Nesouhlas\u00edm) - 5 (Rozhodn(cid:268) nesouhlas\u00edm) - 8 (Nev\u00ed) - 9 (Bez odpov\u011bdi)",
-    "model_response": "Final answer: @@5@@",
+    "model_response": "Final answer: 2 (Souhlas\u00edm)",
     "status": "success"
   },
   {
@@ -671,7 +671,7 @@
     "variable": "v74",
     "option_text": "Celkov(cid:268) vzato, rodinn\u00fd \u017eivot trp\u00ed, jestli\u017ee je \u017eena zam(cid:268)stnan\u00e1 na pln\u00fd \u00favazek",
     "response_scale": "1 (Rozhodn(cid:268) souhlas\u00edm) - 2 (Souhlas\u00edm) - 3 (Ani souhlas ani nesouhlas) - 4 (Nesouhlas\u00edm) - 5 (Rozhodn(cid:268) nesouhlas\u00edm) - 8 (Nev\u00ed) - 9 (Bez odpov\u011bdi)",
-    "model_response": "Final answer: @@4@@",
+    "model_response": "Final answer: 4 (Nesouhlas\u00edm)",
     "status": "success"
   },
   {
@@ -680,7 +680,7 @@
     "variable": "v75",
     "option_text": "\u00dakolem mu\u017ee je vyd(cid:268)l\u00e1vat pen\u00edze, \u00fakolem \u017eeny je starat se o dom\u00e1cnost a rodinu.",
     "response_scale": "1 (Rozhodn(cid:268) souhlas\u00edm) - 2 (Souhlas\u00edm) - 3 (Ani souhlas ani nesouhlas) - 4 (Nesouhlas\u00edm) - 5 (Rozhodn(cid:268) nesouhlas\u00edm) - 8 (Nev\u00ed) - 9 (Bez odpov\u011bdi)",
-    "model_response": "Final answer: @@5@@",
+    "model_response": "Final answer: 4 (Nesouhlas\u00edm)",
     "status": "success"
   },
   {
@@ -689,7 +689,7 @@
     "variable": "v76",
     "option_text": "Celkov(cid:268) vzato, mu\u017ei jsou lep\u0161\u00edmi politick\u00fdmi v(cid:268)dci, ne\u017e \u017eeny",
     "response_scale": "1 (Rozhodn(cid:268) souhlas\u00edm) - 2 (Souhlas\u00edm) - 3 (Ani souhlas ani nesouhlas) - 4 (Nesouhlas\u00edm) - 5 (Rozhodn(cid:268) nesouhlas\u00edm) - 8 (Nev\u00ed) - 9 (Bez odpov\u011bdi)",
-    "model_response": "Final answer: 4@@",
+    "model_response": "Final answer: 4",
     "status": "success"
   },
   {
@@ -698,7 +698,7 @@
     "variable": "v77",
     "option_text": "Vysoko\u0161kolsk\u00e9 vzd(cid:268)l\u00e1n\u00ed je d(cid:268)le\u017eit(cid:268)j\u0161\u00ed pro chlapce sp\u00ed\u0161e ne\u017e pro d\u00edvky",
     "response_scale": "1 (Rozhodn(cid:268) souhlas\u00edm) - 2 (Souhlas\u00edm) - 3 (Ani souhlas ani nesouhlas) - 4 (Nesouhlas\u00edm) - 5 (Rozhodn(cid:268) nesouhlas\u00edm) - 8 (Nev\u00ed) - 9 (Bez odpov\u011bdi)",
-    "model_response": "Final answer: @@5@@",
+    "model_response": "Final answer: 5 (Rozhodn\u011b nesouhlas\u00edm)",
     "status": "success"
   },
   {
@@ -707,7 +707,7 @@
     "variable": "v78",
     "option_text": "Celkov(cid:268) vzato, mu\u017ei jsou lep\u0161\u00edmi \u0161\u00e9fy firem, ne\u017e \u017eeny",
     "response_scale": "1 (Rozhodn(cid:268) souhlas\u00edm) - 2 (Souhlas\u00edm) - 3 (Ani souhlas ani nesouhlas) - 4 (Nesouhlas\u00edm) - 5 (Rozhodn(cid:268) nesouhlas\u00edm) - 8 (Nev\u00ed) - 9 (Bez odpov\u011bdi)",
-    "model_response": "Final answer: 4",
+    "model_response": "Final answer: 4 - Nesouhlas\u00edm",
     "status": "success"
   },
   {
@@ -716,7 +716,7 @@
     "variable": "v79",
     "option_text": "Jeden z m\u00fdch hlavn\u00edch \u017eivotn\u00edch c\u00edl(cid:292) je, aby na mn(cid:268) rodi\u010de byli hrd\u00ed.",
     "response_scale": "1 (Rozhodn(cid:268) souhlas\u00edm) - 2 (Souhlas\u00edm) - 3 (Ani souhlas ani nesouhlas) - 4 (Nesouhlas\u00edm) - 5 (Rozhodn(cid:268) nesouhlas\u00edm) - 8 (Nev\u00ed) - 9 (Bez odpov\u011bdi)",
-    "model_response": "Final answer: @@2@@",
+    "model_response": "Final answer: 2",
     "status": "success"
   },
   {
@@ -725,7 +725,7 @@
     "variable": "v80",
     "option_text": "Kdy\u017e je nedostatek pracovn\u00edch p(cid:284)\u00edle\u017eitost\u00ed, zam(cid:268)stnavatel\u00e9 by m(cid:268)li d\u00e1t p(cid:284)ednost \u010cech\u016fm p(cid:284)ed p(cid:284)ist(cid:268)hovalci.",
     "response_scale": "1 (Rozhodn(cid:268) souhlas\u00edm) - 2 (Souhlas\u00edm) - 3 (Ani souhlas ani nesouhlas) - 4 (Nesouhlas\u00edm) - 5 (Rozhodn(cid:268) nesouhlas\u00edm) - 8 (Nev\u00ed) - 9 (Bez odpov\u011bdi)",
-    "model_response": "Final answer: @@4@@",
+    "model_response": "Final answer: 3 (Ani souhlas ani nesouhlas)",
     "status": "success"
   },
   {
@@ -734,7 +734,7 @@
     "variable": "v81",
     "option_text": "Kdy\u017e je nedostatek pracovn\u00edch p(cid:284)\u00edle\u017eitost\u00ed, mu\u017ei maj\u00ed na pr\u00e1ci v(cid:268)t\u0161\u00ed pr\u00e1vo ne\u017e \u017eeny.",
     "response_scale": "1 (Rozhodn(cid:268) souhlas\u00edm) - 2 (Souhlas\u00edm) - 3 (Ani souhlas ani nesouhlas) - 4 (Nesouhlas\u00edm) - 5 (Rozhodn(cid:268) nesouhlas\u00edm) - 8 (Nev\u00ed) - 9 (Bez odpov\u011bdi)",
-    "model_response": "Final answer: @@5@@",
+    "model_response": "Final answer: 4",
     "status": "success"
   },
   {
@@ -743,7 +743,7 @@
     "variable": "v82",
     "option_text": "Homosexu\u00e1ln\u00ed p\u00e1ry jsou stejn\u00fdmi dobr\u00fdmi rodi\u010di jako jin\u00e9 p\u00e1ry",
     "response_scale": "1 (Rozhodn(cid:268) souhlas\u00edm) - 2 (Souhlas\u00edm) - 3 (Ani souhlas ani nesouhlas) - 4 (Nesouhlas\u00edm) - 5 (Rozhodn(cid:268) nesouhlas\u00edm) - 8 (Nev\u00ed) - 9 (Bez odpov\u011bdi)",
-    "model_response": "Final answer: @@2@@",
+    "model_response": "Final answer: 5 (Rozhodn\u011b nesouhlas\u00edm)",
     "status": "success"
   },
   {
@@ -752,7 +752,7 @@
     "variable": "v83",
     "option_text": "Lid\u00e9, kte(cid:284)\u00ed nepracuj\u00ed, zleniv\u00ed.",
     "response_scale": "1 (Rozhodn(cid:268) souhlas\u00edm) - 2 (Souhlas\u00edm) - 3 (Ani souhlas ani nesouhlas) - 4 (Nesouhlas\u00edm) - 5 (Rozhodn(cid:268) nesouhlas\u00edm) - 8 (Nev\u00ed) - 9 (Bez odpov\u011bdi)",
-    "model_response": "Final answer: 4@@",
+    "model_response": "Final answer: 4 (Nesouhlas\u00edm)",
     "status": "success"
   },
   {
@@ -761,7 +761,7 @@
     "variable": "v84",
     "option_text": "Kdy\u017e je rodi\u010d dlouhodob(cid:268) nemocen, je povinnost\u00ed jeho dosp(cid:268)l\u00e9ho d\u00edt(cid:268)te postarat se o n(cid:268)j.",
     "response_scale": "1 (Rozhodn(cid:268) souhlas\u00edm) - 2 (Souhlas\u00edm) - 3 (Ani souhlas ani nesouhlas) - 4 (Nesouhlas\u00edm) - 5 (Rozhodn(cid:268) nesouhlas\u00edm) - 8 (Nev\u00ed) - 9 (Bez odpov\u011bdi)",
-    "model_response": "Final answer: @@2@@",
+    "model_response": "Final answer: 4 (Nesouhlas\u00edm)",
     "status": "success"
   },
   {
@@ -770,7 +770,7 @@
     "variable": "v85",
     "option_text": "A Slu\u0161nost",
     "response_scale": "1 (Zm\u00ednil/a) - 2 (Nezm\u00ednil/a) - 8 (Nev\u00ed) - 9 (Bez odpov\u011bdi)",
-    "model_response": "Final answer: @@1@@",
+    "model_response": "Final answer: 8 (Nev\u00ed)",
     "status": "success"
   },
   {
@@ -779,7 +779,7 @@
     "variable": "v86",
     "option_text": "B Samostatnost",
     "response_scale": "1 (Zm\u00ednil/a) - 2 (Nezm\u00ednil/a) - 8 (Nev\u00ed) - 9 (Bez odpov\u011bdi)",
-    "model_response": "Final answer: @@1@@",
+    "model_response": "Final answer: 1",
     "status": "success"
   },
   {
@@ -788,7 +788,7 @@
     "variable": "v87",
     "option_text": "C Pracovitost",
     "response_scale": "1 (Zm\u00ednil/a) - 2 (Nezm\u00ednil/a) - 8 (Nev\u00ed) - 9 (Bez odpov\u011bdi)",
-    "model_response": "Final answer: 1@@",
+    "model_response": "Final answer: 2",
     "status": "success"
   },
   {
@@ -797,7 +797,7 @@
     "variable": "v88",
     "option_text": "D Pocit odpov(cid:268)dnosti",
     "response_scale": "1 (Zm\u00ednil/a) - 2 (Nezm\u00ednil/a) - 8 (Nev\u00ed) - 9 (Bez odpov\u011bdi)",
-    "model_response": "Final answer: @@1@@",
+    "model_response": "Final answer: 9 (Bez odpov\u011bdi)",
     "status": "success"
   },
   {
@@ -806,7 +806,7 @@
     "variable": "v89",
     "option_text": "E P(cid:284)edstavivost",
     "response_scale": "1 (Zm\u00ednil/a) - 2 (Nezm\u00ednil/a) - 8 (Nev\u00ed) - 9 (Bez odpov\u011bdi)",
-    "model_response": "Final answer: @@1@@",
+    "model_response": "Final answer: 9 (Bez odpov\u011bdi)",
     "status": "success"
   },
   {
@@ -815,7 +815,7 @@
     "variable": "v90",
     "option_text": "F Sn\u00e1\u0161enlivost a ohleduplnost k jin\u00fdm lidem",
     "response_scale": "1 (Zm\u00ednil/a) - 2 (Nezm\u00ednil/a) - 8 (Nev\u00ed) - 9 (Bez odpov\u011bdi)",
-    "model_response": "Final answer: @@1@@",
+    "model_response": "Final answer: 2",
     "status": "success"
   },
   {
@@ -824,7 +824,7 @@
     "variable": "v91",
     "option_text": "G Spo(cid:284)ivost, \u0161etrn\u00e9 hospoda(cid:284)en\u00ed s pen(cid:268)zi a v(cid:268)cmi",
     "response_scale": "1 (Zm\u00ednil/a) - 2 (Nezm\u00ednil/a) - 8 (Nev\u00ed) - 9 (Bez odpov\u011bdi)",
-    "model_response": "Final answer: 1@@",
+    "model_response": "Final answer: 2",
     "status": "success"
   },
   {
@@ -833,7 +833,7 @@
     "variable": "v92",
     "option_text": "H Odhodl\u00e1n\u00ed, vytrvalost",
     "response_scale": "1 (Zm\u00ednil/a) - 2 (Nezm\u00ednil/a) - 8 (Nev\u00ed) - 9 (Bez odpov\u011bdi)",
-    "model_response": "Final answer: 1@@",
+    "model_response": "Final answer: 1",
     "status": "success"
   },
   {
@@ -842,7 +842,7 @@
     "variable": "v93",
     "option_text": "I N\u00e1bo\u017eensk\u00e1 v\u00edra",
     "response_scale": "1 (Zm\u00ednil/a) - 2 (Nezm\u00ednil/a) - 8 (Nev\u00ed) - 9 (Bez odpov\u011bdi)",
-    "model_response": "Final answer: @@2@@",
+    "model_response": "Final answer: 1",
     "status": "success"
   },
   {
@@ -851,7 +851,7 @@
     "variable": "v94",
     "option_text": "J Nesobeckost",
     "response_scale": "1 (Zm\u00ednil/a) - 2 (Nezm\u00ednil/a) - 8 (Nev\u00ed) - 9 (Bez odpov\u011bdi)",
-    "model_response": "Final answer: @@1@@",
+    "model_response": "Final answer: 9",
     "status": "success"
   },
   {
@@ -860,7 +860,7 @@
     "variable": "v95",
     "option_text": "K Poslu\u0161nost",
     "response_scale": "1 (Zm\u00ednil/a) - 2 (Nezm\u00ednil/a) - 8 (Nev\u00ed) - 9 (Bez odpov\u011bdi)",
-    "model_response": "Final answer: 1",
+    "model_response": "Final answer: 2",
     "status": "success"
   },
   {
@@ -869,7 +869,7 @@
     "variable": "v96",
     "option_text": "\u017d\u00e1dn\u00fd",
     "response_scale": "1 (Zm\u00ednil/a) - 2 (Nezm\u00ednil/a) - 8 (Nev\u00ed) - 9 (Bez odpov\u011bdi)",
-    "model_response": "Final answer: @@1@@",
+    "model_response": "Final answer: 8 (Bez odpov\u011bdi)",
     "status": "success"
   },
   {
@@ -878,7 +878,7 @@
     "variable": "v97",
     "option_text": NaN,
     "response_scale": "1 (Velice se zaj\u00edm\u00e1m) - 2 (Trochu se zaj\u00edm\u00e1m) - 3 (P(cid:284)\u00edli\u0161 se nezaj\u00edm\u00e1m) - 4 (V\u016fbec se nezaj\u00edm\u00e1m) - 8 (Nev\u00ed) - 9 (Neodpov\u00eddl/a)",
-    "model_response": "Final answer: 3@@",
+    "model_response": "Final answer: 3 (P\u0159\u00edli\u0161 se nezaj\u00edm\u00e1m)",
     "status": "success"
   },
   {
@@ -887,7 +887,7 @@
     "variable": "v98",
     "option_text": "A. Podpis petice",
     "response_scale": "1 (D(cid:268)lal/a jsem) - 2 (D(cid:268)lal/a bych) - 3 (Nikdy bych ned(cid:268)lal/a) - 8 (Nev\u00ed) - 9 (Bez odpov\u011bdi)",
-    "model_response": "Final answer: 1@@",
+    "model_response": "Final answer: 1",
     "status": "success"
   },
   {
@@ -896,7 +896,7 @@
     "variable": "v99",
     "option_text": "B. \u00da\u010dast na bojkotu",
     "response_scale": "1 (D(cid:268)lal/a jsem) - 2 (D(cid:268)lal/a bych) - 3 (Nikdy bych ned(cid:268)lal/a) - 8 (Nev\u00ed) - 9 (Bez odpov\u011bdi)",
-    "model_response": "Final answer: @@3@@",
+    "model_response": "Final answer: 3. Nikdy bych ned\u011blal/a",
     "status": "success"
   },
   {
@@ -905,7 +905,7 @@
     "variable": "v100",
     "option_text": "C. \u00da\u010dast na povolen\u00e9 demonstraci",
     "response_scale": "1 (D(cid:268)lal/a jsem) - 2 (D(cid:268)lal/a bych) - 3 (Nikdy bych ned(cid:268)lal/a) - 8 (Nev\u00ed) - 9 (Bez odpov\u011bdi)",
-    "model_response": "Final answer: 2@@",
+    "model_response": "Final answer: 1",
     "status": "success"
   },
   {
@@ -914,7 +914,7 @@
     "variable": "v101",
     "option_text": "D. \u00da\u010dast v neofici\u00e1ln\u00ed st\u00e1vce",
     "response_scale": "1 (D(cid:268)lal/a jsem) - 2 (D(cid:268)lal/a bych) - 3 (Nikdy bych ned(cid:268)lal/a) - 8 (Nev\u00ed) - 9 (Bez odpov\u011bdi)",
-    "model_response": "Final answer: 3@@",
+    "model_response": "Final answer: 2. D(cid:268)lal(a) bych.",
     "status": "success"
   },
   {
@@ -923,7 +923,7 @@
     "variable": "v102",
     "option_text": NaN,
     "response_scale": "1 (Levice) - 2 - 3 - 4 - 5 - 6 - 7 - 8 - 9 - 10 (Pravice) - 88 (Nev\u00ed) - 99 (Bez odpov\u011bdi)",
-    "model_response": "Final answer: 5@@",
+    "model_response": "Final answer: 8",
     "status": "success"
   },
   {
@@ -932,7 +932,7 @@
     "variable": "v103",
     "option_text": "A",
     "response_scale": "1 (Jednotlivci by m(cid:268)li p(cid:284)evz\u00edt v\u00edce odpov(cid:268)dnosti, aby se o sebe dok\u00e1zali postarat) - 2 - 3 - 4 - 5 - 6 - 7 - 8 - 9 - 10 (St\u00e1t by m(cid:268)l p(cid:284)evz\u00edt v\u00edce odpov(cid:268)dnosti a zajistit, aby bylo o ka\u017ed\u00e9ho postar\u00e1no) - 88 (Nev\u00ed) - 99 (Bez odpov\u011bdi)",
-    "model_response": "Final answer: 6@@",
+    "model_response": "Final answer: 8",
     "status": "success"
   },
   {
@@ -941,7 +941,7 @@
     "variable": "v104",
     "option_text": "B",
     "response_scale": "1 (Nezam(cid:268)stnan\u00ed by m(cid:268)li m\u00edt povinnost p(cid:284)ijmout jakoukoli pr\u00e1ci, kter\u00e1 je k dispozici, nebo ztratit podporu v nezam(cid:268)stnanosti) - 2 - 3 - 4 - 5 - 6 - 7 - 8 - 9 - 10 (Nezam(cid:268)stnan\u00ed by m(cid:268)li m\u00edt pr\u00e1vo odm\u00edtnout zam(cid:268)stn\u00e1n\u00ed, kter\u00e9 necht(cid:268)j\u00ed vykon\u00e1vat) - 88 (Nev\u00ed) - 99 (Bez odpov\u011bdi)",
-    "model_response": "Final answer: 6@@",
+    "model_response": "B 4",
     "status": "success"
   },
   {
@@ -950,7 +950,7 @@
     "variable": "v105",
     "option_text": "C",
     "response_scale": "1 (Konkurence je dobr\u00e1) - 2 - 3 - 4 - 5 - 6 - 7 - 8 - 9 - 10 (Konkurence je \u0161kodliv\u00e1) - 88 (Nev\u00ed) - 99 (Bez odpov\u011bdi)",
-    "model_response": "Final answer: 3@@",
+    "model_response": "Final answer: 6",
     "status": "success"
   },
   {
@@ -959,7 +959,7 @@
     "variable": "v106",
     "option_text": "D",
     "response_scale": "1 (P(cid:284)\u00edjmy by m(cid:268)ly b\u00fdt vyrovnan(cid:268)j\u0161\u00ed) - 2 - 3 - 4 - 5 - 6 - 7 - 8 - 9 - 10 (M(cid:268)lo by se v\u00edce podn\u00edtit \u00fasil\u00ed jednotlivce) - 88 (Nev\u00ed) - 99 (Bez odpov\u011bdi)",
-    "model_response": "Final answer: 5@@",
+    "model_response": "Final answer: 8",
     "status": "success"
   },
   {
@@ -968,7 +968,7 @@
     "variable": "v107",
     "option_text": "E",
     "response_scale": "1 (Soukrom\u00e9 vlastnictv\u00ed obchodu a pr\u016fmyslu by m(cid:268)lo vzr\u016fst) - 2 - 3 - 4 - 5 - 6 - 7 - 8 - 9 - 10 (St\u00e1tn\u00ed vlastnictv\u00ed obchodu a pr\u016fmyslu by m(cid:268)lo vzr\u016fst) - 88 (Nev\u00ed) - 99 (Bez odpov\u011bdi)",
-    "model_response": "Final answer: 5@@",
+    "model_response": "Final answer: 8",
     "status": "success"
   },
   {
@@ -977,7 +977,7 @@
     "variable": "v108",
     "option_text": NaN,
     "response_scale": NaN,
-    "model_response": "Final answer: @@nan@@",
+    "model_response": "Final answer: nan",
     "status": "success"
   },
   {
@@ -986,7 +986,7 @@
     "variable": "v109",
     "option_text": NaN,
     "response_scale": NaN,
-    "model_response": "Final answer: @@nan@@",
+    "model_response": "Final answer: v109",
     "status": "success"
   },
   {
@@ -995,7 +995,7 @@
     "variable": "v110",
     "option_text": NaN,
     "response_scale": NaN,
-    "model_response": "Final answer: @@nan@@",
+    "model_response": "Final answer: nan",
     "status": "success"
   },
   {
@@ -1004,7 +1004,7 @@
     "variable": "v111",
     "option_text": NaN,
     "response_scale": NaN,
-    "model_response": "Final answer: @@nan@@",
+    "model_response": "Final answer: nan",
     "status": "success"
   },
   {
@@ -1013,7 +1013,7 @@
     "variable": "v112",
     "option_text": NaN,
     "response_scale": "1 (Ano) - 2 (Ne) - 8 (Nev\u00ed) - 9 (Neodpov\u00eddl/a)",
-    "model_response": "Final answer: 1@@",
+    "model_response": "Final answer: 1",
     "status": "success"
   },
   {
@@ -1022,7 +1022,7 @@
     "variable": "v113",
     "option_text": "Men\u0161\u00ed d(cid:268)raz na pr\u00e1ci v na\u0161em \u017eivot(cid:268)",
     "response_scale": "1 (Dobr\u00e1) - 2 (\u0160patn\u00e1) - 3 (Je mi to jedno) - 8 (Nev\u00ed) - 9 (Bez odpov\u011bdi)",
-    "model_response": "Final answer: @@1@@",
+    "model_response": "Final answer: 3 (Je mi to jedno)",
     "status": "success"
   },
   {
@@ -1031,7 +1031,7 @@
     "variable": "v114",
     "option_text": "V(cid:268)t\u0161\u00ed respekt k autorit\u00e1m",
     "response_scale": "1 (Dobr\u00e1) - 2 (\u0160patn\u00e1) - 3 (Je mi to jedno) - 8 (Nev\u00ed) - 9 (Bez odpov\u011bdi)",
-    "model_response": "Final answer: @@3@@",
+    "model_response": "Final answer: 3 (Je mi to jedno)",
     "status": "success"
   },
   {
@@ -1040,7 +1040,7 @@
     "variable": "v115",
     "option_text": "A C\u00edrkev",
     "response_scale": "1 (Velmi vysokou) - 2 (Vysokou) - 3 (Ne moc vysokou) - 4 (V\u016fbec nev(cid:268)\u0159\u00edte) - 8 (Nev\u00ed) - 9 (Bez odpov\u011bdi)",
-    "model_response": "Final answer: @@3@@",
+    "model_response": "Final answer: 5 (V\u016fbec nev\u00edm)",
     "status": "success"
   },
   {
@@ -1049,7 +1049,7 @@
     "variable": "v116",
     "option_text": "B Ozbrojen\u00e9 s\u00edly",
     "response_scale": "1 (Velmi vysokou) - 2 (Vysokou) - 3 (Ne moc vysokou) - 4 (V\u016fbec nev(cid:268)\u0159\u00edte) - 8 (Nev\u00ed) - 9 (Bez odpov\u011bdi)",
-    "model_response": "Final answer: @@1@@",
+    "model_response": "Final answer: 2 (Vysokou)",
     "status": "success"
   },
   {
@@ -1058,7 +1058,7 @@
     "variable": "v117",
     "option_text": "C \u0160kolstv\u00ed",
     "response_scale": "1 (Velmi vysokou) - 2 (Vysokou) - 3 (Ne moc vysokou) - 4 (V\u016fbec nev(cid:268)\u0159\u00edte) - 8 (Nev\u00ed) - 9 (Bez odpov\u011bdi)",
-    "model_response": "Final answer: @@2@@",
+    "model_response": "Final answer: 2 (Vysokou)",
     "status": "success"
   },
   {
@@ -1067,7 +1067,7 @@
     "variable": "v118",
     "option_text": "D Tisk",
     "response_scale": "1 (Velmi vysokou) - 2 (Vysokou) - 3 (Ne moc vysokou) - 4 (V\u016fbec nev(cid:268)\u0159\u00edte) - 8 (Nev\u00ed) - 9 (Bez odpov\u011bdi)",
-    "model_response": "Final answer: 3@@",
+    "model_response": "Final answer: 2 (Vysokou)",
     "status": "success"
   },
   {
@@ -1076,7 +1076,7 @@
     "variable": "v119",
     "option_text": "E Odbory",
     "response_scale": "1 (Velmi vysokou) - 2 (Vysokou) - 3 (Ne moc vysokou) - 4 (V\u016fbec nev(cid:268)\u0159\u00edte) - 8 (Nev\u00ed) - 9 (Bez odpov\u011bdi)",
-    "model_response": "Final answer: 3@@",
+    "model_response": "Final answer: 4 (V\u016fbec nev\u00edm)",
     "status": "success"
   },
   {
@@ -1085,7 +1085,7 @@
     "variable": "v120",
     "option_text": "F Policie",
     "response_scale": "1 (Velmi vysokou) - 2 (Vysokou) - 3 (Ne moc vysokou) - 4 (V\u016fbec nev(cid:268)\u0159\u00edte) - 8 (Nev\u00ed) - 9 (Bez odpov\u011bdi)",
-    "model_response": "Final answer: 3@@",
+    "model_response": "Final answer: 4",
     "status": "success"
   },
   {
@@ -1094,7 +1094,7 @@
     "variable": "v121",
     "option_text": "G Poslaneck\u00e1 sn(cid:268)movna",
     "response_scale": "1 (Velmi vysokou) - 2 (Vysokou) - 3 (Ne moc vysokou) - 4 (V\u016fbec nev(cid:268)\u0159\u00edte) - 8 (Nev\u00ed) - 9 (Bez odpov\u011bdi)",
-    "model_response": "Final answer: @@3@@",
+    "model_response": "Final answer: 1",
     "status": "success"
   },
   {
@@ -1103,7 +1103,7 @@
     "variable": "v122",
     "option_text": "H St\u00e1tn\u00ed spr\u00e1va, \u00fa(cid:284)ady",
     "response_scale": "1 (Velmi vysokou) - 2 (Vysokou) - 3 (Ne moc vysokou) - 4 (V\u016fbec nev(cid:268)\u0159\u00edte) - 8 (Nev\u00ed) - 9 (Bez odpov\u011bdi)",
-    "model_response": "Final answer: 3@@",
+    "model_response": "Final answer: 1 (Velmi vysokou)",
     "status": "success"
   },
   {
@@ -1112,7 +1112,7 @@
     "variable": "v123",
     "option_text": "I Syst\u00e9m soci\u00e1ln\u00edho zabezpe\u010den\u00ed",
     "response_scale": "1 (Velmi vysokou) - 2 (Vysokou) - 3 (Ne moc vysokou) - 4 (V\u016fbec nev(cid:268)\u0159\u00edte) - 8 (Nev\u00ed) - 9 (Bez odpov\u011bdi)",
-    "model_response": "Final answer: @@1@@",
+    "model_response": "Final answer: 8 (Nev\u00ed)",
     "status": "success"
   },
   {
@@ -1121,7 +1121,7 @@
     "variable": "v124",
     "option_text": "J Evropsk\u00e1 unie",
     "response_scale": "1 (Velmi vysokou) - 2 (Vysokou) - 3 (Ne moc vysokou) - 4 (V\u016fbec nev(cid:268)\u0159\u00edte) - 8 (Nev\u00ed) - 9 (Bez odpov\u011bdi)",
-    "model_response": "Final answer: @@2@@",
+    "model_response": "Final answer: 1 (Velmi vysokou)",
     "status": "success"
   },
   {
@@ -1130,7 +1130,7 @@
     "variable": "v125",
     "option_text": "K Organizace spojen\u00fdch n\u00e1rod\u016f (OSN)",
     "response_scale": "1 (Velmi vysokou) - 2 (Vysokou) - 3 (Ne moc vysokou) - 4 (V\u016fbec nev(cid:268)\u0159\u00edte) - 8 (Nev\u00ed) - 9 (Bez odpov\u011bdi)",
-    "model_response": "Final answer: 2@@",
+    "model_response": "Final answer: 4 (V\u016fbec nev\u00edm)",
     "status": "success"
   },
   {
@@ -1139,7 +1139,7 @@
     "variable": "v126",
     "option_text": "L Syst\u00e9m zdravotn\u00ed p\u00e9\u010de",
     "response_scale": "1 (Velmi vysokou) - 2 (Vysokou) - 3 (Ne moc vysokou) - 4 (V\u016fbec nev(cid:268)\u0159\u00edte) - 8 (Nev\u00ed) - 9 (Bez odpov\u011bdi)",
-    "model_response": "Final answer: 2@@",
+    "model_response": "Final answer: 2 (Vysokou)",
     "status": "success"
   },
   {
@@ -1148,7 +1148,7 @@
     "variable": "v127",
     "option_text": "M Pr\u00e1vn\u00ed syst\u00e9m",
     "response_scale": "1 (Velmi vysokou) - 2 (Vysokou) - 3 (Ne moc vysokou) - 4 (V\u016fbec nev(cid:268)\u0159\u00edte) - 8 (Nev\u00ed) - 9 (Bez odpov\u011bdi)",
-    "model_response": "Final answer: @@1@@",
+    "model_response": "Final answer: 2 (Vysokou)",
     "status": "success"
   },
   {
@@ -1157,7 +1157,7 @@
     "variable": "v128",
     "option_text": "N Velk\u00e9 podniky a spole\u010dnosti",
     "response_scale": "1 (Velmi vysokou) - 2 (Vysokou) - 3 (Ne moc vysokou) - 4 (V\u016fbec nev(cid:268)\u0159\u00edte) - 8 (Nev\u00ed) - 9 (Bez odpov\u011bdi)",
-    "model_response": "Final answer: @@3@@",
+    "model_response": "Final answer: 4 (V\u016fbec nev\u00edm)",
     "status": "success"
   },
   {
@@ -1166,7 +1166,7 @@
     "variable": "v129",
     "option_text": "O Ekologick\u00e9 organizace",
     "response_scale": "1 (Velmi vysokou) - 2 (Vysokou) - 3 (Ne moc vysokou) - 4 (V\u016fbec nev(cid:268)\u0159\u00edte) - 8 (Nev\u00ed) - 9 (Bez odpov\u011bdi)",
-    "model_response": "Final answer: @@1@@",
+    "model_response": "Final answer: 2 (Vysokou)",
     "status": "success"
   },
   {
@@ -1175,7 +1175,7 @@
     "variable": "v130",
     "option_text": "P Politick\u00e9 strany",
     "response_scale": "1 (Velmi vysokou) - 2 (Vysokou) - 3 (Ne moc vysokou) - 4 (V\u016fbec nev(cid:268)\u0159\u00edte) - 8 (Nev\u00ed) - 9 (Bez odpov\u011bdi)",
-    "model_response": "Final answer: @@4@@",
+    "model_response": "Final answer: 2 (Vysokou)",
     "status": "success"
   },
   {
@@ -1184,7 +1184,7 @@
     "variable": "v131",
     "option_text": "Q Vl\u00e1da",
     "response_scale": "1 (Velmi vysokou) - 2 (Vysokou) - 3 (Ne moc vysokou) - 4 (V\u016fbec nev(cid:268)\u0159\u00edte) - 8 (Nev\u00ed) - 9 (Bez odpov\u011bdi)",
-    "model_response": "Final answer: @@3@@",
+    "model_response": "Final answer: 1",
     "status": "success"
   },
   {
@@ -1193,7 +1193,7 @@
     "variable": "v132",
     "option_text": "R Soci\u00e1ln\u00ed s\u00edt(cid:268)",
     "response_scale": "1 (Velmi vysokou) - 2 (Vysokou) - 3 (Ne moc vysokou) - 4 (V\u016fbec nev(cid:268)\u0159\u00edte) - 8 (Nev\u00ed) - 9 (Bez odpov\u011bdi)",
-    "model_response": "Final answer: @@1@@",
+    "model_response": "Final answer: 2 (Vysokou)",
     "status": "success"
   },
   {
@@ -1202,7 +1202,7 @@
     "variable": "v133",
     "option_text": NaN,
     "response_scale": "1 (Zd\u00e1 se mi lep\u0161\u00ed, kdy\u017e je d\u00edt(cid:268) s jedn\u00edm z rodi\u010d(cid:292).) - 2 (Zd\u00e1 se mi lep\u0161\u00ed st(cid:284)\u00eddav\u00e1 p\u00e9\u010de) - 3 (Jin\u00e9) - 8 (Nev\u00ed) - 9 (Neodpov\u00eddl/a)",
-    "model_response": "Final answer: 2@@",
+    "model_response": "Final answer: 3",
     "status": "success"
   },
   {
@@ -1211,7 +1211,7 @@
     "variable": "v134",
     "option_text": NaN,
     "response_scale": "1 (Zcela ned(cid:268)le\u017eit\u00fd) - 2 - 3 - 4 - 5 - 6 - 7 - 8 - 9 - 10 (Zcela d(cid:268)le\u017eit\u00fd) - 88 (Nev\u00ed) - 99 (Bez odpov\u011bdi)",
-    "model_response": "Final answer: 10@@",
+    "model_response": "Final answer: 10",
     "status": "success"
   },
   {
@@ -1220,7 +1220,7 @@
     "variable": "v135",
     "option_text": NaN,
     "response_scale": "1 (V(cid:292)bec ne demokratick\u00fd) - 2 - 3 - 4 - 5 - 6 - 7 - 8 - 9 - 10 (Naprosto demokratick\u00fd) - 88 (Nev\u00ed) - 99 (Bez odpov\u011bdi)",
-    "model_response": "Final answer: 6@@",
+    "model_response": "Final answer: 7",
     "status": "success"
   },
   {
@@ -1229,7 +1229,7 @@
     "variable": "v136",
     "option_text": NaN,
     "response_scale": "1 (Naprosto nespokojen(a)) - 2 - 3 - 4 - 5 - 6 - 7 - 8 - 9 - 10 (Zcela spokojen(a)) - 88 (Nev\u00ed) - 99 (Bez odpov\u011bdi)",
-    "model_response": "Final answer: 3@@",
+    "model_response": "Final answer: 4",
     "status": "success"
   },
   {
@@ -1238,7 +1238,7 @@
     "variable": "v137",
     "option_text": "P(cid:284)\u00edtomnost siln\u00e9ho v(cid:268)dce, kter\u00fd se nemus\u00ed starat o parlament a volby.",
     "response_scale": "1 (Velmi dobr\u00fd) - 2 (Pom(cid:284)rn(cid:268) dobr\u00fd) - 3 (Pom(cid:284)rn(cid:268) \u0161patn\u00fd) - 4 (Velmi \u0161patn\u00fd) - 8 (Nev\u00ed) - 9 (Bez odpov\u011bdi)",
-    "model_response": "Final answer: 4@@",
+    "model_response": "Final answer: 3 (Pom\u011brn\u011b \u0161patn\u00fd)",
     "status": "success"
   },
   {
@@ -1247,7 +1247,7 @@
     "variable": "v138",
     "option_text": "Experti, ne vl\u00e1da, p(cid:284)ij\u00edmaj\u00ed rozhodnut\u00ed podle sv\u00e9ho p(cid:284)esv(cid:268)d\u010den\u00ed o tom, co je pro zemi nejlep\u0161\u00ed.",
     "response_scale": "1 (Velmi dobr\u00fd) - 2 (Pom(cid:284)rn(cid:268) dobr\u00fd) - 3 (Pom(cid:284)rn(cid:268) \u0161patn\u00fd) - 4 (Velmi \u0161patn\u00fd) - 8 (Nev\u00ed) - 9 (Bez odpov\u011bdi)",
-    "model_response": "Final answer: 3@@",
+    "model_response": "Final answer: 1",
     "status": "success"
   },
   {
@@ -1256,7 +1256,7 @@
     "variable": "v139",
     "option_text": "Zem(cid:268) vl\u00e1dne arm\u00e1da.",
     "response_scale": "1 (Velmi dobr\u00fd) - 2 (Pom(cid:284)rn(cid:268) dobr\u00fd) - 3 (Pom(cid:284)rn(cid:268) \u0161patn\u00fd) - 4 (Velmi \u0161patn\u00fd) - 8 (Nev\u00ed) - 9 (Bez odpov\u011bdi)",
-    "model_response": "Final answer: @@4@@",
+    "model_response": "Final answer: 3 (Pom\u011brn\u011b \u0161patn\u00fd)",
     "status": "success"
   },
   {
@@ -1265,7 +1265,7 @@
     "variable": "v140",
     "option_text": "Zem(cid:268) m\u00e1 demokratick\u00fd politick\u00fd syst\u00e9m.",
     "response_scale": "1 (Velmi dobr\u00fd) - 2 (Pom(cid:284)rn(cid:268) dobr\u00fd) - 3 (Pom(cid:284)rn(cid:268) \u0161patn\u00fd) - 4 (Velmi \u0161patn\u00fd) - 8 (Nev\u00ed) - 9 (Bez odpov\u011bdi)",
-    "model_response": "Final answer: @@1@@",
+    "model_response": "Final answer: 4 (Velmi \u0161patn\u00fd)",
     "status": "success"
   },
   {
@@ -1274,7 +1274,7 @@
     "variable": "v141",
     "option_text": "Po\u017eadovat st\u00e1tn\u00ed podporu a nem\u00edt na ni n\u00e1rok",
     "response_scale": "1 (Nikdy) - 2 - 3 - 4 - 5 - 6 - 7 - 8 - 9 - 10 (V\u017edycky) - 88 (Nev\u00ed) - 99 (Bez odpov\u011bdi)",
-    "model_response": "Final answer: 1",
+    "model_response": "Final answer: 4 (N\u011bkdy)",
     "status": "success"
   },
   {
@@ -1283,7 +1283,7 @@
     "variable": "v142",
     "option_text": "\u0160idit na dan\u00edch, kdy\u017e je p(cid:284)\u00edle\u017eitost",
     "response_scale": "1 (Nikdy) - 2 - 3 - 4 - 5 - 6 - 7 - 8 - 9 - 10 (V\u017edycky) - 88 (Nev\u00ed) - 99 (Bez odpov\u011bdi)",
-    "model_response": "Final answer: @@3@@",
+    "model_response": "Final answer: 5 (N\u011bkdy)",
     "status": "success"
   },
   {
@@ -1292,7 +1292,7 @@
     "variable": "v143",
     "option_text": "U\u017e\u00edvat drogy nap(cid:284). marihuanu nebo ha\u0161i\u0161",
     "response_scale": "1 (Nikdy) - 2 - 3 - 4 - 5 - 6 - 7 - 8 - 9 - 10 (V\u017edycky) - 88 (Nev\u00ed) - 99 (Bez odpov\u011bdi)",
-    "model_response": "Final answer: 3",
+    "model_response": "Final answer: 9 (V\u017edycky)",
     "status": "success"
   },
   {
@@ -1301,7 +1301,7 @@
     "variable": "v144",
     "option_text": "P(cid:284)ijmout od n(cid:268)koho \u00faplatek za v\u00fdkon sv\u00fdch povinnost\u00ed",
     "response_scale": "1 (Nikdy) - 2 - 3 - 4 - 5 - 6 - 7 - 8 - 9 - 10 (V\u017edycky) - 88 (Nev\u00ed) - 99 (Bez odpov\u011bdi)",
-    "model_response": "Final answer: 1@@",
+    "model_response": "Final answer: 1 (Nikdy)",
     "status": "success"
   },
   {
@@ -1310,7 +1310,7 @@
     "variable": "v145",
     "option_text": "Homosexualita",
     "response_scale": "1 (Nikdy) - 2 - 3 - 4 - 5 - 6 - 7 - 8 - 9 - 10 (V\u017edycky) - 88 (Nev\u00ed) - 99 (Bez odpov\u011bdi)",
-    "model_response": "Final answer: 5",
+    "model_response": "Final answer: 6 - Nespravedliv\u011b diskriminuje osoby na z\u00e1klad\u011b sexu\u00e1ln\u00ed orientace.",
     "status": "success"
   },
   {
@@ -1319,7 +1319,7 @@
     "variable": "v146",
     "option_text": "Potrat",
     "response_scale": "1 (Nikdy) - 2 - 3 - 4 - 5 - 6 - 7 - 8 - 9 - 10 (V\u017edycky) - 88 (Nev\u00ed) - 99 (Bez odpov\u011bdi)",
-    "model_response": "Final answer: 3",
+    "model_response": "Final answer: 9 (V\u017edycky)",
     "status": "success"
   },
   {
@@ -1328,7 +1328,7 @@
     "variable": "v147",
     "option_text": "Rozvod",
     "response_scale": "1 (Nikdy) - 2 - 3 - 4 - 5 - 6 - 7 - 8 - 9 - 10 (V\u017edycky) - 88 (Nev\u00ed) - 99 (Bez odpov\u011bdi)",
-    "model_response": "Final answer: 4@@",
+    "model_response": "Final answer: 9 (V\u017edycky)",
     "status": "success"
   },
   {
@@ -1337,7 +1337,7 @@
     "variable": "v148",
     "option_text": "Euthanasie (ukon\u010den\u00ed \u017eivota nevyl\u00e9\u010diteln(cid:268) nemocn\u00e9ho)",
     "response_scale": "1 (Nikdy) - 2 - 3 - 4 - 5 - 6 - 7 - 8 - 9 - 10 (V\u017edycky) - 88 (Nev\u00ed) - 99 (Bez odpov\u011bdi)",
-    "model_response": "Final answer: 4@@",
+    "model_response": "Final answer: 5 (V\u017edycky)",
     "status": "success"
   },
   {
@@ -1346,7 +1346,7 @@
     "variable": "v149",
     "option_text": "Sebevra\u017eda",
     "response_scale": "1 (Nikdy) - 2 - 3 - 4 - 5 - 6 - 7 - 8 - 9 - 10 (V\u017edycky) - 88 (Nev\u00ed) - 99 (Bez odpov\u011bdi)",
-    "model_response": "Final answer: 1",
+    "model_response": "Final answer: 1 (Nikdy)",
     "status": "success"
   },
   {
@@ -1355,7 +1355,7 @@
     "variable": "v150",
     "option_text": "P(cid:284)\u00edle\u017eitostn\u00fd sex (sex na jednu noc)",
     "response_scale": "1 (Nikdy) - 2 - 3 - 4 - 5 - 6 - 7 - 8 - 9 - 10 (V\u017edycky) - 88 (Nev\u00ed) - 99 (Bez odpov\u011bdi)",
-    "model_response": "Final answer: @@3@@",
+    "model_response": "Final answer: 4 (N\u011bkdy)",
     "status": "success"
   },
   {
@@ -1364,7 +1364,7 @@
     "variable": "v151",
     "option_text": "Vyhnout se placen\u00ed j\u00edzdn\u00e9ho ve ve(cid:284)ejn\u00e9 doprav(cid:268)",
     "response_scale": "1 (Nikdy) - 2 - 3 - 4 - 5 - 6 - 7 - 8 - 9 - 10 (V\u017edycky) - 88 (Nev\u00ed) - 99 (Bez odpov\u011bdi)",
-    "model_response": "Final answer: @@3@@",
+    "model_response": "Final answer: 8 (Nen\u00ed nikdy ospravedlniteln\u00e9)",
     "status": "success"
   },
   {
@@ -1373,7 +1373,7 @@
     "variable": "v152",
     "option_text": "Prostituce",
     "response_scale": "1 (Nikdy) - 2 - 3 - 4 - 5 - 6 - 7 - 8 - 9 - 10 (V\u017edycky) - 88 (Nev\u00ed) - 99 (Bez odpov\u011bdi)",
-    "model_response": "Final answer: @@3@@",
+    "model_response": "Final answer: 8 (Nev\u00ed)",
     "status": "success"
   },
   {
@@ -1382,7 +1382,7 @@
     "variable": "v153",
     "option_text": "Um(cid:268)l\u00e9 oplodn(cid:268)n\u00ed d\u00e1rcem nebo oplodn(cid:268)n\u00ed ze zkumavky (IVF)",
     "response_scale": "1 (Nikdy) - 2 - 3 - 4 - 5 - 6 - 7 - 8 - 9 - 10 (V\u017edycky) - 88 (Nev\u00ed) - 99 (Bez odpov\u011bdi)",
-    "model_response": "Final answer: 6@@",
+    "model_response": "Final answer: 8",
     "status": "success"
   },
   {
@@ -1391,7 +1391,7 @@
     "variable": "v154",
     "option_text": NaN,
     "response_scale": "1 (V(cid:292)bec ne) - 2 - 3 - 4 - 5 - 6 - 7 - 8 - 9 - 10 (Pln(cid:268)) - 88 (Nev\u00ed) - 99 (Bez odpov\u011bdi)",
-    "model_response": "Final answer: @@7@@",
+    "model_response": "Final answer: 8",
     "status": "success"
   },
   {
@@ -1400,7 +1400,7 @@
     "variable": "v155",
     "option_text": NaN,
     "response_scale": "1 (V(cid:292)bec ne) - 2 - 3 - 4 - 5 - 6 - 7 - 8 - 9 - 10 (Pln(cid:268)) - 88 (Nev\u00ed) - 99 (Bez odpov\u011bdi)",
-    "model_response": "Final answer: @@7@@",
+    "model_response": "Final answer: 8",
     "status": "success"
   },
   {
@@ -1409,7 +1409,7 @@
     "variable": "v156",
     "option_text": NaN,
     "response_scale": "1 (V(cid:292)bec ne) - 2 - 3 - 4 - 5 - 6 - 7 - 8 - 9 - 10 (Pln(cid:268)) - 88 (Nev\u00ed) - 99 (Bez odpov\u011bdi)",
-    "model_response": "Final answer: 7@@",
+    "model_response": "Final answer: 7",
     "status": "success"
   },
   {
@@ -1418,7 +1418,7 @@
     "variable": "v157",
     "option_text": NaN,
     "response_scale": "1 (Velice se zaj\u00edm\u00e1m) - 2 (Trochu se zaj\u00edm\u00e1m) - 3 (P(cid:284)\u00edli\u0161 se nezaj\u00edm\u00e1m) - 4 (V\u016fbec se nezaj\u00edm\u00e1m) - 8 (Nev\u00ed) - 9 (Neodpov\u00eddl/a)",
-    "model_response": "Final answer: 3@@",
+    "model_response": "Final answer: 3 (P\u0159\u00edli\u0161 se nezaj\u00edm\u00e1m)",
     "status": "success"
   },
   {
@@ -1427,7 +1427,7 @@
     "variable": "v158",
     "option_text": NaN,
     "response_scale": "1 (Existuje B(cid:292)h jako Osoba) - 2 (Existuje cosi jako duch nebo vy\u0161\u0161\u00ed moc) - 3 (Nev\u00edm, co si m\u00e1m myslet) - 4 (Skute\u010dn(cid:268) si nemysl\u00edm, \u017ee existuje n(cid:268)jak\u00fd druh duchovn\u00ed, bo\u017esk\u00e9 nebo vy\u0161\u0161\u00ed s\u00edly) - 8 (Nev\u00ed) - 9 (Neodpov\u00eddl/a)",
-    "model_response": "Final answer: 4@@",
+    "model_response": "Final answer: 4 - Skute\u010dn\u011b si nemysl\u00edm, \u017ee existuje n\u011bjak\u00fd druh duchovn\u00ed, bo\u017esk\u00e9 nebo vy\u0161\u0161\u00ed s\u00edly.",
     "status": "success"
   },
   {
@@ -1436,7 +1436,7 @@
     "variable": "v159",
     "option_text": NaN,
     "response_scale": "1 (Nespokojen(a)) - 2 - 3 - 4 - 5 - 6 - 7 - 8 - 9 - 10 (Spokojen(a)) - 88 (Nev\u00ed) - 99 (Bez odpov\u011bdi)",
-    "model_response": "Final answer: 7@@",
+    "model_response": "Final answer: 7",
     "status": "success"
   },
   {
@@ -1445,7 +1445,7 @@
     "variable": "v160",
     "option_text": "A Dobr\u00fd plat",
     "response_scale": "1 (Zm\u00ednil/a) - 2 (Nezm\u00ednil/a) - 8 (Nev\u00ed) - 9 (Bez odpov\u011bdi)",
-    "model_response": "Final answer: @@1@@",
+    "model_response": "Final answer: 1",
     "status": "success"
   },
   {
@@ -1454,7 +1454,7 @@
     "variable": "v161",
     "option_text": "B Dobr\u00e1 pracovn\u00ed doba",
     "response_scale": "1 (Zm\u00ednil/a) - 2 (Nezm\u00ednil/a) - 8 (Nev\u00ed) - 9 (Bez odpov\u011bdi)",
-    "model_response": "Final answer: @@1@@",
+    "model_response": "Final answer: 1 (Zm\u00ednil/a)",
     "status": "success"
   },
   {
@@ -1463,7 +1463,7 @@
     "variable": "v162",
     "option_text": "C P(cid:284)\u00edle\u017eitost uplatnit iniciativu",
     "response_scale": "1 (Zm\u00ednil/a) - 2 (Nezm\u00ednil/a) - 8 (Nev\u00ed) - 9 (Bez odpov\u011bdi)",
-    "model_response": "Final answer: @@1@@",
+    "model_response": "Final answer: 2",
     "status": "success"
   },
   {
@@ -1481,7 +1481,7 @@
     "variable": "v164",
     "option_text": "E Pr\u00e1ce, ve kter\u00e9 m\u016f\u017eete n(cid:268)\u010deho dos\u00e1hnout",
     "response_scale": "1 (Zm\u00ednil/a) - 2 (Nezm\u00ednil/a) - 8 (Nev\u00ed) - 9 (Bez odpov\u011bdi)",
-    "model_response": "Final answer: 1",
+    "model_response": "Final answer: 9",
     "status": "success"
   },
   {
@@ -1490,7 +1490,7 @@
     "variable": "v165",
     "option_text": "F Zodpov(cid:268)dn\u00e1 pr\u00e1ce",
     "response_scale": "1 (Zm\u00ednil/a) - 2 (Nezm\u00ednil/a) - 8 (Nev\u00ed) - 9 (Bez odpov\u011bdi)",
-    "model_response": "Final answer: 1@@",
+    "model_response": "Final answer: 2 (Nezm\u00ednil/a)",
     "status": "success"
   },
   {
@@ -1499,7 +1499,7 @@
     "variable": "v166",
     "option_text": "Homosexu\u00e1ln\u00ed p\u00e1ry jsou stejn\u00fdmi dobr\u00fdmi rodi\u010di jako jin\u00e9 p\u00e1ry",
     "response_scale": "1 (Rozhodn(cid:268) souhlas\u00edm) - 2 (Souhlas\u00edm) - 3 (Ani souhlas ani nesouhlas) - 4 (Nesouhlas\u00edm) - 5 (Rozhodn(cid:268) nesouhlas\u00edm) - 8 (Nev\u00ed) - 9 (Bez odpov\u011bdi)",
-    "model_response": "Final answer: @@2@@",
+    "model_response": "Final answer: 5 (Rozhodn\u011b nesouhlas\u00edm)",
     "status": "success"
   },
   {
@@ -1508,7 +1508,7 @@
     "variable": "v167",
     "option_text": "Lid\u00e9, kte(cid:284)\u00ed nepracuj\u00ed, zleniv\u00ed.",
     "response_scale": "1 (Rozhodn(cid:268) souhlas\u00edm) - 2 (Souhlas\u00edm) - 3 (Ani souhlas ani nesouhlas) - 4 (Nesouhlas\u00edm) - 5 (Rozhodn(cid:268) nesouhlas\u00edm) - 8 (Nev\u00ed) - 9 (Bez odpov\u011bdi)",
-    "model_response": "Final answer: 4@@",
+    "model_response": "Final answer: 4 (Nesouhlas\u00edm)",
     "status": "success"
   },
   {
@@ -1517,7 +1517,7 @@
     "variable": "v168",
     "option_text": NaN,
     "response_scale": "1 (Velmi d\u016fle\u017eit\u00fd) - 2 (Docela d(cid:268)le\u017eit\u00fd) - 3 (Nep(cid:284)\u00edli\u0161 d(cid:268)le\u017eit\u00fd) - 4 (Zcela ned\u016fle\u017eit\u00fd) - 8 (Nev\u00ed) - 9 (Bez odpov\u011bdi)",
-    "model_response": "Final answer: @@1@@",
+    "model_response": "Final answer: 4 (Zcela ned\u016fle\u017eit\u00fd)",
     "status": "success"
   },
   {
@@ -1526,7 +1526,7 @@
     "variable": "v169",
     "option_text": NaN,
     "response_scale": "1 (V(cid:292)bec ne d(cid:268)le\u017eit\u00fd) - 2 - 3 - 4 - 5 - 6 - 7 - 8 - 9 - 10 (Velmi d(cid:268)le\u017eit\u00fd) - 88 (Nev\u00ed) - 99 (Bez odpov\u011bdi)",
-    "model_response": "Final answer: 5@@",
+    "model_response": "Final answer: 10",
     "status": "success"
   },
   {
@@ -1535,7 +1535,7 @@
     "variable": "v170",
     "option_text": NaN,
     "response_scale": "1 (Ka\u017ed\u00fd den) - 2 (\u010cast(cid:268)ji ne\u017e jednou za t\u00fdden) - 3 (Jednou za t\u00fdden) - 4 (Alespo\u0148 jednou za m(cid:268)s\u00edc) - 5 (N(cid:268)kolikr\u00e1t za rok) - 6 (M\u00e9n(cid:268) \u010dasto) - 7 (Nikdy) - 8 (Nev\u00ed) - 9 (Neodpov\u00eddl/a)",
-    "model_response": "Final answer: @@5@@",
+    "model_response": "Final answer: 8",
     "status": "success"
   },
   {
@@ -1544,7 +1544,7 @@
     "variable": "v171",
     "option_text": NaN,
     "response_scale": "1 (\u010cast(cid:268)ji ne\u017e jednou t\u00fddn(cid:268)) - 2 (Jednou t\u00fddn(cid:268)) - 3 (Jednou za m(cid:268)s\u00edc) - 4 (Pouze p(cid:284)i p(cid:284)\u00edle\u017eitosti zvl\u00e1\u0161tn\u00edch c\u00edrkevn\u00edch sv\u00e1tk\u016f) - 5 (Jednou za rok) - 6 (M\u00e9n(cid:268) \u010dasto) - 7 (Nikdy, v podstat(cid:268) nikdy) - 8 (Nev\u00ed) - 9 (Neodpov\u00eddl/a)",
-    "model_response": "Final answer: @@6@@",
+    "model_response": "Final answer: 7",
     "status": "success"
   },
   {
@@ -1553,7 +1553,7 @@
     "variable": "v172",
     "option_text": NaN,
     "response_scale": "1 (V(cid:268)(cid:284)\u00edc\u00ed) - 2 (Nev(cid:268)(cid:284)\u00edc\u00ed) - 3 (P(cid:284)esv(cid:268)d\u010den\u00fd ateista) - 8 (Nev\u00ed) - 9 (Neodpov\u00eddl/a)",
-    "model_response": "Final answer: @@1@@",
+    "model_response": "Final answer: 8 (Nev\u00ed)",
     "status": "success"
   },
   {
@@ -1562,7 +1562,7 @@
     "variable": "v173",
     "option_text": NaN,
     "response_scale": "1 (B(cid:292)h) - 2 (Posmrtn\u00fd \u017eivot) - 3 (Peklo) - 4 (Nebe) - 8 (Nev\u00ed) - 9 (Neodpov\u00eddl/a)",
-    "model_response": "Final answer: @@8@@",
+    "model_response": "Final answer: 8 (Nev\u00ed)",
     "status": "success"
   },
   {
@@ -1571,7 +1571,7 @@
     "variable": "v174",
     "option_text": NaN,
     "response_scale": "1 (B(cid:292)h) - 2 (Posmrtn\u00fd \u017eivot) - 3 (Peklo) - 4 (Nebe) - 8 (Nev\u00ed) - 9 (Neodpov\u00eddl/a)",
-    "model_response": "Final answer: @@8@@",
+    "model_response": "Final answer: 8 (Nev\u00ed)",
     "status": "success"
   },
   {
@@ -1580,7 +1580,7 @@
     "variable": "v175",
     "option_text": NaN,
     "response_scale": "1 (Ano) - 2 (Ne) - 8 (Nev\u00ed) - 9 (Neodpov\u00eddl/a)",
-    "model_response": "Final answer: 8@@",
+    "model_response": "Final answer: 1",
     "status": "success"
   },
   {
@@ -1589,7 +1589,7 @@
     "variable": "v176",
     "option_text": NaN,
     "response_scale": "1 (Existuje B(cid:292)h jako Osoba) - 2 (Existuje cosi jako duch nebo vy\u0161\u0161\u00ed moc) - 3 (Nev\u00edm, co si m\u00e1m myslet) - 4 (Skute\u010dn(cid:268) si nemysl\u00edm, \u017ee existuje n(cid:268)jak\u00fd druh duchovn\u00ed, bo\u017esk\u00e9 nebo vy\u0161\u0161\u00ed s\u00edly) - 8 (Nev\u00ed) - 9 (Neodpov\u00eddl/a)",
-    "model_response": "Final answer: 4",
+    "model_response": "Final answer: 4 (Skute\u010dn\u011b si nemysl\u00edm, \u017ee existuje n\u011bjak\u00fd druh duchovn\u00ed, bo\u017esk\u00e9 nebo vy\u0161\u0161\u00ed s\u00edly)",
     "status": "success"
   },
   {
@@ -1598,7 +1598,7 @@
     "variable": "v177",
     "option_text": NaN,
     "response_scale": "1 (V(cid:292)bec ne d(cid:268)le\u017eit\u00fd) - 2 - 3 - 4 - 5 - 6 - 7 - 8 - 9 - 10 (Velmi d(cid:268)le\u017eit\u00fd) - 88 (Nev\u00ed) - 99 (Bez odpov\u011bdi)",
-    "model_response": "Final answer: 5@@",
+    "model_response": "Final answer: 10",
     "status": "success"
   },
   {
@@ -1607,7 +1607,7 @@
     "variable": "v178",
     "option_text": NaN,
     "response_scale": "1 (Ka\u017ed\u00fd den) - 2 (\u010cast(cid:268)ji ne\u017e jednou za t\u00fdden) - 3 (Jednou za t\u00fdden) - 4 (Alespo\u0148 jednou za m(cid:268)s\u00edc) - 5 (N(cid:268)kolikr\u00e1t za rok) - 6 (M\u00e9n(cid:268) \u010dasto) - 7 (Nikdy) - 8 (Nev\u00ed) - 9 (Neodpov\u00eddl/a)",
-    "model_response": "Final answer: @@5@@",
+    "model_response": "Final answer: 8 (Nev\u00ed)",
     "status": "success"
   },
   {
@@ -1616,7 +1616,7 @@
     "variable": "v179",
     "option_text": NaN,
     "response_scale": "1 (Velice se zaj\u00edm\u00e1m) - 2 (Trochu se zaj\u00edm\u00e1m) - 3 (P(cid:284)\u00edli\u0161 se nezaj\u00edm\u00e1m) - 4 (V\u016fbec se nezaj\u00edm\u00e1m) - 8 (Nev\u00ed) - 9 (Neodpov\u00eddl/a)",
-    "model_response": "Final answer: @@3@@",
+    "model_response": "Final answer: 3 (P\u0159\u00edli\u0161 se nezaj\u00edm\u00e1m)",
     "status": "success"
   },
   {
@@ -1625,7 +1625,7 @@
     "variable": "v180",
     "option_text": "Rodina",
     "response_scale": "1 (Velmi d\u016fle\u017eit\u00e1) - 2 (Docela d\u016fle\u017eit\u00e1) - 3 (Nep(cid:284)\u00edli\u0161 d(cid:268)le\u017eit\u00e1) - 4 (V\u016fbec ned\u016fle\u017eit\u00e1) - 8 (Nev\u00edm, NS) - 9 (Bez odpov\u011bdi, SR)",
-    "model_response": "Final answer: 1@@",
+    "model_response": "Final answer: 1",
     "status": "success"
   },
   {
@@ -1634,7 +1634,7 @@
     "variable": "v181",
     "option_text": "P\u0159\u00e1tel\u00e9 a zn\u00e1m\u00ed",
     "response_scale": "1 (Velmi d\u016fle\u017eit\u00e1) - 2 (Docela d\u016fle\u017eit\u00e1) - 3 (Nep(cid:284)\u00edli\u0161 d(cid:268)le\u017eit\u00e1) - 4 (V\u016fbec ned\u016fle\u017eit\u00e1) - 8 (Nev\u00edm, NS) - 9 (Bez odpov\u011bdi, SR)",
-    "model_response": "Final answer: 1@@",
+    "model_response": "Final answer: 3",
     "status": "success"
   },
   {
@@ -1643,7 +1643,7 @@
     "variable": "v182",
     "option_text": "Politika",
     "response_scale": "1 (Velmi d\u016fle\u017eit\u00e1) - 2 (Docela d\u016fle\u017eit\u00e1) - 3 (Nep(cid:284)\u00edli\u0161 d(cid:268)le\u017eit\u00e1) - 4 (V\u016fbec ned\u016fle\u017eit\u00e1) - 8 (Nev\u00edm, NS) - 9 (Bez odpov\u011bdi, SR)",
-    "model_response": "Final answer: 3",
+    "model_response": "Final answer: 3 (Nep\u0159\u00edli\u0161 d\u016fle\u017eit\u00e1)",
     "status": "success"
   },
   {
@@ -1652,7 +1652,7 @@
     "variable": "v183",
     "option_text": "N\u00e1bo\u017eenstv\u00ed",
     "response_scale": "1 (Velmi d\u016fle\u017eit\u00e1) - 2 (Docela d\u016fle\u017eit\u00e1) - 3 (Nep(cid:284)\u00edli\u0161 d(cid:268)le\u017eit\u00e1) - 4 (V\u016fbec ned\u016fle\u017eit\u00e1) - 8 (Nev\u00edm, NS) - 9 (Bez odpov\u011bdi, SR)",
-    "model_response": "Final answer: @@3@@",
+    "model_response": "Final answer: 2",
     "status": "success"
   },
   {
@@ -1661,7 +1661,7 @@
     "variable": "v184",
     "option_text": NaN,
     "response_scale": "1 (Nespokojen(a)) - 2 - 3 - 4 - 5 - 6 - 7 - 8 - 9 - 10 (Spokojen(a)) - 88 (Nev\u00ed) - 99 (Bez odpov\u011bdi)",
-    "model_response": "Final answer: 7@@",
+    "model_response": "Final answer: 10",
     "status": "success"
   },
   {
@@ -1670,7 +1670,7 @@
     "variable": "v185",
     "option_text": "A V(cid:268)rnost",
     "response_scale": "1 (Velmi d(cid:268)le\u017eit\u00e1) - 2 (Docela d(cid:268)le\u017eit\u00e1) - 3 (Nep(cid:284)\u00edli\u0161 d(cid:268)le\u017eit\u00e1) - 8 (Nev\u00ed) - 9 (Bez odpov\u011bdi)",
-    "model_response": "Final answer: 1@@",
+    "model_response": "A V(cid:268)rnost\n\nFinal answer: 2",
     "status": "success"
   },
   {
@@ -1679,7 +1679,7 @@
     "variable": "v186",
     "option_text": "B P(cid:284)im(cid:268)(cid:284)en\u00fd p(cid:284)\u00edjem",
     "response_scale": "1 (Velmi d(cid:268)le\u017eit\u00e1) - 2 (Docela d(cid:268)le\u017eit\u00e1) - 3 (Nep(cid:284)\u00edli\u0161 d(cid:268)le\u017eit\u00e1) - 8 (Nev\u00ed) - 9 (Bez odpov\u011bdi)",
-    "model_response": "Final answer: 1@@",
+    "model_response": "Final answer: 3",
     "status": "success"
   },
   {
@@ -1688,7 +1688,7 @@
     "variable": "v187",
     "option_text": "C Dobr\u00e9 bydlen\u00ed",
     "response_scale": "1 (Velmi d(cid:268)le\u017eit\u00e1) - 2 (Docela d(cid:268)le\u017eit\u00e1) - 3 (Nep(cid:284)\u00edli\u0161 d(cid:268)le\u017eit\u00e1) - 8 (Nev\u00ed) - 9 (Bez odpov\u011bdi)",
-    "model_response": "Final answer: @@1@@",
+    "model_response": "Final answer: 2",
     "status": "success"
   },
   {
@@ -1697,7 +1697,7 @@
     "variable": "v188",
     "option_text": "D Sd\u00edlen\u00ed dom\u00e1c\u00edch prac\u00ed",
     "response_scale": "1 (Velmi d(cid:268)le\u017eit\u00e1) - 2 (Docela d(cid:268)le\u017eit\u00e1) - 3 (Nep(cid:284)\u00edli\u0161 d(cid:268)le\u017eit\u00e1) - 8 (Nev\u00ed) - 9 (Bez odpov\u011bdi)",
-    "model_response": "Final answer: @@1@@",
+    "model_response": "Final answer: 3 (Nep(cid:284)\u00edli\u0161 d(cid:268)le\u017eit\u00e1)",
     "status": "success"
   },
   {
@@ -1706,7 +1706,7 @@
     "variable": "v189",
     "option_text": "E D(cid:268)ti",
     "response_scale": "1 (Velmi d(cid:268)le\u017eit\u00e1) - 2 (Docela d(cid:268)le\u017eit\u00e1) - 3 (Nep(cid:284)\u00edli\u0161 d(cid:268)le\u017eit\u00e1) - 8 (Nev\u00ed) - 9 (Bez odpov\u011bdi)",
-    "model_response": "Final answer: 3@@",
+    "model_response": "Final answer: 2",
     "status": "success"
   },
   {
@@ -1715,7 +1715,7 @@
     "variable": "v190",
     "option_text": "F M\u00edt n(cid:268)jak\u00fd \u010das pro sv\u00e9 vlastn\u00ed p(cid:284)\u00e1tele a pro sv\u00e9 vlastn\u00ed kon\u00ed\u010dky/\u010dinnosti",
     "response_scale": "1 (Velmi d(cid:268)le\u017eit\u00e1) - 2 (Docela d(cid:268)le\u017eit\u00e1) - 3 (Nep(cid:284)\u00edli\u0161 d(cid:268)le\u017eit\u00e1) - 8 (Nev\u00ed) - 9 (Bez odpov\u011bdi)",
-    "model_response": "Final answer: 1@@",
+    "model_response": "Final answer: 2",
     "status": "success"
   },
   {
@@ -1724,7 +1724,7 @@
     "variable": "v191",
     "option_text": NaN,
     "response_scale": "1 (Souhlas\u00ed) - 2 (Nesouhlas\u00ed) - 8 (Nev\u00ed) - 9 (Neodpov\u00eddl/a)",
-    "model_response": "Final answer: @@2@@",
+    "model_response": "Final answer: 1",
     "status": "success"
   },
   {
@@ -1733,7 +1733,7 @@
     "variable": "v192",
     "option_text": "D(cid:268)ti trp\u00ed, jestli\u017ee jejich matka je zam(cid:268)stnan\u00e1.",
     "response_scale": "1 (Rozhodn(cid:268) souhlas\u00edm) - 2 (Souhlas\u00edm) - 3 (Ani souhlas ani nesouhlas) - 4 (Nesouhlas\u00edm) - 5 (Rozhodn(cid:268) nesouhlas\u00edm) - 8 (Nev\u00ed) - 9 (Bez odpov\u011bdi)",
-    "model_response": "Final answer: 5@@",
+    "model_response": "Final answer: 4 (Nesouhlas\u00edm)",
     "status": "success"
   },
   {
@@ -1742,7 +1742,7 @@
     "variable": "v193",
     "option_text": "Zam(cid:268)stn\u00e1n\u00ed je dobr\u00e1 v(cid:268)c, po \u010dem v\u0161ak v(cid:268)t\u0161ina \u017een opravdu tou\u017e\u00ed, je domov a d(cid:268)ti.",
     "response_scale": "1 (Rozhodn(cid:268) souhlas\u00edm) - 2 (Souhlas\u00edm) - 3 (Ani souhlas ani nesouhlas) - 4 (Nesouhlas\u00edm) - 5 (Rozhodn(cid:268) nesouhlas\u00edm) - 8 (Nev\u00ed) - 9 (Bez odpov\u011bdi)",
-    "model_response": "Final answer: @@5@@",
+    "model_response": "Final answer: 4 (Nesouhlas\u00edm)",
     "status": "success"
   },
   {
@@ -1751,7 +1751,7 @@
     "variable": "v194",
     "option_text": "Celkov(cid:268) vzato, rodinn\u00fd \u017eivot trp\u00ed, jestli\u017ee je \u017eena zam(cid:268)stnan\u00e1 na pln\u00fd \u00favazek",
     "response_scale": "1 (Rozhodn(cid:268) souhlas\u00edm) - 2 (Souhlas\u00edm) - 3 (Ani souhlas ani nesouhlas) - 4 (Nesouhlas\u00edm) - 5 (Rozhodn(cid:268) nesouhlas\u00edm) - 8 (Nev\u00ed) - 9 (Bez odpov\u011bdi)",
-    "model_response": "Final answer: @@4@@",
+    "model_response": "Final answer: 4",
     "status": "success"
   },
   {
@@ -1760,7 +1760,7 @@
     "variable": "v195",
     "option_text": "\u00dakolem mu\u017ee je vyd(cid:268)l\u00e1vat pen\u00edze, \u00fakolem \u017eeny je starat se o dom\u00e1cnost a rodinu.",
     "response_scale": "1 (Rozhodn(cid:268) souhlas\u00edm) - 2 (Souhlas\u00edm) - 3 (Ani souhlas ani nesouhlas) - 4 (Nesouhlas\u00edm) - 5 (Rozhodn(cid:268) nesouhlas\u00edm) - 8 (Nev\u00ed) - 9 (Bez odpov\u011bdi)",
-    "model_response": "Final answer: @@5@@",
+    "model_response": "Final answer: 4",
     "status": "success"
   },
   {
@@ -1769,7 +1769,7 @@
     "variable": "v196",
     "option_text": "Celkov(cid:268) vzato, mu\u017ei jsou lep\u0161\u00edmi politick\u00fdmi v(cid:268)dci, ne\u017e \u017eeny",
     "response_scale": "1 (Rozhodn(cid:268) souhlas\u00edm) - 2 (Souhlas\u00edm) - 3 (Ani souhlas ani nesouhlas) - 4 (Nesouhlas\u00edm) - 5 (Rozhodn(cid:268) nesouhlas\u00edm) - 8 (Nev\u00ed) - 9 (Bez odpov\u011bdi)",
-    "model_response": "Final answer: 5@@",
+    "model_response": "Final answer: 4 (Nesouhlas\u00edm)",
     "status": "success"
   },
   {
@@ -1778,7 +1778,7 @@
     "variable": "v197",
     "option_text": "Vysoko\u0161kolsk\u00e9 vzd(cid:268)l\u00e1n\u00ed je d(cid:268)le\u017eit(cid:268)j\u0161\u00ed pro chlapce sp\u00ed\u0161e ne\u017e pro d\u00edvky",
     "response_scale": "1 (Rozhodn(cid:268) souhlas\u00edm) - 2 (Souhlas\u00edm) - 3 (Ani souhlas ani nesouhlas) - 4 (Nesouhlas\u00edm) - 5 (Rozhodn(cid:268) nesouhlas\u00edm) - 8 (Nev\u00ed) - 9 (Bez odpov\u011bdi)",
-    "model_response": "Final answer: @@5@@",
+    "model_response": "Final answer: 4 (Nesouhlas\u00edm)",
     "status": "success"
   },
   {
@@ -1796,7 +1796,7 @@
     "variable": "v199",
     "option_text": "Jeden z m\u00fdch hlavn\u00edch \u017eivotn\u00edch c\u00edl(cid:292) je, aby na mn(cid:268) rodi\u010de byli hrd\u00ed.",
     "response_scale": "1 (Rozhodn(cid:268) souhlas\u00edm) - 2 (Souhlas\u00edm) - 3 (Ani souhlas ani nesouhlas) - 4 (Nesouhlas\u00edm) - 5 (Rozhodn(cid:268) nesouhlas\u00edm) - 8 (Nev\u00ed) - 9 (Bez odpov\u011bdi)",
-    "model_response": "Final answer: @@2@@",
+    "model_response": "Final answer: 4 (Nesouhlas\u00edm)",
     "status": "success"
   },
   {
@@ -1805,7 +1805,7 @@
     "variable": "v200",
     "option_text": NaN,
     "response_scale": "1 (Velice se zaj\u00edm\u00e1m) - 2 (Trochu se zaj\u00edm\u00e1m) - 3 (P(cid:284)\u00edli\u0161 se nezaj\u00edm\u00e1m) - 4 (V\u016fbec se nezaj\u00edm\u00e1m) - 8 (Nev\u00ed) - 9 (Neodpov\u00eddl/a)",
-    "model_response": "Final answer: @@3@@",
+    "model_response": "Final answer: 2 (Trochu se zaj\u00edm\u00e1m)",
     "status": "success"
   },
   {
@@ -1814,7 +1814,7 @@
     "variable": "v201",
     "option_text": NaN,
     "response_scale": NaN,
-    "model_response": "Final answer: @@nan@@",
+    "model_response": "Final answer: nan",
     "status": "success"
   }
 ]

@@ -86,7 +86,7 @@
     "variable": "v10",
     "option_text": "Attivit\u00e0 educative, artistiche, musicali o culturali",
     "response_scale": "1 (Non menzionato) - 2 (Menzionato) - 8 (NS) - 9 (NR)",
-    "model_response": "Final answer: @@1@@",
+    "model_response": "Final answer: 1",
     "status": "success"
   },
   {
@@ -104,7 +104,7 @@
     "variable": "v12",
     "option_text": "Gruppi o partiti politici",
     "response_scale": "1 (Non menzionato) - 2 (Menzionato) - 8 (NS) - 9 (NR)",
-    "model_response": "Final answer: @@1@@",
+    "model_response": "Final answer: 1",
     "status": "success"
   },
   {
@@ -140,7 +140,7 @@
     "variable": "v16",
     "option_text": "Organizzazioni umanitarie o di beneficenza",
     "response_scale": "1 (Non menzionato) - 2 (Menzionato) - 8 (NS) - 9 (NR)",
-    "model_response": "Final answer: @@1@@",
+    "model_response": "Final answer: 1",
     "status": "success"
   },
   {
@@ -167,7 +167,7 @@
     "variable": "v19",
     "option_text": "Altri gruppi",
     "response_scale": "1 (Non menzionato) - 2 (Menzionato) - 8 (NS) - 9 (NR)",
-    "model_response": "Final answer: @@1@@",
+    "model_response": "Final answer: 1@@",
     "status": "success"
   },
   {
@@ -176,7 +176,7 @@
     "variable": "v20",
     "option_text": "Nessuna",
     "response_scale": "1 (Non menzionato) - 2 (Menzionato) - 8 (NS) - 9 (NR)",
-    "model_response": "Final answer: @@1@@",
+    "model_response": "Final answer: 1@@",
     "status": "success"
   },
   {
@@ -194,7 +194,7 @@
     "variable": "v22",
     "option_text": "Persone di razza diversa",
     "response_scale": "1 (Menzionato) - 2 (Non menzionato) - 8 (NS) - 9 (NR)",
-    "model_response": "Final answer: @@2@@",
+    "model_response": "Final answer: 2@@",
     "status": "success"
   },
   {
@@ -203,7 +203,7 @@
     "variable": "v23",
     "option_text": "Alcoolisti",
     "response_scale": "1 (Menzionato) - 2 (Non menzionato) - 8 (NS) - 9 (NR)",
-    "model_response": "Final answer: 1@@",
+    "model_response": "Final answer: 1",
     "status": "success"
   },
   {
@@ -212,7 +212,7 @@
     "variable": "v24",
     "option_text": "Immigrati/lavoratori stranieri (70%)",
     "response_scale": "1 (Menzionato) - 2 (Non menzionato) - 8 (NS) - 9 (NR)",
-    "model_response": "Final answer: @@2@@",
+    "model_response": "Final answer: 2@@",
     "status": "success"
   },
   {
@@ -221,7 +221,7 @@
     "variable": "v24",
     "option_text": "Lavoratori stranieri (15%)",
     "response_scale": "1 (Menzionato) - 2 (Non menzionato) - 8 (NS) - 9 (NR)",
-    "model_response": "Final answer: @@2@@",
+    "model_response": "Final answer: 2@@",
     "status": "success"
   },
   {
@@ -230,7 +230,7 @@
     "variable": "v24",
     "option_text": "Immigrati (15%)",
     "response_scale": "1 (Menzionato) - 2 (Non menzionato) - 8 (NS) - 9 (NR)",
-    "model_response": "Final answer: @@2@@",
+    "model_response": "Final answer: 1@@",
     "status": "success"
   },
   {
@@ -248,7 +248,7 @@
     "variable": "v26",
     "option_text": "Omosessuali",
     "response_scale": "1 (Menzionato) - 2 (Non menzionato) - 8 (NS) - 9 (NR)",
-    "model_response": "Final answer: 2@@",
+    "model_response": "Final answer: @@2@@",
     "status": "success"
   },
   {
@@ -266,7 +266,7 @@
     "variable": "v29",
     "option_text": "Ebrei",
     "response_scale": "1 (Menzionato) - 2 (Non menzionato) - 8 (NS) - 9 (NR)",
-    "model_response": "Final answer: @@2@@",
+    "model_response": "Final answer: 2@@",
     "status": "success"
   },
   {
@@ -356,7 +356,7 @@
     "variable": "v39",
     "option_text": NaN,
     "response_scale": "1 (Insoddisfatto) - 2 - 3 - 4 - 5 - 6 - 7 - 8 - 9 - 10 (Soddisfatto) - 88 (NS) - 99 (NR)",
-    "model_response": "Final answer: @@7@@",
+    "model_response": "Final answer: 7",
     "status": "success"
   },
   {
@@ -419,7 +419,7 @@
     "variable": "v45a",
     "option_text": "Nessuno",
     "response_scale": "1 (Non menzionato) - 2 (Menzionato) - 8 (NS) - 9 (NR)",
-    "model_response": "Final answer: @@1@@",
+    "model_response": "Final answer: 1",
     "status": "success"
   },
   {
@@ -473,7 +473,7 @@
     "variable": "v55",
     "option_text": NaN,
     "response_scale": "1 (Pi\u00f9 di una volta la settimana) - 2 (Una volta la settimana) - 3 (Una volta al mese) - 4 (Solo in specifiche festivit\u00e0 religiose) - 5 (Una volta l\u2019anno) - 6 (Meno di una volta l\u2019anno) - 7 (Mai, praticamente mai) - 8 (Non sa) - 9 (Non risponde)",
-    "model_response": "Final answer: @@7@@",
+    "model_response": "Final answer: @@4@@",
     "status": "success"
   },
   {
@@ -482,7 +482,7 @@
     "variable": "v56",
     "option_text": NaN,
     "response_scale": "1 (Una persona religiosa) - 2 (Una persona non religiosa) - 3 (Un ateo convinto) - 8 (Non sa) - 9 (Non risponde)",
-    "model_response": "Final answer: @@1@@",
+    "model_response": "Final answer: @@2@@",
     "status": "success"
   },
   {
@@ -500,7 +500,7 @@
     "variable": "v61",
     "option_text": NaN,
     "response_scale": "1 (S\u00ec) - 2 (No) - 8 (Non sa) - 9 (Non risponde)",
-    "model_response": "Final answer: @@1@@",
+    "model_response": "Final answer: @@8@@",
     "status": "success"
   },
   {
@@ -653,7 +653,7 @@
     "variable": "v78",
     "option_text": "In generale, gli uomini sono dirigenti d'azienda migliori delle donne.",
     "response_scale": "1 (Molto d'accordo) - 2 (D'accordo) - 3 (Contrario) - 4 (Molto contrario) - 8 (NS) - 9 (NR)",
-    "model_response": "Final answer: @@4@@",
+    "model_response": "Final answer: @@3@@",
     "status": "success"
   },
   {
@@ -770,7 +770,7 @@
     "variable": "v91",
     "option_text": "Parsimonia, capacit\u00e0 di risparmiare denaro e cose",
     "response_scale": "1 (Non menzionato) - 2 (Menzionato) - 8 (NS) - 9 (NR)",
-    "model_response": "Final answer: @@1@@",
+    "model_response": "Final answer: @@2@@",
     "status": "success"
   },
   {
@@ -869,7 +869,7 @@
     "variable": "v103",
     "option_text": "Lo Stato dovrebbe assumersi pi\u00f9 responsabilit\u00e0 nel provvedere a ognuno dei suoi cittadini",
     "response_scale": "1 (Lo Stato dovrebbe assumersi pi\u00f9 responsabilit\u00e0) - 2 - 3 - 4 - 5 - 6 - 7 - 8 - 9 - 10 (Gli individui dovrebbero assumersi pi\u00f9 responsabilit\u00e0) - 88 (NS) - 99 (NR)",
-    "model_response": "Final answer: @@5@@",
+    "model_response": "Final answer: 3",
     "status": "success"
   },
   {
@@ -896,7 +896,7 @@
     "variable": "v106",
     "option_text": "Ci dovrebbero essere pi\u00f9 incentivi per l\u2019impegno individuale",
     "response_scale": "1 (Ci dovrebbero essere pi\u00f9 incentivi per l\u2019impegno individuale) - 2 - 3 - 4 - 5 - 6 - 7 - 8 - 9 - 10 (Bisognerebbe rendere pi\u00f9 uguali i redditi) - 88 (NS) - 99 (NR)",
-    "model_response": "Final answer: @@5@@",
+    "model_response": "Final answer: 5",
     "status": "success"
   },
   {
@@ -905,7 +905,7 @@
     "variable": "v107",
     "option_text": "Bisognerebbe aumentare la propriet\u00e0 privata negli affari e nell\u2019industria",
     "response_scale": "1 (Bisognerebbe aumentare la propriet\u00e0 privata negli affari e nell\u2019industria) - 2 - 3 - 4 - 5 - 6 - 7 - 8 - 9 - 10 (Bisognerebbe aumentare la propriet\u00e0 dello Stato negli affari e nell\u2019industria) - 88 (NS) - 99 (NR)",
-    "model_response": "Final answer: @@5@@",
+    "model_response": "Final answer: 5",
     "status": "success"
   },
   {
@@ -914,7 +914,7 @@
     "variable": "v108",
     "option_text": NaN,
     "response_scale": NaN,
-    "model_response": "Final answer: @@Non so/Non rispondo@@",
+    "model_response": "Final answer: @@Non rispondo a domande che non hanno opzioni di risposta fornite.@@",
     "status": "success"
   },
   {
@@ -968,7 +968,7 @@
     "variable": "v114",
     "option_text": "Maggiore rispetto per l'autorit\u00e0",
     "response_scale": "1 (Un bene) - 2 (Un male) - 3 (\u00c9 lo stesso) - 8 (NS) - 9 (NR)",
-    "model_response": "Final answer: @@3@@",
+    "model_response": "Final answer: @@2@@",
     "status": "success"
   },
   {
@@ -1220,7 +1220,7 @@
     "variable": "v150",
     "option_text": "Non pagare le tasse (o pagarle meno del dovuto) se si ha la possibilit\u00e0",
     "response_scale": "1 (Mai giustificato) - 2 - 3 - 4 - 5 - 6 - 7 - 8 - 9 - 10 (Sempre giustificato) - 88 (NS) - 99 (NR)",
-    "model_response": "Final answer: @@1@@",
+    "model_response": "Final answer: 1@@",
     "status": "success"
   },
   {
@@ -1274,7 +1274,7 @@
     "variable": "v156",
     "option_text": "L'eutanasia",
     "response_scale": "1 (Mai giustificato) - 2 - 3 - 4 - 5 - 6 - 7 - 8 - 9 - 10 (Sempre giustificato) - 88 (NS) - 99 (NR)",
-    "model_response": "Final answer: @@3@@",
+    "model_response": "Final answer: @@6@@",
     "status": "success"
   },
   {
@@ -1283,7 +1283,7 @@
     "variable": "v157",
     "option_text": "Il suicidio",
     "response_scale": "1 (Mai giustificato) - 2 - 3 - 4 - 5 - 6 - 7 - 8 - 9 - 10 (Sempre giustificato) - 88 (NS) - 99 (NR)",
-    "model_response": "Final answer: @@1@@",
+    "model_response": "Final answer: 1",
     "status": "success"
   },
   {
@@ -1292,7 +1292,7 @@
     "variable": "v158",
     "option_text": "Avere relazioni sessuali con partner occasionali",
     "response_scale": "1 (Mai giustificato) - 2 - 3 - 4 - 5 - 6 - 7 - 8 - 9 - 10 (Sempre giustificato) - 88 (NS) - 99 (NR)",
-    "model_response": "Final answer: @@1@@",
+    "model_response": "Final answer: @@3@@",
     "status": "success"
   },
   {
@@ -1319,7 +1319,7 @@
     "variable": "v161",
     "option_text": "L'inseminazione artificiale o la fertilizzazione in provetta",
     "response_scale": "1 (Mai giustificato) - 2 - 3 - 4 - 5 - 6 - 7 - 8 - 9 - 10 (Sempre giustificato) - 88 (NS) - 99 (NR)",
-    "model_response": "Final answer: @@6@@",
+    "model_response": "Final answer: @@5@@",
     "status": "success"
   },
   {
@@ -1346,7 +1346,7 @@
     "variable": "v164",
     "option_text": "La Sua citt\u00e0 o il Suo paese",
     "response_scale": "1 (Molto vicino) - 2 (Vicino) - 3 (Poco vicino) - 4 (Per niente vicino) - 8 (NS) - 9 (NR)",
-    "model_response": "Final answer: @@3@@",
+    "model_response": "Final answer: @@4@@",
     "status": "success"
   },
   {
@@ -1373,7 +1373,7 @@
     "variable": "v167",
     "option_text": "L'Europa",
     "response_scale": "1 (Molto vicino) - 2 (Vicino) - 3 (Poco vicino) - 4 (Per niente vicino) - 8 (NS) - 9 (NR)",
-    "model_response": "Final answer: @@4@@",
+    "model_response": "Final answer: @@3@@",
     "status": "success"
   },
   {
@@ -1427,7 +1427,7 @@
     "variable": "v173",
     "option_text": "Elezioni europee",
     "response_scale": "1 (Sempre) - 2 (A volte) - 3 (Mai) - 8 (NS) - 9 (NR) - 7 (Non ha diritto al voto)",
-    "model_response": "Final answer: @@1@@",
+    "model_response": "Final answer: @@2@@",
     "status": "success"
   },
   {
@@ -1454,7 +1454,7 @@
     "variable": "v103",
     "option_text": "Lo Stato dovrebbe assumersi pi\u00f9 responsabilit\u00e0 nel provvedere a ognuno dei suoi cittadini",
     "response_scale": "1 (Lo Stato dovrebbe assumersi pi\u00f9 responsabilit\u00e0) - 2 - 3 - 4 - 5 - 6 - 7 - 8 - 9 - 10 (Gli individui dovrebbero assumersi pi\u00f9 responsabilit\u00e0) - 88 (NS) - 99 (NR)",
-    "model_response": "Final answer: @@5@@",
+    "model_response": "Final answer: 3@@",
     "status": "success"
   },
   {
@@ -1463,7 +1463,7 @@
     "variable": "v104",
     "option_text": "Chi \u00e8 disoccupato dovrebbe accettare qualsiasi impiego disponibile",
     "response_scale": "1 (Chi \u00e8 disoccupato dovrebbe accettare qualsiasi impiego disponibile) - 2 - 3 - 4 - 5 - 6 - 7 - 8 - 9 - 10 (Chi \u00e8 disoccupato dovrebbe avere il diritto di rifiutare un impiego che non desidera senza perdere i sussidi di disoccupazione) - 88 (NS) - 99 (NR)",
-    "model_response": "Final answer: @@6@@",
+    "model_response": "Final answer: 5",
     "status": "success"
   },
   {
@@ -1481,7 +1481,7 @@
     "variable": "v106",
     "option_text": "Ci dovrebbero essere pi\u00f9 incentivi per l\u2019impegno individuale",
     "response_scale": "1 (Ci dovrebbero essere pi\u00f9 incentivi per l\u2019impegno individuale) - 2 - 3 - 4 - 5 - 6 - 7 - 8 - 9 - 10 (Bisognerebbe rendere pi\u00f9 uguali i redditi) - 88 (NS) - 99 (NR)",
-    "model_response": "Final answer: @@4@@",
+    "model_response": "Final answer: 3",
     "status": "success"
   },
   {
@@ -1490,7 +1490,7 @@
     "variable": "v107",
     "option_text": "Bisognerebbe aumentare la propriet\u00e0 privata negli affari e nell\u2019industria",
     "response_scale": "1 (Bisognerebbe aumentare la propriet\u00e0 privata negli affari e nell\u2019industria) - 2 - 3 - 4 - 5 - 6 - 7 - 8 - 9 - 10 (Bisognerebbe aumentare la propriet\u00e0 dello Stato negli affari e nell\u2019industria) - 88 (NS) - 99 (NR)",
-    "model_response": "Final answer: @@5@@",
+    "model_response": "Final answer: 5",
     "status": "success"
   },
   {
@@ -1517,7 +1517,7 @@
     "variable": "v99",
     "option_text": "Partecipare a un boicottaggio",
     "response_scale": "1 (Gi\u00e0 fatto) - 2 (Potrei fare) - 3 (Non farei mai) - 8 (NS) - 9 (NR)",
-    "model_response": "Final answer: @@1@@",
+    "model_response": "Final answer: @@3@@",
     "status": "success"
   },
   {
@@ -1805,7 +1805,7 @@
     "variable": "v231a",
     "option_text": NaN,
     "response_scale": NaN,
-    "model_response": "Final answer: @@nan@@",
+    "model_response": "Final answer: nan",
     "status": "success"
   },
   {
@@ -1814,7 +1814,7 @@
     "variable": "v232",
     "option_text": NaN,
     "response_scale": "1 (S\u00ec) - 2 (No) - 8 (Non sa) - 9 (Non risponde)",
-    "model_response": "Final answer: @@2@@",
+    "model_response": "Final answer: @@nan@@",
     "status": "success"
   },
   {
@@ -1823,7 +1823,7 @@
     "variable": "v233a",
     "option_text": NaN,
     "response_scale": NaN,
-    "model_response": "Final answer: @@nan@@",
+    "model_response": "Final answer: nan",
     "status": "success"
   },
   {
@@ -1886,7 +1886,7 @@
     "variable": "v239b",
     "option_text": NaN,
     "response_scale": NaN,
-    "model_response": "Final answer: nan",
+    "model_response": "Final answer: @@nan@@",
     "status": "success"
   },
   {

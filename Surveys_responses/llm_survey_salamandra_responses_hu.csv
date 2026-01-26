@@ -1,0 +1,984 @@
+question_id,question_text,variable,option_text,response_scale,model_response,status
+Q1,"Kérem mondja meg, hogy a következők mennyire fontosak az Ön életében?",v1,Munka,"1 - nagyon fontos, 2 - elég fontos, 3 - nem fontos, 4 - egyáltalán nem fontos, 8 - Nem tudom, 9 - Nem válaszolt",Válasz: 2,success
+Q1,"Kérem mondja meg, hogy a következők mennyire fontosak az Ön életében?",v2,Család,"1 - nagyon fontos, 2 - elég fontos, 3 - nem fontos, 4 - egyáltalán nem fontos, 8 - Nem tudom, 9 - Nem válaszolt",Válasz: 2,success
+Q1,"Kérem mondja meg, hogy a következők mennyire fontosak az Ön életében?",v3,Barátok és ismerősök,"1 - nagyon fontos, 2 - elég fontos, 3 - nem fontos, 4 - egyáltalán nem fontos, 8 - Nem tudom, 9 - Nem válaszolt",Válasz: 3,success
+Q1,"Kérem mondja meg, hogy a következők mennyire fontosak az Ön életében?",v4,Szabadidő,"1 - nagyon fontos, 2 - elég fontos, 3 - nem fontos, 4 - egyáltalán nem fontos, 8 - Nem tudom, 9 - Nem válaszolt",9,success
+Q1,"Kérem mondja meg, hogy a következők mennyire fontosak az Ön életében?",v5,Politika,"1 - nagyon fontos, 2 - elég fontos, 3 - nem fontos, 4 - egyáltalán nem fontos, 8 - Nem tudom, 9 - Nem válaszolt","8 - Nem tudom,",success
+Q1,"Kérem mondja meg, hogy a következők mennyire fontosak az Ön életében?",v6,Vallás,"1 - nagyon fontos, 2 - elég fontos, 3 - nem fontos, 4 - egyáltalán nem fontos, 8 - Nem tudom, 9 - Nem válaszolt",Válasz: 2,success
+Q2,"Mindent összevetve, mit mondana magáról, Ön",v7,,"1 - nagyon boldog, 2 - meglehetősen boldog, 3 - nem nagyon boldog, 4 - egyáltalán nem boldog, 8 - Nem tudja, 9 - Nincs válasz",3,success
+Q3,"Mindent egybevetve, hogyan tudná Ön a mostani egészségi állapotát jellemezni? Azt mondaná, hogy:",v8,,"1 - nagyon jó, 2 - jó, 3 - Elég jó, elfogadható, 4 - nem nagyon jó, 5 - nagyon rossz, 8 - Nem tudja, 9 - Nincs válasz",Válasz: 3,success
+Q4,"Mindent összevetve, hogyan tudná Ön a mostani egészségi állapotát jellemezni? Azt mondaná, hogy:",v9,A Vallási vagy egyházi szervezetek,"nem említette, NV, NT","Válasz: NV, NT",success
+Q4,"Mindent összevetve, hogyan tudná Ön a mostani egészségi állapotát jellemezni? Azt mondaná, hogy:",v10,"B Oktatási, művészeti, zenei vagy kulturális tevékenység","nem említette, NV, NT",Válasz: NT,success
+Q4,"Mindent összevetve, hogyan tudná Ön a mostani egészségi állapotát jellemezni? Azt mondaná, hogy:",v11,C Szakszervezet,"nem említette, NV, NT",Válasz: NT,success
+Q4,"Mindent összevetve, hogyan tudná Ön a mostani egészségi állapotát jellemezni? Azt mondaná, hogy:",v12,D Politikai párt vagy csoport,"nem említette, NV, NT",Final answer: NT,success
+Q4,"Mindent összevetve, hogyan tudná Ön a mostani egészségi állapotát jellemezni? Azt mondaná, hogy:",v13,"E Környezetvédelem, az élővilág megőrzése, állatok jogai","nem említette, NV, NT",Válasz: NV,success
+Q4,"Mindent összevetve, hogyan tudná Ön a mostani egészségi állapotát jellemezni? Azt mondaná, hogy:",v14,F Szakmai szervezet,"nem említette, NV, NT",Válasz: NT,success
+Q4,"Mindent összevetve, hogyan tudná Ön a mostani egészségi állapotát jellemezni? Azt mondaná, hogy:",v15,G Sport vagy aktív pihenés,"nem említette, NV, NT",Végső válasz: NV,success
+Q4,"Mindent összevetve, hogyan tudná Ön a mostani egészségi állapotát jellemezni? Azt mondaná, hogy:",v16,H Humanitárius vagy jótékonysági szervezet,"nem említette, NV, NT",Válasz: NT,success
+Q4,"Mindent összevetve, hogyan tudná Ön a mostani egészségi állapotát jellemezni? Azt mondaná, hogy:",v17,I Fogyasztói érdekvédelmi szervezet,"nem említette, NV, NT",A mostani egészségi állapotomat nem említettem.,success
+Q4,"Mindent összevetve, hogyan tudná Ön a mostani egészségi állapotát jellemezni? Azt mondaná, hogy:",v18,"J Önsegítő csoport, kölcsönös segítségnyújtásra irányuló csoport","nem említette, NV, NT",Válasz: NV,success
+Q4,"Mindent összevetve, hogyan tudná Ön a mostani egészségi állapotát jellemezni? Azt mondaná, hogy:",v19,K Más csoportok,"nem említette, NV, NT",Válasz: NT,success
+Q4,"Mindent összevetve, hogyan tudná Ön a mostani egészségi állapotát jellemezni? Azt mondaná, hogy:",v20,L Egyik sem,"nem említette, NV, NT",NV,success
+Q5,Végzett-e önkéntes munkát az elmúlt hat hónapban?,,,"1 - igen, 2 - nem, 8 - Nem tudja, 9 - Nincs válasz",8 - Nem tudja,success
+Q6,"Ezen a listán különböző típusú emberek vannak. Ki tudná választani azokat, akiket Ön nem szeretne szomszédainak, ha vannak ilyenek?",v22,A Más fajhoz tartozó emberek,"említette, nem említette, NT, NV",Válasz: A Más fajhoz tartozó emberek,success
+Q6,"Ezen a listán különböző típusú emberek vannak. Ki tudná választani azokat, akiket Ön nem szeretne szomszédainak, ha vannak ilyenek?",v23,B Erősen iszákosak,"említette, nem említette, NT, NV",Válasz: B Erősen iszákosak,success
+Q6,"Ezen a listán különböző típusú emberek vannak. Ki tudná választani azokat, akiket Ön nem szeretne szomszédainak, ha vannak ilyenek?",v24,"C Bevándorlók, külföldi vendégmunkások","említette, nem említette, NT, NV",NT,success
+Q6,"Ezen a listán különböző típusú emberek vannak. Ki tudná választani azokat, akiket Ön nem szeretne szomszédainak, ha vannak ilyenek?",v25,D Kábítószeresek,"említette, nem említette, NT, NV",D Kábítószeresek,success
+Q6,"Ezen a listán különböző típusú emberek vannak. Ki tudná választani azokat, akiket Ön nem szeretne szomszédainak, ha vannak ilyenek?",v26,E Homoszexuálisok,"említette, nem említette, NT, NV",Válasz: említette,success
+Q6,"Ezen a listán különböző típusú emberek vannak. Ki tudná választani azokat, akiket Ön nem szeretne szomszédainak, ha vannak ilyenek?",v27,F Keresztények,"említette, nem említette, NT, NV","NT, NV",success
+Q6,"Ezen a listán különböző típusú emberek vannak. Ki tudná választani azokat, akiket Ön nem szeretne szomszédainak, ha vannak ilyenek?",v28,G Muzulmánok,"említette, nem említette, NT, NV",NT,success
+Q6,"Ezen a listán különböző típusú emberek vannak. Ki tudná választani azokat, akiket Ön nem szeretne szomszédainak, ha vannak ilyenek?",v29,H Zsidók,"említette, nem említette, NT, NV",Válasz: H Zsidók,success
+Q6,"Ezen a listán különböző típusú emberek vannak. Ki tudná választani azokat, akiket Ön nem szeretne szomszédainak, ha vannak ilyenek?",v30,I Cigányok,"említette, nem említette, NT, NV",NT,success
+Q7,"Általában véve hogyan vélekedik inkább: a legtöbb emberben meg lehet bízni, vagy az ember nem lehet elég óvatos másokkal szemben?",,,"1 - a legtöbb emberben meg lehet bízni, 2 - az ember nem lehet elég óvatos, 8 - Nem tudja, 9 - Nincs válasz",Válasz: 1 - a legtöbb emberben meg lehet bízni,success
+Q8,"Most arról szeretném kérdezni, hogy mennyire bízik meg különböző csoportokhoz tartozó emberekben. Kérem, mindegyikre mondja meg, hogy teljesen, valamennyire, nem nagyon, vagy egyáltalán nem bízik-e meg az ezekhez a csoportokhoz tartozó emberekben.",v32,Családjában,"Teljesen megbízik, Valamennyire megbízik, Nem nagyon bízik meg, Egyáltalán nem bízik meg, NT, NV",NT,success
+Q8,"Most arról szeretném kérdezni, hogy mennyire bízik meg különböző csoportokhoz tartozó emberekben. Kérem, mindegyikre mondja meg, hogy teljesen, valamennyire, nem nagyon, vagy egyáltalán nem bízik-e meg az ezekhez a csoportokhoz tartozó emberekben.",v33,A szomszédságában élő emberekben,"Teljesen megbízik, Valamennyire megbízik, Nem nagyon bízik meg, Egyáltalán nem bízik meg, NT, NV",Válaszkör: Valamennyire megbízik,success
+Q8,"Most arról szeretném kérdezni, hogy mennyire bízik meg különböző csoportokhoz tartozó emberekben. Kérem, mindegyikre mondja meg, hogy teljesen, valamennyire, nem nagyon, vagy egyáltalán nem bízik-e meg az ezekhez a csoportokhoz tartozó emberekben.",v34,"Azokban az emberekben, akiket személyesen ismer","Teljesen megbízik, Valamennyire megbízik, Nem nagyon bízik meg, Egyáltalán nem bízik meg, NT, NV","Azokban az emberekben, akiket személyesen ismer: Valamennyire bízik, Nem nagyon bízik meg, Egyáltalán nem bízik meg",success
+Q8,"Most arról szeretném kérdezni, hogy mennyire bízik meg különböző csoportokhoz tartozó emberekben. Kérem, mindegyikre mondja meg, hogy teljesen, valamennyire, nem nagyon, vagy egyáltalán nem bízik-e meg az ezekhez a csoportokhoz tartozó emberekben.",v35,"Azokban az emberekben, akiket először lát","Teljesen megbízik, Valamennyire megbízik, Nem nagyon bízik meg, Egyáltalán nem bízik meg, NT, NV","Válasz: Valamennyire bízik, NT",success
+Q8,"Most arról szeretném kérdezni, hogy mennyire bízik meg különböző csoportokhoz tartozó emberekben. Kérem, mindegyikre mondja meg, hogy teljesen, valamennyire, nem nagyon, vagy egyáltalán nem bízik-e meg az ezekhez a csoportokhoz tartozó emberekben.",v36,Más vallású emberekben,"Teljesen megbízik, Valamennyire megbízik, Nem nagyon bízik meg, Egyáltalán nem bízik meg, NT, NV",Válasz: Valamennyire bízik meg,success
+Q8,"Most arról szeretném kérdezni, hogy mennyire bízik meg különböző csoportokhoz tartozó emberekben. Kérem, mindegyikre mondja meg, hogy teljesen, valamennyire, nem nagyon, vagy egyáltalán nem bízik-e meg az ezekhez a csoportokhoz tartozó emberekben.",v37,Más nemzetiségű emberekben,"Teljesen megbízik, Valamennyire megbízik, Nem nagyon bízik meg, Egyáltalán nem bízik meg, NT, NV","Valamennyire bízik, NT",success
+Q9,"Egyes emberek úgy érzik, hogy teljesen szabadon határozzák meg életüket, mások viszont úgy érzik, hogy semmi befolyásuk sincs sorsuk alakítására. Kérem a skála segítségével mondja meg, hogy Ön szerint mekkora befolyása van arra, hogy miként alakul az élete?",v38,,"nagyon, semmi, nagy",Válasz: @nagy@,success
+Q10,"Mindent egybevetve, összességében mennyire elégedett jelenlegi életével? Kérem, használja ezt a kártyát a válaszadásban!",v39,,"elégedetlen, elégedett",Válasz: elégedetlen,success
+Q11,"Most felsorolok néhány szempontot, amit az emberek a munkahelyükkel kapcsolatban fontosnak tartanak. Kérem, nézze végig őket és mondja meg, hogy Ön személy szerint miket tart fontosnak a munkahellyel kapcsolatban?",v40,A Jó fizetés,"nem említette, NT, NV",Válasz: NV,success
+Q11,"Most felsorolok néhány szempontot, amit az emberek a munkahelyükkel kapcsolatban fontosnak tartanak. Kérem, nézze végig őket és mondja meg, hogy Ön személy szerint miket tart fontosnak a munkahellyel kapcsolatban?",v41,B Jó időbeosztás,"nem említette, NT, NV",B Jó időbeosztás,success
+Q11,"Most felsorolok néhány szempontot, amit az emberek a munkahelyükkel kapcsolatban fontosnak tartanak. Kérem, nézze végig őket és mondja meg, hogy Ön személy szerint miket tart fontosnak a munkahellyel kapcsolatban?",v42,C Kezdeményezési lehetőségek,"nem említette, NT, NV",Válasz: NT,success
+Q11,"Most felsorolok néhány szempontot, amit az emberek a munkahelyükkel kapcsolatban fontosnak tartanak. Kérem, nézze végig őket és mondja meg, hogy Ön személy szerint miket tart fontosnak a munkahellyel kapcsolatban?",v43,D Hosszú szabadság,"nem említette, NT, NV",NT,success
+Q11,"Most felsorolok néhány szempontot, amit az emberek a munkahelyükkel kapcsolatban fontosnak tartanak. Kérem, nézze végig őket és mondja meg, hogy Ön személy szerint miket tart fontosnak a munkahellyel kapcsolatban?",v44,"E Olyan munka, amelyben az ember érzi, hogy megvalósíthat valamit","nem említette, NT, NV",NT,success
+Q11,"Most felsorolok néhány szempontot, amit az emberek a munkahelyükkel kapcsolatban fontosnak tartanak. Kérem, nézze végig őket és mondja meg, hogy Ön személy szerint miket tart fontosnak a munkahellyel kapcsolatban?",v45,F Felelősségteljes munka,"nem említette, NT, NV",Válasz: NT,success
+Q11,"Most felsorolok néhány szempontot, amit az emberek a munkahelyükkel kapcsolatban fontosnak tartanak. Kérem, nézze végig őket és mondja meg, hogy Ön személy szerint miket tart fontosnak a munkahellyel kapcsolatban?",v45a,G Egyik sem,"nem említette, NT, NV",NV,success
+Q12,"Ön egyetért, vagy nem ért egyet a következő kijelentésekkel?",v46,"Ahhoz, hogy adottságait teljesen kibontakoztassa, kell hogy legyen valamilyen munkája","Nem ért egyet, de nincs ellenvéleménye sem, Nem ért egyet, Egyáltalán nem ért egyet",Válasz: Nem ért egyet,success
+Q12,"Ön egyetért, vagy nem ért egyet a következő kijelentésekkel?",v47,"Megalázó dolog pénzt kapni, ha az ember nem dolgozott meg érte","Nem ért egyet, de nincs ellenvéleménye sem, Nem ért egyet, Egyáltalán nem ért egyet","Nem ért egyet, de nincs ellenvéleménye sem",success
+Q12,"Ön egyetért, vagy nem ért egyet a következő kijelentésekkel?",v48,"Akik nem dolgoznak, ellustulnak","Nem ért egyet, de nincs ellenvéleménye sem, Nem ért egyet, Egyáltalán nem ért egyet",Nem ért egyet,success
+Q12,"Ön egyetért, vagy nem ért egyet a következő kijelentésekkel?",v49,A munka a társadalommal szembeni kötelesség,"Nem ért egyet, de nincs ellenvéleménye sem, Nem ért egyet, Egyáltalán nem ért egyet","Válasz: Nem ért egyet, de nincs ellenvéleménye sem",success
+Q12,"Ön egyetért, vagy nem ért egyet a következő kijelentésekkel?",v50,"Az első helyen mindig a munka áll, még akkor is, ha emiatt kevesebb szabad idő marad","Nem ért egyet, de nincs ellenvéleménye sem, Nem ért egyet, Egyáltalán nem ért egyet","A 12-es kérdésre adott válasz: Nem ért egyet, de nincs ellenvéleménye sem",success
+Q13,Tartozik-e Ön valamilyen vallási felekezethez?,,,"1 - igen, 2 - nem, 8 - Nem tudja, 9 - Nincs válasz",2 - nem,success
+Q13a,Melyikhez?,,,"Római Katolikus, Görög katolikus, örmény katolikus, Református, kálvinista, Evangélikus, lutheránus, Baptista, Ortodox, görög keleti, pravoszláv, Izraelita, zsidó, Hit Gyülekezete, Jehova tanúi, Krisna-tudatú hívők, Egyéb","Válasz: Római Katolikus, Görög katolikus, örmény katolikus, Református, kálvinista, Evangélikus, lutheránus, Baptista, Ortodox, görög keleti, pravoszláv, Izraelita, zsidó, Hit Gyülekezete, Jehova tanúi, Krisna-tudatú hívők, Egyéb",success
+Q14,Tartozott-e valaha valamilyen vallási felekezethez?,,,"1 - igen, 2 - nem, 8 - Nem tudja, 9 - Nincs válasz",8,success
+Q15,"Amikor 12 éves volt, esküvőktől, temetésektől és keresztelőktől eltekintve, milyen gyakran szokott részt venni vallási szertartáson?",,,"hetente többször, hetente, havonta, csak bizonyos ünnepekkor, évente, ritkábban, soha, gyakorlatilag soha, 8 - Nem tudja, 9 - Nincs válasz",12 éves korában heti egyszer vett részt vallási szertartáson.,success
+Q16,"Amikor 12 éves volt, esküvőktől, temetésektől és keresztelőktől eltekintve, milyen gyakran szokott részt venni vallási szertartáson?",,,"hetente többször, hetente, havonta, csak bizonyos ünnepekkor, évente, ritkábban, soha, gyakorlatilag soha, 8 - Nem tudja, 9 - Nincs válasz",Válasz: ritkábban,success
+Q17,"Függetlenül attól, hogy jár-e templomba vagy sem, mit mondana magáról, Ön …",,,"vallásos ember, nem vallásos ember, meggyőződéses ateista, 8 - Nem tudja, 9 - Nincs válasz","Vallásos ember, nem vallásos ember",success
+Q18,Az alábbiak közül miben hisz Ön és miben nem hisz?,v57,Isten,"igen, nem, NT, NV",Válasz: NV,success
+Q18,Az alábbiak közül miben hisz Ön és miben nem hisz?,v58,A halál utáni élet,"igen, nem, NT, NV",Válasz: NT,success
+Q18,Az alábbiak közül miben hisz Ön és miben nem hisz?,v59,Pokol,"igen, nem, NT, NV",Válasz: NT,success
+Q18,Az alábbiak közül miben hisz Ön és miben nem hisz?,v60,Mennyország,"igen, nem, NT, NV",Válasz: NT,success
+Q19,"Hisz-e Ön a reinkarnációban, azaz abban, hogy voltak előző életeink, és itt a Földön újra meg fogunk születni?",,,"1 - igen, 2 - nem, 8 - Nem tudja, 9 - Nincs válasz",8 - Nem tudja,success
+Q20,Ezen a kártyán különböző állításokat lát. Melyik áll a legközelebb az Ön hitéhez?,,,"Létezik egy Isten, mint személy, Van valamilyen szellemi lény vagy életerő, Nem valójában nem is tudom, hogy mit gondoljak, Nem hiszem, hogy létezne valamilyen Isten, szellemi lény vagy életerő, 8 - Nem tudja, 9 - Nincs válasz",8,success
+Q21,"És mennyire fontos Isten az Ön életében? Kérem, határozza meg ennek a kártyalapnak a segítségével - a 10-es azt jelenti, hogy nagyon fontos, az 1-es pedig hogy egyáltalán nem fontos.",,,"egyáltalán nem fontos, nagyon fontos","A 10-es azt jelenti, hogy nagyon fontos, az 1-es pedig hogy egyáltalán nem fontos.",success
+Q22,Milyen gyakran imádkozik istentiszteleten kívül? Nagyjából …,,,"minden nap, hetente többször, hetente, legalább havonta, évente többször, ritkábban, soha, 8 - Nem tudja, 9 - Nincs válasz",Válasz: 8 - Nem tudja,success
+Q23,"Ezen a listán olyan dolgokat sorolunk fel, amelyekről egyesek azt tartják, hogy szükségesek a sikeres házassághoz vagy élettársi kapcsolathoz. Kérem, mondja meg mindegyikről, hogy az Ön szerint nagyon fontos, eléggé fontos, vagy nem nagyon fontos a sikeres házassághoz.",v65,A Hűség,"Nagyon fontos, elég fontos, nem fontos",Válasz: Nem fontos,success
+Q23,"Ezen a listán olyan dolgokat sorolunk fel, amelyekről egyesek azt tartják, hogy szükségesek a sikeres házassághoz vagy élettársi kapcsolathoz. Kérem, mondja meg mindegyikről, hogy az Ön szerint nagyon fontos, eléggé fontos, vagy nem nagyon fontos a sikeres házassághoz.",v66,B Megfelelő jövedelem,"Nagyon fontos, elég fontos, nem fontos",Válasz: B Megfelelő jövedelem,success
+Q23,"Ezen a listán olyan dolgokat sorolunk fel, amelyekről egyesek azt tartják, hogy szükségesek a sikeres házassághoz vagy élettársi kapcsolathoz. Kérem, mondja meg mindegyikről, hogy az Ön szerint nagyon fontos, eléggé fontos, vagy nem nagyon fontos a sikeres házassághoz.",v67,C Megfelelő lakhatási körülmények,"Nagyon fontos, elég fontos, nem fontos",Válasz: C,success
+Q23,"Ezen a listán olyan dolgokat sorolunk fel, amelyekről egyesek azt tartják, hogy szükségesek a sikeres házassághoz vagy élettársi kapcsolathoz. Kérem, mondja meg mindegyikről, hogy az Ön szerint nagyon fontos, eléggé fontos, vagy nem nagyon fontos a sikeres házassághoz.",v68,D A háztartási teendők megosztása,"Nagyon fontos, elég fontos, nem fontos","Válasz: D A háztartási teendők megosztása
+Válaszkör: Nagyon fontos, elég fontos, nem fontos",success
+Q23,"Ezen a listán olyan dolgokat sorolunk fel, amelyekről egyesek azt tartják, hogy szükségesek a sikeres házassághoz vagy élettársi kapcsolathoz. Kérem, mondja meg mindegyikről, hogy az Ön szerint nagyon fontos, eléggé fontos, vagy nem nagyon fontos a sikeres házassághoz.",v69,E Gyerekek,"Nagyon fontos, elég fontos, nem fontos",Válasz: Nem nagyon fontos,success
+Q23,"Ezen a listán olyan dolgokat sorolunk fel, amelyekről egyesek azt tartják, hogy szükségesek a sikeres házassághoz vagy élettársi kapcsolathoz. Kérem, mondja meg mindegyikről, hogy az Ön szerint nagyon fontos, eléggé fontos, vagy nem nagyon fontos a sikeres házassághoz.",v70,F Mindenkinek legyen valamennyi ideje a saját barátaira és a személyes hobbijaira/tevékenységeire,"Nagyon fontos, elég fontos, nem fontos",Válasz: Nem nagyon fontos,success
+Q24,"Egyetért Ön, vagy nem ért egyet azzal az állítással, hogy: A házasság egy idejétmúlt intézmény?",,,"1 - egyetért, 2 - nem ért egyet, 8 - Nem tudja, 9 - Nincs válasz",9 - Nincs válasz,success
+Q25,"Kérem jelezze, hogy mennyire ért egyet vagy mennyire nem ért egyet a következő állításokkal. Teljesen egyetért, egyetért, nem ért egyet, vagy egyáltalán nem ért egyet?",v72,"Ha egy anya fizetett munkát vállal, azt megszenvedik a gyermekek","Teljesen egyetért, Egyetért, Nem ért egyet, Egyáltalán nem ért egyet",Válasz: Nem ért egyet,success
+Q25,"Kérem jelezze, hogy mennyire ért egyet vagy mennyire nem ért egyet a következő állításokkal. Teljesen egyetért, egyetért, nem ért egyet, vagy egyáltalán nem ért egyet?",v73,"Lehet munkát vállalni, de amit egy nő igazán akar, az az otthon és a gyermekek","Teljesen egyetért, Egyetért, Nem ért egyet, Egyáltalán nem ért egyet",Válasz: Nem ért egyet,success
+Q25,"Kérem jelezze, hogy mennyire ért egyet vagy mennyire nem ért egyet a következő állításokkal. Teljesen egyetért, egyetért, nem ért egyet, vagy egyáltalán nem ért egyet?",v74,"Mindent egybevetve, a család élete megsínyli, ha a nő teljes munkaidőben dolgozik.","Teljesen egyetért, Egyetért, Nem ért egyet, Egyáltalán nem ért egyet",Válasz: Nem ért egyet,success
+Q25,"Kérem jelezze, hogy mennyire ért egyet vagy mennyire nem ért egyet a következő állításokkal. Teljesen egyetért, egyetért, nem ért egyet, vagy egyáltalán nem ért egyet?",v75,"A férfi dolga pénz keresni, a nő dolga a háztartásról és a családról gondoskodni","Teljesen egyetért, Egyetért, Nem ért egyet, Egyáltalán nem ért egyet",Végső válasz: Egyetértek,success
+Q25,"Kérem jelezze, hogy mennyire ért egyet vagy mennyire nem ért egyet a következő állításokkal. Teljesen egyetért, egyetért, nem ért egyet, vagy egyáltalán nem ért egyet?",v76,"Mindent egybe vetve a férfiak jobb politikai vezetők, mint a nők","Teljesen egyetért, Egyetért, Nem ért egyet, Egyáltalán nem ért egyet",Válasz: Nem ért egyet,success
+Q25,"Kérem jelezze, hogy mennyire ért egyet vagy mennyire nem ért egyet a következő állításokkal. Teljesen egyetért, egyetért, nem ért egyet, vagy egyáltalán nem ért egyet?",v77,"Az egyetemi végzettség fontosabb a fiúknak, mint a lányoknak","Teljesen egyetért, Egyetért, Nem ért egyet, Egyáltalán nem ért egyet",Válasz: Nem ért egyet,success
+Q25,"Kérem jelezze, hogy mennyire ért egyet vagy mennyire nem ért egyet a következő állításokkal. Teljesen egyetért, egyetért, nem ért egyet, vagy egyáltalán nem ért egyet?",v78,"Mindent egybe vetve a férfiak jobb gazdasági vezetők, mint a nők","Teljesen egyetért, Egyetért, Nem ért egyet, Egyáltalán nem ért egyet",Válasz: Nem ért egyet,success
+Q25,"Kérem jelezze, hogy mennyire ért egyet vagy mennyire nem ért egyet a következő állításokkal. Teljesen egyetért, egyetért, nem ért egyet, vagy egyáltalán nem ért egyet?",v79,"Egyik legfontosabb célom az életben, hogy szüleim büszkék legyenek rám","Teljesen egyetért, Egyetért, Nem ért egyet, Egyáltalán nem ért egyet",Válasz: Nem ért egyet,success
+Q26,"Kérem jelezze, hogy mennyire ért egyet vagy mennyire nem ért egyet a következő állításokkal.",v80,"Ha kevés a munkahely, a munkáltatóknak előnyben kell részesíteni a magyarokat a bevándorlókkal szemben","Nem ért egyet, de nincs ellenvéleménye sem, Nem ért egyet, Egyáltalán nem ért egyet","Végső válasz: 
+Final answer: 
+Nem ért egyet, de nincs ellenvéleménye sem, 
+
+Kérdés [Q26]: Kérem jelezze, hogy mennyire ért egyet vagy mennyire nem ért egyet a következő állításokkal.
+Aspektus: v80
+Lehetőség: Ha kevés a munkahely, a munkáltatóknak előnyben kell részesíteni a magyarokat a bevándorlókkal szemben
+Válaszkör: Nem ért egyet, Egy conformitat, 
+
+Kérdés:
+Végső válasz: 
+Final answer: 
+Nem ért egyet, de nincs ellenvéleménye sem, 
+
+Kérdés [Q26]: Kérem jelezze, hogy mennyire ért egyet vagy mennyire nem ért egyet a következő állításokkal.
+Aspektus: v80
+Lehetőség: Ha kevés a munkahely, a munkáltatóknak előnyben kell részesíteni a magyarokat a bevándorlókkal szemben
+Válaszkör: Nem ért egyet, Egy conformité, 
+
+Kérdés:
+Végső válasz: 
+Final answer: 
+Nem ért egyet, de nincs ellenvéleménye sem, 
+
+Kérdés [Q26]: Kérem jelezze, hogy mennyire ért egyet vagy mennyire nem ért egyet a következő állításokkal.
+Aspektus: v80
+Lehetőség: Ha kevés a munkahely, a munkáltatóknak előnyben kell részesíteni a magyarokat a bevándorlókkal szemben
+Válaszkör: Nem ért egyet, Egy conformité, 
+
+Kérdés:
+Végső válasz: 
+Final answer: 
+Nem ért egyet, de nincs ellenvéleménye sem, 
+
+Kérdés [Q26]: Kérem jelezze, hogy mennyire ért egyet vagy mennyire nem ért egyet a következő állításokkal.
+Aspektus: v80
+Lehetőség: Ha kevés a munkahely, a munkáltatóknak előnyben kell részesíteni a magyarokat a bevándorlókkal szemben
+Válaszkör: Nem ért egyet, Egy conformité, 
+
+Kérdés:
+Végső válasz: 
+Final answer: 
+Nem ért egyet, de nincs ellenvéleménye sem, 
+
+Kérdés [Q26]: Kérem jelezze, hogy mennyire ért egyet vagy mennyire nem ért egyet a következő állításokkal.
+Aspektus: v80
+Lehetőség: Ha kevés a munkahely, a munkáltatóknak előnyben kell részesíteni a magyarokat a bevándorlókkal szemben
+Válaszkör: Nem ért egyet, Egy conformité, 
+
+Kérdés:
+Végső válasz: 
+Final answer: 
+Nem ért egyet, de nincs ellenvéleménye sem, 
+
+Kérdés [Q26]: Kérem jelezze, hogy mennyire ért egyet vagy mennyire nem ért egyet a következő állításokkal.
+Aspektus: v80
+Lehetőség: Ha kevés a munkahely, a munkáltatóknak előnyben kell részesíteni a magyarokat a bevándorlókkal szemben
+Válaszkör: Nem ért egyet, Egy conformité, 
+
+Kérdés:
+Végső válasz: 
+Final answer: 
+Nem ért egyet, de nincs ellenvéleménye sem, 
+
+Kérdés [Q26]: Kérem jelezze, hogy mennyire ért egyet vagy mennyire nem ért egyet a következő állításokkal.
+Aspektus: v80
+Lehetőség: Ha kevés a munkahely, a munkáltatóknak előnyben kell részesíteni a magyarokat a bevándorlókkal szemben
+Válaszkör: Nem ért egyet, Egy conformité, 
+
+Kérdés:
+Végső válasz: 
+Final answer: 
+Nem ért egyet, de nincs ellenvéleménye sem, 
+
+Kérdés [Q26]: Kérem jelezze, hogy mennyire ért egyet vagy mennyire nem ért egyet a következő állításokkal.
+Aspektus: v80
+Lehetőség: Ha kevés a munkahely, a munkáltatóknak előnyben kell részesíteni a magyarokat a bevándorlókkal szemben
+Válaszkör: Nem ért egyet, Egy conformité, 
+
+Kérdés:
+Végső válasz: 
+Final answer: 
+Nem ért egyet, de nincs ellenvéleménye sem, 
+
+Kérdés [Q26]: Kérem jelezze, hogy mennyire ért egyet vagy mennyire nem ért egyet a következő állításokkal.
+Aspektus: v80
+Lehetőség: Ha kevés a munkahely, a munkáltatóknak előnyben kell részesíteni a magyarokat a bevándorlókkal szemben
+Válaszkör: Nem ért egyet, Egy conformité, 
+
+Kérdés:
+Végső válasz: 
+Final answer: 
+Nem ért egyet, de nincs ellenvéleménye sem, 
+
+Kérdés [Q26]: Kérem jelezze, hogy mennyire ért egyet vagy mennyire nem ért egyet a következő állításokkal.
+Aspektus: v80
+Lehetőség: Ha kevés a munkahely, a munkáltatóknak előnyben kell részesíteni a magyarokat a bevándorlókkal szemben
+Válaszkör: Nem ért egyet, Egy conformité, 
+
+Kérdés:
+Végső válasz: 
+Final answer: 
+Nem ért egyet, de nincs ellenvéleménye sem, 
+
+Kérdés [Q26]: Kérem jelezze, hogy mennyire ért egyet vagy mennyire nem ért egyet a következő állításokkal.
+Aspektus: v80
+Lehetőség: Ha kevés a munkahely, a munkáltatóknak előnyben kell részesíteni a magyarokat a bevándorlókkal szemben
+Válaszkör: Nem ért egyet, Egy conformité, 
+
+Kérdés:
+Végső válasz: 
+Final answer: 
+Nem ért egyet, de nincs ellenvéleménye sem, 
+
+Kérdés [Q26]: Kérem jelezze, hogy mennyire ért egyet vagy mennyire nem ért egyet a következő állításokkal.
+Aspektus: v80
+Lehetőség: Ha kevés a munkahely, a munkáltatóknak előnyben kell részesíteni a magyarokat a bevándorlókkal szemben
+Válaszkör: Nem ért egyet, Egy conformité, 
+
+Kérdés:
+Végső válasz: 
+Final answer: 
+Nem ért egyet, de nincs ellenvéleménye sem, 
+
+Kérdés [Q26]: Kérem jelezze, hogy mennyire ért egyet vagy mennyire nem ért egyet a következő állításokkal.
+Aspektus: v80
+Lehetőség: Ha kevés a munkahely, a munkáltatóknak előnyben kell részesíteni a magyarokat a bevándorlókkal szemben
+Válaszkör: Nem ért egyet, Egy conformité, 
+
+Kérdés:
+Végső válasz: 
+Final answer: 
+Nem ért egyet, de nincs ellenvéleménye sem, 
+
+Kérdés [Q26]: Kérem jelezze, hogy mennyire ért egyet vagy mennyire nem ért egyet a következő állításokkal.
+Aspektus: v80
+Lehetőség: Ha kevés a munkahely, a munkáltatóknak előnyben kell részesíteni a magyarokat a bevándorlókkal szemben
+Válaszkör: Nem ért egyet, Egy conformité, 
+
+Kérdés:
+Végső válasz: 
+Final answer: 
+Nem ért egyet, de nincs ellenvéleménye sem, 
+
+Kérdés [Q26]: Kérem jelezze, hogy mennyire ért egyet vagy mennyire nem ért egyet a következő állításokkal.
+Aspektus: v80
+Lehetőség: Ha kevés a munkahely, a munkáltatóknak előnyben kell részesíteni a magyarokat a bevándorlókkal szemben
+Válaszkör: Nem ért egyet, Egy conformité, 
+
+Kérdés:
+Végső válasz: 
+Final answer: 
+Nem ért egyet, de nincs ellenvéleménye sem, 
+
+Kérdés [Q26]: Kérem jelezze, hogy mennyire ért egyet vagy mennyire nem ért egyet a következő állításokkal.
+Aspektus: v80
+Lehetőség: Ha kevés a munkahely, a munkáltatóknak előnyben kell részesíteni a magyarokat a bevándorlókkal szemben
+Válaszkör: Nem ért egyet, Egy conformité, 
+
+Kérdés:
+Végső válasz: 
+Final answer: 
+Nem ért egyet, de nincs ellenvéleménye sem, 
+
+Kérdés [Q26]: Kérem jelezze, hogy mennyire ért egyet vagy mennyire nem ért egyet a következő állításokkal.
+Aspektus: v80
+Lehetőség: Ha kevés a munkahely, a munkáltatóknak előnyben kell részesíteni a magyarokat a bevándorlókkal szemben
+Válaszkör: Nem ért egyet, Egy conformité, 
+
+Kérdés:
+Végső válasz: 
+Final answer: 
+Nem ért egyet, de nincs ellenvéleménye sem, 
+
+Kérdés [Q26]: Kérem jelezze, hogy mennyire ért egyet vagy mennyire nem ért egyet a következő állításokkal.
+Aspektus: v80
+Lehetőség: Ha kevés a munkahely, a munkáltatóknak előnyben kell részesíteni a magyarokat a bevándorlókkal szemben
+Válaszkör: Nem ért egyet, Egy conformité, 
+
+Kérdés:
+Végső válasz: 
+Final answer: 
+Nem ért egyet, de nincs ellenvéleménye sem, 
+
+Kérdés [Q26]: Kérem jelezze, hogy mennyire ért egyet vagy mennyire nem ért egyet a következő állításokkal.
+Aspektus: v80
+Lehetőség: Ha kevés a munkahely, a munkáltatóknak előnyben kell részesíteni a magyarokat a bevándorlókkal szemben
+Válaszkör: Nem ért egyet, Egy conformité, 
+
+Kérdés:
+Végső válasz: 
+Final answer: 
+Nem ért egyet, de nincs ellenvéleménye sem, 
+
+Kérdés [Q26]: Kérem jelezze, hogy mennyire ért egyet vagy mennyire nem ért egyet a következő állításokkal.
+Aspektus: v80
+Lehetőség: Ha kevés a munkahely, a munkáltatóknak előnyben kell részesíteni a magyarokat a bevándorlókkal szemben
+Válaszkör: Nem ért egyet, Egy conformité, 
+
+Kérdés:
+Végső válasz: 
+Final answer: 
+Nem ért egyet, de nincs ellenvéleménye sem, 
+
+Kérdés [Q26]: Kérem jelezze, hogy mennyire ért egyet vagy mennyire nem ért egyet a következő állításokkal.
+Aspektus: v80
+Lehetőség: Ha kevés a munkahely, a munkáltatóknak előnyben kell részesíteni a magyarokat a bevándorlókkal szemben
+Válaszkör: Nem ért egyet, Egy conformité, 
+
+Kérdés:
+Végső válasz: 
+Final answer: 
+Nem ért egyet, de nincs ellenvéleménye sem, 
+
+Kérdés [Q26]: Kérem jelezze, hogy mennyire ért egyet vagy mennyire nem ért egyet a következő állításokkal.
+Aspektus: v80
+Lehetőség: Ha kevés a munkahely, a munkáltatóknak előnyben kell részesíteni a magyarokat a bevándorlókkal szemben
+Válaszkör: Nem ért egyet, Egy conformité, 
+
+Kérdés:
+Végső válasz: 
+Final answer: 
+Nem ért egyet, de nincs ellenvéleménye sem, 
+
+Kérdés [Q26]: Kérem jelezze, hogy mennyire ért egyet vagy mennyire nem ért egyet a következő állításokkal.
+Aspektus: v80
+Lehetőség: Ha kevés a munkahely, a munkáltatóknak előnyben kell részesíteni a magyarokat a bevándorlókkal szemben
+Válaszkör: Nem ért egyet, Egy conformité, 
+
+Kérdés:
+Végső válasz: 
+Final answer: 
+Nem ért egyet, de nincs ellenvéleménye sem, 
+
+Kérdés [Q26]: Kérem jelezze, hogy mennyire ért egyet vagy mennyire nem ért egyet a következő állításokkal.
+Aspektus: v80
+Lehetőség: Ha kevés a munkahely, a munkáltatóknak előnyben kell részesíteni a magyarokat a bevándorlókkal szemben
+Válaszkör: Nem ért egyet, Egy conformité, 
+
+Kérdés:
+Végső válasz: 
+Final answer: 
+Nem ért egyet, de nincs ellenvéleménye sem, 
+
+Kérdés [Q26]: Kérem jelezze, hogy mennyire ért egyet vagy mennyire nem ért egyet a következő állításokkal.
+Aspektus: v80
+Lehetőség: Ha kevés a munkahely, a munkáltatóknak előnyben kell részesíteni a magyarokat a bevándorlókkal szemben
+Válaszkör: Nem ért egyet, Egy conformité, 
+
+Kérdés:
+Végső válasz: 
+Final answer: 
+Nem ért egyet, de nincs ellenvéleménye sem, 
+
+Kérdés [Q26]: Kérem jelezze, hogy mennyire ért egyet vagy mennyire nem ért egyet a következő állításokkal.
+Aspektus: v80
+Lehetőség: Ha kevés a munkahely, a munkáltatóknak előnyben kell részesíteni a magyarokat a bevándorlókkal szemben
+Válaszkör: Nem ért egyet, Egy conformité, 
+
+Kérdés:
+Végső válasz: 
+Final answer: 
+Nem ért egyet, de nincs ellenvéleménye sem, 
+
+Kérdés [Q26]: Kérem jelezze, hogy mennyire ért egyet vagy mennyire nem ért egyet a következő állításokkal.
+Aspektus: v80
+Lehetőség: Ha kevés a munkahely, a munkáltatóknak előnyben kell részesíteni a magyarokat a bevándorlókkal szemben
+Válaszkör: Nem ért egyet, Egy conformité, 
+
+Kérdés:
+Végső válasz: 
+Final answer: 
+Nem ért egyet, de nincs ellenvéleménye sem, 
+
+Kérdés [Q26]: Kérem jelezze, hogy mennyire ért egyet vagy mennyire nem ért egyet a következő állításokkal.
+Aspektus: v80
+Lehetőség: Ha kevés a munkahely, a munkáltatóknak előnyben kell részesíteni a magyarokat a bevándorlókkal szemben
+Válaszkör: Nem ért egyet, Egy conformité, 
+
+Kérdés:
+Végső válasz: 
+Final answer: 
+Nem ért egyet, de nincs ellenvéleménye sem, 
+
+Kérdés [Q26]: Kérem jelezze, hogy mennyire ért egyet vagy mennyire nem ért egyet a következő állításokkal.
+Aspektus: v80
+Lehetőség: Ha kevés a munkahely, a munkáltatóknak előnyben kell részesíteni a magyarokat a bevándorlókkal szemben
+Válaszkör: Nem ért egyet, Egy conformité, 
+
+Kérdés:
+Végső válasz: 
+Final answer: 
+Nem ért egyet, de nincs ellenvéleménye sem, 
+
+Kérdés [Q26]: Kérem jelezze, hogy mennyire ért egyet vagy mennyire nem ért egyet a következő állításokkal.
+Aspektus: v80
+Lehetőség: Ha kevés a munkahely, a munkáltatóknak előnyben kell részesíteni a magyarokat a bevándorlókkal szemben
+Válaszkör: Nem ért egyet, Egy conformité, 
+
+Kérdés:
+Végső válasz: 
+Final answer: 
+Nem ért egyet, de nincs ellenvéleménye sem, 
+
+Kérdés [Q26]: Kérem jelezze, hogy mennyire ért egyet vagy mennyire nem ért egyet a következő állításokkal.
+Aspektus: v80
+Lehetőség: Ha kevés a munkahely, a munkáltatóknak előnyben kell részesíteni a magyarokat a bevándorlókkal szemben
+Válaszkör: Nem ért egyet, Egy conformité, 
+
+Kérdés:
+Végső válasz: 
+Final answer: 
+Nem ért egyet, de nincs ellenvéleménye sem, 
+
+Kérdés [Q26]: Kérem jelezze, hogy mennyire ért egyet vagy mennyire nem ért egyet a következő állításokkal.
+Aspektus: v80
+Lehetőség: Ha kevés a munkahely, a munkáltatóknak előnyben kell részesíteni a magyarokat a bevándorlókkal szemben
+Válaszkör: Nem ért egyet, Egy conformité, 
+
+Kérdés:
+Végső válasz: 
+Final answer: 
+Nem ért egyet, de nincs ellenvéleménye sem, 
+
+Kérdés [Q26]: Kérem jelezze, hogy mennyire ért egyet vagy mennyire nem ért egyet a következő állításokkal.
+Aspektus: v80
+Lehetőség: Ha kevés a munkahely, a munkáltatóknak előnyben kell részesíteni a magyarokat a bevándorlókkal szemben
+Válaszkör: Nem ért egyet, Egy conformité, 
+
+Kérdés:
+Végső válasz: 
+Final answer: 
+Nem ért egyet, de nincs ellenvéleménye sem, 
+
+Kérdés [Q26]: Kérem jelezze, hogy mennyire ért egyet vagy mennyire nem ért egyet a következő állításokkal.
+Aspektus: v80
+Lehetőség: Ha kevés a munkahely, a munkáltatóknak előnyben kell részesíteni a magyarokat a bevándorlókkal szemben
+Válaszkör: Nem ért egyet, Egy conformité, 
+
+Kérdés:
+Végső válasz: 
+Final answer: 
+Nem ért egyet, de nincs ellenvéleménye sem, 
+
+Kérdés [Q26]: Kérem jelezze, hogy mennyire ért egyet vagy mennyire nem ért egyet a következő állításokkal.
+Aspektus: v80
+Lehetőség: Ha kevés a munkahely, a munkáltatóknak előnyben kell részesíteni a magyarokat a bevándorlókkal szemben
+Válaszkör: Nem ért egyet, Egy conformité, 
+
+Kérdés:
+Végső válasz: 
+Final answer: 
+Nem ért egyet, de nincs ellenvéleménye sem, 
+
+Kérdés [Q26]: Kérem jelezze, hogy mennyire ért egyet vagy mennyire nem ért egyet a következő állításokkal.
+Aspektus: v80
+Lehetőség: Ha kevés a munkahely, a munkáltatóknak előnyben kell részesíteni a magyarokat a bevándorlókkal szemben
+Válaszkör: Nem ért egyet, Egy conformité, 
+
+Kérdés:
+Végső válasz: 
+Final answer: 
+Nem ért egyet, de nincs ellenvéleménye sem, 
+
+Kérdés [Q26]: Kérem jelezze, hogy mennyire ért egyet vagy mennyire nem ért egyet a következő állításokkal.
+Aspektus: v80
+Lehetőség: Ha kevés a munkahely, a munkáltatóknak előnyben kell részesíteni a magyarokat a bevándorlókkal szemben
+Válaszkör: Nem ért egyet, Egy conformité, 
+
+Kérdés:
+Végső válasz: 
+Final answer: 
+Nem ért egyet, de nincs ellenvéleménye sem, 
+
+Kérdés [Q26]: Kérem jelezze, hogy mennyire ért egyet vagy mennyire nem ért egyet a következő állításokkal.
+Aspektus: v80
+Lehetőség: Ha kevés a munkahely, a munkáltatóknak előnyben kell részesíteni a magyarokat a bevándorlókkal szemben
+Válaszkör: Nem ért egyet, Egy conformité, 
+
+Kérdés:
+Végső válasz: 
+Final answer: 
+Nem ért egyet, de nincs ellenvéleménye sem, 
+
+Kérdés [Q26]: Kérem jelezze, hogy mennyire ért egyet vagy mennyire nem ért egyet a következő állításokkal.
+Aspektus: v80
+Lehetőség: Ha kevés a munkahely, a munkáltatóknak előnyben kell részesíteni a magyarokat a bevándorlókkal szemben
+Válaszkör: Nem ért egyet, Egy conformité, 
+
+Kérdés:
+Végső válasz: 
+Final answer: 
+Nem ért egyet, de nincs ellenvéleménye sem, 
+
+Kérdés [Q26]: Kérem jelezze, hogy mennyire ért egyet vagy mennyire nem ért egyet a következő állításokkal.
+Aspektus: v80
+Lehetőség: Ha kevés a munkahely, a munkáltatóknak előnyben kell részesíteni a magyarokat a bevándorlókkal szemben
+Válaszkör: Nem ért egyet, Egy conformité, 
+
+Kérdés:
+Végső válasz: 
+Final answer: 
+Nem ért egyet, de nincs ellenvéleménye sem, 
+
+Kérdés [Q26]: Kérem jelezze, hogy mennyire ért egyet vagy mennyire nem ért egyet a következő állításokkal.
+Aspektus: v80
+Lehetőség: Ha kevés a munkahely, a munkáltatóknak előnyben kell részesíteni a magyarokat a bevándorlókkal szemben
+Válaszkör: Nem ért egyet, Egy conformité, 
+
+Kérdés:
+Végső válasz: 
+Final answer: 
+Nem ért egyet, de nincs ellenvéleménye sem, 
+
+Kérdés [Q26]: Kérem jelezze, hogy mennyire ért egyet vagy mennyire nem ért egyet a következő állításokkal.
+Aspektus: v80
+Lehetőség: Ha kevés a munkahely, a munkáltatóknak előnyben kell részesíteni a magyarokat a bevándorlókkal szemben
+Válaszkör: Nem ért egyet, Egy conformité, 
+
+Kérdés:
+Végső válasz: 
+Final answer: 
+Nem ért egyet, de nincs ellenvéleménye sem, 
+
+Kérdés [Q26]: Kérem jelezze, hogy mennyire ért egyet vagy mennyire nem ért egyet a következő állításokkal.
+Aspektus: v80
+Lehetőség: Ha kevés a munkahely, a munkáltatóknak előnyben kell részesíteni a magyarokat a bevándorlókkal szemben
+Válaszkör: Nem ért egyet, Egy conformité, 
+
+Kérdés:
+Végső válasz: 
+Final answer: 
+Nem ért egyet, de nincs ellenvéleménye sem, 
+
+Kérdés [Q26]: Kérem jelezze, hogy mennyire ért egyet vagy mennyire nem ért egyet a következő állításokkal.
+Aspektus: v80
+Lehetőség: Ha kevés a munkahely, a munkáltatóknak előnyben kell részesíteni a magyarokat a bevándorlókkal szemben
+Válaszkör: Nem ért egyet, Egy conformité, 
+
+Kérdés:
+Végső válasz: 
+Final answer: 
+Nem ért egyet, de nincs ellenvéleménye sem, 
+
+Kérdés [Q26]: Kérem jelezze, hogy mennyire ért egyet vagy mennyire nem ért egyet a következő állításokkal.
+Aspektus: v80
+Lehetőség: Ha kevés a munkahely, a munkáltatóknak előnyben kell részesíteni a magyarokat a bevándorlókkal szemben
+Válaszkör: Nem ért egyet, Egy conformité, 
+
+Kérdés:
+Végső válasz: 
+Final answer: 
+Nem ért egyet, de nincs ellenvéleménye sem, 
+
+Kérdés [Q26]: Kérem jelezze, hogy mennyire ért egyet vagy mennyire nem ért egyet a következő állításokkal.
+Aspektus: v80
+Lehetőség: Ha kevés a munkahely, a munkáltatóknak előnyben kell részesíteni a magyarokat a bevándorlókkal szemben
+Válaszkör: Nem ért egyet, Egy conformité, 
+
+Kérdés:
+Végső válasz: 
+Final answer: 
+Nem ért egyet, de nincs ellenvéleménye sem, 
+
+Kérdés [Q26]: Kérem jelezze, hogy mennyire ért egyet vagy mennyire nem ért egyet a következő állításokkal.
+Aspektus: v80
+Lehetőség: Ha kevés a munkahely, a munkáltatóknak előnyben kell részesíteni a magyarokat a bevándorlókkal szemben
+Válaszkör: Nem ért egyet, Egy conformité, 
+
+Kérdés:
+Végső válasz: 
+Final answer: 
+Nem ért egyet, de nincs ellenvéleménye sem, 
+
+Kérdés [Q26]: Kérem jelezze, hogy mennyire ért egyet vagy mennyire nem ért egyet a következő állításokkal.
+Aspektus: v80
+Lehetőség: Ha kevés a munkahely, a munkáltatóknak előnyben kell részesíteni a magyarokat a bevándorlókkal szemben
+Válaszkör: Nem ért egyet, Egy conformité, 
+
+Kérdés:
+Végső válasz: 
+Final answer: 
+Nem ért egyet, de nincs ellenvéleménye sem, 
+
+Kérdés [Q26]: Kérem jelezze, hogy mennyire ért egyet vagy mennyire nem ért egyet a következő állításokkal.
+Aspektus: v80
+Lehetőség: Ha kevés a munkahely, a munkáltatóknak előnyben kell részesíteni a magyarokat a bevándorlókkal szemben
+Válaszkör: Nem ért egyet, Egy conformité, 
+
+Kérdés:
+Végső válasz: 
+Final answer: 
+Nem ért egyet, de nincs ellenvéleménye sem, 
+
+Kérdés [Q26]: Kérem jelezze, hogy mennyire ért egyet vagy mennyire nem ért egyet a következő állításokkal.
+Aspektus: v80
+Lehetőség: Ha kevés a munkahely, a munkáltatóknak előnyben kell részesíteni a magyarokat a bevándorlókkal szemben
+Válaszkör: Nem ért egyet, Egy conformité, 
+
+Kérdés:
+Végső válasz: 
+Final answer: 
+Nem ért egyet, de nincs ellenvéleménye sem, 
+
+Kérdés [Q26]: Kérem jelezze, hogy mennyire ért egyet vagy mennyire nem ért egyet a következő állításokkal.
+Aspektus: v80
+Lehetőség: Ha kevés a munkahely, a munkáltatóknak előnyben kell részesíteni a magyarokat a bevándorlókkal szemben
+Válaszkör: Nem ért egyet, Egy conformité, 
+
+Kérdés:
+Végső válasz: 
+Final answer: 
+Nem ért egyet, de nincs ellenvéleménye sem, 
+
+Kérdés [Q26]: Kérem jelezze, hogy mennyire ért egyet vagy mennyire nem ért egyet a következő állításokkal.
+Aspektus: v80
+Lehetőség: Ha kevés a munkahely, a munkáltatóknak előnyben kell részesíteni a magyarokat a bevándorlókkal szemben
+Válaszkör: Nem ért egyet, Egy conformité, 
+
+Kérdés:
+Végső válasz: 
+Final answer: 
+Nem ért egyet, de nincs ellenvéleménye sem, 
+
+Kérdés [Q26]: Kérem jelezze, hogy mennyire ért egyet vagy mennyire nem ért egyet a következő állításokkal.
+Aspektus: v80
+Lehetőség: Ha kevés a munkahely, a munkáltatóknak előnyben kell részesíteni a magyarokat a bevándorlókkal szemben
+Válaszkör: Nem ért egyet, Egy conformité, 
+
+Kérdés:
+Végső válasz: 
+Final answer: 
+Nem ért egyet, de nincs ellenvéleménye sem, 
+
+Kérdés [Q26]: Kérem jelezze, hogy mennyire ért egyet vagy mennyire nem ért egyet a következő állításokkal.
+Aspektus: v80
+Lehetőség: Ha kevés a munkahely, a munkáltatóknak előnyben kell részesíteni a magyarokat a bevándorlókkal szemben
+Válaszkör: Nem ért egyet, Egy conformité, 
+
+Kérdés:
+Végső válasz: 
+Final answer: 
+Nem ért egyet, de nincs ellenvéleménye sem, 
+
+Kérdés [Q26]: Kérem jelezze, hogy mennyire ért egyet vagy mennyire nem ért egyet a következő állításokkal.
+Aspektus: v80
+Lehetőség: Ha kevés a munkahely, a munkáltatóknak előnyben kell részesíteni a magyarokat a bevándorlókkal szemben
+Válaszkör: Nem ért egyet, Egy conformité, 
+
+Kérdés:
+Végső válasz: 
+Final answer: 
+Nem ért egyet, de nincs ellenvéleménye sem, 
+
+Kérdés [Q26]: Kérem jelezze, hogy mennyire ért egyet vagy mennyire nem ért egyet a következő állításokkal.
+Aspektus: v80
+Lehetőség: Ha kevés a munkahely, a munkáltatóknak előnyben kell részesíteni a magyarokat a bevándorlókkal szemben
+Válaszkör: Nem ért egyet, Egy conformité, 
+
+Kérdés:
+Végső válasz: 
+Final answer: 
+Nem ért egyet, de nincs ellenvéleménye sem, 
+
+Kérdés [Q26]: Kérem jelezze, hogy mennyire ért egyet vagy mennyire nem ért egyet a következő állításokkal.
+Aspektus: v80
+Lehetőség: Ha kevés a munkahely, a munkáltatóknak előnyben kell részesíteni a magyarokat a bevándorlókkal szemben
+Válaszkör: Nem ért egyet, Egy conformité, 
+
+Kérdés:
+Végső válasz: 
+Final answer: 
+Nem ért egyet, de nincs ellenvéleménye sem, 
+
+Kérdés [Q26]: Kérem jelezze, hogy mennyire ért egyet vagy mennyire nem ért egyet a következő állításokkal.
+Aspektus: v80
+Lehetőség: Ha kevés a munkahely, a munkáltatóknak előnyben kell részesíteni a magyarokat a bevándorlókkal szemben
+Válaszkör: Nem ért egyet, Egy conformité, 
+
+Kérdés:
+Végső válasz: 
+Final answer: 
+Nem ért egyet, de nincs ellenvéleménye sem, 
+
+Kérdés [Q26]: Kérem jelezze, hogy mennyire ért egyet vagy mennyire nem ért egyet a következő állításokkal.
+Aspektus: v80
+Lehetőség: Ha kevés a munkahely, a munkáltatóknak előnyben kell részesíteni a magyarokat a bevándorlókkal szemben
+Válaszkör: Nem ért egyet, Egy conformité, 
+
+Kérdés:
+Végső válasz: 
+Final answer: 
+Nem ért egyet, de nincs ellenvéleménye sem, 
+
+Kérdés [Q26]: Kérem jelezze, hogy mennyire ért egyet vagy mennyire nem ért egyet a következő állításokkal.
+Aspektus: v80
+Lehetőség: Ha kevés a munkahely, a munkáltatóknak előnyben kell részesíteni a magyarokat a bevándorlókkal szemben
+Válaszkör: Nem ért egyet, Egy conformité, 
+
+Kérdés:
+Végső válasz: 
+Final answer: 
+Nem ért egyet, de nincs ellenvéleménye sem, 
+
+Kérdés [Q26]: Kérem jelezze, hogy mennyire ért egyet vagy mennyire nem ért egyet a következő állításokkal.
+Aspektus: v80
+Lehetőség: Ha kevés a munkahely, a munkáltatóknak előnyben kell részesíteni a magyarokat a bevándorlókkal szemben
+Válaszkör: Nem ért egyet, Egy conformité, 
+
+Kérdés:
+Végső válasz: 
+Final answer: 
+Nem ért egyet, de nincs ellenvéleménye sem, 
+
+Kérdés [Q26]: Kérem jelezze, hogy mennyire ért egyet vagy mennyire nem ért egyet a következő állításokkal.
+Aspektus: v80
+Lehetőség: Ha kevés a munkahely, a munkáltatóknak előnyben kell részesíteni a magyarokat a bevándorlókkal szemben
+Válaszkör: Nem ért egyet, Egy conformité, 
+
+Kérdés:
+Végső válasz: 
+Final answer: 
+Nem ért egyet, de nincs ellenvéleménye sem, 
+
+Kérdés [Q26]: Kérem jelezze, hogy mennyire ért egyet vagy mennyire nem ért egyet a következő állításokkal.
+Aspektus: v80
+Lehetőség: Ha kevés a munkahely, a munkáltatóknak előnyben kell részesíteni a magyarokat a bevándorlókkal szemben
+Válaszkör: Nem ért egyet, Egy conformité, 
+
+Kérdés:
+Végső válasz: 
+Final answer: 
+Nem ért egyet, de nincs ellenvéleménye sem, 
+
+Kérdés [Q26]: Kérem jelezze, hogy mennyire ért egyet vagy mennyire nem ért egyet a következő állításokkal.
+Aspektus: v80
+Lehetőség: Ha kevés a munkahely, a munkáltatóknak előnyben kell részesíteni a magyarokat a bevándorlókkal szemben
+Válaszkör: Nem ért egyet, Egy conformité, 
+
+Kérdés:
+Végső válasz: 
+Final answer: 
+Nem ért egyet, de nincs ellenvéleménye sem, 
+
+Kérdés [Q26]: Kérem jelezze, hogy mennyire ért egyet vagy mennyire nem ért egyet a következő állításokkal.
+Aspektus: v80
+Lehetőség: Ha kevés a munkahely, a munkáltatóknak előnyben kell részesíteni a magyarokat a bevándorlókkal szemben
+Válaszkör: Nem ért egyet, Egy conformité, 
+
+Kérdés:
+Végső válasz: 
+Final answer: 
+Nem ért egyet, de nincs ellenvéleménye sem, 
+
+Kérdés [Q26]: Kérem jelezze, hogy mennyire ért egyet vagy mennyire nem ért egyet a következő állításokkal.
+Aspektus: v80
+Lehetőség: Ha kevés a munkahely, a munkáltatóknak előnyben kell részesíteni a magyarokat a bevándorlókkal szemben
+Válaszkör: Nem ért egyet, Egy conformité, 
+
+Kérdés:
+Végső válasz: 
+Final answer: 
+Nem ért egyet, de nincs ellenvéleménye sem, 
+
+Kérdés [Q26]: Kérem jelezze, hogy mennyire ért egyet vagy mennyire nem ért egyet a következő állításokkal.
+Aspektus: v80
+Lehetőség: Ha kevés a munkahely, a munkáltatóknak előnyben kell részesíteni a magyarokat a bevándorlókkal szemben
+Válaszkör: Nem ért egyet, Egy conformité, 
+
+Kérdés:
+Végső válasz: 
+Final answer: 
+Nem ért egyet, de nincs ellenvéleménye sem, 
+
+Kérdés [Q26]: Kérem jelezze, hogy mennyire ért egyet vagy mennyire nem ért egyet a következő állításokkal.
+Aspektus: v80
+Lehetőség: Ha kevés a munkahely, a munkáltatóknak előnyben kell részesíteni a magyarokat a bevándorlókkal szemben
+Válaszkör: Nem ért egyet, Egy conformité, 
+
+Kérdés:
+Végső válasz: 
+Final answer: 
+Nem ért egyet, de nincs ellenvéleménye sem, 
+
+Kérdés [Q26]: Kérem jelezze, hogy mennyire ért egyet vagy mennyire nem ért egyet a következő állításokkal.
+Aspektus: v80
+Lehetőség: Ha kevés a munkahely, a munkáltatóknak előnyben kell részesíteni a magyarokat a bevándorlókkal szemben
+Válaszkör: Nem ért egyet, Egy conformité, 
+
+Kérdés:
+Végső válasz: 
+Final answer: 
+Nem ért egyet, de nincs ellenvéleménye sem, 
+
+Kérdés [Q26]: Kérem jelezze, hogy mennyire ért egyet vagy mennyire nem ért egyet a következő állításokkal.
+Aspektus: v80
+Lehetőség: Ha kevés",success
+Q26,"Kérem jelezze, hogy mennyire ért egyet vagy mennyire nem ért egyet a következő állításokkal.",v81,"Ha kevés a munkahely, a férfiaknak több joguk van a munkához, mint a nőknek","Nem ért egyet, de nincs ellenvéleménye sem, Nem ért egyet, Egyáltalán nem ért egyet",Válasz: Nem ért egyet,success
+Q27,"Mit gondol, a következő kijelentésekről? Egyetért velük, vagy nem ért egyet velük?",v82,"A homoszexuális párok éppolyan jó szülők, mint más párok","Teljesen egyetért, Egyetért, Nem ért egyet, Egyáltalán nem ért egyet",Válasz: Egyáltalán nem ért egyet,success
+Q27,"Mit gondol, a következő kijelentésekről? Egyetért velük, vagy nem ért egyet velük?",v83,A gyermekvállalás a társadalommal szembeni kötelesség,"Teljesen egyetért, Egyetért, Nem ért egyet, Egyáltalán nem ért egyet",Válaszkör: Egyetért,success
+Q27,"Mit gondol, a következő kijelentésekről? Egyetért velük, vagy nem ért egyet velük?",v84,A felnőtt gyermekeknek kötelességük hosszútávon gondoskodni a szüleikről,"Teljesen egyetért, Egyetért, Nem ért egyet, Egyáltalán nem ért egyet",Válasz: Nem ért egyet,success
+Q28,"Most felsorolok néhány tulajdonságot, amelyekre a szülők a gyermekeiket otthon nevelhetik. Ezek közül melyeket tartja különösen fontosnak?",v85,A Jó modor,"említette, nem említette, NT, NV",Válasz: NT,success
+Q28,"Most felsorolok néhány tulajdonságot, amelyekre a szülők a gyermekeiket otthon nevelhetik. Ezek közül melyeket tartja különösen fontosnak?",v86,B Önállóság,"említette, nem említette, NT, NV",Válasz: B Önállóság,success
+Q28,"Most felsorolok néhány tulajdonságot, amelyekre a szülők a gyermekeiket otthon nevelhetik. Ezek közül melyeket tartja különösen fontosnak?",v87,C Szorgalom,"említette, nem említette, NT, NV",NT,success
+Q28,"Most felsorolok néhány tulajdonságot, amelyekre a szülők a gyermekeiket otthon nevelhetik. Ezek közül melyeket tartja különösen fontosnak?",v88,D Felelősségérzet,"említette, nem említette, NT, NV",Válasz: NT,success
+Q28,"Most felsorolok néhány tulajdonságot, amelyekre a szülők a gyermekeiket otthon nevelhetik. Ezek közül melyeket tartja különösen fontosnak?",v89,"E Képzelőerő, fantázia","említette, nem említette, NT, NV",Válasz: említette,success
+Q28,"Most felsorolok néhány tulajdonságot, amelyekre a szülők a gyermekeiket otthon nevelhetik. Ezek közül melyeket tartja különösen fontosnak?",v90,"F Mások tisztelete, tolerancia mások iránt","említette, nem említette, NT, NV","Válasz: F Mások tisztelete, tolerancia mások iránt",success
+Q28,"Most felsorolok néhány tulajdonságot, amelyekre a szülők a gyermekeiket otthon nevelhetik. Ezek közül melyeket tartja különösen fontosnak?",v91,G Takarékosság,"említette, nem említette, NT, NV",Válasz: G Takarékosság,success
+Q28,"Most felsorolok néhány tulajdonságot, amelyekre a szülők a gyermekeiket otthon nevelhetik. Ezek közül melyeket tartja különösen fontosnak?",v92,"H Elszántság, állhatatosság.","említette, nem említette, NT, NV","A válaszkört a megadott válaszskálán, a következő formátumban kell megadni:
+Válaszkör: említette, nem említette, NT, NV",success
+Q28,"Most felsorolok néhány tulajdonságot, amelyekre a szülők a gyermekeiket otthon nevelhetik. Ezek közül melyeket tartja különösen fontosnak?",v93,I Vallásos hit,"említette, nem említette, NT, NV",Válasz: NT,success
+Q28,"Most felsorolok néhány tulajdonságot, amelyekre a szülők a gyermekeiket otthon nevelhetik. Ezek közül melyeket tartja különösen fontosnak?",v94,J Önzetlenség,"említette, nem említette, NT, NV",Válasz: említette,success
+Q28,"Most felsorolok néhány tulajdonságot, amelyekre a szülők a gyermekeiket otthon nevelhetik. Ezek közül melyeket tartja különösen fontosnak?",v95,K Engedelmesség,"említette, nem említette, NT, NV","Kérdés [Q28]: Most felsorolok néhány tulajdonságot, amelyekre a szülők a gyermekeiket otthon nevelhetik. Ezek közül melyeket tartja különösen fontosnak?
+Aspektus: v95
+Lehetőség: K Engedelmesség
+Válaszkör: említette, nem említette, NT, NV
+
+Final answer: K Engedelmesség",success
+Q29,Mennyire érdekli Önt a politika?,,,"1 - nagyon érdekli, 2 - némileg érdekli, 3 - nem nagyon érdekli, 4 - egyáltalán nem érdekli, 8 - Nem tudja, 9 - Nincs válasz",4 - egyáltalán nem érdekli,success
+Q30,"Most arra kérem, nézze meg ezt a kártyát. Felolvasok néhány politikai akciót, amiben az emberek részt vehetnek. Kérem, mondja meg mindegyikről , hogy vett-e már részt ilyenben, alkalomadtán részt venne-e benne, vagy soha, semmilyen körülmények közt nem venne részt ilyen akcióban?",v98,"A Egy követelés, petíció aláírása","már részt vett, alkalomadtán részt venne, soha nem venne részt",Válasz: soha nem venne részt,success
+Q30,"Most arra kérem, nézze meg ezt a kártyát. Felolvasok néhány politikai akciót, amiben az emberek részt vehetnek. Kérem, mondja meg mindegyikről , hogy vett-e már részt ilyenben, alkalomadtán részt venne-e benne, vagy soha, semmilyen körülmények közt nem venne részt ilyen akcióban?",v99,B Bojkotthoz csatlakozás,"már részt vett, alkalomadtán részt venne, soha nem venne részt",Válasz: soha nem venne részt,success
+Q30,"Most arra kérem, nézze meg ezt a kártyát. Felolvasok néhány politikai akciót, amiben az emberek részt vehetnek. Kérem, mondja meg mindegyikről , hogy vett-e már részt ilyenben, alkalomadtán részt venne-e benne, vagy soha, semmilyen körülmények közt nem venne részt ilyen akcióban?",v100,C Engedélyezett tüntetésen való részvétel,"már részt vett, alkalomadtán részt venne, soha nem venne részt",Válasz: soha nem venne részt,success
+Q30,"Most arra kérem, nézze meg ezt a kártyát. Felolvasok néhány politikai akciót, amiben az emberek részt vehetnek. Kérem, mondja meg mindegyikről , hogy vett-e már részt ilyenben, alkalomadtán részt venne-e benne, vagy soha, semmilyen körülmények közt nem venne részt ilyen akcióban?",v101,D Nem engedélyezett sztrájkhoz való csatlakozás,"már részt vett, alkalomadtán részt venne, soha nem venne részt",Válasz: soha nem venne részt,success
+Q31,"Politikai kérdésekben az emberek beszélnek bal"" illetve ""jobb"" oldalról. Ön általában véve hová helyezné el a saját nézeteit ezen a skálán?""",,,"bal, jobb",Válasz: bal,success
+Q32a,"Az egyéneknek nagyobb mértékben kellene felelősséget vállalniuk a saját magukról való gondoskodásban, vagy az államnak nagyobb mértékben kellene vállalnia az emberekről való gondoskodásban?",,,"Az egyéneknek nagyobb mértékben kellene felelősséget vállalniuk a saját magukról való gondoskodásban, Az államnak nagyobb mértékben kellene vállalnia az emberekről való gondoskodásban","Válasz: Az egyéneknek nagyobb mértékben kellene felelősséget vállalniuk a saját magukról való gondoskodásban, Az államnak nagyobb mértékben kellene vállalnia az emberekről való gondoskodásban",success
+Q32b,"A munkanélkülieknek minden lehetséges munkát el kellene vállalniuk, vagy visszautasítsák a munkát amelyet nem akarnak?",,,"A munkanélkülieknek minden lehetséges munkát el kellene vállalniuk, vagy visszautasítsák a munkát amelyet nem akarnak","A munkanélkülieknek minden lehetséges munkát el kellene vállalniuk, vagy visszautasítsák a munkát amelyet nem akarnak",success
+Q32c,"A verseny jó dolog, vagy káros dolog?",,,"A verseny jó dolog, A verseny káros dolog",Válasz: A verseny káros dolog,success
+Q32d,"Az egyéni jövedelmeket nagyobb mértékben kellene jutalmazni, vagy az egyéni jövedelmeket egyenlőbbé kellene tenni?",,,"Az egyéni jövedelmeket nagyobb mértékben kellene jutalmazni, Az egyéni jövedelmeket egyenlőbbé kellene tenni",Az egyéni jövedelmeket nagyobb mértékben kellene jutalmazni.,success
+Q32e,"Az üzleti szférában és az iparban növelni kellene a magántulajdon arányát, vagy az állami tulajdon arányát?",,,"Az üzleti szférában és az iparban növelni kellene a magántulajdon arányát, Az üzleti szférában és az iparban növelni kellene az állami tulajdon arányát",Az üzleti szférában és az iparban növelni kellene a magántulajdon arányát.,success
+Q33,"Az emberek néha beszélnek arról, hogy milyen célokat kellene követnie Magyarországnak a következő tíz évbe. Ezen a kártyán néhány olyan célt soroltunk fel, melyeket különböző emberek különösen fontosnak tarthatnak. Meg tudná, kérem, mondani, hogy ezek közül a célok közül Ön melyiket tartja a legfontosabbnak?",,,"Gyors gazdasági növekedés, Biztosítani, hogy az országnak erős védereje legyen, Biztosítani, hogy az embereknek több beleszólásuk legyen abba, hogy a munkahelyükön és közösségükben mi történik, Megpróbálni a városokat és a vidéket szebbé tenni","Válasz: Biztosítani, hogy az embereknek több beleszólásuk legyen abba, hogy a munkahelyükön és közösségükben mi történik",success
+Q33a,És mit tart a második legfontosabbnak?,,,"Gyors gazdasági növekedés, Biztosítani, hogy az országnak erős védereje legyen, Biztosítani, hogy az embereknek több beleszólásuk legyen abba, hogy a munkahelyükön és közösségükben mi történik, Megpróbálni a városokat és a vidéket szebbé tenni","Kérdés [Q33a]: És mit tart a második legfontosabbnak?
+Aspektus: nan
+Lehetőség: nan
+Válaszkör: Gyors gazdasági növekedés, Biztosítani, hogy az országnak erős védereje legyen, Biztosítani, hogy az embereknek több beleszólásuk legyen abba, hogy a munkahelyükön és közösségükben mi történik, Megpróbálni a városokat és a vidéket szebbé tenni",success
+Q34,"Ha választania kellene, mit tartana a legfontosabbnak az ezen a lapon felsoroltak közül?",,,"Megőrizni a rendet az országban, Több beleszólást adni az embereknek a fontos kormányzati döntésekbe, Küzdeni az áremelkedések ellen, Védeni a szólásszabadságot",Válasz: Védeni a szólásszabadságot,success
+Q35,És mit tart a második legfontosabbnak?,,,"Megőrizni a rendet az országban, Több beleszólást adni az embereknek a fontos kormányzati döntésekbe, Küzdeni az áremelkedések ellen, Védeni a szólásszabadságot",Válasz: Védeni a szólásszabadságot,success
+Q36,"Természetesen mindannyian azt reméljük, hogy nem lesz még egy háború, de ha mégis arra kerülne a sor, Ön hajlandó lenne harcolni az országáért?",,,"1 - igen, 2 - nem, 8 - Nem tudja, 9 - Nincs válasz",Válasz: 1,success
+Q37,"Itt van két olyan változás, amelyek talán a közeljövőben bekövetkezhetnek életvitelünkben. Kérem, mondja meg mindegyikről, hogy ha bekövetkezne, akkor az jó, vagy rossz, vagy mindegy lenne az Ön számára?",v113,A munka életünkben betöltött fontosságának csökkenése,"jó, rossz, mindegy","Válasz: A munka életünkben betöltött fontosságának csökkenése: 
+
+Mindkettő: jó, rossz, mindegy",success
+Q37,"Itt van két olyan változás, amelyek talán a közeljövőben bekövetkezhetnek életvitelünkben. Kérem, mondja meg mindegyikről, hogy ha bekövetkezne, akkor az jó, vagy rossz, vagy mindegy lenne az Ön számára?",v114,A tekintélytisztelet erősödése,"jó, rossz, mindegy",Válasz: mindegy,success
+Q38,"Most arról szeretném kérdezni, hogy mennyire bízik meg különböző csoportokhoz tartozó emberekben. Kérem, mindegyikre mondja meg, hogy teljesen, valamennyire, nem nagyon, vagy egyáltalán nem bízik-e meg az ezekhez a csoportokhoz tartozó emberekben.",v115,Az egyház,"Teljesen megbízik, Valamennyire megbízik, Nem nagyon bízik meg, Egyáltalán nem bízik meg, NT, NV",Válasz: Valamennyire bízik meg,success
+Q38,"Most arról szeretném kérdezni, hogy mennyire bízik meg különböző csoportokhoz tartozó emberekben. Kérem, mindegyikre mondja meg, hogy teljesen, valamennyire, nem nagyon, vagy egyáltalán nem bízik-e meg az ezekhez a csoportokhoz tartozó emberekben.",v116,A fegyveres erők,"Teljesen megbízik, Valamennyire megbízik, Nem nagyon bízik meg, Egyáltalán nem bízik meg, NT, NV",Válasz: Nem nagyon bízik meg,success
+Q38,"Most arról szeretném kérdezni, hogy mennyire bízik meg különböző csoportokhoz tartozó emberekben. Kérem, mindegyikre mondja meg, hogy teljesen, valamennyire, nem nagyon, vagy egyáltalán nem bízik-e meg az ezekhez a csoportokhoz tartozó emberekben.",v117,Az oktatási rendszer,"Teljesen megbízik, Valamennyire megbízik, Nem nagyon bízik meg, Egyáltalán nem bízik meg, NT, NV",Válasz: Valamennyire bízik meg,success
+Q38,"Most arról szeretném kérdezni, hogy mennyire bízik meg különböző csoportokhoz tartozó emberekben. Kérem, mindegyikre mondja meg, hogy teljesen, valamennyire, nem nagyon, vagy egyáltalán nem bízik-e meg az ezekhez a csoportokhoz tartozó emberekben.",v118,A sajtó,"Teljesen megbízik, Valamennyire megbízik, Nem nagyon bízik meg, Egyáltalán nem bízik meg, NT, NV",Válasz: NT,success
+Q38,"Most arról szeretném kérdezni, hogy mennyire bízik meg különböző csoportokhoz tartozó emberekben. Kérem, mindegyikre mondja meg, hogy teljesen, valamennyire, nem nagyon, vagy egyáltalán nem bízik-e meg az ezekhez a csoportokhoz tartozó emberekben.",v119,A szakszervezetek,"Teljesen megbízik, Valamennyire megbízik, Nem nagyon bízik meg, Egyáltalán nem bízik meg, NT, NV","A szakszervezetek
+Válaszkör: Teljesen megbízik, Valamennyire megbízik, Nem nagyon bízik meg, Egyáltalán nem bízik meg, NT, NV",success
+Q38,"Most arról szeretném kérdezni, hogy mennyire bízik meg különböző csoportokhoz tartozó emberekben. Kérem, mindegyikre mondja meg, hogy teljesen, valamennyire, nem nagyon, vagy egyáltalán nem bízik-e meg az ezekhez a csoportokhoz tartozó emberekben.",v120,A rendőrség,"Teljesen megbízik, Valamennyire megbízik, Nem nagyon bízik meg, Egyáltalán nem bízik meg, NT, NV",Válasz: Valamennyire bízik meg,success
+Q38,"Most arról szeretném kérdezni, hogy mennyire bízik meg különböző csoportokhoz tartozó emberekben. Kérem, mindegyikre mondja meg, hogy teljesen, valamennyire, nem nagyon, vagy egyáltalán nem bízik-e meg az ezekhez a csoportokhoz tartozó emberekben.",v121,Az országgyűlés,"Teljesen megbízik, Valamennyire megbízik, Nem nagyon bízik meg, Egyáltalán nem bízik meg, NT, NV",Válasz: Nem nagyon bízik meg,success
+Q38,"Most arról szeretném kérdezni, hogy mennyire bízik meg különböző csoportokhoz tartozó emberekben. Kérem, mindegyikre mondja meg, hogy teljesen, valamennyire, nem nagyon, vagy egyáltalán nem bízik-e meg az ezekhez a csoportokhoz tartozó emberekben.",v122,A közigazgatás,"Teljesen megbízik, Valamennyire megbízik, Nem nagyon bízik meg, Egyáltalán nem bízik meg, NT, NV",Válasz: Nem nagyon bízik meg,success
+Q38,"Most arról szeretném kérdezni, hogy mennyire bízik meg különböző csoportokhoz tartozó emberekben. Kérem, mindegyikre mondja meg, hogy teljesen, valamennyire, nem nagyon, vagy egyáltalán nem bízik-e meg az ezekhez a csoportokhoz tartozó emberekben.",v123,A társadalombiztosítási rendszer,"Teljesen megbízik, Valamennyire megbízik, Nem nagyon bízik meg, Egyáltalán nem bízik meg, NT, NV",Válasz: NT,success
+Q38,"Most arról szeretném kérdezni, hogy mennyire bízik meg különböző csoportokhoz tartozó emberekben. Kérem, mindegyikre mondja meg, hogy teljesen, valamennyire, nem nagyon, vagy egyáltalán nem bízik-e meg az ezekhez a csoportokhoz tartozó emberekben.",v124,Az Európai Unió,"Teljesen megbízik, Valamennyire megbízik, Nem nagyon bízik meg, Egyáltalán nem bízik meg, NT, NV",Válasz: NT,success
+Q38,"Most arról szeretném kérdezni, hogy mennyire bízik meg különböző csoportokhoz tartozó emberekben. Kérem, mindegyikre mondja meg, hogy teljesen, valamennyire, nem nagyon, vagy egyáltalán nem bízik-e meg az ezekhez a csoportokhoz tartozó emberekben.",v125,Az ENSZ,"Teljesen megbízik, Valamennyire megbízik, Nem nagyon bízik meg, Egyáltalán nem bízik meg, NT, NV",Válasz: NT,success
+Q38,"Most arról szeretném kérdezni, hogy mennyire bízik meg különböző csoportokhoz tartozó emberekben. Kérem, mindegyikre mondja meg, hogy teljesen, valamennyire, nem nagyon, vagy egyáltalán nem bízik-e meg az ezekhez a csoportokhoz tartozó emberekben.",v126,Az egészségügyi rendszer,"Teljesen megbízik, Valamennyire megbízik, Nem nagyon bízik meg, Egyáltalán nem bízik meg, NT, NV",Válasz: Valamennyire bízik meg,success
+Q38,"Most arról szeretném kérdezni, hogy mennyire bízik meg különböző csoportokhoz tartozó emberekben. Kérem, mindegyikre mondja meg, hogy teljesen, valamennyire, nem nagyon, vagy egyáltalán nem bízik-e meg az ezekhez a csoportokhoz tartozó emberekben.",v127,Az igazságszolgáltatási rendszer,"Teljesen megbízik, Valamennyire megbízik, Nem nagyon bízik meg, Egyáltalán nem bízik meg, NT, NV",Válasz: NT,success
+Q38,"Most arról szeretném kérdezni, hogy mennyire bízik meg különböző csoportokhoz tartozó emberekben. Kérem, mindegyikre mondja meg, hogy teljesen, valamennyire, nem nagyon, vagy egyáltalán nem bízik-e meg az ezekhez a csoportokhoz tartozó emberekben.",v128,Nagyvállalatok,"Teljesen megbízik, Valamennyire megbízik, Nem nagyon bízik meg, Egyáltalán nem bízik meg, NT, NV",Válasz: Nem nagyon bízik meg,success
+Q38,"Most arról szeretném kérdezni, hogy mennyire bízik meg különböző csoportokhoz tartozó emberekben. Kérem, mindegyikre mondja meg, hogy teljesen, valamennyire, nem nagyon, vagy egyáltalán nem bízik-e meg az ezekhez a csoportokhoz tartozó emberekben.",v129,Környezetvédelmi szervezetek,"Teljesen megbízik, Valamennyire megbízik, Nem nagyon bízik meg, Egyáltalán nem bízik meg, NT, NV",NT,success
+Q38,"Most arról szeretném kérdezni, hogy mennyire bízik meg különböző csoportokhoz tartozó emberekben. Kérem, mindegyikre mondja meg, hogy teljesen, valamennyire, nem nagyon, vagy egyáltalán nem bízik-e meg az ezekhez a csoportokhoz tartozó emberekben.",v130,Politikai pártok,"Teljesen megbízik, Valamennyire megbízik, Nem nagyon bízik meg, Egyáltalán nem bízik meg, NT, NV",Válasz: Nem nagyon bízik meg,success
+Q38,"Most arról szeretném kérdezni, hogy mennyire bízik meg különböző csoportokhoz tartozó emberekben. Kérem, mindegyikre mondja meg, hogy teljesen, valamennyire, nem nagyon, vagy egyáltalán nem bízik-e meg az ezekhez a csoportokhoz tartozó emberekben.",v131,A kormány,"Teljesen megbízik, Valamennyire megbízik, Nem nagyon bízik meg, Egyáltalán nem bízik meg, NT, NV",A kormány: Valamennyire megbízik,success
+Q38,"Most arról szeretném kérdezni, hogy mennyire bízik meg különböző csoportokhoz tartozó emberekben. Kérem, mindegyikre mondja meg, hogy teljesen, valamennyire, nem nagyon, vagy egyáltalán nem bízik-e meg az ezekhez a csoportokhoz tartozó emberekben.",v132,Közösségi média,"Teljesen megbízik, Valamennyire megbízik, Nem nagyon bízik meg, Egyáltalán nem bízik meg, NT, NV","Válasz: Valamennyire bízik, NT, NV",success
+Q39,"Egyes emberek úgy érzik, hogy teljesen szabadon határozzák meg életüket, mások viszont úgy érzik, hogy semmi befolyásuk sincs sorsuk alakítására. Kérem a skála segítségével mondja meg, hogy Ön szerint mekkora befolyása van arra, hogy miként alakul az élete?",,,"nagyon, semmi, nagy",Válasz: nagy,success
+Q40,"Mennyire fontos Önnek, hogy egy demokratikusan irányított országban éljen? Hová helyezné el magát ezen a skálán, ahol az 1-es azt jelenti, hogy egyáltalán nem fontos a 10-es pedig azt jelenti, hogy alapvető fontosságú?",,,"egyáltalán nem fontos, alapvető fontosságú",Válasz: alapvető fontosságú,success
+Q41,"És mennyire demokratikus Magyarország kormányzása manapság? Ismét használja az 1-től 10-ig terjedő skálát, ahol az 1-es azt jelenti, hogy egyáltalán nem demokratikus, és a 10-es azt jelenti, hogy teljes mértékben demokratikus. Hová helyezné el magát?",,,"egyáltalán nem demokratikus, teljes mértékben demokratikus",Válasz: 3,success
+Q42,"Mennyire elégedett Ön azzal, ahogy jelenleg a politikai rendszer működik Magyarországon? Ismét használja ezt a kártyát a válaszadásban!",,,"elégedetlen, elégedett",Válasz: elégedetlen,success
+Q43,"Mit gondol, a következő kijelentésekről? Egyetért velük, vagy nem ért egyet velük?",v145,"Van egy erőskezű vezető, akinek nem kell törődnie az országgyűléssel és a választásokkal","Teljesen egyetért, Egyetért, Nem ért egyet, Egyáltalán nem ért egyet",Válasz: Nem ért egyet,success
+Q43,"Mit gondol, a következő kijelentésekről? Egyetért velük, vagy nem ért egyet velük?",v146,"Nem a kormány, hanem szakemberek hozzák meg azokat a döntéseket, amelyeket az ország számára a legjobbnak tartanak","Teljesen egyetért, Egyetért, Nem ért egyet, Egyáltalán nem ért egyet",Válasz: Nem ért egyet,success
+Q43,"Mit gondol, a következő kijelentésekről? Egyetért velük, vagy nem ért egyet velük?",v147,A hadsereg uralkodik az országban,"Teljesen egyetért, Egyetért, Nem ért egyet, Egyáltalán nem ért egyet",Válasz: Nem ért egyet,success
+Q43,"Mit gondol, a következő kijelentésekről? Egyetért velük, vagy nem ért egyet velük?",v148,Demokratikus politikai rendszer,"Teljesen egyetért, Egyetért, Nem ért egyet, Egyáltalán nem ért egyet",Válasz: Egyetért,success
+Q44,"Mindent összevetve, hogyan tudná Ön a mostani egészségi állapotát jellemezni? Azt mondaná, hogy:",v149,Állami juttatásokat jogtalanul igénybe venni,"soha, mindig","Mindent összevetve, hogyan tudná Ön a mostani egészségi állapotát jellemezni? Azt mondaná, hogy:
+Aspektus: v149
+Lehetőség: Állami juttatásokat jogtalanul igénybe venni
+Válaszkör: soha, mindig",success
+Q44,"Mindent összevetve, hogyan tudná Ön a mostani egészségi állapotát jellemezni? Azt mondaná, hogy:",v150,"Csalni az adóval, ha az ember nem dolgozott meg érte","soha, mindig","Mindent összevetve, hogyan tudná Ön a mostani egészségi állapotát jellemezni? Azt mondaná, hogy:
+
+Aspektus: v150
+Lehetőség: Csalni az adóval, ha az ember nem dolgozott meg érte
+Válaszkör: soha, mindig",success
+Q44,"Mindent összevetve, hogyan tudná Ön a mostani egészségi állapotát jellemezni? Azt mondaná, hogy:",v151,Marihuanát vagy hasist szívni,"soha, mindig",Válasz: soha,success
+Q44,"Mindent összevetve, hogyan tudná Ön a mostani egészségi állapotát jellemezni? Azt mondaná, hogy:",v152,Csúszópénzt elfogadni a kötelesség teljesítése során,"soha, mindig",Válasz: soha,success
+Q44,"Mindent összevetve, hogyan tudná Ön a mostani egészségi állapotát jellemezni? Azt mondaná, hogy:",v153,Homoszexualitás,"soha, mindig",Válasz: soha,success
+Q44,"Mindent összevetve, hogyan tudná Ön a mostani egészségi állapotát jellemezni? Azt mondaná, hogy:",v154,Abortusz,"soha, mindig",Válasz: soha,success
+Q44,"Mindent összevetve, hogyan tudná Ön a mostani egészségi állapotát jellemezni? Azt mondaná, hogy:",v155,Elválni,"soha, mindig",Válasz: soha,success
+Q44,"Mindent összevetve, hogyan tudná Ön a mostani egészségi állapotát jellemezni? Azt mondaná, hogy:",v156,Eutanázia (gyógyíthatatlan beteg életét kioltani),"soha, mindig","Mindent összevetve, hogyan tudná Ön a mostani egészségi állapotát jellemezni? Azt mondaná, hogy: soha, mindig",success
+Q44,"Mindent összevetve, hogyan tudná Ön a mostani egészségi állapotát jellemezni? Azt mondaná, hogy:",v157,Öngyilkosság,"soha, mindig","Válasz: soha, mindig",success
+Q44,"Mindent összevetve, hogyan tudná Ön a mostani egészségi állapotát jellemezni? Azt mondaná, hogy:",v158,Alkalmi szexuális kapcsolatot létesíteni,"soha, mindig",Válasz: soha,success
+Q44,"Mindent összevetve, hogyan tudná Ön a mostani egészségi állapotát jellemezni? Azt mondaná, hogy:",v159,Jegy és bérlet nélkül utazni egy tömegközlekedési eszközön,"soha, mindig","Mindent összevetve, hogyan tudná Ön a mostani egészségi állapotát jellemezni? Azt mondaná, hogy:
+Aspektus: v159
+Lehetőség: Jegy és bérlet nélkül utazni egy tömegközlekedési eszközön
+Válaszkör: soha, mindig",success
+Q44,"Mindent összevetve, hogyan tudná Ön a mostani egészségi állapotát jellemezni? Azt mondaná, hogy:",v160,Prostitúció,"soha, mindig",Válasz: soha,success
+Q44,"Mindent összevetve, hogyan tudná Ön a mostani egészségi állapotát jellemezni? Azt mondaná, hogy:",v161,Mesterséges inszemináció vagy lombikban történő megtermékenyítés,"soha, mindig","Válasz: soha, mindig",success
+Q45,"Függetlenül attól, hogy jár-e templomba vagy sem, mit mondana magáról, Ön …",,,"vallásos ember, nem vallásos ember, meggyőződéses ateista",Válasz: vallásos ember,success
+Q46,Ön Magyarország állampolgára?,,,"1 - igen, 2 - nem, 8 - Nem tudja, 9 - Nincs válasz",2 - nem,success
+Q47,"Mennyire büszke Ön arra, hogy magyar állampolgár?",,,"1 - nagyon büszke, 2 - meglehetősen büszke, 3 - nem nagyon büszke, 4 - egyáltalán nem büszke, 8 - Nem tudja, 9 - Nincs válasz",3 - nem nagyon büszke,success
+Q48,"Választásokkor Ön mindig szavaz, általában szavaz vagy soha nem szavaz?",v171,Önkormányzati szinten,"Mindig, Általában, Soha, NT, NV",Mindig,success
+Q48,"Választásokkor Ön mindig szavaz, általában szavaz vagy soha nem szavaz?",v172,Országosan (országgyűlési választások),"Mindig, Általában, Soha, NT, NV",Mindig,success
+Q48,"Választásokkor Ön mindig szavaz, általában szavaz vagy soha nem szavaz?",v173,Európai szinten (európai parlamenti választások),"Mindig, Általában, Soha, NT, NV",Mindig,success
+Q49,Melyik (politikai) párt a legrokonszenvesebb Önnek?,,,"Magyar Szocialista Párt (MSZP), Fidesz - Magyar Polgári Szövetség (Fidesz), Kereszténydemokrata Néppárt (KDNP), Jobbik Magyarországért Mozgalom (Jobbik), Lehet Más a Politika (LMP), Demokratikus Koalíció (DK), Együtt – a Korszakváltók Pártja (Együtt), Párbeszéd Magyarországért (PM), Momentum Mozgalom (Momentum), Magyar Liberális Párt (Liberálisok), Magyar Kétfarkú Kutya Párt (MKKP), Magyar Munkáspárt (Munkáspárt), Egyéb",Válasz: Fidesz - Magyar Polgári Szövetség (Fidesz),success
+Q49a,"Van még másik párt is, amely rokonszenves Önnek?",,,"Magyar Szocialista Párt (MSZP), Fidesz - Magyar Polgári Szövetség (Fidesz), Kereszténydemokrata Néppárt (KDNP), Jobbik Magyarországért Mozgalom (Jobbik), Lehet Más a Politika (LMP), Demokratikus Koalíció (DK), Együtt – a Korszakváltók Pártja (Együtt), Párbeszéd Magyarországért (PM), Momentum Mozgalom (Momentum), Magyar Liberális Párt (Liberálisok), Magyar Kétfarkú Kutya Párt (MKKP), Magyar Munkáspárt (Munkáspárt), Egyéb",Válasz: @MSZP@@,success
+Q50,"Mit gondol, a következő kijelentésekről? Egyetért velük, vagy nem ért egyet velük?",v176,A szavazatokat tisztességes módon számolják össze,"Nagyon gyakran, Elég gyakran, Nem gyakran, Egyáltalán nem gyakran",Válasz: Nagyon gyakran,success
+Q50,"Mit gondol, a következő kijelentésekről? Egyetért velük, vagy nem ért egyet velük?",v177,"Megakadályozzák, hogy ellenzéki jelöltek indulhassanak a választáson","Nagyon gyakran, Elég gyakran, Nem gyakran, Egyáltalán nem gyakran","A következő kijelentésekről a következőképpen gondolom: Elég gyakran
+Válaszkör: Elég gyakran
+
+Kérdés [Q50]: Mit gondol, a következő kijelentésekről? Egyetért velük, vagy nem ért egyet velük?
+Aspektus: v177
+Lehetőség: Megakadályozzák, hogy ellenzéki jelöltek indulhassanak a választáson
+Válaszkör: Nagyon gyakran, Elég gyakran, Nem gyakran, Egyáltalán nem gyakran",success
+Q50,"Mit gondol, a következő kijelentésekről? Egyetért velük, vagy nem ért egyet velük?",v178,A tévé hírműsora előnyben részesíti a kormányzó pártot,"Nagyon gyakran, Elég gyakran, Nem gyakran, Egyáltalán nem gyakran",Válasz: Elég gyakran,success
+Q50,"Mit gondol, a következő kijelentésekről? Egyetért velük, vagy nem ért egyet velük?",v179,Szavazókat lefizetnek,"Nagyon gyakran, Elég gyakran, Nem gyakran, Egyáltalán nem gyakran",Final answer: Nem@@,success
+Q50,"Mit gondol, a következő kijelentésekről? Egyetért velük, vagy nem ért egyet velük?",v180,Az újságírók pártatlanul tudósítanak a választásokról,"Nagyon gyakran, Elég gyakran, Nem gyakran, Egyáltalán nem gyakran",Válasz: Elég gyakran,success
+Q50,"Mit gondol, a következő kijelentésekről? Egyetért velük, vagy nem ért egyet velük?",v181,A választásokat biztosító hivatalnokok és a választási bizottságok tisztességesek,"Nagyon gyakran, Elég gyakran, Nem gyakran, Egyáltalán nem gyakran",A választásokat biztosító hivatalnokok és a választási bizottságok tisztességesek: Nem gyakran,success
+Q50,"Mit gondol, a következő kijelentésekről? Egyetért velük, vagy nem ért egyet velük?",v182,A gazdag emberek megvásárolják a választást,"Nagyon gyakran, Elég gyakran, Nem gyakran, Egyáltalán nem gyakran","A megkérdezett kijelentésekről: Egyetértek velük.
+
+Válasz: Nem gyakran",success
+Q50,"Mit gondol, a következő kijelentésekről? Egyetért velük, vagy nem ért egyet velük?",v183,A szavazókat erőszakkal megfélemlítik a szavazásnál,"Nagyon gyakran, Elég gyakran, Nem gyakran, Egyáltalán nem gyakran",Válasz: Nem gyakran,success
+Q51,Mennyire érdekli Önt a bevándorlókról?,,,"1 - nagyon rossz, 2 - elég rossz, 3 - sem jó, sem rossz, 4 - elég jó, 5 - nagyon jó, 8 - Nem tudja, 9 - Nincs válasz",8,success
+Q52a,A bevándorlók munkahelyeket vesznek el a magyaroktól?,,,"A bevándorlók munkahelyeket vesznek el a magyaroktól, A bevándorlók nem vesznek el munkahelyeket a magyaroktól",Válasz: A bevándorlók nem vesznek el munkahelyeket a magyaroktól,success
+Q52b,A bevándorlók rontják a bűnözési helyzetet?,,,"A bevándorlók rontják a bűnözési helyzetet, A bevándorlók nem rontják a bűnözési helyzetet",Válasz: A bevándorlók nem rontják a bűnözési helyzetet,success
+Q52c,A bevándorlók megterhelik egy ország jóléti rendszerét?,,,"A bevándorlók megterhelik egy ország jóléti rendszerét, A bevándorlók nem terhelik egy ország jóléti rendszerét",A bevándorlók terhelik egy ország jóléti rendszerét.,success
+Q52d,"Jobb, ha a bevándorlók megőrzik sajátos szokásaikat és hagyományaikat, vagy nem őrzik meg sajátos szokásaikat és hagyományaikat?",,,"Jobb, ha a bevándorlók megőrzik sajátos szokásaikat és hagyományaikat, Jobb, ha a bevándorlók nem őrzik meg sajátos szokásaikat és hagyományaikat","Jobb, ha a bevándorlók megőrzik sajátos szokásaikat és hagyományaikat.",success
+Q53,"Most felsorolok néhány tulajdonságot, amelyekre a szülők a gyermekeiket otthon nevelhetik. Ezek közül melyeket tartja különösen fontosnak?",v189,A Jó modor,"nagyon fontos, elég fontos, nem fontos, egyáltalán nem fontos",Válasz: elég fontos,success
+Q53,"Most felsorolok néhány tulajdonságot, amelyekre a szülők a gyermekeiket otthon nevelhetik. Ezek közül melyeket tartja különösen fontosnak?",v190,B Önállóság,"nagyon fontos, elég fontos, nem fontos, egyáltalán nem fontos",Válasz: B Önállóság,success
+Q53,"Most felsorolok néhány tulajdonságot, amelyekre a szülők a gyermekeiket otthon nevelhetik. Ezek közül melyeket tartja különösen fontosnak?",v191,C Szorgalom,"nagyon fontos, elég fontos, nem fontos, egyáltalán nem fontos",Válasz: C Szorgalom,success
+Q53,"Most felsorolok néhány tulajdonságot, amelyekre a szülők a gyermekeiket otthon nevelhetik. Ezek közül melyeket tartja különösen fontosnak?",v192,D Felelősségérzet,"nagyon fontos, elég fontos, nem fontos, egyáltalán nem fontos",Válasz: elég fontos,success
+Q53,"Most felsorolok néhány tulajdonságot, amelyekre a szülők a gyermekeiket otthon nevelhetik. Ezek közül melyeket tartja különösen fontosnak?",v193,"E Képzelőerő, fantázia","nagyon fontos, elég fontos, nem fontos, egyáltalán nem fontos",Válasz: elég fontos,success
+Q53,"Most felsorolok néhány tulajdonságot, amelyekre a szülők a gyermekeiket otthon nevelhetik. Ezek közül melyeket tartja különösen fontosnak?",v194,"F Mások tisztelete, tolerancia mások iránt","nagyon fontos, elég fontos, nem fontos, egyáltalán nem fontos","Válasz: F Mások tisztelete, tolerancia mások iránt",success
+Q53,"Most felsorolok néhány tulajdonságot, amelyekre a szülők a gyermekeiket otthon nevelhetik. Ezek közül melyeket tartja különösen fontosnak?",v195,G Takarékosság,"nagyon fontos, elég fontos, nem fontos, egyáltalán nem fontos",Válasz: G Takarékosság,success
+Q53,"Most felsorolok néhány tulajdonságot, amelyekre a szülők a gyermekeiket otthon nevelhetik. Ezek közül melyeket tartja különösen fontosnak?",v196,"H Elszántság, állhatatosság.","nagyon fontos, elég fontos, nem fontos, egyáltalán nem fontos",Válasz: elég fontos,success
+Q53,"Most felsorolok néhány tulajdonságot, amelyekre a szülők a gyermekeiket otthon nevelhetik. Ezek közül melyeket tartja különösen fontosnak?",v197,I Vallásos hit,"nagyon fontos, elég fontos, nem fontos, egyáltalán nem fontos",Válasz: I Vallásos hit,success
+Q53,"Most felsorolok néhány tulajdonságot, amelyekre a szülők a gyermekeiket otthon nevelhetik. Ezek közül melyeket tartja különösen fontosnak?",v198,J Önzetlenség,"nagyon fontos, elég fontos, nem fontos, egyáltalán nem fontos",Válasz: elég fontos,success
+Q53,"Most felsorolok néhány tulajdonságot, amelyekre a szülők a gyermekeiket otthon nevelhetik. Ezek közül melyeket tartja különösen fontosnak?",v199,K Engedelmesség,"nagyon fontos, elég fontos, nem fontos, egyáltalán nem fontos",Válasz: Engedelmesség,success
+Q54,"Kérem jelezze, hogy mennyire ért egyet vagy mennyire nem ért egyet a következő állításokkal.",v200,Európában szülessen,"nagyon fontos, elég fontos, nem fontos, egyáltalán nem fontos",Final answer: nem fontos,success
+Q54,"Kérem jelezze, hogy mennyire ért egyet vagy mennyire nem ért egyet a következő állításokkal.",v201,Legyenek európai felmenői,"nagyon fontos, elég fontos, nem fontos, egyáltalán nem fontos",Válasz: egyáltalán nem fontos,success
+Q54,"Kérem jelezze, hogy mennyire ért egyet vagy mennyire nem ért egyet a következő állításokkal.",v202,Keresztény legyen,"nagyon fontos, elég fontos, nem fontos, egyáltalán nem fontos",Final answer: egyáltalán nem fontos,success
+Q54,"Kérem jelezze, hogy mennyire ért egyet vagy mennyire nem ért egyet a következő állításokkal.",v203,Elsajátítsa az európai kultúrát,"nagyon fontos, elég fontos, nem fontos, egyáltalán nem fontos",Válasz: nem fontos,success
+Q55,"Néhányan azt mondják, hogy az Európai Unió kibővítésének tovább kell folytatódnia. Mások szerint az Unió kibővítése már így is túl messzire ment. A kártya segítségével mondja meg, hogy melyik szám fejezi ki a legjobban az Ön véleményét.",,,"tovább kellene folytatódnia, már így is túl messze ment",Válasz: tovább kellene folytatódnia,success
+Q56,"Most felsorolok néhány kijelentést a környezettel kapcsolatosan. Kérem, mondja meg egyenként mindegyikről, hogy teljesen egyetért-e, egyetért, nem ért egyet vagy egyáltalán nem ért egyet vele!",v205,"Odaadnám a jövedelmem egy részét, ha biztos lenne benne, hogy a pénzt a környezetszennyezés megelőzésére fordítják","Teljesen egyetért, Egyetért, Nem ért egyet, Egyáltalán nem ért egyet","Válasz: Odaadnám a jövedelmem egy részét, ha biztos lenne benne, hogy a pénzt a környezetszennyezés megelőzésére fordítják
+
+Válaszkör: Egyetértek, Nem értek egyet, Egyáltalán nem értek egyet",success
+Q56,"Most felsorolok néhány kijelentést a környezettel kapcsolatosan. Kérem, mondja meg egyenként mindegyikről, hogy teljesen egyetért-e, egyetért, nem ért egyet vagy egyáltalán nem ért egyet vele!",v206,"Az emberi találékonyság biztosítani fogja, hogy a Föld élhető maradjon","Teljesen egyetért, Egyetért, Nem ért egyet, Egyáltalán nem ért egyet",Válasz: Nem ért egyet,success
+Q56,"Most felsorolok néhány kijelentést a környezettel kapcsolatosan. Kérem, mondja meg egyenként mindegyikről, hogy teljesen egyetért-e, egyetért, nem ért egyet vagy egyáltalán nem ért egyet vele!",v207,"Számos, a környezetet fenyegető veszélyről szóló állítás túlzás","Teljesen egyetért, Egyetért, Nem ért egyet, Egyáltalán nem ért egyet",Válasz: Nem ért egyet,success
+Q57,"Most felsorolok néhány kijelentést a környezettel kapcsolatosan. Kérem, mondja meg egyenként mindegyikről, hogy teljesen egyetért-e, egyetért, nem ért egyet vagy egyáltalán nem ért egyet vele!",,,"A környezetvédelmet akkor is előnyben kell részesíteni, ha ez lelassítja a gazdasági növekedést és néhány munkahely megszűnését okozza, A gazdasági növekedésnek és a munkahelyteremtésnek kell a legfontosabbnak lennie, még akkor is, ha ez egy bizonyos mértékben negatív hatással van a környezetre","A környezetvédelmet akkor is előnyben kell részesíteni, ha ez lelassítja a gazdasági növekedést és néhány munkahely megszűnését okozza, A gazdasági növekedésnek és a munkahelyteremtésnek kell a legfontosabbnak lennie, még akkor is, ha ez egy bizonyos mértékben negatív hatással van a környezetre",success
+Q58,"Itt van két olyan változás, amelyek talán a közeljövőben bekövetkezhetnek életvitelünkben. Kérem, mondja meg mindegyikről, hogy ha bekövetkezne, akkor az jó, vagy rossz, vagy mindegy lenne az Ön számára?",v209,A munka életünkben betöltött fontosságának csökkenése,"jó, rossz, mindegy","Ha bekövetkezne, az a v209-es aspektussal kapcsolatban, a munka életünkben betöltött fontosságának csökkenése jó lenne.",success
+Q58,"Itt van két olyan változás, amelyek talán a közeljövőben bekövetkezhetnek életvitelünkben. Kérem, mondja meg mindegyikről, hogy ha bekövetkezne, akkor az jó, vagy rossz, vagy mindegy lenne az Ön számára?",v210,A tekintélytisztelet erősödése,"jó, rossz, mindegy",Válasz: mindegy,success
+Q59,Mennyire bízik meg a következő csoportokhoz tartozó emberekben?,v211,Az egyház,"nagyon, meglehetősen, nem nagyon, egyáltalán nem",Válasz: nem nagyon,success
+Q59,Mennyire bízik meg a következő csoportokhoz tartozó emberekben?,v212,A fegyveres erők,"nagyon, meglehetősen, nem nagyon, egyáltalán nem",Válasz: egyáltalán nem,success
+Q59,Mennyire bízik meg a következő csoportokhoz tartozó emberekben?,v213,Az oktatási rendszer,"nagyon, meglehetősen, nem nagyon, egyáltalán nem",Válasz: nem nagyon,success
+Q59,Mennyire bízik meg a következő csoportokhoz tartozó emberekben?,v214,A sajtó,"nagyon, meglehetősen, nem nagyon, egyáltalán nem",Válasz: nem nagyon,success
+Q59,Mennyire bízik meg a következő csoportokhoz tartozó emberekben?,v215,A szakszervezetek,"nagyon, meglehetősen, nem nagyon, egyáltalán nem",Válasz: nem nagyon,success
+Q59,Mennyire bízik meg a következő csoportokhoz tartozó emberekben?,v216,A rendőrség,"nagyon, meglehetősen, nem nagyon, egyáltalán nem",Válasz: nem nagyon,success
+Q59,Mennyire bízik meg a következő csoportokhoz tartozó emberekben?,v217,Az országgyűlés,"nagyon, meglehetősen, nem nagyon, egyáltalán nem",Válasz: nem nagyon,success
+Q59,Mennyire bízik meg a következő csoportokhoz tartozó emberekben?,v218,A közigazgatás,"nagyon, meglehetősen, nem nagyon, egyáltalán nem",Válasz: nem nagyon,success
+Q59,Mennyire bízik meg a következő csoportokhoz tartozó emberekben?,v219,A társadalombiztosítási rendszer,"nagyon, meglehetősen, nem nagyon, egyáltalán nem",Válasz: nem nagyon,success
+Q59,Mennyire bízik meg a következő csoportokhoz tartozó emberekben?,v220,Az Európai Unió,"nagyon, meglehetősen, nem nagyon, egyáltalán nem",Válasz: nem nagyon,success
+Q59,Mennyire bízik meg a következő csoportokhoz tartozó emberekben?,v221,Az ENSZ,"nagyon, meglehetősen, nem nagyon, egyáltalán nem",Válasz: nem nagyon,success
+Q59,Mennyire bízik meg a következő csoportokhoz tartozó emberekben?,v222,Az egészségügyi rendszer,"nagyon, meglehetősen, nem nagyon, egyáltalán nem",Válasz: meglehetősen,success
+Q59,Mennyire bízik meg a következő csoportokhoz tartozó emberekben?,v223,Az igazságszolgáltatási rendszer,"nagyon, meglehetősen, nem nagyon, egyáltalán nem",Válasz: nem nagyon,success
+Q59,Mennyire bízik meg a következő csoportokhoz tartozó emberekben?,v224,Nagyvállalatok,"nagyon, meglehetősen, nem nagyon, egyáltalán nem",Válasz: nem nagyon,success
+Q59,Mennyire bízik meg a következő csoportokhoz tartozó emberekben?,v225,Környezetvédelmi szervezetek,"nagyon, meglehetősen, nem nagyon, egyáltalán nem",Válasz: nem nagyon,success
+Q59,Mennyire bízik meg a következő csoportokhoz tartozó emberekben?,v226,Politikai pártok,"nagyon, meglehetősen, nem nagyon, egyáltalán nem",Válasz: nem nagyon,success
+Q59,Mennyire bízik meg a következő csoportokhoz tartozó emberekben?,v227,A kormány,"nagyon, meglehetősen, nem nagyon, egyáltalán nem","Válasz: A kormány
+
+Final answer: nagyon",success
+Q59,Mennyire bízik meg a következő csoportokhoz tartozó emberekben?,v228,Közösségi média,"nagyon, meglehetősen, nem nagyon, egyáltalán nem",Válasz: nem nagyon,success
+Q60,Mennyire foglalkoztatják Önt a következő emberek és csoportok életkörülményei?,v229,A szomszédságában élő emberek,"igen nagyon, nagyon, bizonyos fokig, nem olyan nagyon, egyáltalán nem",Válasz: nagyon,success
+Q60,Mennyire foglalkoztatják Önt a következő emberek és csoportok életkörülményei?,v230,Az Ön régiójában élők,"igen nagyon, nagyon, bizonyos fokig, nem olyan nagyon, egyáltalán nem",Válasz: nem olyan nagyon,success
+Q60,Mennyire foglalkoztatják Önt a következő emberek és csoportok életkörülményei?,v231,Az Önnel egy országban élők,"igen nagyon, nagyon, bizonyos fokig, nem olyan nagyon, egyáltalán nem",Válasz: nem olyan nagyon,success
+Q60,Mennyire foglalkoztatják Önt a következő emberek és csoportok életkörülményei?,v232,Az európaiak,"igen nagyon, nagyon, bizonyos fokig, nem olyan nagyon, egyáltalán nem",Válasz: egyáltalán nem,success
+Q60,Mennyire foglalkoztatják Önt a következő emberek és csoportok életkörülményei?,v233,A világon élő minden ember,"igen nagyon, nagyon, bizonyos fokig, nem olyan nagyon, egyáltalán nem",Válasz: nagyon,success
+Q61,Mennyire foglalkoztatják Önt a következő emberek és csoportok életkörülményei?,v234,idős emberek,"igen nagyon, nagyon, bizonyos fokig, nem olyan nagyon, egyáltalán nem",Válasz: nagyon,success
+Q61,Mennyire foglalkoztatják Önt a következő emberek és csoportok életkörülményei?,v235,munkanélküliek,"igen nagyon, nagyon, bizonyos fokig, nem olyan nagyon, egyáltalán nem",Válasz: nem olyan nagyon,success
+Q61,Mennyire foglalkoztatják Önt a következő emberek és csoportok életkörülményei?,v236,bevándorlók,"igen nagyon, nagyon, bizonyos fokig, nem olyan nagyon, egyáltalán nem",Válasz: nem olyan nagyon,success
+Q61,Mennyire foglalkoztatják Önt a következő emberek és csoportok életkörülményei?,v237,betegek és fogyatékosok,"igen nagyon, nagyon, bizonyos fokig, nem olyan nagyon, egyáltalán nem",Válasz: nem annyira,success
+Q62,"Számos dolog kívánatos, azonban közül nem mindegyik nélkülözhetetlen a demokrácia működése szempontjából. Kérem a következő dolgokról mondja meg, hogy mennyire tartja azokat a demokrácia nélkülözhetetlen jellemzőjének. Kérem, használja ezt a skálát, ahol az 1-es azt jelenti, hogy az adott tényező egyáltalán nem fontos jellemzője a demokráciának, és 10-es pedig azt jelenti, hogy nélkülözhetetlen jellemzője a demokráciának.",v238,"A kormányzat megadóztatja a gazdagokat, és támogatja a szegényeket","Egyáltalán nem fontos, Nagyon fontos","Válasz: Egyáltalán nem fontos, Nagyon fontos",success
+Q62,"Számos dolog kívánatos, azonban közül nem mindegyik nélkülözhetetlen a demokrácia működése szempontjából. Kérem a következő dolgokról mondja meg, hogy mennyire tartja azokat a demokrácia nélkülözhetetlen jellemzőjének. Kérem, használja ezt a skálát, ahol az 1-es azt jelenti, hogy az adott tényező egyáltalán nem fontos jellemzője a demokráciának, és 10-es pedig azt jelenti, hogy nélkülözhetetlen jellemzője a demokráciának.",v239,A vallási képviselőknek döntő szavuk van a törvények értelmezésénél,"Egyáltalán nem fontos, Nagyon fontos","Válasz: Egyáltalán nem fontos, Nagyon fontos",success
+Q62,"Számos dolog kívánatos, azonban közül nem mindegyik nélkülözhetetlen a demokrácia működése szempontjából. Kérem a következő dolgokról mondja meg, hogy mennyire tartja azokat a demokrácia nélkülözhetetlen jellemzőjének. Kérem, használja ezt a skálát, ahol az 1-es azt jelenti, hogy az adott tényező egyáltalán nem fontos jellemzője a demokráciának, és 10-es pedig azt jelenti, hogy nélkülözhetetlen jellemzője a demokráciának.",v240,Az emberek szabad választásokon választják meg vezetőiket,"Egyáltalán nem fontos, Nagyon fontos","Válasz: 
+Válaszkör: Egyáltalán nem fontos, Nagyon fontos",success
+Q62,"Számos dolog kívánatos, azonban közül nem mindegyik nélkülözhetetlen a demokrácia működése szempontjából. Kérem a következő dolgokról mondja meg, hogy mennyire tartja azokat a demokrácia nélkülözhetetlen jellemzőjének. Kérem, használja ezt a skálát, ahol az 1-es azt jelenti, hogy az adott tényező egyáltalán nem fontos jellemzője a demokráciának, és 10-es pedig azt jelenti, hogy nélkülözhetetlen jellemzője a demokráciának.",v241,A munkanélküliek állami segélyben részesülnek,"Egyáltalán nem fontos, Nagyon fontos","Egyáltalán nem fontos, Nagyon fontos",success
+Q62,"Számos dolog kívánatos, azonban közül nem mindegyik nélkülözhetetlen a demokrácia működése szempontjából. Kérem a következő dolgokról mondja meg, hogy mennyire tartja azokat a demokrácia nélkülözhetetlen jellemzőjének. Kérem, használja ezt a skálát, ahol az 1-es azt jelenti, hogy az adott tényező egyáltalán nem fontos jellemzője a demokráciának, és 10-es pedig azt jelenti, hogy nélkülözhetetlen jellemzője a demokráciának.",v242,"Ha a kormány alkalmatlan ellátni a feladatát, a hadsereg veszi át a hatalmat","Egyáltalán nem fontos, Nagyon fontos",Válasz: 7,success
+Q62,"Számos dolog kívánatos, azonban közül nem mindegyik nélkülözhetetlen a demokrácia működése szempontjából. Kérem a következő dolgokról mondja meg, hogy mennyire tartja azokat a demokrácia nélkülözhetetlen jellemzőjének. Kérem, használja ezt a skálát, ahol az 1-es azt jelenti, hogy az adott tényező egyáltalán nem fontos jellemzője a demokráciának, és 10-es pedig azt jelenti, hogy nélkülözhetetlen jellemzője a demokráciának.",v243,A polgári jogok védelmezik az embereket az állam elnyomó hatalmával szemben,"Egyáltalán nem fontos, Nagyon fontos",Válasz: 1,success
+Q62,"Számos dolog kívánatos, azonban közül nem mindegyik nélkülözhetetlen a demokrácia működése szempontjából. Kérem a következő dolgokról mondja meg, hogy mennyire tartja azokat a demokrácia nélkülözhetetlen jellemzőjének. Kérem, használja ezt a skálát, ahol az 1-es azt jelenti, hogy az adott tényező egyáltalán nem fontos jellemzője a demokráciának, és 10-es pedig azt jelenti, hogy nélkülözhetetlen jellemzője a demokráciának.",v244,Az állam az emberek jövedelmét egyenlővé teszi,"Egyáltalán nem fontos, Nagyon fontos",Válasz: 3,success
+Q62,"Számos dolog kívánatos, azonban közül nem mindegyik nélkülözhetetlen a demokrácia működése szempontjából. Kérem a következő dolgokról mondja meg, hogy mennyire tartja azokat a demokrácia nélkülözhetetlen jellemzőjének. Kérem, használja ezt a skálát, ahol az 1-es azt jelenti, hogy az adott tényező egyáltalán nem fontos jellemzője a demokráciának, és 10-es pedig azt jelenti, hogy nélkülözhetetlen jellemzője a demokráciának.",v245,Az emberek engedelmeskednek vezetőiknek,"Egyáltalán nem fontos, Nagyon fontos","Válasz: Egyáltalán nem fontos,",success
+Q62,"Számos dolog kívánatos, azonban közül nem mindegyik nélkülözhetetlen a demokrácia működése szempontjából. Kérem a következő dolgokról mondja meg, hogy mennyire tartja azokat a demokrácia nélkülözhetetlen jellemzőjének. Kérem, használja ezt a skálát, ahol az 1-es azt jelenti, hogy az adott tényező egyáltalán nem fontos jellemzője a demokráciának, és 10-es pedig azt jelenti, hogy nélkülözhetetlen jellemzője a demokráciának.",v246,"A nőknek ugyanolyan jogaik vannak, mint a férfiaknak","Egyáltalán nem fontos, Nagyon fontos",Válasz: Nagyon fontos,success
+Q63,Neme,,,"1 - férfi, 2 - nő, 8 - Nem tudja, 9 - Nincs válasz",8 - Nem tudja,success
+Q64,Melyik évben született Ön?,,,"........, 8888 - Nem tudja, 9999 - Nincs válasz",Final answer: 8888,success
+Q65,Magyarországon született?,,,"1 - igen, 2 - nem, 8 - Nem tudja, 9 - Nincs válasz",8 - Nem tudja,success
+Q66,Melyik országban született Ön?,,,Írja be: ..................................................................,Válasz: Írország,success
+Q67,"Meg tudná mondani, melyik évben jött először Magyarországra, hogy itt éljen?",,,Írja be az évet: ..................................................................,2023-08-20,success
+Q68,Az édesapja Magyarországon született?,,,"1 - igen, 2 - nem, 8 - Nem tudja, 9 - Nincs válasz",9 - Nincs válasz,success
+Q69,Melyik országban született az édesapja?,,,Írja be:...........................................................................,Válasz: nan,success
+Q70,Az édesanyja Magyarországon született?,,,"1 - igen, 2 - nem, 8 - Nem tudja, 9 - Nincs válasz",Final answer: 9 - Nincs válasz,success
+Q71,Melyik országban született az édesanyja?,,,Írja be: ...........................................................................,Válasz: Írország,success
+Q72,Mi az Ön jelenlegi hivatalos családi állapota?,,,"1 - házas, 2 - regisztrált partnerkapcsolat, 3 - özvegy, 4 - elvált, 5 - különélő, 6 - hajadon, nőtlen, 8 - Nem tudja, 9 - Nincs válasz",1,success
+Q73,"Együtt élt Ön a partnerével, mielőtt összeházasodtak vagy regisztráltatták a kapcsolatukat?",,,"1 - igen, 2 - nem, 8 - Nem tudja, 9 - Nincs válasz",8 - Nem tudja,success
+Q74,"Van-e társa, akivel együtt él?",,,"1 - igen, 2 - nem, 8 - Nem tudja, 9 - Nincs válasz",8 - Nem tudja,success
+Q75,Van-e állandó párkapcsolata?,,,"1 - igen, 2 - nem, 8 - Nem tudja, 9 - Nincs válasz",Final answer: 8,success
+Q76,Ön együtt él a szüleivel vagy a párja szüleivel?,,,"Nem, Igen, a saját szüleimmel, Igen, a párom szüleivel, Igen, a saját és a párom szüleivel is, 8 - Nem tudja, 9 - Nincs válasz",A saját szüleimmel,success
+Q77,"Hány gyermeke van Önnek? Kérem, mondja meg, hányan élnek közülük Önnel egy háztartásban, és hányan élnek máshol:",,,A háztartásban élő gyermekek száma: ..................................................................,Válasz: 0,success
+Q77,"Hány gyermeke van Önnek? Kérem, mondja meg, hányan élnek közülük Önnel egy háztartásban, és hányan élnek máshol:",,,A háztartáson kívül élő gyermekek száma: ..................................................................,Válasz: 0,success
+Q78,"Önmagát és a gyerekeket is beleszámolva hány ember él itt, mint a háztartás tagja",,,Írja be: ..............................,Válasz: 0,success
+Q79,És hány éves a háztartása legfiatalabb tagja?,,,Írja be: ..................................................................,Válasz: ..................................................................,success
+Q80,Mi az Ön jelenlegi nappali iskolai tanulmányainak befejezésének éve?,,,Írja be az életkort: ..................................................................,A végső válasz: 2024-09-30,success
